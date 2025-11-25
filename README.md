@@ -1,8 +1,12 @@
 ## Hi there
-I'm Rami. Welcome to my website! 
 
-- 🔭 I’m currently working on querio.ai
+I'm Rami. Welcome to my website!
 
+- I’m currently working on querio.ai
+- I spend a lot of time on twitter
+- I like playing Dota 2
+- I don't care that my repo is public
+- 
 
 <!--
 **ramiabih/ramiabih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
