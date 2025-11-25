@@ -83,13 +83,55 @@
     justify-content: center;
     overflow: hidden;
     border-bottom: 1px solid #f0f0f0;
+    position: relative;
 }
 
 .product-image img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s ease;
+    object-fit: contain;
+    padding: 20px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    background: #fafafa;
+}
+
+.product-image img[src*="amazon"] {
+    object-fit: contain;
+    padding: 30px;
+}
+
+.product-image img[src*="apple.com"] {
+    object-fit: contain;
+    padding: 20px;
+}
+
+/* Loading state */
+.product-image::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+    border: 2px solid #e0e0e0;
+    border-top-color: #999;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    opacity: 0;
+    pointer-events: none;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.product-image.loading::before {
+    opacity: 1;
+}
+
+.product-image.loading img {
+    opacity: 0;
 }
 
 .product-card:hover .product-image img {

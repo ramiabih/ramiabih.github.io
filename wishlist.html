@@ -6,6 +6,31 @@
     <title>Wishlist - Rami Abi Habib</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="wishlist-styles.css">
+    <script>
+        // Image loading handler
+        document.addEventListener('DOMContentLoaded', function() {
+            const images = document.querySelectorAll('.product-image img');
+
+            images.forEach(img => {
+                const container = img.parentElement;
+                container.classList.add('loading');
+
+                img.addEventListener('load', function() {
+                    container.classList.remove('loading');
+                });
+
+                img.addEventListener('error', function() {
+                    container.classList.remove('loading');
+                    // Use a minimal fallback
+                    this.style.display = 'none';
+                    const placeholder = document.createElement('div');
+                    placeholder.style.cssText = 'width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; color: #999; font-size: 12px; text-align: center; padding: 20px;';
+                    placeholder.textContent = 'Image unavailable';
+                    container.appendChild(placeholder);
+                });
+            });
+        });
+    </script>
 </head>
 <body>
     <header class="wishlist-header">
@@ -22,7 +47,7 @@
             <div class="product-card">
                 <a href="https://www.apple.com/shop/buy-mac/apple-studio-display" target="_blank">
                     <div class="product-image">
-                        <img src="https://www.apple.com/v/studio-display/e/images/overview/hero/hero__ebpwkz156k2u_large.jpg" alt="Studio Display" loading="lazy">
+                        <img src="https://www.apple.com/v/studio-display/d/images/overview/hero/static__bntadi3c3hde_large.jpg" alt="Studio Display" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Apple · Tech</p>
@@ -35,7 +60,7 @@
             <div class="product-card">
                 <a href="https://www.apple.com/iphone/" target="_blank">
                     <div class="product-image">
-                        <img src="https://www.apple.com/v/iphone/home/bw/images/overview/select/iphone_16__c5bvhn80fqmu_large.png" alt="iPhone Air" loading="lazy">
+                        <img src="https://www.apple.com/v/iphone/home/cg/images/overview/select/iphone_air__f0t56fef3oey_large.jpg" alt="iPhone Air" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Apple · Tech</p>
@@ -48,7 +73,7 @@
             <div class="product-card">
                 <a href="https://www.apple.com/shop/product/MWWH3AM/A/airpods-max-usb-c-midnight" target="_blank">
                     <div class="product-image">
-                        <img src="https://www.apple.com/v/airpods-max/g/images/overview/hero__gnfk5g59t0qe_large.png" alt="AirPods Max" loading="lazy">
+                        <img src="https://www.apple.com/v/airpods-max/j/images/overview/welcome/max-loop_startframe__c0vn1ukmh7ma_xlarge.jpg" alt="AirPods Max" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Apple · Tech</p>
@@ -61,7 +86,7 @@
             <div class="product-card">
                 <a href="https://www.apple.com/shop/product/MTJV3AM/A/airpods-pro" target="_blank">
                     <div class="product-image">
-                        <img src="https://www.apple.com/v/airpods-pro/e/images/overview/hero__ge466s5cierm_large.png" alt="AirPods Pro 3" loading="lazy">
+                        <img src="https://www.apple.com/v/airpods-pro/r/images/overview/welcome/hero__b0eal3mn03ua_large.jpg" alt="AirPods Pro 3" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Apple · Tech</p>
@@ -87,7 +112,7 @@
             <div class="product-card">
                 <a href="https://modretro.com/products/chromatic-tetris-bundle" target="_blank">
                     <div class="product-image">
-                        <img src="https://modretro.com/cdn/shop/files/ChromaticTetris-Bundle.png?v=1732662066&width=800" alt="Chromatic Tetris Bundle" loading="lazy">
+                        <img src="https://modretro.com/cdn/shop/files/INFERNO-G-FRONT-min_450x450.webp?v=1750701332" alt="Chromatic Tetris Bundle" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">ModRetro · Tech</p>
@@ -141,7 +166,7 @@
             <div class="product-card">
                 <a href="https://satechi.net/products/mac-mini-m4-stand-hub-with-ssd-enclosure" target="_blank">
                     <div class="product-image">
-                        <img src="https://satechi.net/cdn/shop/files/1_f090fcdb-0bc0-422c-ad88-e1e8d94b2de4.jpg?v=1730413853&width=800" alt="Mac Mini M4 Stand Hub" loading="lazy">
+                        <img src="https://cdn.shopify.com/s/files/1/1520/4366/files/mac-mini-m4-stand-hub-with-ssd-enclosure-hubs-satechi-450143.webp" alt="Mac Mini M4 Stand Hub" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Satechi · Workspace</p>
@@ -208,7 +233,7 @@
             <div class="product-card">
                 <a href="https://www.porsche.com/usa/models/911/911-turbo-models/" target="_blank">
                     <div class="product-image">
-                        <img src="https://www.porsche.com/usa/_usa_/media/Images/models/911/turbo-models/Turbo/porsche_model/porsche-turbo-models-turbo-s-992-product-image.jpg" alt="Porsche 911 Turbo S" loading="lazy">
+                        <img src="https://files.porsche.com/filestore/image/multimedia/none/992-tu2-turbo50-modelimage-sideshot/model/cfbb8ed3-1a15-11ed-80f5-005056bbdc38/porsche-model.png" alt="Porsche 911 Turbo S" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Porsche · Vehicles</p>
@@ -222,7 +247,7 @@
             <div class="product-card">
                 <a href="https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle" target="_blank">
                     <div class="product-image">
-                        <img src="https://m.media-amazon.com/images/I/51yGUIKC8WL._AC_SL1500_.jpg" alt="Stagg EKG Electric Kettle" loading="lazy">
+                        <img src="https://fellowproducts.com/cdn/shop/files/Stagg_Pro_SE_-_1.png" alt="Stagg EKG Electric Kettle" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Fellow · Coffee</p>
@@ -249,7 +274,7 @@
             <div class="product-card">
                 <a href="https://origin-made.com/collections/store/products/candeia?variant=39858954272848" target="_blank">
                     <div class="product-image">
-                        <img src="https://origin-made.com/cdn/shop/products/candeia-pendant-light-04.jpg?v=1639075456&width=800" alt="Candeia" loading="lazy">
+                        <img src="https://origin-made.com/cdn/shop/products/Candeia20.jpg" alt="Candeia" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Origin Made · Home</p>
@@ -262,7 +287,7 @@
             <div class="product-card">
                 <a href="https://maticrobots.com/" target="_blank">
                     <div class="product-image">
-                        <img src="https://cdn.prod.website-files.com/66821aaad09dfca83b19cfcd/674bbf94b8d3c0bef5ae4fba_robot-vacuum-and-mopping-main-product.webp" alt="Matic Robot" loading="lazy">
+                        <img src="https://images.ctfassets.net/6p328xbjc78k/2dGz4N6BaSZhbhRImtSBvv/9d79bc41756db6f5fbb238bf82b1b53d/MATIC.png" alt="Matic Robot" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Matic · Home</p>
@@ -290,7 +315,7 @@
             <div class="product-card">
                 <a href="https://knackbags.com/collections/expandable-backpacks/products/medium-expandable-backpacks-series-2" target="_blank">
                     <div class="product-image">
-                        <img src="https://knackbags.com/cdn/shop/files/SERIES2_Hero.jpg?v=1695669830&width=800" alt="Medium Expandable Backpack" loading="lazy">
+                        <img src="https://knackbags.com/cdn/shop/files/Maroon-S2_1_1c6567d0-7dc4-42a4-85d2-7da15936d247_grande.jpg" alt="Medium Expandable Backpack" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Knack · Carry</p>
@@ -332,7 +357,7 @@
             <div class="product-card">
                 <a href="https://www.flos.com/products/ic-lights-t1-low" target="_blank">
                     <div class="product-image">
-                        <img src="https://m.media-amazon.com/images/I/31vL+5rxgnL._AC_.jpg" alt="IC Lights T1 Low" loading="lazy">
+                        <img src="https://cdn11.bigcommerce.com/s-8c6vlvht/images/stencil/1280x1280/products/7374/23652/flos-ic-lights-table-1-low-f3154057-brushed-brass__76845.1689782842.jpg" alt="IC Lights T1 Low" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Flos · Home</p>
@@ -359,7 +384,7 @@
             <div class="product-card">
                 <a href="https://flamingoestate.com/products/brads-parmesan-wheel" target="_blank">
                     <div class="product-image">
-                        <img src="https://flamingoestate.com/cdn/shop/files/BPW-Photo3_v1.jpg?v=1730239672&width=800" alt="Brad's Parmesan Wheel" loading="lazy">
+                        <img src="https://flamingoestate.com/cdn/shop/files/Cheese_Parmesan_Wheel.png" alt="Brad's Parmesan Wheel" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Flamingo Estate · Kitchen</p>
@@ -387,7 +412,7 @@
             <div class="product-card">
                 <a href="https://www.roland.com/global/products/juno-d8/" target="_blank">
                     <div class="product-image">
-                        <img src="https://static.roland.com/assets/images/products/gallery/juno-d8_top_gal.jpg" alt="Juno-D8" loading="lazy" onerror="this.src='https://via.placeholder.com/280x280/fafafa/666666?text=Juno-D8'">
+                        <img src="https://static.roland.com/products/juno-d_series/images/juno-d8_main.jpg" alt="Juno-D8" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Roland · Music</p>
@@ -470,7 +495,7 @@
             <div class="product-card">
                 <a href="https://kazumicoffee.com/products/kazumi-syphon-coffee-maker-set" target="_blank">
                     <div class="product-image">
-                        <img src="https://kazumicoffee.com/cdn/shop/files/8_250x250.png?v=1734390077&width=800" alt="Kazumi Syphon Coffee Maker" loading="lazy">
+                        <img src="https://kazumicoffee.com/cdn/shop/files/KazumiSiphonCoffeeMaker1.png" alt="Kazumi Syphon Coffee Maker" loading="lazy">
                     </div>
                     <div class="product-info">
                         <p class="product-brand">Kazumi · Coffee</p>

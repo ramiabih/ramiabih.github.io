@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Test</title>
+    <style>
+        body { font-family: monospace; padding: 20px; }
+        .test { margin: 10px 0; padding: 10px; border: 1px solid #ddd; }
+        .broken { background: #ffebee; }
+        .working { background: #e8f5e9; }
+        img { max-width: 200px; max-height: 200px; }
+    </style>
+</head>
+<body>
+    <h1>Testing Wishlist Images</h1>
+    <div id="results"></div>
+    <script>
+        const images = [
+            { name: "Studio Display", url: "https://www.apple.com/v/studio-display/e/images/overview/hero/hero__ebpwkz156k2u_large.jpg" },
+            { name: "iPhone Air", url: "https://www.apple.com/v/iphone/home/bw/images/overview/select/iphone_16__c5bvhn80fqmu_large.png" },
+            { name: "AirPods Max", url: "https://www.apple.com/v/airpods-max/g/images/overview/hero__gnfk5g59t0qe_large.png" },
+            { name: "AirPods Pro 3", url: "https://www.apple.com/v/airpods-pro/e/images/overview/hero__ge466s5cierm_large.png" },
+            { name: "Steam Deck", url: "https://cdn.cloudflare.steamstatic.com/steamdeck/images/product-hero.jpg" },
+            { name: "Chromatic Tetris", url: "https://modretro.com/cdn/shop/files/ChromaticTetris-Bundle.png?v=1732662066&width=800" },
+            { name: "Sigma fp", url: "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/sigma_fp_mirrorless_digital_camera_1564156874_1498886.jpg" },
+            { name: "Opal Tadpole", url: "https://opalcamera.com/cdn/shop/files/Opal_Tadpole_-_Official_Render_-_Front_1.png?v=1689699798&width=800" },
+            { name: "MX Master 3S", url: "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg" },
+            { name: "Satechi Hub", url: "https://satechi.net/cdn/shop/files/1_f090fcdb-0bc0-422c-ad88-e1e8d94b2de4.jpg?v=1730413853&width=800" },
+            { name: "ThinkPad X1", url: "https://m.media-amazon.com/images/I/61FsN2kB1PL._AC_SL1280_.jpg" },
+            { name: "Nexode Power Bank", url: "https://m.media-amazon.com/images/I/61mpMH5TomL._AC_SL1500_.jpg" },
+            { name: "Santos de Cartier", url: "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw2bfb4fe8/images/large/637509722390513681-10938071.png" },
+            { name: "Aquanaut", url: "https://m.media-amazon.com/images/I/71V4l2sSG7L._AC_SL1500_.jpg" },
+            { name: "Porsche 911", url: "https://www.porsche.com/usa/_usa_/media/Images/models/911/turbo-models/Turbo/porsche_model/porsche-turbo-models-turbo-s-992-product-image.jpg" },
+            { name: "Stagg EKG", url: "https://m.media-amazon.com/images/I/51yGUIKC8WL._AC_SL1500_.jpg" },
+            { name: "Dyson V15", url: "https://m.media-amazon.com/images/I/51DDXVJ0J-L._AC_SL1000_.jpg" },
+            { name: "Candeia", url: "https://origin-made.com/cdn/shop/products/candeia-pendant-light-04.jpg?v=1639075456&width=800" },
+            { name: "Matic Robot", url: "https://cdn.prod.website-files.com/66821aaad09dfca83b19cfcd/674bbf94b8d3c0bef5ae4fba_robot-vacuum-and-mopping-main-product.webp" },
+            { name: "Ferrari Art", url: "https://m.media-amazon.com/images/I/51WyQJPWEtL._SY466_.jpg" },
+            { name: "Knack Backpack", url: "https://knackbags.com/cdn/shop/files/SERIES2_Hero.jpg?v=1695669830&width=800" },
+            { name: "Cartier Pen", url: "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw00b01a19/images/large/637509722390515721-10815821.png" },
+            { name: "Common Projects", url: "https://m.media-amazon.com/images/I/61MN7kjRysL._AC_SY695_.jpg" },
+            { name: "IC Lights", url: "https://m.media-amazon.com/images/I/31vL+5rxgnL._AC_.jpg" },
+            { name: "Yanagiba Knife", url: "https://www.kitchenprovisions.co.uk/cdn/shop/products/Yanagiba-Knife-Shirogami-2-Carbon-Steel-Iron-Clad-Polished-Finish-Ittetsu-240mm.jpg?v=1642520816&width=800" },
+            { name: "Parmesan Wheel", url: "https://flamingoestate.com/cdn/shop/files/BPW-Photo3_v1.jpg?v=1730239672&width=800" },
+            { name: "Sennheiser HDB 630", url: "https://m.media-amazon.com/images/I/61Z4rgeXAKL._AC_SL1500_.jpg" },
+            { name: "Juno-D8", url: "https://static.roland.com/assets/images/products/gallery/juno-d8_top_gal.jpg" },
+            { name: "Yeelight Air96", url: "https://m.media-amazon.com/images/I/51kxNvT7FEL._AC_SL1001_.jpg" },
+            { name: "Tool Kit", url: "https://m.media-amazon.com/images/I/71zJ5JvKDaL._AC_SL1500_.jpg" },
+            { name: "DDJ-FLX10", url: "https://m.media-amazon.com/images/I/71O7w0RwLmL._AC_SL1500_.jpg" },
+            { name: "Technics SL-1200", url: "https://m.media-amazon.com/images/I/71k-yoAU6cL._AC_SL1500_.jpg" },
+            { name: "Klipsch The Fives", url: "https://m.media-amazon.com/images/I/71YqVgK3KZL._AC_SL1500_.jpg" },
+            { name: "Kazumi Syphon", url: "https://kazumicoffee.com/cdn/shop/files/8_250x250.png?v=1734390077&width=800" },
+            { name: "Carter Mug", url: "https://m.media-amazon.com/images/I/51JZXuO8XBL._AC_SL1500_.jpg" },
+            { name: "Pro-Ject Debut", url: "https://m.media-amazon.com/images/I/71IZhWdPZ5L._AC_SL1500_.jpg" }
+        ];
+
+        const results = document.getElementById('results');
+
+        images.forEach(item => {
+            const div = document.createElement('div');
+            div.className = 'test';
+            div.innerHTML = `<strong>${item.name}</strong><br><span id="status-${item.name}">Testing...</span><br><img src="${item.url}" />`;
+            results.appendChild(div);
+
+            const img = div.querySelector('img');
+            const status = document.getElementById('status-' + item.name);
+
+            img.onload = () => {
+                div.classList.add('working');
+                status.textContent = '✓ Working';
+                status.style.color = 'green';
+            };
+
+            img.onerror = () => {
+                div.classList.add('broken');
+                status.textContent = '✗ BROKEN';
+                status.style.color = 'red';
+                console.log('BROKEN:', item.name, item.url);
+            };
+        });
+    </script>
+</body>
+</html>
