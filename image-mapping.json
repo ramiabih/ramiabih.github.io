@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Studio Display",
+    "old_img": "https://www.apple.com/v/studio-display/d/images/overview/hero/static__bntadi3c3hde_large.jpg",
+    "new_img": "wishlist-images/01-studio-display.jpg",
+    "source_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/studio-display-og-202203?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1645125507093"
+  },
+  {
+    "name": "iPhone Air",
+    "old_img": "https://www.apple.com/v/iphone/home/cg/images/overview/select/iphone_air__f0t56fef3oey_large.jpg",
+    "new_img": "wishlist-images/02-iphone-air.png",
+    "source_url": "https://www.apple.com/v/iphone/home/cg/images/meta/iphone__cud4q04omsuq_og.png?202511201617"
+  },
+  {
+    "name": "AirPods Max",
+    "old_img": "https://www.apple.com/v/airpods-max/j/images/overview/welcome/max-loop_startframe__c0vn1ukmh7ma_xlarge.jpg",
+    "new_img": "wishlist-images/03-airpods-max.jpg",
+    "source_url": "https://www.apple.com/v/airpods-max/j/images/overview/welcome/max-loop_startframe__c0vn1ukmh7ma_xlarge.jpg"
+  },
+  {
+    "name": "AirPods Pro 3",
+    "old_img": "https://www.apple.com/v/airpods-pro/r/images/overview/welcome/hero__b0eal3mn03ua_large.jpg",
+    "new_img": "wishlist-images/04-airpods-pro-3.jpg",
+    "source_url": "https://www.apple.com/v/airpods-pro/r/images/overview/welcome/hero__b0eal3mn03ua_large.jpg"
+  },
+  {
+    "name": "Steam Deck",
+    "old_img": "https://cdn.cloudflare.steamstatic.com/steamdeck/images/product-hero.jpg",
+    "new_img": "wishlist-images/05-steam-deck.jpg",
+    "source_url": "https://clan.fastly.steamstatic.com/images/39049601/cd78aecb9b08a705ea2008a833c2b03f1305c848.jpg"
+  },
+  {
+    "name": "Chromatic Tetris Bundle",
+    "old_img": "https://modretro.com/cdn/shop/files/INFERNO-G-FRONT-min_450x450.webp?v=1750701332",
+    "new_img": "wishlist-images/06-chromatic-tetris-bundle.png",
+    "source_url": "https://modretro.com/cdn/shop/files/INFERNO-G-FRONT-min.webp?v=1750701332&width=1200"
+  },
+  {
+    "name": "MX Master 3S",
+    "old_img": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/2025-update/mx-master-3s-bluetooth-edition-top-view-graphite-new-1.png",
+    "new_img": "wishlist-images/09-mx-master-3s.jpg",
+    "source_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/delorean-hp/logitech-global-og-image.png"
+  },
+  {
+    "name": "Mac Mini M4 Stand Hub with SSD Enclosure",
+    "old_img": "https://cdn.shopify.com/s/files/1/1520/4366/files/mac-mini-m4-stand-hub-with-ssd-enclosure-hubs-satechi-450143.webp",
+    "new_img": "wishlist-images/10-mac-mini-m4-stand-hub-with-ssd-enclosure.jpg",
+    "source_url": "https://cdn.shopify.com/s/files/1/1520/4366/files/mac-mini-m4-stand-hub-with-ssd-enclosure-hubs-satechi-450143.webp"
+  },
+  {
+    "name": "Nexode Power Bank",
+    "old_img": "https://us.ugreen.com/cdn/shop/files/35524_large.png",
+    "new_img": "wishlist-images/12-nexode-power-bank.png",
+    "source_url": "http://us.ugreen.com/cdn/shop/files/35524.png?v=1749795347"
+  },
+  {
+    "name": "Santos de Cartier",
+    "old_img": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw2bfb4fe8/images/large/637509722390513681-10938071.png",
+    "new_img": "wishlist-images/13-santos-de-cartier.jpg",
+    "source_url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwa4d1f587/images/large/1339ea5b49695546ab3e366f8f6ae0c5.png?sw=350&sh=350&sm=fit&sfrm=png"
+  },
+  {
+    "name": "Aquanaut",
+    "old_img": "https://m.media-amazon.com/images/I/71V4l2sSG7L._AC_SL1500_.jpg",
+    "new_img": "wishlist-images/14-aquanaut.jpg",
+    "source_url": "https://patek-res.cloudinary.com/dfsmedia/0906caea301d42b3b8bd23bd656d1711/175252-51882/pp-5168g-010-det-dial-35"
+  },
+  {
+    "name": "Stagg EKG Electric Kettle",
+    "old_img": "https://fellowproducts.com/cdn/shop/files/Stagg_Pro_SE_-_1.png",
+    "new_img": "wishlist-images/16-stagg-ekg-electric-kettle.png",
+    "source_url": "http://fellowproducts.com/cdn/shop/files/Stagg_Pro_SE_-_1_1024x.png?v=1761166841"
+  },
+  {
+    "name": "Candeia",
+    "old_img": "https://origin-made.com/cdn/shop/products/Candeia20.jpg",
+    "new_img": "wishlist-images/18-candeia.jpg",
+    "source_url": "https://origin-made.com/cdn/shop/products/Candeia20_1200x1344.jpg?v=1660742949"
+  },
+  {
+    "name": "Matic Robot",
+    "old_img": "https://images.ctfassets.net/6p328xbjc78k/2dGz4N6BaSZhbhRImtSBvv/9d79bc41756db6f5fbb238bf82b1b53d/MATIC.png",
+    "new_img": "wishlist-images/19-matic-robot.jpg",
+    "source_url": "https://images.ctfassets.net/6p328xbjc78k/7E3isvhfT5EiANxi4k7Mtf/ec0a6564a8571d5be19c24ed8f57b376/webcard-1200x630.jpg"
+  },
+  {
+    "name": "Medium Expandable Backpack Series 2",
+    "old_img": "https://knackbags.com/cdn/shop/files/Maroon-S2_1_1c6567d0-7dc4-42a4-85d2-7da15936d247_grande.jpg",
+    "new_img": "wishlist-images/21-medium-expandable-backpack-series-2.jpg",
+    "source_url": "http://knackbags.com/cdn/shop/files/Maroon-S2_1_1c6567d0-7dc4-42a4-85d2-7da15936d247.jpg?v=1763833447"
+  },
+  {
+    "name": "Santos de Cartier Ballpoint Pen",
+    "old_img": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw00b01a19/images/large/637509722390515721-10815821.png",
+    "new_img": "wishlist-images/22-santos-de-cartier-ballpoint-pen.jpg",
+    "source_url": "https://www.cartier.com/dam/rcq/car/22/70/47/0/2270470.jpeg.transform.carprodcard.jpeg"
+  },
+  {
+    "name": "Yanagiba Knife Shirogami 2",
+    "old_img": "https://www.kitchenprovisions.co.uk/cdn/shop/products/Yanagiba-Knife-Shirogami-2-Carbon-Steel-Iron-Clad-Polished-Finish-Ittetsu-240mm.jpg?v=1642520816&width=800",
+    "new_img": "wishlist-images/25-yanagiba-knife-shirogami-2.jpg",
+    "source_url": "http://www.kitchenprovisions.co.uk/cdn/shop/products/WhatsAppImage2022-02-08at10.34.41_1200x1200.jpg?v=1665409925"
+  },
+  {
+    "name": "Brad's Parmesan Wheel",
+    "old_img": "https://flamingoestate.com/cdn/shop/files/Cheese_Parmesan_Wheel.png",
+    "new_img": "wishlist-images/26-brad-s-parmesan-wheel.png",
+    "source_url": "http://flamingoestate.com/cdn/shop/files/Cheese_Parmesan_Wheel.png?v=1762399415&width=2048"
+  },
+  {
+    "name": "Juno-D8",
+    "old_img": "https://static.roland.com/products/juno-d_series/images/juno-d8_main.jpg",
+    "new_img": "wishlist-images/28-juno-d8.jpg",
+    "source_url": "https://static.roland.com/assets/images/products/main/juno-d8_top_main.jpg"
+  },
+  {
+    "name": "DDJ-FLX10",
+    "old_img": "https://www.pioneerdj.com/-/media/pioneerdj/images/features/controller/ddj-flx10/ddj_flx_10_video_thumbnail_1920x1080.jpg",
+    "new_img": "wishlist-images/31-ddj-flx10.png",
+    "source_url": "https://www.pioneerdj.com/-/media/pioneerdj/images/products/controller/ddj-flx10/pc-cgi_angle.png"
+  },
+  {
+    "name": "SL-1200MK7",
+    "old_img": "https://m.media-amazon.com/images/I/71k-yoAU6cL._AC_SL1500_.jpg",
+    "new_img": "wishlist-images/32-sl-1200mk7.jpg",
+    "source_url": "https://cdn11.bigcommerce.com/s-pwefhhr7pn/products/8708/images/31414/3c571a9c13105bc11a9dff00071a223861db0199_tecnics_sl1200mk7_1__70046.1732573868.386.513.jpg?c=1"
+  },
+  {
+    "name": "Syphon Coffee Maker Set",
+    "old_img": "https://kazumicoffee.com/cdn/shop/files/KazumiSiphonCoffeeMaker1.png",
+    "new_img": "wishlist-images/34-syphon-coffee-maker-set.png",
+    "source_url": "http://kazumicoffee.com/cdn/shop/files/KazumiSiphonCoffeeMaker1.png?v=1753824950"
+  },
+  {
+    "name": "Carter Everywhere Mug",
+    "old_img": "https://fellowproducts.com/cdn/shop/products/Carter-Everywhere-Mug-01-Matte-Black-01-16.png",
+    "new_img": "wishlist-images/35-carter-everywhere-mug.png",
+    "source_url": "http://fellowproducts.com/cdn/shop/products/Carter-Everywhere-Mug-02-Matte-White-02_1024x.png?v=1757441695"
+  },
+  {
+    "name": "Debut EVO 2 (Walnut)",
+    "old_img": "https://m.media-amazon.com/images/I/71IZhWdPZ5L._AC_SL1500_.jpg",
+    "new_img": "wishlist-images/36-debut-evo-2-walnut.jpg",
+    "source_url": "https://cdn11.bigcommerce.com/s-pwefhhr7pn/products/62037/images/257976/ccd7a1d31525488223ea185cbf52f3437ec6d32b_422880__26860.1732572788.386.513.jpg?c=1"
+  }
+]
