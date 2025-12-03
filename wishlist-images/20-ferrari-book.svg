@@ -1,10 +1,15 @@
-<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="400" fill="#f5f5f5"/>
-  <rect x="100" y="120" width="200" height="140" rx="8" fill="#e8e8e8"/>
-  <text x="50%" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#666" text-anchor="middle">
-    Ferrari Art Edition
-  </text>
-  <text x="50%" y="330" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#999" text-anchor="middle">
-    Product image
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-20-ferrari-book.svg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fafafa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg-20-ferrari-book.svg)"/>
+  <g transform="translate(400, 350)">
+    <rect x="-70" y="-90" width="140" height="180" rx="4" fill="none" stroke="#ccc" stroke-width="3"/><rect x="-60" y="-80" width="120" height="160" rx="2" fill="#f0f0f0"/><text x="0" y="10" font-family="serif" font-size="48" font-weight="bold" fill="#999" text-anchor="middle">F</text>
+  </g>
+  <text x="50%" y="620" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="300" fill="#999" text-anchor="middle" letter-spacing="0.5">
+    Ferrari
   </text>
 </svg>

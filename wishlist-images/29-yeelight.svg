@@ -1,10 +1,15 @@
-<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="400" fill="#f5f5f5"/>
-  <rect x="100" y="120" width="200" height="140" rx="8" fill="#e8e8e8"/>
-  <text x="50%" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#666" text-anchor="middle">
-    Yeelight Air96 V2
-  </text>
-  <text x="50%" y="330" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#999" text-anchor="middle">
-    Product image
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-29-yeelight.svg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fafafa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg-29-yeelight.svg)"/>
+  <g transform="translate(400, 350)">
+    <path d="M -40 -80 L 0 40 L 40 -80 Z" fill="none" stroke="#ccc" stroke-width="3"/><ellipse cx="0" cy="-80" rx="50" ry="15" fill="#f0f0f0"/><rect x="-5" y="40" width="10" height="50" fill="#e8e8e8"/><ellipse cx="0" cy="90" rx="35" ry="10" fill="#e8e8e8"/>
+  </g>
+  <text x="50%" y="620" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="300" fill="#999" text-anchor="middle" letter-spacing="0.5">
+    Yeelight
   </text>
 </svg>
