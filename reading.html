@@ -15,17 +15,9 @@
 
     <main class="reading-main">
         <h2>What I Like to Read</h2>
-        <p class="reading-intro">Books worth keeping. Click one to see a line I loved.</p>
+        <p class="reading-intro">These are some of my favorite books that I've read.</p>
         <div class="books-grid" id="booksGrid"></div>
     </main>
-
-    <!-- Quote modal -->
-    <div class="quote-overlay" id="quoteOverlay">
-        <div class="quote-box">
-            <button class="quote-close" id="quoteClose" aria-label="Close">&times;</button>
-            <div id="quoteBody"></div>
-        </div>
-    </div>
 
     <footer>
         <p><a href="index.html">← Back to home</a></p>
@@ -35,8 +27,6 @@
     <script>
         (function () {
             var grid = document.getElementById('booksGrid');
-            var overlay = document.getElementById('quoteOverlay');
-            var body = document.getElementById('quoteBody');
 
             function esc(s) {
                 return String(s == null ? '' : s)
@@ -53,42 +43,15 @@
                     '<div class="tc-author">' + esc(b.author) + '</div></div>';
             }
 
-            (window.books || []).forEach(function (b, i) {
+            (window.books || []).forEach(function (b) {
                 var el = document.createElement('div');
                 el.className = 'book';
                 el.innerHTML = coverHTML(b) +
                     '<div class="book-meta">' +
                     '<p class="book-title">' + esc(b.title) + '</p>' +
                     '<p class="book-author">' + esc(b.author) + '</p>' +
-                    (b.quote ? '<p class="book-hint">Click for a quote</p>' : '') +
                     '</div>';
-                el.addEventListener('click', function () { openQuote(i); });
                 grid.appendChild(el);
-            });
-
-            function openQuote(i) {
-                var b = window.books[i];
-                if (b.quote) {
-                    body.innerHTML =
-                        '<p class="quote-text">' + esc(b.quote) + '</p>' +
-                        '<p class="quote-source"><span class="qs-title">' + esc(b.title) +
-                        '</span> · ' + esc(b.author) + '</p>';
-                } else {
-                    body.innerHTML =
-                        '<p class="quote-empty">No quote saved for this one yet.</p>' +
-                        '<p class="quote-source"><span class="qs-title">' + esc(b.title) +
-                        '</span> · ' + esc(b.author) + '</p>';
-                }
-                overlay.classList.add('open');
-            }
-
-            function close() { overlay.classList.remove('open'); }
-            document.getElementById('quoteClose').addEventListener('click', close);
-            overlay.addEventListener('click', function (e) {
-                if (e.target === overlay) close();
-            });
-            document.addEventListener('keydown', function (e) {
-                if (e.key === 'Escape') close();
             });
         })();
     </script>
