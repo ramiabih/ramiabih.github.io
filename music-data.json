@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-04T16:30:04.111571+00:00",
+ "updated": "2026-06-04T19:55:49.780083+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -813,6 +813,13 @@
    "played_at": "2026-06-04T15:38:52.949Z"
   },
   {
+   "name": "ALL THE LOVE (feat. Andre Troutman)",
+   "artists": "Kanye West, Ye, Andre Troutman",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
+   "played_at": "2026-06-03T21:43:05.468Z"
+  },
+  {
    "name": "PUNCH DRUNK",
    "artists": "Kanye West, Ye",
    "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
@@ -1147,13 +1154,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
    "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
    "played_at": "2026-05-30T11:59:45.432Z"
-  },
-  {
-   "name": "W'Kameh",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-   "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2",
-   "played_at": "2026-05-30T11:07:14.517Z"
   }
  ]
 }
