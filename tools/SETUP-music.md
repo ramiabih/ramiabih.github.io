@@ -4,8 +4,13 @@ The Music page reads `music-data.json`, which a GitHub Action refreshes from Spo
 every 6 hours. To turn it on you do three things once: make a Spotify app, get a
 refresh token, and add three secrets to GitHub. ~10 minutes.
 
+> **Heads-up (Feb 2026):** Spotify now requires a **Premium** account to use
+> Developer Mode. Build the app on your Premium account. The endpoints this uses
+> (top tracks/artists, recently played) and the `127.0.0.1` redirect URI below are
+> all still current.
+
 ## 1. Create a Spotify app
-1. Go to https://developer.spotify.com/dashboard and log in.
+1. Go to https://developer.spotify.com/dashboard and log in (Premium account).
 2. Click **Create app**. Name it anything (e.g. "ramiabih.com").
 3. In settings, add this exact **Redirect URI**:
    ```
