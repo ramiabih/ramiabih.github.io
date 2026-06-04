@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Things I Have Written - Rami Abi Habib</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="article-styles.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">Rami Abi Habib</a></h1>
+        <p>Founder & CEO of Querio</p>
+    </header>
+
+    <main class="articles-main">
+        <h2>Things I Have Written</h2>
+        <p class="articles-intro">Essays and notes. Click one to read.</p>
+        <ul class="article-list" id="articleList"></ul>
+    </main>
+
+    <footer>
+        <p><a href="index.html">← Back to home</a></p>
+    </footer>
+
+    <script src="articles.js"></script>
+    <script>
+        (function () {
+            var list = document.getElementById('articleList');
+            var items = (window.articles || []).slice().sort(function (a, b) {
+                return (b.date || '').localeCompare(a.date || '');
+            });
+
+            function esc(s) {
+                return String(s == null ? '' : s)
+                    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            }
+            function fmtDate(d) {
+                if (!d) return '';
+                var parts = d.split('-');
+                if (parts.length !== 3) return d;
+                var months = ['January','February','March','April','May','June',
+                    'July','August','September','October','November','December'];
+                return months[+parts[1] - 1] + ' ' + (+parts[2]) + ', ' + parts[0];
+            }
+
+            if (!items.length) {
+                list.innerHTML = '<li class="article-status">Nothing published yet.</li>';
+                return;
+            }
+            items.forEach(function (a) {
+                var li = document.createElement('li');
+                li.innerHTML = '<a href="article.html?slug=' + encodeURIComponent(a.slug) + '">' +
+                    esc(a.title) + '</a><span class="date">' + esc(fmtDate(a.date)) + '</span>';
+                list.appendChild(li);
+            });
+        })();
+    </script>
+</body>
+</html>

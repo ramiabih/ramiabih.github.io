@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rami Abi Habib</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="article-styles.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">Rami Abi Habib</a></h1>
+        <p>Founder & CEO of Querio</p>
+    </header>
+
+    <main>
+        <p class="article-date" id="articleDate"></p>
+        <article class="article-body" id="articleBody">
+            <p class="article-status">Loading…</p>
+        </article>
+    </main>
+
+    <footer>
+        <p><a href="articles.html">← All writing</a> &nbsp;·&nbsp; <a href="index.html">Home</a></p>
+    </footer>
+
+    <script src="articles.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        (function () {
+            var bodyEl = document.getElementById('articleBody');
+            var dateEl = document.getElementById('articleDate');
+
+            function fmtDate(d) {
+                if (!d) return '';
+                var parts = d.split('-');
+                if (parts.length !== 3) return d;
+                var months = ['January','February','March','April','May','June',
+                    'July','August','September','October','November','December'];
+                return months[+parts[1] - 1] + ' ' + (+parts[2]) + ', ' + parts[0];
+            }
+
+            var slug = new URLSearchParams(location.search).get('slug');
+            var meta = (window.articles || []).filter(function (a) { return a.slug === slug; })[0];
+
+            if (!slug || !meta) {
+                bodyEl.innerHTML = '<p class="article-status">Article not found. ' +
+                    '<a href="articles.html">See all writing</a>.</p>';
+                return;
+            }
+
+            document.title = meta.title + ' - Rami Abi Habib';
+            dateEl.textContent = fmtDate(meta.date);
+
+            // slug comes from our own whitelist (articles.js), so this fetch path is safe
+            fetch('articles/' + meta.slug + '.md')
+                .then(function (r) {
+                    if (!r.ok) throw new Error('not found');
+                    return r.text();
+                })
+                .then(function (md) {
+                    var render = (window.marked && (marked.parse || marked));
+                    bodyEl.innerHTML = typeof render === 'function'
+                        ? render(md)
+                        : '<pre>' + md.replace(/[<&]/g, function (c) {
+                              return c === '<' ? '&lt;' : '&amp;';
+                          }) + '</pre>';
+                })
+                .catch(function () {
+                    bodyEl.innerHTML = '<p class="article-status">Could not load this article. ' +
+                        'If you are opening the file directly, run it through a local server ' +
+                        '(see how-to-run-locally.md).</p>';
+                });
+        })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+/* Article list + reader */
+
+.articles-main {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 20px 40px;
+}
+
+.articles-intro {
+    color: #666666;
+    margin: 0 0 24px 0;
+}
+
+/* List */
+.article-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.article-list li {
+    padding: 14px 0;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.article-list a {
+    font-size: 12pt;
+    text-decoration: none;
+}
+
+.article-list a:hover { text-decoration: underline; }
+
+.article-list .date {
+    display: block;
+    font-size: 9pt;
+    color: #999999;
+    margin-top: 3px;
+}
+
+/* Reader */
+.article-body {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0 20px 60px;
+    font-size: 11pt;
+    line-height: 1.7;
+}
+
+.article-date {
+    color: #999999;
+    font-size: 9.5pt;
+    margin: 0 0 30px 0;
+}
+
+.article-body h1 { font-size: 19pt; font-weight: 600; line-height: 1.25; margin: 0 0 6px; }
+.article-body h2 { font-size: 14pt; font-weight: 600; margin: 34px 0 10px; }
+.article-body h3 { font-size: 12pt; font-weight: 600; margin: 26px 0 8px; }
+.article-body p  { margin: 0 0 16px; }
+
+.article-body ul, .article-body ol { margin: 0 0 16px; padding-left: 22px; }
+.article-body li { margin-bottom: 6px; }
+
+.article-body a { text-decoration: underline; }
+
+.article-body blockquote {
+    margin: 20px 0;
+    padding: 4px 18px;
+    border-left: 3px solid #dddddd;
+    color: #555555;
+    font-style: italic;
+}
+
+.article-body code {
+    font-family: "SF Mono", Menlo, Consolas, monospace;
+    font-size: 9.5pt;
+    background: #f4f4f4;
+    padding: 1px 5px;
+    border-radius: 3px;
+}
+
+.article-body pre {
+    background: #f6f6f6;
+    border: 1px solid #eeeeee;
+    border-radius: 6px;
+    padding: 16px;
+    overflow-x: auto;
+    margin: 0 0 18px;
+}
+
+.article-body pre code {
+    background: none;
+    padding: 0;
+    font-size: 9.5pt;
+    line-height: 1.5;
+}
+
+.article-body img { max-width: 100%; height: auto; border-radius: 4px; }
+
+.article-body hr { border: none; border-top: 1px solid #eeeeee; margin: 32px 0; }
+
+.article-status { color: #999999; }
+
+@media (max-width: 480px) {
+    .article-body { font-size: 10.5pt; }
+    .article-body h1 { font-size: 16pt; }
+}

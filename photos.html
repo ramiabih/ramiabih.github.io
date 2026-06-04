@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pictures I've Taken - Rami Abi Habib</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="photos-styles.css">
 </head>
 <body>
     <header>
@@ -12,17 +13,72 @@
         <p>Founder & CEO of Querio</p>
     </header>
 
-    <main>
-        <section>
-            <h2>Pictures I've Taken</h2>
-            <!-- Content will be added here -->
-        </section>
+    <main class="photos-main">
+        <h2>Pictures I've Taken</h2>
+        <p class="photos-intro">Tap any photo to open it.</p>
+        <div class="photo-grid" id="photoGrid"></div>
     </main>
+
+    <!-- Lightbox -->
+    <div class="lightbox" id="lightbox">
+        <button class="lb-btn lb-close" id="lbClose" aria-label="Close">&times;</button>
+        <button class="lb-btn lb-prev" id="lbPrev" aria-label="Previous">&#8249;</button>
+        <img class="lightbox-img" id="lbImg" alt="">
+        <button class="lb-btn lb-next" id="lbNext" aria-label="Next">&#8250;</button>
+        <div class="lightbox-caption" id="lbCaption"></div>
+    </div>
 
     <footer>
         <p><a href="index.html">← Back to home</a></p>
     </footer>
+
+    <script src="photos.js"></script>
+    <script>
+        (function () {
+            var list = window.photos || [];
+            var grid = document.getElementById('photoGrid');
+            var box = document.getElementById('lightbox');
+            var img = document.getElementById('lbImg');
+            var cap = document.getElementById('lbCaption');
+            var current = 0;
+
+            function esc(s) {
+                return String(s == null ? '' : s)
+                    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            }
+
+            list.forEach(function (p, i) {
+                var tile = document.createElement('div');
+                tile.className = 'photo-tile';
+                tile.innerHTML = '<img src="' + esc(p.src) + '" alt="' +
+                    esc(p.caption || 'Photo ' + (i + 1)) + '" loading="lazy">';
+                tile.addEventListener('click', function () { open(i); });
+                grid.appendChild(tile);
+            });
+
+            function open(i) {
+                current = (i + list.length) % list.length;
+                var p = list[current];
+                img.src = p.src;
+                img.alt = p.caption || '';
+                cap.textContent = p.caption || '';
+                box.classList.add('open');
+            }
+            function close() { box.classList.remove('open'); }
+            function next() { open(current + 1); }
+            function prev() { open(current - 1); }
+
+            document.getElementById('lbClose').addEventListener('click', close);
+            document.getElementById('lbNext').addEventListener('click', function (e) { e.stopPropagation(); next(); });
+            document.getElementById('lbPrev').addEventListener('click', function (e) { e.stopPropagation(); prev(); });
+            box.addEventListener('click', function (e) { if (e.target === box) close(); });
+            document.addEventListener('keydown', function (e) {
+                if (!box.classList.contains('open')) return;
+                if (e.key === 'Escape') close();
+                else if (e.key === 'ArrowRight') next();
+                else if (e.key === 'ArrowLeft') prev();
+            });
+        })();
+    </script>
 </body>
 </html>
-
-

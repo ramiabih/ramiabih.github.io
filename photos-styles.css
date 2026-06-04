@@ -1,0 +1,93 @@
+/* Pictures I've Taken — Instagram-style grid + lightbox */
+
+.photos-main {
+    max-width: 935px;
+    margin: 0 auto;
+    padding: 0 20px 40px;
+}
+
+.photos-intro {
+    color: #666666;
+    margin: 0 0 24px 0;
+}
+
+/* Square grid */
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+}
+
+.photo-tile {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    background: #f0f0f0;
+    cursor: pointer;
+}
+
+.photo-tile img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease, opacity 0.2s ease;
+}
+
+.photo-tile:hover img {
+    transform: scale(1.04);
+    opacity: 0.92;
+}
+
+/* Lightbox */
+.lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.92);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+
+.lightbox.open { display: flex; }
+
+.lightbox-img {
+    max-width: 90vw;
+    max-height: 82vh;
+    object-fit: contain;
+    display: block;
+}
+
+.lightbox-caption {
+    position: absolute;
+    bottom: 24px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 10pt;
+    padding: 0 40px;
+}
+
+.lb-btn {
+    position: absolute;
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.75);
+    cursor: pointer;
+    padding: 16px;
+    line-height: 1;
+    user-select: none;
+}
+
+.lb-btn:hover { color: #ffffff; }
+
+.lb-close { top: 14px; right: 18px; font-size: 30pt; }
+.lb-prev  { left: 8px;  top: 50%; transform: translateY(-50%); font-size: 40pt; }
+.lb-next  { right: 8px; top: 50%; transform: translateY(-50%); font-size: 40pt; }
+
+@media (max-width: 768px) {
+    .photo-grid { gap: 3px; }
+    .lb-prev, .lb-next { font-size: 30pt; padding: 10px; }
+}
