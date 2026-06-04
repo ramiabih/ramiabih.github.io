@@ -1,60 +1,58 @@
 /* ============================================================
    MY PHOTOS — the only file you edit.
 
-   Each photo has a caption slot. Write your caption between the
-   quotes after  caption:  . Leave it ""  for no caption.
-   The // comment at the end of each line is the original filename
-   so you can tell which photo is which.
-
-   To add more: drop an image in photo-images/ and add a line.
-   To reorder: move the lines around (top-left first).
+   The caption is just the file name (minus .jpg). To change a
+   caption: either rename the file in photo-images/ AND update its
+   name here, OR just edit the caption text between the quotes below.
+   To reorder: move lines around (top-left first).
+   To remove: delete the line here and the file in photo-images/.
    ============================================================ */
 
 var photos = [
-  { src: "photo-images/photo-01.jpg", caption: "" },   // IMG_4091.jpeg
-  { src: "photo-images/photo-02.jpg", caption: "" },   // IMG_3969.jpeg
-  { src: "photo-images/photo-03.jpg", caption: "" },   // IMG_3880.jpeg
-  { src: "photo-images/photo-04.jpg", caption: "" },   // IMG_3868.jpeg
-  { src: "photo-images/photo-05.jpg", caption: "" },   // IMG_3741.jpeg
-  { src: "photo-images/photo-06.jpg", caption: "" },   // b6ad36fc-ebe7-4a12-8a32-5b36e49129c6.jpeg
-  { src: "photo-images/photo-07.jpg", caption: "" },   // IMG_3465.jpeg
-  { src: "photo-images/photo-08.jpg", caption: "" },   // IMG_1001.jpeg
-  { src: "photo-images/photo-09.jpg", caption: "" },   // IMG_3193.jpeg
-  { src: "photo-images/photo-10.jpg", caption: "" },   // IMG_3173.jpeg
-  { src: "photo-images/photo-11.jpg", caption: "" },   // IMG_3102.jpeg
-  { src: "photo-images/photo-12.jpg", caption: "" },   // IMG_3096.jpeg
-  { src: "photo-images/photo-13.jpg", caption: "" },   // 152400ba-297c-473e-a521-fd14d3284ea0.jpeg
-  { src: "photo-images/photo-14.jpg", caption: "" },   // 572e9134-cb2c-42e2-be74-b147540c394e.jpeg
-  { src: "photo-images/photo-15.jpg", caption: "" },   // 776f6ef3-6610-4b7c-b9f4-04818962f8be.jpeg
-  { src: "photo-images/photo-16.jpg", caption: "" },   // IMG_2836.jpeg
-  { src: "photo-images/photo-17.jpg", caption: "" },   // IMG_2816.jpeg
-  { src: "photo-images/photo-18.jpg", caption: "" },   // IMG_2763.jpeg
-  { src: "photo-images/photo-19.jpg", caption: "" },   // IMG_2706.jpeg
-  { src: "photo-images/photo-20.jpg", caption: "" },   // abc4c994-6a51-4cb8-b485-1d30c8ac2619.jpeg
-  { src: "photo-images/photo-21.jpg", caption: "" },   // Guild-of-Young-Freemen-Mansion-House-Installation-Banquet-October-2025-Photo-Carla-Salvatore-6654.jpeg
-  { src: "photo-images/photo-22.jpg", caption: "" },   // IMG_2414.jpeg
-  { src: "photo-images/photo-23.jpg", caption: "" },   // CDC7087D-E54A-4F3A-8177-398C9A1C8DCE.jpeg
-  { src: "photo-images/photo-24.jpg", caption: "" },   // IMG_2395.jpeg
-  { src: "photo-images/photo-25.jpg", caption: "" },   // IMG_2379.jpeg
-  { src: "photo-images/photo-26.jpg", caption: "" },   // IMG_2321.jpeg
-  { src: "photo-images/photo-27.jpg", caption: "" },   // IMG_5237.jpeg
-  { src: "photo-images/photo-28.jpg", caption: "" },   // f0914cd2-ea2b-45ae-8144-fc7324417d6d.jpeg
-  { src: "photo-images/photo-29.jpg", caption: "" },   // IMG_5165.jpeg
-  { src: "photo-images/photo-30.jpg", caption: "" },   // IMG_2029.jpeg
-  { src: "photo-images/photo-31.jpg", caption: "" },   // 394485AD-1A6E-4996-9382-CBD463E6194F.jpeg
-  { src: "photo-images/photo-32.jpg", caption: "" },   // IMG_1764.png
-  { src: "photo-images/photo-33.jpg", caption: "" },   // IMG_1751.jpeg
-  { src: "photo-images/photo-34.jpg", caption: "" },   // c8f6d86f-82b6-4edc-8f38-40b5a3182a99.jpeg
-  { src: "photo-images/photo-35.jpg", caption: "" },   // eba8ced4-11bc-40c1-a819-18d031dbe708.jpeg
-  { src: "photo-images/photo-36.jpg", caption: "" },   // d6e206fa-d287-4298-b213-d3e551764d7e.jpeg
-  { src: "photo-images/photo-37.jpg", caption: "" },   // A281F8E2-C976-48B2-B5A2-FAFC6E74B31E.jpeg
-  { src: "photo-images/photo-38.jpg", caption: "" },   // IMG_1390.jpeg
-  { src: "photo-images/photo-39.jpg", caption: "" },   // IMG_1389.jpeg
-  { src: "photo-images/photo-40.jpg", caption: "" },   // IMG_1335.jpeg
-  { src: "photo-images/photo-41.jpg", caption: "" },   // e009837c-d7c9-4385-be26-15322515f73e.jpeg
-  { src: "photo-images/photo-42.jpg", caption: "" },   // IMG_0537.jpeg
-  { src: "photo-images/photo-43.jpg", caption: "" },   // IMG_0269.jpeg
-  { src: "photo-images/photo-44.jpg", caption: "" },   // IMG_0014.jpeg
-  { src: "photo-images/photo-45.jpg", caption: "" },   // IMG_6131.jpeg
-  { src: "photo-images/photo-46.jpg", caption: "" },   // IMG_6065.jpeg
+  { src: "photo-images/A Cinematic Love.jpg", caption: "A Cinematic Love" },
+  { src: "photo-images/Album Cover.jpg", caption: "Album Cover" },
+  { src: "photo-images/Another Album Cover.jpg", caption: "Another Album Cover" },
+  { src: "photo-images/Anthony before his big Exam.jpg", caption: "Anthony before his big Exam" },
+  { src: "photo-images/Arigato.jpg", caption: "Arigato" },
+  { src: "photo-images/Breaking a $2000 lamp at an Airbnb.jpg", caption: "Breaking a $2000 lamp at an Airbnb" },
+  { src: "photo-images/Cinematic Love.jpg", caption: "Cinematic Love" },
+  { src: "photo-images/DJ'ing 10 years too late.jpg", caption: "DJ'ing 10 years too late" },
+  { src: "photo-images/ dont feel like cropping.jpg", caption: "dont feel like cropping" },
+  { src: "photo-images/First big sushi night.jpg", caption: "First big sushi night" },
+  { src: "photo-images/Fish.jpg", caption: "Fish" },
+  { src: "photo-images/Friends make new flats feel right.jpg", caption: "Friends make new flats feel right" },
+  { src: "photo-images/Ho Ho Ho.jpg", caption: "Ho Ho Ho" },
+  { src: "photo-images/I have an office how is that real.jpg", caption: "I have an office how is that real" },
+  { src: "photo-images/I have my hair .jpg", caption: "I have my hair" },
+  { src: "photo-images/I love my office.jpg", caption: "I love my office" },
+  { src: "photo-images/I love this Flat so much.jpg", caption: "I love this Flat so much" },
+  { src: "photo-images/I re-dislcoated my shoulder.jpg", caption: "I re-dislcoated my shoulder" },
+  { src: "photo-images/I was Drunk.jpg", caption: "I was Drunk" },
+  { src: "photo-images/I wasn't funny she was drunk.jpg", caption: "I wasn't funny she was drunk" },
+  { src: "photo-images/If it fits i guess.jpg", caption: "If it fits i guess" },
+  { src: "photo-images/Im in a cult.jpg", caption: "Im in a cult" },
+  { src: "photo-images/Italy.jpg", caption: "Italy" },
+  { src: "photo-images/Javi loving his Wine.jpg", caption: "Javi loving his Wine" },
+  { src: "photo-images/Keep the Eggs Safe.jpg", caption: "Keep the Eggs Safe" },
+  { src: "photo-images/Last Flatemate Photo.jpg", caption: "Last Flatemate Photo" },
+  { src: "photo-images/Luke and I in SF.jpg", caption: "Luke and I in SF" },
+  { src: "photo-images/Luke and Lauren Saved me .jpg", caption: "Luke and Lauren Saved me" },
+  { src: "photo-images/Montegenro with the team.jpg", caption: "Montegenro with the team" },
+  { src: "photo-images/Moving out of Farringdon.jpg", caption: "Moving out of Farringdon" },
+  { src: "photo-images/My favorite.jpg", caption: "My favorite" },
+  { src: "photo-images/My first GoodMess Pancakes.jpg", caption: "My first GoodMess Pancakes" },
+  { src: "photo-images/My friend had a baby .jpg", caption: "My friend had a baby" },
+  { src: "photo-images/My other favorite.jpg", caption: "My other favorite" },
+  { src: "photo-images/Nice Ceiling.jpg", caption: "Nice Ceiling" },
+  { src: "photo-images/Niche Halloween Costume.jpg", caption: "Niche Halloween Costume" },
+  { src: "photo-images/On Brand.jpg", caption: "On Brand" },
+  { src: "photo-images/Priorities of the Bride.jpg", caption: "Priorities of the Bride" },
+  { src: "photo-images/Querio + Babies.jpg", caption: "Querio + Babies" },
+  { src: "photo-images/Sling Suit.jpg", caption: "Sling Suit" },
+  { src: "photo-images/The name is Rami.jpg", caption: "The name is Rami" },
+  { src: "photo-images/Tuxile.jpg", caption: "Tuxile" },
+  { src: "photo-images/We had an afternoon tea.jpg", caption: "We had an afternoon tea" },
+  { src: "photo-images/What more could you need.jpg", caption: "What more could you need" },
+  { src: "photo-images/Wine Olive Oil.jpg", caption: "Wine Olive Oil" },
+  { src: "photo-images/Wood and Chami;s.jpg", caption: "Wood and Chami;s" },
 ];
