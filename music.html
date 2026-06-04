@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music I Listen To - Rami Abi Habib</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="music-styles.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">Rami Abi Habib</a></h1>
+        <p>Founder & CEO of Querio</p>
+    </header>
+
+    <main class="music-main">
+        <h2>Music I Listen To</h2>
+        <p class="music-intro">Pulled from my Spotify, refreshed a few times a day.</p>
+
+        <div class="range-toggle" id="rangeToggle">
+            <button data-range="short_term">Last month</button>
+            <button data-range="medium_term" class="active">Last 6 months</button>
+            <button data-range="long_term">All time</button>
+        </div>
+
+        <div id="content"></div>
+    </main>
+
+    <footer>
+        <p><a href="index.html">← Back to home</a></p>
+    </footer>
+
+    <script>
+        (function () {
+            var content = document.getElementById('content');
+            var toggle = document.getElementById('rangeToggle');
+            var DATA = null;
+            var range = 'medium_term';
+
+            function esc(s) {
+                return String(s == null ? '' : s)
+                    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+            }
+
+            function ago(iso) {
+                var then = new Date(iso).getTime();
+                if (isNaN(then)) return '';
+                var s = Math.max(0, Math.floor((Date.now() - then) / 1000));
+                if (s < 60) return 'just now';
+                var m = Math.floor(s / 60); if (m < 60) return m + 'm ago';
+                var h = Math.floor(m / 60); if (h < 24) return h + 'h ago';
+                var d = Math.floor(h / 24); if (d < 7) return d + 'd ago';
+                return new Date(iso).toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+            }
+
+            function topGenres(artists) {
+                var counts = {};
+                artists.forEach(function (a) {
+                    (a.genres || []).forEach(function (g) { counts[g] = (counts[g] || 0) + 1; });
+                });
+                return Object.keys(counts)
+                    .map(function (g) { return { name: g, count: counts[g] }; })
+                    .sort(function (x, y) { return y.count - x.count; })
+                    .slice(0, 8);
+            }
+
+            function render() {
+                if (!DATA || !DATA.updated) {
+                    content.innerHTML = '<p class="music-empty">Coming soon — this syncs from Spotify ' +
+                        'and will fill in once the first update runs.</p>';
+                    return;
+                }
+                var r = DATA.ranges[range] || { tracks: [], artists: [] };
+                var html = '';
+
+                // Top artists
+                if (r.artists.length) {
+                    html += '<div class="music-section"><h3>Top Artists</h3><div class="artist-grid">';
+                    r.artists.forEach(function (a, i) {
+                        html += '<a class="artist" href="' + esc(a.url) + '" target="_blank" rel="noopener">' +
+                            '<img class="artist-img" src="' + esc(a.image) + '" alt="' + esc(a.name) + '" loading="lazy">' +
+                            '<p class="artist-rank">#' + (i + 1) + '</p>' +
+                            '<p class="artist-name">' + esc(a.name) + '</p></a>';
+                    });
+                    html += '</div></div>';
+                }
+
+                // Top genres
+                var genres = topGenres(r.artists);
+                if (genres.length) {
+                    var max = genres[0].count;
+                    html += '<div class="music-section"><h3>Top Genres</h3><div class="genre-bars">';
+                    genres.forEach(function (g) {
+                        var pct = Math.round((g.count / max) * 100);
+                        html += '<div class="genre-row"><div class="genre-label">' + esc(g.name) + '</div>' +
+                            '<div class="genre-track"><div class="genre-fill" style="width:' + pct + '%"></div></div></div>';
+                    });
+                    html += '</div></div>';
+                }
+
+                // Top tracks
+                if (r.tracks.length) {
+                    html += '<div class="music-section"><h3>Top Tracks</h3><div class="track-list">';
+                    r.tracks.forEach(function (t, i) {
+                        html += '<a class="track" href="' + esc(t.url) + '" target="_blank" rel="noopener">' +
+                            '<span class="track-num">' + (i + 1) + '</span>' +
+                            '<img class="track-img" src="' + esc(t.image) + '" alt="" loading="lazy">' +
+                            '<div class="track-meta"><p class="track-title">' + esc(t.name) + '</p>' +
+                            '<p class="track-artist">' + esc(t.artists) + '</p></div></a>';
+                    });
+                    html += '</div></div>';
+                }
+
+                // Recently played (not range-dependent)
+                if (DATA.recent && DATA.recent.length) {
+                    html += '<div class="music-section"><h3>Recently Played</h3><div class="recent-list">';
+                    DATA.recent.slice(0, 25).forEach(function (t) {
+                        html += '<a class="recent" href="' + esc(t.url) + '" target="_blank" rel="noopener">' +
+                            '<img class="recent-img" src="' + esc(t.image) + '" alt="" loading="lazy">' +
+                            '<div class="recent-meta"><p class="recent-title">' + esc(t.name) + '</p>' +
+                            '<p class="recent-artist">' + esc(t.artists) + '</p></div>' +
+                            '<span class="recent-when">' + esc(ago(t.played_at)) + '</span></a>';
+                    });
+                    html += '</div></div>';
+                }
+
+                html += '<p class="music-updated">Updated ' + ago(DATA.updated) + '.</p>';
+                content.innerHTML = html;
+            }
+
+            toggle.addEventListener('click', function (e) {
+                var btn = e.target.closest('button');
+                if (!btn) return;
+                range = btn.getAttribute('data-range');
+                [].forEach.call(toggle.querySelectorAll('button'), function (b) {
+                    b.classList.toggle('active', b === btn);
+                });
+                render();
+            });
+
+            fetch('music-data.json?t=' + Date.now())
+                .then(function (r) { return r.json(); })
+                .then(function (d) { DATA = d; render(); })
+                .catch(function () {
+                    content.innerHTML = '<p class="music-empty">Could not load music data right now.</p>';
+                });
+        })();
+    </script>
+</body>
+</html>

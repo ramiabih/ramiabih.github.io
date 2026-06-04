@@ -1,0 +1,9 @@
+{
+ "updated": null,
+ "ranges": {
+  "short_term": { "tracks": [], "artists": [] },
+  "medium_term": { "tracks": [], "artists": [] },
+  "long_term": { "tracks": [], "artists": [] }
+ },
+ "recent": []
+}
