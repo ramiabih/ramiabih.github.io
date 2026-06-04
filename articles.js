@@ -12,6 +12,6 @@
    Newest is shown first automatically (sorted by date).
    ============================================================ */
 
-const articles = [
+var articles = [
   { slug: "hello-world", title: "Hello, world", date: "2026-06-04" }
 ];

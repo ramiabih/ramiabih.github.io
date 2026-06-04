@@ -10,7 +10,7 @@
    Order here is the order shown on the page.
    ============================================================ */
 
-const books = [
+var books = [
   { title: "The Rise of Theodore Roosevelt", author: "Edmund Morris", cover: "reading-images/theodore-roosevelt.jpg" },
   { title: "Atlas Shrugged", author: "Ayn Rand", cover: "reading-images/atlas-shrugged.jpg" },
   { title: "Notes from Underground", author: "Fyodor Dostoevsky", cover: "reading-images/notes-from-underground.jpg" },
