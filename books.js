@@ -15,7 +15,7 @@ const books = [
   { title: "Atlas Shrugged", author: "Ayn Rand", cover: "reading-images/atlas-shrugged.jpg" },
   { title: "Notes from Underground", author: "Fyodor Dostoevsky", cover: "reading-images/notes-from-underground.jpg" },
   { title: "The Catcher in the Rye", author: "J. D. Salinger", cover: "reading-images/catcher-in-the-rye.jpg" },
-  { title: "A Brief History of Western Philosophy", author: "Anthony Kenny", cover: "reading-images/western-philosophy.jpg" },
+  { title: "A History of Western Philosophy", author: "Bertrand Russell", cover: "reading-images/western-philosophy.jpg" },
   { title: "One Hundred Years of Solitude", author: "Gabriel García Márquez", cover: "reading-images/hundred-years-solitude.jpg" },
   { title: "The Prophet", author: "Kahlil Gibran", cover: "reading-images/the-prophet.jpg" },
   { title: "Antifragile", author: "Nassim Nicholas Taleb", cover: "reading-images/antifragile.jpg" },
