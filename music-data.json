@@ -1,9 +1,1159 @@
 {
- "updated": null,
+ "updated": "2026-06-04T16:30:04.111571+00:00",
  "ranges": {
-  "short_term": { "tracks": [], "artists": [] },
-  "medium_term": { "tracks": [], "artists": [] },
-  "long_term": { "tracks": [], "artists": [] }
+  "short_term": {
+   "tracks": [
+    {
+     "name": "I Thought About Killing You",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Wouldn't Leave",
+     "artists": "Kanye West, PARTYNEXTDOOR",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
+    },
+    {
+     "name": "Violent Crimes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+    },
+    {
+     "name": "No Mistakes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
+    },
+    {
+     "name": "Ghost Town",
+     "artists": "Kanye West, PARTYNEXTDOOR",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
+    },
+    {
+     "name": "Yikes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
+    },
+    {
+     "name": "A Change Is Gonna Come",
+     "artists": "Sam Cooke",
+     "album": "Ain't That Good News",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
+     "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+     "name": "All Mine",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
+    },
+    {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+    },
+    {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+    },
+    {
+     "name": "Saalouny El Nas",
+     "artists": "Fairuz",
+     "album": "Emany Satea",
+     "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
+     "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "Bala Wala Chi - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
+    },
+    {
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+    }
+   ],
+   "artists": [
+    {
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "genres": [
+      "rap"
+     ]
+    },
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
+    {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
+    },
+    {
+     "name": "Wael Kfoury",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
+     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
+     "genres": [
+      "khaleeji"
+     ]
+    },
+    {
+     "name": "Kendrick Lamar",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+     "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+     "genres": [
+      "hip hop",
+      "west coast hip hop"
+     ]
+    },
+    {
+     "name": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
+     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+     "genres": [
+      "retro soul"
+     ]
+    },
+    {
+     "name": "Nursery Rhymes ABC",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7976e1d0c2b67a03aa625e85",
+     "url": "https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum",
+     "genres": [
+      "lullaby",
+      "children's music"
+     ]
+    }
+   ]
+  },
+  "medium_term": {
+   "tracks": [
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+    },
+    {
+     "name": "The Middle East... W Ameh - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "W'Kameh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
+    },
+    {
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+    },
+    {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
+    },
+    {
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
+    },
+    {
+     "name": "I Thought About Killing You",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
+    },
+    {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732288503d141c804a97102152",
+     "url": "https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2"
+    },
+    {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+    },
+    {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+     "name": "Jagal",
+     "artists": "DÜK",
+     "album": "Step by Step",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734dc43ed9c2749b8b26ca8eea",
+     "url": "https://open.spotify.com/track/79VriB0355E7YnBXzRcV2D"
+    },
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+    },
+    {
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    }
+   ],
+   "artists": [
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
+    {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
+    },
+    {
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "genres": [
+      "rap"
+     ]
+    },
+    {
+     "name": "ABBA",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
+     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+     "genres": []
+    },
+    {
+     "name": "Wael Kfoury",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
+     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
+     "genres": [
+      "khaleeji"
+     ]
+    },
+    {
+     "name": "Bear McCreary",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7cfb8906597801fcadec3513",
+     "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG",
+     "genres": [
+      "celtic",
+      "soundtrack"
+     ]
+    },
+    {
+     "name": "Louis Brigham",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
+     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
+     "genres": []
+    },
+    {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
+    },
+    {
+     "name": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
+     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+     "genres": [
+      "retro soul"
+     ]
+    },
+    {
+     "name": "Bad Bunny",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+     "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+     "genres": [
+      "reggaeton",
+      "trap latino",
+      "latin",
+      "urbano latino"
+     ]
+    },
+    {
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
+     "genres": []
+    },
+    {
+     "name": "Hans Zimmer",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
+     "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
+     "genres": [
+      "soundtrack",
+      "score"
+     ]
+    },
+    {
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "genres": [
+      "neo-psychedelic"
+     ]
+    },
+    {
+     "name": "Oriental Lebanese Band",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/artist/2SnZNKC6aZINg87x5to5rg",
+     "genres": []
+    },
+    {
+     "name": "Kendrick Lamar",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+     "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+     "genres": [
+      "hip hop",
+      "west coast hip hop"
+     ]
+    },
+    {
+     "name": "Majida El Roumi",
+     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
+     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
+     "genres": []
+    },
+    {
+     "name": "John Lunn",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb863d89ca82d7a559f4fb7f55",
+     "url": "https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt",
+     "genres": []
+    },
+    {
+     "name": "James Horner",
+     "image": "https://i.scdn.co/image/cf3b34dae12d2d8147b8c2b39387047778d587e3",
+     "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr",
+     "genres": [
+      "soundtrack",
+      "score"
+     ]
+    },
+    {
+     "name": "Tame Impala",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+     "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
+     "genres": [
+      "neo-psychedelic",
+      "indie"
+     ]
+    },
+    {
+     "name": "Rupert Gregson-Williams",
+     "image": "https://i.scdn.co/image/d05709b256a284d60ebed670fd51f028708073ad",
+     "url": "https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG",
+     "genres": [
+      "score",
+      "soundtrack"
+     ]
+    }
+   ]
+  },
+  "long_term": {
+   "tracks": [
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
+    },
+    {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+    },
+    {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+    },
+    {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Thee Sacred Souls",
+     "album": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+     "name": "White Dress",
+     "artists": "Kanye West",
+     "album": "The Man with the Iron Fists (Original Motion Picture Soundtrack)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
+     "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
+    },
+    {
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "Ankara",
+     "artists": "Birds of Mind",
+     "album": "Ankara",
+     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
+    },
+    {
+     "name": "I Thought About Killing You",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
+    },
+    {
+     "name": "Aloula",
+     "artists": "Fairuz",
+     "album": "Fairuz - Modern Favorites",
+     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
+    },
+    {
+     "name": "We Don't Care",
+     "artists": "Kanye West",
+     "album": "The College Dropout",
+     "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+     "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB"
+    },
+    {
+     "name": "Creep - Acoustic",
+     "artists": "Radiohead",
+     "album": "Creep EP",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647",
+     "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
+    },
+    {
+     "name": "Ghost Town",
+     "artists": "Kanye West, PARTYNEXTDOOR",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
+    },
+    {
+     "name": "I Wanna Be Yours",
+     "artists": "Arctic Monkeys",
+     "album": "AM",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+     "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    }
+   ],
+   "artists": [
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
+    {
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "genres": [
+      "rap"
+     ]
+    },
+    {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
+    },
+    {
+     "name": "Wael Kfoury",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
+     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
+     "genres": [
+      "khaleeji"
+     ]
+    },
+    {
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
+     "genres": []
+    },
+    {
+     "name": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
+     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+     "genres": [
+      "retro soul"
+     ]
+    },
+    {
+     "name": "Hotel Ugly",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb939033cc36c08ab68b33f760",
+     "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb",
+     "genres": []
+    },
+    {
+     "name": "Kendrick Lamar",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+     "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+     "genres": [
+      "hip hop",
+      "west coast hip hop"
+     ]
+    },
+    {
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "genres": [
+      "neo-psychedelic"
+     ]
+    },
+    {
+     "name": "Pink Floyd",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb3c9e8c67b087ba0cb5923b78",
+     "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
+     "genres": [
+      "progressive rock",
+      "psychedelic rock",
+      "classic rock",
+      "art rock",
+      "rock"
+     ]
+    },
+    {
+     "name": "The Beatles",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
+     "genres": [
+      "classic rock",
+      "psychedelic rock"
+     ]
+    },
+    {
+     "name": "Path to the Wild",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb317527e201289a10f1b82828",
+     "url": "https://open.spotify.com/artist/1ySVx1trQOpfqKLkBSrHNI",
+     "genres": []
+    },
+    {
+     "name": "Daniel Caesar",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
+     "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA",
+     "genres": []
+    },
+    {
+     "name": "Thundercat",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
+     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
+     "genres": []
+    },
+    {
+     "name": "Hraach",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
+     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
+     "genres": [
+      "organic house",
+      "tribal house",
+      "downtempo",
+      "deep house"
+     ]
+    },
+    {
+     "name": "¥$",
+     "image": "https://i.scdn.co/image/ab6761610000e5eba670555775b5381ac0519658",
+     "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv",
+     "genres": []
+    },
+    {
+     "name": "Mac DeMarco",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+     "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
+     "genres": [
+      "indie",
+      "lo-fi indie"
+     ]
+    },
+    {
+     "name": "Otis Redding",
+     "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
+     "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
+     "genres": [
+      "motown",
+      "soul",
+      "classic soul",
+      "soul blues"
+     ]
+    },
+    {
+     "name": "Hans Zimmer",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
+     "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
+     "genres": [
+      "soundtrack",
+      "score"
+     ]
+    },
+    {
+     "name": "Aaron Taylor",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb22fc5c2b36b5888f5131215f",
+     "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7",
+     "genres": [
+      "indie soul",
+      "neo soul"
+     ]
+    }
+   ]
+  }
  },
- "recent": []
+ "recent": [
+  {
+   "name": "SOLEIL",
+   "artists": "Naïka",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
+   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
+   "played_at": "2026-06-04T15:38:52.949Z"
+  },
+  {
+   "name": "PUNCH DRUNK",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV",
+   "played_at": "2026-06-03T18:19:57.984Z"
+  },
+  {
+   "name": "PREACHER MAN",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ",
+   "played_at": "2026-06-03T18:18:11.743Z"
+  },
+  {
+   "name": "BEAUTY AND THE BEAST",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn",
+   "played_at": "2026-06-03T18:14:57.354Z"
+  },
+  {
+   "name": "Haditouni",
+   "artists": "Douaa",
+   "image": "https://i.scdn.co/image/ab67616d0000b273936b4e6df0a18f3d12a8b367",
+   "url": "https://open.spotify.com/track/4jdUdJZgXFjJhYIRGyKRC4",
+   "played_at": "2026-06-03T18:12:41.679Z"
+  },
+  {
+   "name": "Fever",
+   "artists": "Robert Glasper, Hindi Zahra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736c39aa3c2feaf1bb60d8433d",
+   "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR",
+   "played_at": "2026-06-03T18:08:14.488Z"
+  },
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-06-03T17:59:46.204Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
+   "played_at": "2026-06-03T17:52:47.372Z"
+  },
+  {
+   "name": "Shayef El Bahr",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
+   "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
+   "played_at": "2026-06-03T17:46:33.527Z"
+  },
+  {
+   "name": "Shayef El Bahr",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
+   "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
+   "played_at": "2026-06-03T17:42:14.264Z"
+  },
+  {
+   "name": "It takes a lot to try",
+   "artists": "Aviram",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
+   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
+   "played_at": "2026-06-03T17:38:07.456Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-06-03T17:34:38.457Z"
+  },
+  {
+   "name": "SOLEIL",
+   "artists": "Naïka",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
+   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
+   "played_at": "2026-06-03T17:28:01.762Z"
+  },
+  {
+   "name": "Graduation Day",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+   "url": "https://open.spotify.com/track/7wL7Lb8Q3aYyq6gmRL0PZq",
+   "played_at": "2026-06-03T05:32:13.554Z"
+  },
+  {
+   "name": "I Thought About Killing You",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
+   "played_at": "2026-06-03T05:32:06.403Z"
+  },
+  {
+   "name": "We Don't Care",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+   "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB",
+   "played_at": "2026-06-02T13:59:38.499Z"
+  },
+  {
+   "name": "Dirt And Grime",
+   "artists": "Father's Children",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
+   "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1",
+   "played_at": "2026-06-01T15:48:10.100Z"
+  },
+  {
+   "name": "Bitch, Don’t Kill My Vibe",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+   "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9",
+   "played_at": "2026-06-01T15:44:37.432Z"
+  },
+  {
+   "name": "Swimming Pools (Drank)",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
+   "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi",
+   "played_at": "2026-06-01T15:39:26.196Z"
+  },
+  {
+   "name": "PRIDE.",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+   "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg",
+   "played_at": "2026-06-01T15:35:17.867Z"
+  },
+  {
+   "name": "YAH.",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+   "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni",
+   "played_at": "2026-06-01T15:30:42.071Z"
+  },
+  {
+   "name": "I Thought About Killing You",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
+   "played_at": "2026-06-01T15:28:01.261Z"
+  },
+  {
+   "name": "Devil In A New Dress",
+   "artists": "Kanye West, Rick Ross",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
+   "played_at": "2026-06-01T15:22:10.348Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-06-01T14:14:10.753Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
+   "played_at": "2026-05-31T14:09:08.954Z"
+  },
+  {
+   "name": "Back Into Blue",
+   "artists": "The Odd 910",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730233221a91d7201221687d14",
+   "url": "https://open.spotify.com/track/5uElsVmxN7kfXTLcRXzFnp",
+   "played_at": "2026-05-31T14:05:04.253Z"
+  },
+  {
+   "name": "Anywhere",
+   "artists": "The Odd 910",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730233221a91d7201221687d14",
+   "url": "https://open.spotify.com/track/4H3wbE03PsbVBqcdCBk09X",
+   "played_at": "2026-05-31T13:59:54.786Z"
+  },
+  {
+   "name": "530",
+   "artists": "¥$, Kanye West, Ty Dolla $ign",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
+   "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv",
+   "played_at": "2026-05-31T13:56:28.039Z"
+  },
+  {
+   "name": "Nasini El Donya",
+   "artists": "Ragheb Alama",
+   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
+   "played_at": "2026-05-31T13:51:26.947Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-05-31T13:46:33.881Z"
+  },
+  {
+   "name": "Saalouny El Nas",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
+   "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C",
+   "played_at": "2026-05-31T13:31:59.688Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-05-31T13:28:08.369Z"
+  },
+  {
+   "name": "Everything I Am",
+   "artists": "Kanye West, DJ Premier",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr",
+   "played_at": "2026-05-31T10:37:47.510Z"
+  },
+  {
+   "name": "I Wonder",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+   "played_at": "2026-05-31T10:34:01.585Z"
+  },
+  {
+   "name": "Flashing Lights",
+   "artists": "Kanye West, Dwele",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+   "played_at": "2026-05-31T10:30:00.094Z"
+  },
+  {
+   "name": "Oum Fout Nam",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+   "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye",
+   "played_at": "2026-05-31T10:28:12.367Z"
+  },
+  {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-05-31T10:26:04.608Z"
+  },
+  {
+   "name": "Aria - Omiki Remix",
+   "artists": "Argy, Omnya, Omiki",
+   "image": "https://i.scdn.co/image/ab67616d0000b273475fb0c54419b85a1388250e",
+   "url": "https://open.spotify.com/track/3e1UH1P6muPTre7118AwCL",
+   "played_at": "2026-05-31T10:22:25.492Z"
+  },
+  {
+   "name": "530",
+   "artists": "¥$, Kanye West, Ty Dolla $ign",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
+   "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv",
+   "played_at": "2026-05-30T23:58:39.390Z"
+  },
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-05-30T12:32:36.004Z"
+  },
+  {
+   "name": "I Only Have Eyes for You",
+   "artists": "The Flamingos",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fba957f526936b65714b0ef6",
+   "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP",
+   "played_at": "2026-05-30T12:27:22.521Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Isabel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
+   "played_at": "2026-05-30T12:24:01.711Z"
+  },
+  {
+   "name": "A Change Is Gonna Come",
+   "artists": "Sam Cooke",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
+   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
+   "played_at": "2026-05-30T12:20:53.916Z"
+  },
+  {
+   "name": "A Change Is Gonna Come",
+   "artists": "Sam Cooke",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
+   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
+   "played_at": "2026-05-30T12:17:43.414Z"
+  },
+  {
+   "name": "A Change Is Gonna Come",
+   "artists": "Sam Cooke",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
+   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
+   "played_at": "2026-05-30T12:14:20.537Z"
+  },
+  {
+   "name": "A Change Is Gonna Come",
+   "artists": "Sam Cooke",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
+   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
+   "played_at": "2026-05-30T12:11:10.071Z"
+  },
+  {
+   "name": "A Change Is Gonna Come",
+   "artists": "Sam Cooke",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
+   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
+   "played_at": "2026-05-30T12:07:59.443Z"
+  },
+  {
+   "name": "A Change Is Gonna Come",
+   "artists": "Sam Cooke",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
+   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
+   "played_at": "2026-05-30T12:04:48.983Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Isabel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
+   "played_at": "2026-05-30T11:59:45.432Z"
+  },
+  {
+   "name": "W'Kameh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+   "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2",
+   "played_at": "2026-05-30T11:07:14.517Z"
+  }
+ ]
 }
