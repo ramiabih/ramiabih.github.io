@@ -54,5 +54,5 @@ var photos = [
   { src: "photo-images/We had an afternoon tea.jpg", caption: "We had an afternoon tea" },
   { src: "photo-images/What more could you need.jpg", caption: "What more could you need" },
   { src: "photo-images/Wine Olive Oil.jpg", caption: "Wine Olive Oil" },
-  { src: "photo-images/Wood and Chami;s.jpg", caption: "Wood and Chami;s" },
+  { src: "photo-images/Wood and Chami;s.jpg", caption: "Wood and Chami's" },
 ];
