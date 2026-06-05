@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-05T14:29:01.006698+00:00",
+ "updated": "2026-06-05T19:43:31.382108+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -599,13 +599,6 @@
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
-     "name": "I Thought About Killing You",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
-    },
-    {
      "name": "Aloula",
      "artists": "Fairuz",
      "album": "Fairuz - Modern Favorites",
@@ -620,6 +613,13 @@
      "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB"
     },
     {
+     "name": "I Thought About Killing You",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
+    },
+    {
      "name": "Creep - Acoustic",
      "artists": "Radiohead",
      "album": "Creep EP",
@@ -627,18 +627,18 @@
      "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
     },
     {
-     "name": "Ghost Town",
-     "artists": "Kanye West, PARTYNEXTDOOR",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
-    },
-    {
      "name": "I Wanna Be Yours",
      "artists": "Arctic Monkeys",
      "album": "AM",
      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     }
    ],
    "artists": [
