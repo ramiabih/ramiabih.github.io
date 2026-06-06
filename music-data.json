@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-06T08:26:12.012464+00:00",
+ "updated": "2026-06-06T13:13:10.105976+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1084,76 +1084,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
    "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv",
    "played_at": "2026-05-30T23:58:39.390Z"
-  },
-  {
-   "name": "Bisaraha",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
-   "played_at": "2026-05-30T12:32:36.004Z"
-  },
-  {
-   "name": "I Only Have Eyes for You",
-   "artists": "The Flamingos",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fba957f526936b65714b0ef6",
-   "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP",
-   "played_at": "2026-05-30T12:27:22.521Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Isabel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
-   "played_at": "2026-05-30T12:24:01.711Z"
-  },
-  {
-   "name": "A Change Is Gonna Come",
-   "artists": "Sam Cooke",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
-   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
-   "played_at": "2026-05-30T12:20:53.916Z"
-  },
-  {
-   "name": "A Change Is Gonna Come",
-   "artists": "Sam Cooke",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
-   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
-   "played_at": "2026-05-30T12:17:43.414Z"
-  },
-  {
-   "name": "A Change Is Gonna Come",
-   "artists": "Sam Cooke",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
-   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
-   "played_at": "2026-05-30T12:14:20.537Z"
-  },
-  {
-   "name": "A Change Is Gonna Come",
-   "artists": "Sam Cooke",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
-   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
-   "played_at": "2026-05-30T12:11:10.071Z"
-  },
-  {
-   "name": "A Change Is Gonna Come",
-   "artists": "Sam Cooke",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
-   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
-   "played_at": "2026-05-30T12:07:59.443Z"
-  },
-  {
-   "name": "A Change Is Gonna Come",
-   "artists": "Sam Cooke",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
-   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
-   "played_at": "2026-05-30T12:04:48.983Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Isabel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
-   "played_at": "2026-05-30T11:59:45.432Z"
   }
  ]
 }
