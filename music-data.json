@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-07T08:46:55.243336+00:00",
+ "updated": "2026-06-07T13:25:07.708559+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -25,18 +25,18 @@
      "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
     },
     {
-     "name": "Violent Crimes",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
-    },
-    {
      "name": "No Mistakes",
      "artists": "Kanye West",
      "album": "ye",
      "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
      "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
+    },
+    {
+     "name": "Violent Crimes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
     },
     {
      "name": "Ghost Town",
@@ -53,6 +53,13 @@
      "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
     },
     {
+     "name": "All Mine",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
+    },
+    {
      "name": "A Change Is Gonna Come",
      "artists": "Sam Cooke",
      "album": "Ain't That Good News",
@@ -65,13 +72,6 @@
      "album": "Ana Moush Kafer",
      "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
-     "name": "All Mine",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
     },
     {
      "name": "Shayef El Bahr Shou Kebeer",
@@ -137,11 +137,11 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
     }
    ],
    "artists": [
@@ -806,6 +806,62 @@
  },
  "recent": [
   {
+   "name": "Ghost Town",
+   "artists": "Kanye West, PARTYNEXTDOOR",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+   "played_at": "2026-06-07T11:07:05.640Z"
+  },
+  {
+   "name": "No Mistakes",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba",
+   "played_at": "2026-06-07T11:02:30.680Z"
+  },
+  {
+   "name": "Wouldn't Leave",
+   "artists": "Kanye West, PARTYNEXTDOOR",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd",
+   "played_at": "2026-06-07T11:00:27.614Z"
+  },
+  {
+   "name": "All Mine",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn",
+   "played_at": "2026-06-07T10:57:02.083Z"
+  },
+  {
+   "name": "Yikes",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG",
+   "played_at": "2026-06-07T10:54:36.594Z"
+  },
+  {
+   "name": "I Thought About Killing You",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
+   "played_at": "2026-06-07T10:51:26.906Z"
+  },
+  {
+   "name": "Bent El Chalabiya",
+   "artists": "Munir Bachir",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
+   "played_at": "2026-06-07T10:46:43.917Z"
+  },
+  {
+   "name": "SOLEIL",
+   "artists": "Naïka",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
+   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
+   "played_at": "2026-06-07T10:43:51.590Z"
+  },
+  {
    "name": "SOLEIL",
    "artists": "Naïka",
    "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
@@ -1035,48 +1091,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
    "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
    "played_at": "2026-05-31T13:28:08.369Z"
-  },
-  {
-   "name": "Everything I Am",
-   "artists": "Kanye West, DJ Premier",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr",
-   "played_at": "2026-05-31T10:37:47.510Z"
-  },
-  {
-   "name": "I Wonder",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
-   "played_at": "2026-05-31T10:34:01.585Z"
-  },
-  {
-   "name": "Flashing Lights",
-   "artists": "Kanye West, Dwele",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
-   "played_at": "2026-05-31T10:30:00.094Z"
-  },
-  {
-   "name": "Oum Fout Nam",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-   "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye",
-   "played_at": "2026-05-31T10:28:12.367Z"
-  },
-  {
-   "name": "The Glory",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
-   "played_at": "2026-05-31T10:26:04.608Z"
-  },
-  {
-   "name": "Aria - Omiki Remix",
-   "artists": "Argy, Omnya, Omiki",
-   "image": "https://i.scdn.co/image/ab67616d0000b273475fb0c54419b85a1388250e",
-   "url": "https://open.spotify.com/track/3e1UH1P6muPTre7118AwCL",
-   "played_at": "2026-05-31T10:22:25.492Z"
   }
  ]
 }
