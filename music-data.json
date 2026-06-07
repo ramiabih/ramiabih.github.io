@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-07T13:25:07.708559+00:00",
+ "updated": "2026-06-07T19:08:44.633636+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -25,18 +25,18 @@
      "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
     },
     {
-     "name": "No Mistakes",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
-    },
-    {
      "name": "Violent Crimes",
      "artists": "Kanye West",
      "album": "ye",
      "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
      "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+    },
+    {
+     "name": "No Mistakes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
     },
     {
      "name": "Ghost Town",
@@ -53,6 +53,13 @@
      "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
     },
     {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
      "name": "All Mine",
      "artists": "Kanye West",
      "album": "ye",
@@ -65,13 +72,6 @@
      "album": "Ain't That Good News",
      "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
      "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot"
-    },
-    {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Shayef El Bahr Shou Kebeer",
@@ -109,6 +109,13 @@
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
      "name": "Saalouny El Nas",
      "artists": "Fairuz",
      "album": "Emany Satea",
@@ -135,13 +142,6 @@
      "album": "El Hob El Kebir",
      "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
-    },
-    {
-     "name": "Konna Netlaka",
-     "artists": "Fairuz",
-     "album": "Konna Netlaka",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
     }
    ],
    "artists": [
@@ -806,6 +806,34 @@
  },
  "recent": [
   {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-07T14:33:45.915Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-07T14:28:00.071Z"
+  },
+  {
+   "name": "Batwanes Beek",
+   "artists": "Warda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
+   "played_at": "2026-06-07T14:21:04.266Z"
+  },
+  {
+   "name": "Violent Crimes",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
+   "played_at": "2026-06-07T14:00:26.562Z"
+  },
+  {
    "name": "Ghost Town",
    "artists": "Kanye West, PARTYNEXTDOOR",
    "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
@@ -1035,62 +1063,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
    "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
    "played_at": "2026-06-01T14:14:10.753Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
-   "played_at": "2026-05-31T14:09:08.954Z"
-  },
-  {
-   "name": "Back Into Blue",
-   "artists": "The Odd 910",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730233221a91d7201221687d14",
-   "url": "https://open.spotify.com/track/5uElsVmxN7kfXTLcRXzFnp",
-   "played_at": "2026-05-31T14:05:04.253Z"
-  },
-  {
-   "name": "Anywhere",
-   "artists": "The Odd 910",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730233221a91d7201221687d14",
-   "url": "https://open.spotify.com/track/4H3wbE03PsbVBqcdCBk09X",
-   "played_at": "2026-05-31T13:59:54.786Z"
-  },
-  {
-   "name": "530",
-   "artists": "¥$, Kanye West, Ty Dolla $ign",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
-   "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv",
-   "played_at": "2026-05-31T13:56:28.039Z"
-  },
-  {
-   "name": "Nasini El Donya",
-   "artists": "Ragheb Alama",
-   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
-   "played_at": "2026-05-31T13:51:26.947Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-05-31T13:46:33.881Z"
-  },
-  {
-   "name": "Saalouny El Nas",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
-   "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C",
-   "played_at": "2026-05-31T13:31:59.688Z"
-  },
-  {
-   "name": "Runaway",
-   "artists": "Kanye West, Pusha T",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
-   "played_at": "2026-05-31T13:28:08.369Z"
   }
  ]
 }
