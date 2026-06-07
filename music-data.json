@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-06T19:07:43.266778+00:00",
+ "updated": "2026-06-07T02:45:28.081931+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1077,13 +1077,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273475fb0c54419b85a1388250e",
    "url": "https://open.spotify.com/track/3e1UH1P6muPTre7118AwCL",
    "played_at": "2026-05-31T10:22:25.492Z"
-  },
-  {
-   "name": "530",
-   "artists": "¥$, Kanye West, Ty Dolla $ign",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
-   "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv",
-   "played_at": "2026-05-30T23:58:39.390Z"
   }
  ]
 }
