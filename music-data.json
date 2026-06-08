@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-08T15:33:08.766330+00:00",
+ "updated": "2026-06-08T20:03:37.930328+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -102,6 +102,13 @@
      "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
     },
     {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
      "name": "The Glory",
      "artists": "Kanye West",
      "album": "Graduation",
@@ -123,11 +130,11 @@
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
-     "name": "Bisaraha",
+     "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
      "name": "Nasini El Donya",
@@ -135,13 +142,6 @@
      "album": "El Hob El Kebir",
      "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
-    },
-    {
-     "name": "Konna Netlaka",
-     "artists": "Fairuz",
-     "album": "Konna Netlaka",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
     }
    ],
    "artists": [
@@ -801,6 +801,34 @@
  },
  "recent": [
   {
+   "name": "Tamally Maak",
+   "artists": "Amr Diab",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+   "played_at": "2026-06-08T17:56:12.802Z"
+  },
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-06-08T17:51:45.582Z"
+  },
+  {
+   "name": "The Middle East... W Ameh - Live",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+   "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM",
+   "played_at": "2026-06-08T17:47:34.099Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+   "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD",
+   "played_at": "2026-06-08T17:33:39.662Z"
+  },
+  {
    "name": "Saalouny El Nas",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
@@ -1065,34 +1093,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
    "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB",
    "played_at": "2026-06-02T13:59:38.499Z"
-  },
-  {
-   "name": "Dirt And Grime",
-   "artists": "Father's Children",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
-   "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1",
-   "played_at": "2026-06-01T15:48:10.100Z"
-  },
-  {
-   "name": "Bitch, Don’t Kill My Vibe",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
-   "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9",
-   "played_at": "2026-06-01T15:44:37.432Z"
-  },
-  {
-   "name": "Swimming Pools (Drank)",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
-   "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi",
-   "played_at": "2026-06-01T15:39:26.196Z"
-  },
-  {
-   "name": "PRIDE.",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-   "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg",
-   "played_at": "2026-06-01T15:35:17.867Z"
   }
  ]
 }
