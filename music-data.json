@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-08T10:21:02.002127+00:00",
+ "updated": "2026-06-08T15:33:08.766330+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -756,15 +756,6 @@
      "genres": []
     },
     {
-     "name": "Mac DeMarco",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-     "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
-     "genres": [
-      "indie",
-      "lo-fi indie"
-     ]
-    },
-    {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
      "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
@@ -791,6 +782,18 @@
      "genres": [
       "indie soul",
       "neo soul"
+     ]
+    },
+    {
+     "name": "Ray Charles",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6fc460f10177fa38af69b8bf",
+     "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
+     "genres": [
+      "soul",
+      "soul blues",
+      "blues",
+      "classic soul",
+      "vocal jazz"
      ]
     }
    ]
@@ -1090,34 +1093,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
    "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg",
    "played_at": "2026-06-01T15:35:17.867Z"
-  },
-  {
-   "name": "YAH.",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-   "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni",
-   "played_at": "2026-06-01T15:30:42.071Z"
-  },
-  {
-   "name": "I Thought About Killing You",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
-   "played_at": "2026-06-01T15:28:01.261Z"
-  },
-  {
-   "name": "Devil In A New Dress",
-   "artists": "Kanye West, Rick Ross",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
-   "played_at": "2026-06-01T15:22:10.348Z"
-  },
-  {
-   "name": "Runaway",
-   "artists": "Kanye West, Pusha T",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
-   "played_at": "2026-06-01T14:14:10.753Z"
   }
  ]
 }
