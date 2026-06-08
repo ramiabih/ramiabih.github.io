@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-07T19:08:44.633636+00:00",
+ "updated": "2026-06-08T02:48:45.179572+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,6 +16,13 @@
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Wouldn't Leave",
@@ -53,13 +60,6 @@
      "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
      "name": "All Mine",
      "artists": "Kanye West",
      "album": "ye",
@@ -88,32 +88,11 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
-    },
-    {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Saalouny El Nas",
@@ -123,6 +102,27 @@
      "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
     },
     {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+    },
+    {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
      "name": "Bisaraha",
      "artists": "Ziad Rahbani",
      "album": "Houdou Nisbi",
@@ -130,18 +130,18 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
      "name": "Nasini El Donya",
      "artists": "Ragheb Alama",
      "album": "El Hob El Kebir",
      "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
     }
    ],
    "artists": [
@@ -225,13 +225,6 @@
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
-     "name": "Kiss of Life",
-     "artists": "Sade",
-     "album": "The Best of Sade",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
@@ -244,6 +237,13 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
      "name": "W'Kameh",
@@ -260,18 +260,18 @@
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -281,20 +281,6 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
-    {
-     "name": "Konna Netlaka",
-     "artists": "Fairuz",
-     "album": "Konna Netlaka",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
-    },
-    {
      "name": "I Thought About Killing You",
      "artists": "Kanye West",
      "album": "ye",
@@ -302,11 +288,11 @@
      "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
     },
     {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732288503d141c804a97102152",
-     "url": "https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2"
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Bent El Chalabiya",
@@ -316,11 +302,11 @@
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
-     "name": "Ya Helou",
-     "artists": "Adam",
-     "album": "Ya Helou",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
     },
     {
      "name": "Jagal",
@@ -328,6 +314,13 @@
      "album": "Step by Step",
      "image": "https://i.scdn.co/image/ab67616d0000b2734dc43ed9c2749b8b26ca8eea",
      "url": "https://open.spotify.com/track/79VriB0355E7YnBXzRcV2D"
+    },
+    {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
      "name": "Alf Leila We Leila",
@@ -342,6 +335,13 @@
      "album": "El Hob El Kebir",
      "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "Ya Ana Ya Ana - Live",
+     "artists": "Fairuz",
+     "album": "Shahrazad (Live)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
+     "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
     }
    ],
    "artists": [
@@ -409,14 +409,11 @@
      ]
     },
     {
-     "name": "Bad Bunny",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
-     "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
      "genres": [
-      "reggaeton",
-      "trap latino",
-      "latin",
-      "urbano latino"
+      "neo-psychedelic"
      ]
     },
     {
@@ -424,23 +421,6 @@
      "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
      "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
      "genres": []
-    },
-    {
-     "name": "Hans Zimmer",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
-     "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
-     "genres": [
-      "soundtrack",
-      "score"
-     ]
-    },
-    {
-     "name": "Khruangbin",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
-     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": [
-      "neo-psychedelic"
-     ]
     },
     {
      "name": "Oriental Lebanese Band",
@@ -479,15 +459,6 @@
      ]
     },
     {
-     "name": "Tame Impala",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
-     "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
-     "genres": [
-      "neo-psychedelic",
-      "indie"
-     ]
-    },
-    {
      "name": "Rupert Gregson-Williams",
      "image": "https://i.scdn.co/image/d05709b256a284d60ebed670fd51f028708073ad",
      "url": "https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG",
@@ -495,6 +466,27 @@
       "score",
       "soundtrack"
      ]
+    },
+    {
+     "name": "Thundercat",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
+     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
+     "genres": []
+    },
+    {
+     "name": "John Summit",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
+     "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205",
+     "genres": [
+      "house",
+      "tech house"
+     ]
+    },
+    {
+     "name": "Zaki Nassif",
+     "image": "https://i.scdn.co/image/ab67616d0000b27328840e4aad2b84e07b2f93c0",
+     "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT",
+     "genres": []
     }
    ]
   },
@@ -805,6 +797,69 @@
   }
  },
  "recent": [
+  {
+   "name": "Saalouny El Nas",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
+   "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C",
+   "played_at": "2026-06-07T20:24:15.250Z"
+  },
+  {
+   "name": "Konna Netlaka",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+   "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu",
+   "played_at": "2026-06-07T20:20:44.366Z"
+  },
+  {
+   "name": "El Bint El Awiye",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
+   "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw",
+   "played_at": "2026-06-07T20:17:23.470Z"
+  },
+  {
+   "name": "Al Thaniah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
+   "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz",
+   "played_at": "2026-06-07T20:13:33.221Z"
+  },
+  {
+   "name": "Bayni Wa Baynak",
+   "artists": "Hoda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
+   "played_at": "2026-06-07T20:11:10.923Z"
+  },
+  {
+   "name": "Oum Fout Nam",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+   "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye",
+   "played_at": "2026-06-07T20:08:40.583Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-07T20:03:16.101Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-07T19:57:30.822Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-07T19:52:43.796Z"
+  },
   {
    "name": "Shou Hal Ayyam - 2008 Remastered",
    "artists": "Ziad Rahbani",
