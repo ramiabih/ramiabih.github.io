@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-09T09:27:05.828592+00:00",
+ "updated": "2026-06-09T14:30:43.265018+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -39,18 +39,18 @@
      "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
     },
     {
-     "name": "No Mistakes",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
-    },
-    {
      "name": "Ghost Town",
      "artists": "Kanye West, PARTYNEXTDOOR",
      "album": "ye",
      "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
+    },
+    {
+     "name": "No Mistakes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
     },
     {
      "name": "Yikes",
@@ -801,6 +801,48 @@
  },
  "recent": [
   {
+   "name": "Nassam Alayna El Hawa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
+   "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN",
+   "played_at": "2026-06-09T11:57:59.835Z"
+  },
+  {
+   "name": "Tamally Maak",
+   "artists": "Amr Diab",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+   "played_at": "2026-06-09T11:04:18.718Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-06-09T11:00:13.234Z"
+  },
+  {
+   "name": "A Change Is Gonna Come",
+   "artists": "Sam Cooke",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738eb25c6bc74158e97d389890",
+   "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot",
+   "played_at": "2026-06-09T10:54:15.301Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-09T10:47:11.662Z"
+  },
+  {
+   "name": "Ghost Town",
+   "artists": "Kanye West, PARTYNEXTDOOR",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+   "played_at": "2026-06-09T10:36:17.510Z"
+  },
+  {
    "name": "Tamally Maak",
    "artists": "Amr Diab",
    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
@@ -1086,13 +1128,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
    "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
    "played_at": "2026-06-03T05:32:06.403Z"
-  },
-  {
-   "name": "We Don't Care",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-   "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB",
-   "played_at": "2026-06-02T13:59:38.499Z"
   }
  ]
 }
