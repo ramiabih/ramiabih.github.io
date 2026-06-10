@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-09T19:58:27.839721+00:00",
+ "updated": "2026-06-10T02:39:14.883062+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -180,14 +180,6 @@
      "genres": [
       "hip hop",
       "west coast hip hop"
-     ]
-    },
-    {
-     "name": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
-     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "retro soul"
      ]
     },
     {
@@ -800,6 +792,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Dadouk",
+   "artists": "Jaaneman",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c5ff6c19b3140d0f91377af9",
+   "url": "https://open.spotify.com/track/2ARfWhtQYPaBKU450SKnZY",
+   "played_at": "2026-06-09T23:40:46.195Z"
+  },
   {
    "name": "Nassam Alayna El Hawa",
    "artists": "Fairuz",
