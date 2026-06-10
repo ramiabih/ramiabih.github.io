@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-10T14:57:20.634075+00:00",
+ "updated": "2026-06-10T20:16:01.977232+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1029,90 +1029,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
    "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
    "played_at": "2026-06-03T21:43:05.468Z"
-  },
-  {
-   "name": "PUNCH DRUNK",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV",
-   "played_at": "2026-06-03T18:19:57.984Z"
-  },
-  {
-   "name": "PREACHER MAN",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ",
-   "played_at": "2026-06-03T18:18:11.743Z"
-  },
-  {
-   "name": "BEAUTY AND THE BEAST",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn",
-   "played_at": "2026-06-03T18:14:57.354Z"
-  },
-  {
-   "name": "Haditouni",
-   "artists": "Douaa",
-   "image": "https://i.scdn.co/image/ab67616d0000b273936b4e6df0a18f3d12a8b367",
-   "url": "https://open.spotify.com/track/4jdUdJZgXFjJhYIRGyKRC4",
-   "played_at": "2026-06-03T18:12:41.679Z"
-  },
-  {
-   "name": "Fever",
-   "artists": "Robert Glasper, Hindi Zahra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736c39aa3c2feaf1bb60d8433d",
-   "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR",
-   "played_at": "2026-06-03T18:08:14.488Z"
-  },
-  {
-   "name": "Bisaraha",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
-   "played_at": "2026-06-03T17:59:46.204Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
-   "played_at": "2026-06-03T17:52:47.372Z"
-  },
-  {
-   "name": "Shayef El Bahr",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
-   "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
-   "played_at": "2026-06-03T17:46:33.527Z"
-  },
-  {
-   "name": "Shayef El Bahr",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
-   "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
-   "played_at": "2026-06-03T17:42:14.264Z"
-  },
-  {
-   "name": "It takes a lot to try",
-   "artists": "Aviram",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
-   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
-   "played_at": "2026-06-03T17:38:07.456Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-06-03T17:34:38.457Z"
-  },
-  {
-   "name": "SOLEIL",
-   "artists": "Naïka",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
-   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
-   "played_at": "2026-06-03T17:28:01.762Z"
   }
  ]
 }
