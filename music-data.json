@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-10T02:39:14.883062+00:00",
+ "updated": "2026-06-10T09:42:47.587628+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1113,20 +1113,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
    "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
    "played_at": "2026-06-03T17:28:01.762Z"
-  },
-  {
-   "name": "Graduation Day",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-   "url": "https://open.spotify.com/track/7wL7Lb8Q3aYyq6gmRL0PZq",
-   "played_at": "2026-06-03T05:32:13.554Z"
-  },
-  {
-   "name": "I Thought About Killing You",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
-   "played_at": "2026-06-03T05:32:06.403Z"
   }
  ]
 }
