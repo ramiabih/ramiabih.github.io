@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-10T20:16:01.977232+00:00",
+ "updated": "2026-06-11T02:49:17.563699+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1022,13 +1022,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
    "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
    "played_at": "2026-06-04T15:38:52.949Z"
-  },
-  {
-   "name": "ALL THE LOVE (feat. Andre Troutman)",
-   "artists": "Kanye West, Ye, Andre Troutman",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
-   "played_at": "2026-06-03T21:43:05.468Z"
   }
  ]
 }
