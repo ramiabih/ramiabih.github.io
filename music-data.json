@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-11T15:39:10.107178+00:00",
+ "updated": "2026-06-11T20:11:33.830611+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -74,13 +74,6 @@
      "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot"
     },
     {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
-    },
-    {
      "name": "Can I Call You Rose?",
      "artists": "Isabel",
      "album": "Can I Call You Rose?",
@@ -88,11 +81,39 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+    },
+    {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Saalouny El Nas",
@@ -109,39 +130,18 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
-     "name": "Nasini El Donya",
-     "artists": "Ragheb Alama",
-     "album": "El Hob El Kebir",
-     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+     "name": "YAH.",
+     "artists": "Kendrick Lamar",
+     "album": "DAMN.",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+     "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni"
     }
    ],
    "artists": [
@@ -166,20 +166,20 @@
      "genres": []
     },
     {
-     "name": "Wael Kfoury",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
-     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
-     "genres": [
-      "khaleeji"
-     ]
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
      "genres": [
       "hip hop",
       "west coast hip hop"
+     ]
+    },
+    {
+     "name": "Wael Kfoury",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
+     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
+     "genres": [
+      "khaleeji"
      ]
     },
     {
@@ -792,6 +792,34 @@
   }
  },
  "recent": [
+  {
+   "name": "Law Hobna Ghalta",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+   "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
+   "played_at": "2026-06-11T18:06:24.530Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
+   "played_at": "2026-06-11T18:01:32.528Z"
+  },
+  {
+   "name": "Fayek Alaya",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
+   "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ",
+   "played_at": "2026-06-11T17:55:00.103Z"
+  },
+  {
+   "name": "Nassam Alayna El Hawa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
+   "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN",
+   "played_at": "2026-06-11T17:51:59.973Z"
+  },
   {
    "name": "Dadouk",
    "artists": "Jaaneman",
