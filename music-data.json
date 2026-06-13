@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-13T13:29:31.296441+00:00",
+ "updated": "2026-06-13T19:11:05.268719+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -792,6 +792,41 @@
   }
  },
  "recent": [
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-06-13T18:38:46.621Z"
+  },
+  {
+   "name": "W'Kameh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+   "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2",
+   "played_at": "2026-06-13T18:32:34.062Z"
+  },
+  {
+   "name": "W'Kameh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+   "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2",
+   "played_at": "2026-06-13T18:30:21.331Z"
+  },
+  {
+   "name": "Bent El Chalabiya",
+   "artists": "Munir Bachir",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
+   "played_at": "2026-06-13T18:21:06.587Z"
+  },
+  {
+   "name": "Bent El Chalabiya",
+   "artists": "Munir Bachir",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
+   "played_at": "2026-06-13T18:20:26.605Z"
+  },
   {
    "name": "Takassim 'Banat Iskandariya'",
    "artists": "Oriental Lebanese Band",
