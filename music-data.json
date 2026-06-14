@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T09:20:32.506806+00:00",
+ "updated": "2026-06-14T13:43:50.457136+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -39,13 +39,6 @@
      "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
     },
     {
-     "name": "No Mistakes",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
-    },
-    {
      "name": "Ghost Town",
      "artists": "Kanye West, PARTYNEXTDOOR",
      "album": "ye",
@@ -53,18 +46,11 @@
      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
     },
     {
-     "name": "All Mine",
+     "name": "No Mistakes",
      "artists": "Kanye West",
      "album": "ye",
      "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
-    },
-    {
-     "name": "Violent Crimes",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
     },
     {
      "name": "A Change Is Gonna Come",
@@ -74,11 +60,25 @@
      "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot"
     },
     {
+     "name": "Violent Crimes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+    },
+    {
      "name": "Shayef El Bahr Shou Kebeer",
      "artists": "Fairuz",
      "album": "Habbaitak Be El Saif, Vol. 2",
      "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
      "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
+     "name": "All Mine",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
     },
     {
      "name": "Can I Call You Rose?",
@@ -591,18 +591,18 @@
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
-     "name": "Aloula",
-     "artists": "Fairuz",
-     "album": "Fairuz - Modern Favorites",
-     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
-    },
-    {
      "name": "We Don't Care",
      "artists": "Kanye West",
      "album": "The College Dropout",
      "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
      "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB"
+    },
+    {
+     "name": "Aloula",
+     "artists": "Fairuz",
+     "album": "Fairuz - Modern Favorites",
+     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
     },
     {
      "name": "I Thought About Killing You",
@@ -619,11 +619,11 @@
      "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
     },
     {
-     "name": "I Wanna Be Yours",
-     "artists": "Arctic Monkeys",
-     "album": "AM",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-     "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
      "name": "Ghost Town",
@@ -800,6 +800,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-06-13T22:30:19.140Z"
+  },
   {
    "name": "Weak for Your Love",
    "artists": "Thee Sacred Souls",
@@ -1142,13 +1149,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
    "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
    "played_at": "2026-06-07T14:00:26.562Z"
-  },
-  {
-   "name": "Ghost Town",
-   "artists": "Kanye West, PARTYNEXTDOOR",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
-   "played_at": "2026-06-07T11:07:05.640Z"
   }
  ]
 }
