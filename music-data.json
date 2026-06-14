@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T13:43:50.457136+00:00",
+ "updated": "2026-06-14T19:12:32.081856+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -801,6 +801,69 @@
  },
  "recent": [
   {
+   "name": "Over and Over",
+   "artists": "The Altons",
+   "image": "https://i.scdn.co/image/ab67616d0000b27323bd29641cd9967af2b33df0",
+   "url": "https://open.spotify.com/track/5Iel8B8LQe12lEofB20OTp",
+   "played_at": "2026-06-14T18:46:06.181Z"
+  },
+  {
+   "name": "Bésame (Cnt. 1:1)",
+   "artists": "Darviin",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736471f5d338494d74cfa1ac2c",
+   "url": "https://open.spotify.com/track/1nRRT4Tx2LTuDlyqut5h1C",
+   "played_at": "2026-06-14T18:42:19.273Z"
+  },
+  {
+   "name": "Seems Like",
+   "artists": "Thee Sinseers",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9954e8ec997f3aaa1821269",
+   "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F",
+   "played_at": "2026-06-14T18:38:24.688Z"
+  },
+  {
+   "name": "Future Lover",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+   "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK",
+   "played_at": "2026-06-14T18:35:12.669Z"
+  },
+  {
+   "name": "Bent El Chalabiya",
+   "artists": "Munir Bachir",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
+   "played_at": "2026-06-14T18:31:43.051Z"
+  },
+  {
+   "name": "La Luna en tu Mirada",
+   "artists": "Los Zafiros",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e01f0719092d310f70701823",
+   "url": "https://open.spotify.com/track/7a2ecCwcyHGFozUiEQspho",
+   "played_at": "2026-06-14T18:28:48.292Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-06-14T18:26:15.383Z"
+  },
+  {
+   "name": "Lamma Bada Yatathana",
+   "artists": "Lena Chamamyan",
+   "image": "https://i.scdn.co/image/ab67616d0000b27328cfc8fdba73216613ca9087",
+   "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO",
+   "played_at": "2026-06-14T18:20:02.660Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-06-14T12:34:38.401Z"
+  },
+  {
    "name": "Wahdon",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
@@ -1086,69 +1149,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
    "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz",
    "played_at": "2026-06-07T20:13:33.221Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-06-07T20:11:10.923Z"
-  },
-  {
-   "name": "Oum Fout Nam",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-   "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye",
-   "played_at": "2026-06-07T20:08:40.583Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-06-07T20:03:16.101Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-06-07T19:57:30.822Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-06-07T19:52:43.796Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-06-07T14:33:45.915Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-06-07T14:28:00.071Z"
-  },
-  {
-   "name": "Batwanes Beek",
-   "artists": "Warda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
-   "played_at": "2026-06-07T14:21:04.266Z"
-  },
-  {
-   "name": "Violent Crimes",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
-   "played_at": "2026-06-07T14:00:26.562Z"
   }
  ]
 }
