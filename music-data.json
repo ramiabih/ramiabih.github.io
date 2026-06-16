@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T16:27:34.738399+00:00",
+ "updated": "2026-06-16T20:41:26.894034+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -281,6 +281,13 @@
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     },
     {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+    },
+    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
@@ -293,13 +300,6 @@
      "album": "Konna Netlaka",
      "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
      "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
-    },
-    {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -337,11 +337,11 @@
      "url": "https://open.spotify.com/track/79VriB0355E7YnBXzRcV2D"
     },
     {
-     "name": "Ya Ana Ya Ana - Live",
-     "artists": "Fairuz",
-     "album": "Shahrazad (Live)",
-     "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
-     "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
+     "name": "Bala Wala Chi - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     }
    ],
    "artists": [
