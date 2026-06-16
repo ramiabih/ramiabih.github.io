@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T10:57:04.601576+00:00",
+ "updated": "2026-06-16T16:27:34.738399+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -392,7 +392,9 @@
      "name": "Louis Brigham",
      "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
      "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": []
+     "genres": [
+      "adult standards"
+     ]
     },
     {
      "name": "Sade",
