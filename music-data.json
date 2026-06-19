@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-18T20:13:10.354031+00:00",
+ "updated": "2026-06-19T03:32:48.283519+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -137,11 +137,11 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Ghost Town",
-     "artists": "Kanye West, PARTYNEXTDOOR",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     }
    ],
    "artists": [
@@ -794,6 +794,13 @@
  },
  "recent": [
   {
+   "name": "Alf Leila We Leila",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+   "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD",
+   "played_at": "2026-06-18T21:11:36.505Z"
+  },
+  {
    "name": "Batwanes Beek",
    "artists": "Warda",
    "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
@@ -1135,13 +1142,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
    "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
    "played_at": "2026-06-13T10:33:01.220Z"
-  },
-  {
-   "name": "Bala Wala Chi - Live",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-   "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV",
-   "played_at": "2026-06-13T10:29:57.610Z"
   }
  ]
 }
