@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T08:43:25.569619+00:00",
+ "updated": "2026-06-20T13:43:19.254746+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -39,20 +39,6 @@
      "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
-    },
-    {
-     "name": "Yikes",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
-    },
-    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
@@ -74,6 +60,13 @@
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+    },
+    {
      "name": "Law Hobna Ghalta",
      "artists": "Wael Kfoury",
      "album": "Law Hobna Ghalta",
@@ -81,32 +74,11 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Wouldn't Leave",
-     "artists": "Kanye West, PARTYNEXTDOOR",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
-    },
-    {
      "name": "Saalouny El Nas",
      "artists": "Fairuz",
      "album": "Emany Satea",
      "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
      "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
-    },
-    {
-     "name": "No Mistakes",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
-    },
-    {
-     "name": "All Mine",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
     },
     {
      "name": "Bisaraha",
@@ -137,11 +109,39 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
+     "name": "Wouldn't Leave",
+     "artists": "Kanye West, PARTYNEXTDOOR",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
+    },
+    {
+     "name": "Yikes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
+    },
+    {
+     "name": "W'Kameh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
+    },
+    {
+     "name": "No Mistakes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
     }
    ],
    "artists": [
@@ -794,6 +794,27 @@
  },
  "recent": [
   {
+   "name": "Ya rabaâ",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
+   "url": "https://open.spotify.com/track/5TOwHyD3uQWEeBh5b0cEzx",
+   "played_at": "2026-06-20T11:50:59.059Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+   "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD",
+   "played_at": "2026-06-20T11:39:41.438Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+   "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD",
+   "played_at": "2026-06-20T11:14:12.831Z"
+  },
+  {
    "name": "Alf Leila We Leila",
    "artists": "Umm Kulthum",
    "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
@@ -1121,27 +1142,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
    "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
    "played_at": "2026-06-13T18:20:26.605Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-06-13T10:41:06.885Z"
-  },
-  {
-   "name": "Shayef El Bahr",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
-   "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
-   "played_at": "2026-06-13T10:37:03.411Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-06-13T10:33:01.220Z"
   }
  ]
 }
