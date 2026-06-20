@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T13:43:19.254746+00:00",
+ "updated": "2026-06-20T19:12:15.688201+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -794,6 +794,13 @@
  },
  "recent": [
   {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-20T15:37:44.150Z"
+  },
+  {
    "name": "Ya rabaâ",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
@@ -1100,48 +1107,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
    "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
    "played_at": "2026-06-13T19:21:10.835Z"
-  },
-  {
-   "name": "Habbeytak",
-   "artists": "Jacques Kodjian",
-   "image": "https://i.scdn.co/image/ab67616d0000b27300745f27556bb81a54045645",
-   "url": "https://open.spotify.com/track/1aAgyGFDV27YmfQeaDQxmU",
-   "played_at": "2026-06-13T18:51:33.762Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-06-13T18:38:46.621Z"
-  },
-  {
-   "name": "W'Kameh",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-   "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2",
-   "played_at": "2026-06-13T18:32:34.062Z"
-  },
-  {
-   "name": "W'Kameh",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-   "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2",
-   "played_at": "2026-06-13T18:30:21.331Z"
-  },
-  {
-   "name": "Bent El Chalabiya",
-   "artists": "Munir Bachir",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
-   "played_at": "2026-06-13T18:21:06.587Z"
-  },
-  {
-   "name": "Bent El Chalabiya",
-   "artists": "Munir Bachir",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
-   "played_at": "2026-06-13T18:20:26.605Z"
   }
  ]
 }
