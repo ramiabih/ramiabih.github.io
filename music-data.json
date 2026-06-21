@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T09:38:25.538863+00:00",
+ "updated": "2026-06-21T13:51:20.220244+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -53,6 +53,20 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
      "name": "Bent El Chalabiya",
      "artists": "Munir Bachir",
      "album": "Aoud Around the Arab World",
@@ -81,25 +95,11 @@
      "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
     },
     {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
      "name": "Bala Wala Chi - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
-     "name": "Nasini El Donya",
-     "artists": "Ragheb Alama",
-     "album": "El Hob El Kebir",
-     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
      "name": "The Glory",
@@ -146,18 +146,18 @@
    ],
    "artists": [
     {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
+    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
       "rap"
      ]
-    },
-    {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
     },
     {
      "name": "Ziad Rahbani",
@@ -563,18 +563,18 @@
      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
-     "name": "White Dress",
-     "artists": "Kanye West",
-     "album": "The Man with the Iron Fists (Original Motion Picture Soundtrack)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
-     "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
-    },
-    {
      "name": "Nasini El Donya",
      "artists": "Ragheb Alama",
      "album": "El Hob El Kebir",
      "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "White Dress",
+     "artists": "Kanye West",
+     "album": "The Man with the Iron Fists (Original Motion Picture Soundtrack)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
+     "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
     },
     {
      "name": "Ankara",
@@ -793,6 +793,41 @@
   }
  },
  "recent": [
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
+   "played_at": "2026-06-21T12:05:23.620Z"
+  },
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-06-21T11:59:09.793Z"
+  },
+  {
+   "name": "Nasini El Donya",
+   "artists": "Ragheb Alama",
+   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
+   "played_at": "2026-06-21T11:54:58.489Z"
+  },
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-06-21T11:53:21.684Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-21T11:50:30.160Z"
+  },
   {
    "name": "Nasini El Donya",
    "artists": "Ragheb Alama",
@@ -1030,13 +1065,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27328cfc8fdba73216613ca9087",
    "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO",
    "played_at": "2026-06-14T18:20:02.660Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-06-14T12:34:38.401Z"
   }
  ]
 }
