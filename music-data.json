@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T13:51:20.220244+00:00",
+ "updated": "2026-06-21T19:18:07.415983+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1009,62 +1009,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273fba957f526936b65714b0ef6",
    "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP",
    "played_at": "2026-06-14T20:48:38.417Z"
-  },
-  {
-   "name": "Over and Over",
-   "artists": "The Altons",
-   "image": "https://i.scdn.co/image/ab67616d0000b27323bd29641cd9967af2b33df0",
-   "url": "https://open.spotify.com/track/5Iel8B8LQe12lEofB20OTp",
-   "played_at": "2026-06-14T18:46:06.181Z"
-  },
-  {
-   "name": "Bésame (Cnt. 1:1)",
-   "artists": "Darviin",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736471f5d338494d74cfa1ac2c",
-   "url": "https://open.spotify.com/track/1nRRT4Tx2LTuDlyqut5h1C",
-   "played_at": "2026-06-14T18:42:19.273Z"
-  },
-  {
-   "name": "Seems Like",
-   "artists": "Thee Sinseers",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c9954e8ec997f3aaa1821269",
-   "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F",
-   "played_at": "2026-06-14T18:38:24.688Z"
-  },
-  {
-   "name": "Future Lover",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK",
-   "played_at": "2026-06-14T18:35:12.669Z"
-  },
-  {
-   "name": "Bent El Chalabiya",
-   "artists": "Munir Bachir",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
-   "played_at": "2026-06-14T18:31:43.051Z"
-  },
-  {
-   "name": "La Luna en tu Mirada",
-   "artists": "Los Zafiros",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e01f0719092d310f70701823",
-   "url": "https://open.spotify.com/track/7a2ecCwcyHGFozUiEQspho",
-   "played_at": "2026-06-14T18:28:48.292Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-06-14T18:26:15.383Z"
-  },
-  {
-   "name": "Lamma Bada Yatathana",
-   "artists": "Lena Chamamyan",
-   "image": "https://i.scdn.co/image/ab67616d0000b27328cfc8fdba73216613ca9087",
-   "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO",
-   "played_at": "2026-06-14T18:20:02.660Z"
   }
  ]
 }
