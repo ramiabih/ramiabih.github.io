@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T19:12:15.688201+00:00",
+ "updated": "2026-06-21T02:53:24.092352+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -258,18 +258,18 @@
      "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
-    {
      "name": "Alf Leila We Leila",
      "artists": "Umm Kulthum",
      "album": "Umm Kulthum 1",
      "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
      "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+    },
+    {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Ya Ashikat El Ward",
@@ -794,6 +794,13 @@
  },
  "recent": [
   {
+   "name": "Nasini El Donya",
+   "artists": "Ragheb Alama",
+   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
+   "played_at": "2026-06-21T02:42:13.870Z"
+  },
+  {
    "name": "Shou Hal Ayyam - 2008 Remastered",
    "artists": "Ziad Rahbani",
    "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
@@ -1030,83 +1037,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
    "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
    "played_at": "2026-06-14T12:34:38.401Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-06-13T22:30:19.140Z"
-  },
-  {
-   "name": "Weak for Your Love",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/3W4xqKFMKBauuU517t8NIb",
-   "played_at": "2026-06-13T22:14:09.358Z"
-  },
-  {
-   "name": "The Glory",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
-   "played_at": "2026-06-13T22:07:43.361Z"
-  },
-  {
-   "name": "Violent Crimes",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
-   "played_at": "2026-06-13T22:04:12.564Z"
-  },
-  {
-   "name": "Violent Crimes",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
-   "played_at": "2026-06-13T22:00:49.799Z"
-  },
-  {
-   "name": "Ghost Town",
-   "artists": "Kanye West, PARTYNEXTDOOR",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
-   "played_at": "2026-06-13T19:37:08.831Z"
-  },
-  {
-   "name": "No Mistakes",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba",
-   "played_at": "2026-06-13T19:32:26.539Z"
-  },
-  {
-   "name": "Wouldn't Leave",
-   "artists": "Kanye West, PARTYNEXTDOOR",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd",
-   "played_at": "2026-06-13T19:30:22.639Z"
-  },
-  {
-   "name": "All Mine",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn",
-   "played_at": "2026-06-13T19:26:57.196Z"
-  },
-  {
-   "name": "Yikes",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG",
-   "played_at": "2026-06-13T19:24:31.737Z"
-  },
-  {
-   "name": "I Thought About Killing You",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-   "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
-   "played_at": "2026-06-13T19:21:10.835Z"
   }
  ]
 }
