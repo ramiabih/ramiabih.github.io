@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T02:53:24.092352+00:00",
+ "updated": "2026-06-21T09:38:25.538863+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -95,6 +95,13 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
      "name": "The Glory",
      "artists": "Kanye West",
      "album": "Graduation",
@@ -116,20 +123,6 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
-     "name": "Wouldn't Leave",
-     "artists": "Kanye West, PARTYNEXTDOOR",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
-    },
-    {
-     "name": "Yikes",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
-    },
-    {
      "name": "W'Kameh",
      "artists": "Fairuz",
      "album": "Mish Kayan Hayek T'Koun",
@@ -137,11 +130,18 @@
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
-     "name": "No Mistakes",
-     "artists": "Kanye West",
+     "name": "Ya Rabaâ",
+     "artists": "Fairuz",
+     "album": "Old Is Gold",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731ee488d2dd4491caedd0e044",
+     "url": "https://open.spotify.com/track/0iTidIMDh2IvGryXfUfpDM"
+    },
+    {
+     "name": "Ghost Town",
+     "artists": "Kanye West, PARTYNEXTDOOR",
      "album": "ye",
      "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/35KV2Nuib6jPMVN00O8iba"
+     "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
     }
    ],
    "artists": [
