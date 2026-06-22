@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T19:18:07.415983+00:00",
+ "updated": "2026-06-22T02:56:01.949526+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -314,6 +314,13 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
      "name": "El Bint El Awiye",
      "artists": "Wael Kfoury",
      "album": "El Bint El Awiye",
@@ -326,13 +333,6 @@
      "album": "Step by Step",
      "image": "https://i.scdn.co/image/ab67616d0000b2734dc43ed9c2749b8b26ca8eea",
      "url": "https://open.spotify.com/track/79VriB0355E7YnBXzRcV2D"
-    },
-    {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     }
    ],
    "artists": [
@@ -1002,13 +1002,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
    "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD",
    "played_at": "2026-06-16T07:16:47.456Z"
-  },
-  {
-   "name": "I Only Have Eyes for You",
-   "artists": "The Flamingos",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fba957f526936b65714b0ef6",
-   "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP",
-   "played_at": "2026-06-14T20:48:38.417Z"
   }
  ]
 }
