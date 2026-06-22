@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T16:40:10.142112+00:00",
+ "updated": "2026-06-22T20:35:48.302548+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -793,6 +793,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
+   "played_at": "2026-06-22T19:49:09.717Z"
+  },
   {
    "name": "Wahdon",
    "artists": "Fairuz",
