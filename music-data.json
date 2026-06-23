@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T20:35:48.302548+00:00",
+ "updated": "2026-06-23T02:31:16.456156+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -18,13 +18,6 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "I Thought About Killing You",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
-    },
-    {
      "name": "A Change Is Gonna Come",
      "artists": "Sam Cooke",
      "album": "Ain't That Good News",
@@ -32,18 +25,11 @@
      "url": "https://open.spotify.com/track/0D0NwBMfJPoh1sZ61p5Fot"
     },
     {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+     "name": "I Thought About Killing You",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
     },
     {
      "name": "Oum Fout Nam",
@@ -58,6 +44,13 @@
      "album": "Houdou Nisbi",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
      "name": "Nasini El Donya",
@@ -81,11 +74,11 @@
      "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Saalouny El Nas",
@@ -102,18 +95,11 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
      "name": "Can I Call You Rose?",
@@ -137,11 +123,25 @@
      "url": "https://open.spotify.com/track/0iTidIMDh2IvGryXfUfpDM"
     },
     {
-     "name": "Ghost Town",
-     "artists": "Kanye West, PARTYNEXTDOOR",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+    },
+    {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+     "name": "Nassam Alayna El Hawa",
+     "artists": "Fairuz",
+     "album": "Bent El Hares",
+     "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
+     "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
     }
    ],
    "artists": [
