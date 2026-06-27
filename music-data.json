@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-27T08:27:55.008033+00:00",
+ "updated": "2026-06-27T13:15:17.512180+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -340,23 +340,24 @@
      "name": "Fairuz",
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
      "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": [
-      "khaleeji"
-     ]
+     "genres": []
     },
     {
      "name": "Ziad Rahbani",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": [
-      "retro soul"
+      "khaleeji"
      ]
     },
     {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
-     "genres": []
+     "genres": [
+      "house",
+      "tech house"
+     ]
     },
     {
      "name": "ABBA",
@@ -371,38 +372,36 @@
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
-     "genres": [
-      "adult standards"
-     ]
+     "genres": []
     },
     {
      "name": "Bear McCreary",
      "image": "https://i.scdn.co/image/ab6761610000e5eb7cfb8906597801fcadec3513",
      "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG",
-     "genres": []
+     "genres": [
+      "score",
+      "soundtrack"
+     ]
     },
     {
      "name": "Louis Brigham",
      "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
      "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": []
+     "genres": [
+      "adult standards"
+     ]
     },
     {
      "name": "Sade",
      "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
      "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": [
-      "soundtrack",
-      "score"
-     ]
+     "genres": []
     },
     {
      "name": "Thee Sacred Souls",
      "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
      "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "neo-psychedelic"
-     ]
+     "genres": []
     },
     {
      "name": "Khruangbin",
@@ -414,23 +413,23 @@
      "name": "Mac Miller",
      "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
      "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
+     "genres": [
+      "rap"
+     ]
     },
     {
      "name": "Oriental Lebanese Band",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/artist/2SnZNKC6aZINg87x5to5rg",
-     "genres": [
-      "score",
-      "soundtrack"
-     ]
+     "genres": []
     },
     {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
      "genres": [
-      "rap"
+      "soundtrack",
+      "score"
      ]
     },
     {
@@ -438,8 +437,7 @@
      "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
      "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
      "genres": [
-      "house",
-      "tech house"
+      "neo-psychedelic"
      ]
     },
     {
@@ -479,7 +477,9 @@
      "name": "Zaki Nassif",
      "image": "https://i.scdn.co/image/ab67616d0000b27328840e4aad2b84e07b2f93c0",
      "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT",
-     "genres": []
+     "genres": [
+      "retro soul"
+     ]
     }
    ]
   },
@@ -632,8 +632,7 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
      "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
      "genres": [
-      "soundtrack",
-      "score"
+      "rap"
      ]
     },
     {
@@ -641,8 +640,11 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
-      "hip hop",
-      "west coast hip hop"
+      "progressive rock",
+      "psychedelic rock",
+      "classic rock",
+      "art rock",
+      "rock"
      ]
     },
     {
@@ -650,23 +652,29 @@
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": [
-      "organic house",
-      "tribal house",
-      "downtempo",
-      "deep house"
+      "indie soul",
+      "neo soul"
      ]
     },
     {
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
-     "genres": []
+     "genres": [
+      "neo-psychedelic"
+     ]
     },
     {
      "name": "Mac Miller",
      "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
      "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
+     "genres": [
+      "soul",
+      "soul blues",
+      "blues",
+      "classic soul",
+      "vocal jazz"
+     ]
     },
     {
      "name": "Thee Sacred Souls",
@@ -678,76 +686,50 @@
      "name": "Hotel Ugly",
      "image": "https://i.scdn.co/image/ab6761610000e5eb939033cc36c08ab68b33f760",
      "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb",
-     "genres": [
-      "indie soul",
-      "neo soul"
-     ]
+     "genres": []
     },
     {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
-     "genres": [
-      "rap"
-     ]
+     "genres": []
     },
     {
      "name": "Khruangbin",
      "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
      "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": [
-      "soul",
-      "soul blues",
-      "blues",
-      "classic soul",
-      "vocal jazz"
-     ]
+     "genres": []
     },
     {
      "name": "The Beatles",
      "image": "https://i.scdn.co/image/ab6761610000e5eb119b61b35985e3b957c5ecb7",
      "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
-     "genres": [
-      "neo-psychedelic"
-     ]
+     "genres": []
     },
     {
      "name": "Path to the Wild",
      "image": "https://i.scdn.co/image/ab6761610000e5eb317527e201289a10f1b82828",
      "url": "https://open.spotify.com/artist/1ySVx1trQOpfqKLkBSrHNI",
      "genres": [
-      "progressive rock",
-      "psychedelic rock",
-      "classic rock",
-      "art rock",
-      "rock"
+      "organic house",
+      "tribal house",
+      "downtempo",
+      "deep house"
      ]
     },
     {
      "name": "Daniel Caesar",
      "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
      "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA",
-     "genres": []
-    },
-    {
-     "name": "Thundercat",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
-     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-     "genres": []
-    },
-    {
-     "name": "Hraach",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
-     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
      "genres": [
       "classic rock",
       "psychedelic rock"
      ]
     },
     {
-     "name": "¥$",
-     "image": "https://i.scdn.co/image/ab6761610000e5eba670555775b5381ac0519658",
-     "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv",
+     "name": "Thundercat",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
+     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
      "genres": [
       "motown",
       "soul",
@@ -756,10 +738,28 @@
      ]
     },
     {
+     "name": "Hraach",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
+     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
+     "genres": [
+      "hip hop",
+      "west coast hip hop"
+     ]
+    },
+    {
+     "name": "¥$",
+     "image": "https://i.scdn.co/image/ab6761610000e5eba670555775b5381ac0519658",
+     "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv",
+     "genres": []
+    },
+    {
      "name": "Pink Floyd",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3c9e8c67b087ba0cb5923b78",
      "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
-     "genres": []
+     "genres": [
+      "soundtrack",
+      "score"
+     ]
     },
     {
      "name": "Otis Redding",
@@ -1114,27 +1114,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
    "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
    "played_at": "2026-06-20T15:37:44.150Z"
-  },
-  {
-   "name": "Ya rabaâ",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
-   "url": "https://open.spotify.com/track/5TOwHyD3uQWEeBh5b0cEzx",
-   "played_at": "2026-06-20T11:50:59.059Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "Umm Kulthum",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-   "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD",
-   "played_at": "2026-06-20T11:39:41.438Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "Umm Kulthum",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-   "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD",
-   "played_at": "2026-06-20T11:14:12.831Z"
   }
  ]
 }
