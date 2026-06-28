@@ -14,9 +14,11 @@
     </header>
 
     <main class="tuner-main">
-        <div class="tuning-toggle">
-            <button class="toggle-btn active" data-mode="arabic">Arabic</button>
-            <button class="toggle-btn" data-mode="turkish">Turkish</button>
+        <div class="preset-bar">
+            <span class="preset-label">Load preset:</span>
+            <button class="preset-btn" data-preset="default">F A D G C F</button>
+            <button class="preset-btn" data-preset="arabic">Arabic</button>
+            <button class="preset-btn" data-preset="turkish">Turkish</button>
         </div>
 
         <div class="tuner-display">
@@ -38,23 +40,33 @@
         <button class="listen-btn" id="listen-btn">Start Listening</button>
 
         <section class="strings-section">
-            <h3>Strings</h3>
+            <h3>Strings <span class="strings-hint">type a note (e.g. D3) or Hz (e.g. 146.8)</span></h3>
             <div class="strings-list" id="strings-list"></div>
         </section>
 
         <p class="tuner-note">
-            Click <strong>Start Listening</strong> to tune by ear using your microphone — the tuner will detect
-            the pitch and show how flat or sharp each string is. Click <strong>▶ Play</strong> to hear the target
-            pitch for any string.
+            Click <strong>Start Listening</strong> to tune using your microphone — the tuner detects pitch in real time.
+            Click <strong>&#9654; Play</strong> to hear the reference tone for any string.
         </p>
     </main>
 
     <footer></footer>
 
     <script>
-        // ===== TUNINGS =====
-        // Strings listed highest to lowest (guitar convention: string 1 = highest)
-        const TUNINGS = {
+        // ===== DEFAULT TUNING =====
+        // F A D G C F from low to high; displayed string 1 = highest
+        const DEFAULT_TUNING = [
+            { string: 1, note: 'F4',  freq: 349.23 },
+            { string: 2, note: 'C4',  freq: 261.63 },
+            { string: 3, note: 'G3',  freq: 196.00 },
+            { string: 4, note: 'D3',  freq: 146.83 },
+            { string: 5, note: 'A2',  freq: 110.00 },
+            { string: 6, note: 'F2',  freq: 87.31  },
+        ];
+
+        // ===== PRESETS =====
+        const PRESETS = {
+            default: DEFAULT_TUNING,
             arabic: [
                 { string: 1, note: 'C4',  freq: 261.63 },
                 { string: 2, note: 'G3',  freq: 196.00 },
@@ -74,7 +86,7 @@
         };
 
         // ===== STATE =====
-        let currentMode = 'arabic';
+        let strings = DEFAULT_TUNING.map(s => ({ ...s }));
         let isListening = false;
         let audioCtx = null;
         let analyser = null;
@@ -85,13 +97,11 @@
 
         // ===== AUDIO CONTEXT =====
         function getAudioCtx() {
-            if (!audioCtx) {
-                audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-            }
+            if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
             return audioCtx;
         }
 
-        // ===== PLAY REFERENCE TONE (warm multi-harmonic) =====
+        // ===== PLAY REFERENCE TONE =====
         function playTone(frequency) {
             const ctx = getAudioCtx();
             if (ctx.state === 'suspended') ctx.resume();
@@ -99,15 +109,7 @@
             const master = ctx.createGain();
             master.connect(ctx.destination);
 
-            // Fundamental + harmonics for a warmer oud-like tone
-            const harmonics = [
-                [1,   0.55],
-                [2,   0.25],
-                [3,   0.12],
-                [4,   0.05],
-            ];
-
-            harmonics.forEach(([mult, amp]) => {
+            [[1, 0.55], [2, 0.25], [3, 0.12], [4, 0.05]].forEach(([mult, amp]) => {
                 const osc = ctx.createOscillator();
                 const g   = ctx.createGain();
                 osc.type = 'sine';
@@ -119,39 +121,78 @@
                 osc.stop(ctx.currentTime + 2.5);
             });
 
-            // Pluck-like envelope: fast attack, exponential decay
             master.gain.setValueAtTime(0, ctx.currentTime);
             master.gain.linearRampToValueAtTime(0.9, ctx.currentTime + 0.015);
             master.gain.exponentialRampToValueAtTime(0.45, ctx.currentTime + 0.35);
             master.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 2.5);
         }
 
-        // ===== PITCH DETECTION via autocorrelation =====
-        // Based on the approach by Chris Wilson / Helmholtz
+        // ===== INPUT PARSING =====
+        const NOTE_BASE = { C:0, D:2, E:4, F:5, G:7, A:9, B:11 };
+        const NOTE_NAMES = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
+
+        function freqToNote(freq) {
+            const midi = Math.round(12 * Math.log2(freq / 440) + 69);
+            const semi  = ((midi % 12) + 12) % 12;
+            const octave = Math.floor(midi / 12) - 1;
+            return NOTE_NAMES[semi] + octave;
+        }
+
+        function noteToFreq(letter, acc, octave) {
+            let semi = NOTE_BASE[letter.toUpperCase()];
+            if (acc === '#' || acc === '♯') semi++;
+            if (acc === 'b' || acc === '♭') semi--;
+            semi = ((semi % 12) + 12) % 12;
+            const midi = (octave + 1) * 12 + semi;
+            return 440 * Math.pow(2, (midi - 69) / 12);
+        }
+
+        // Accepts: "F4", "F#4", "Bb3", "349.23", "349.23 Hz"
+        function parseInput(raw) {
+            const str = raw.trim();
+            if (!str) return null;
+
+            // Note name first
+            const nm = str.match(/^([A-Ga-g])([#b♯♭]?)(\d)$/);
+            if (nm) {
+                const acc = nm[2];
+                const oct = parseInt(nm[3]);
+                const freq = noteToFreq(nm[1], acc, oct);
+                const note = nm[1].toUpperCase() + acc.replace('♯','#').replace('♭','b') + nm[3];
+                return { freq, note };
+            }
+
+            // Frequency (number, optional Hz suffix)
+            const hm = str.match(/^(\d+(?:\.\d+)?)\s*(?:[Hh][Zz])?$/);
+            if (hm) {
+                const freq = parseFloat(hm[1]);
+                if (freq > 20 && freq < 5000) return { freq, note: freqToNote(freq) };
+            }
+
+            return null;
+        }
+
+        // ===== PITCH DETECTION =====
         function autoCorrelate(buf, sampleRate) {
             const SIZE = buf.length;
             let rms = 0;
             for (let i = 0; i < SIZE; i++) rms += buf[i] * buf[i];
             rms = Math.sqrt(rms / SIZE);
-            if (rms < 0.008) return -1; // silence
+            if (rms < 0.008) return -1;
 
-            // Trim quiet edges
             let r1 = 0, r2 = SIZE - 1;
-            const thres = 0.2;
-            for (let i = 0; i < SIZE / 2; i++) { if (Math.abs(buf[i]) < thres) { r1 = i; break; } }
-            for (let i = 1; i < SIZE / 2; i++) { if (Math.abs(buf[SIZE - i]) < thres) { r2 = SIZE - i; break; } }
+            for (let i = 0; i < SIZE / 2; i++) { if (Math.abs(buf[i]) < 0.2) { r1 = i; break; } }
+            for (let i = 1; i < SIZE / 2; i++) { if (Math.abs(buf[SIZE - i]) < 0.2) { r2 = SIZE - i; break; } }
 
             const seg = buf.slice(r1, r2);
             const N = seg.length;
             if (N < 2) return -1;
 
-            // Compute autocorrelation
             const c = new Float32Array(N);
             for (let i = 0; i < N; i++)
                 for (let j = 0; j < N - i; j++)
                     c[i] += seg[j] * seg[j + i];
 
-            // Find first trough then highest peak after it
             let d = 0;
             while (d < N - 1 && c[d] > c[d + 1]) d++;
             let maxVal = -Infinity, maxPos = -1;
@@ -160,19 +201,22 @@
             }
             if (maxPos < 1 || maxPos >= N - 1) return -1;
 
-            // Parabolic interpolation for sub-sample accuracy
             const y1 = c[maxPos - 1], y2 = c[maxPos], y3 = c[maxPos + 1];
             const a = (y1 + y3 - 2 * y2) / 2;
             const T0 = (a !== 0) ? maxPos - (y3 - y1) / (4 * a) : maxPos;
-
             return sampleRate / T0;
         }
 
-        // ===== NOTE UTILITIES =====
-        const NOTE_NAMES = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
+        // ===== DOM =====
+        const elNote    = document.getElementById('display-note');
+        const elCents   = document.getElementById('display-cents');
+        const elStatus  = document.getElementById('display-status');
+        const elNeedle  = document.getElementById('meter-needle');
+        const elStrings = document.getElementById('strings-list');
+        const elBtn     = document.getElementById('listen-btn');
 
+        // ===== CLOSEST STRING =====
         function closestString(freq) {
-            const strings = TUNINGS[currentMode];
             let best = null, bestCents = Infinity;
             strings.forEach(s => {
                 const cents = Math.abs(1200 * Math.log2(freq / s.freq));
@@ -181,19 +225,7 @@
             return best;
         }
 
-        function centsDiff(freq, targetFreq) {
-            return Math.round(1200 * Math.log2(freq / targetFreq));
-        }
-
-        // ===== DOM ELEMENTS =====
-        const elNote    = document.getElementById('display-note');
-        const elCents   = document.getElementById('display-cents');
-        const elStatus  = document.getElementById('display-status');
-        const elNeedle  = document.getElementById('meter-needle');
-        const elStrings = document.getElementById('strings-list');
-        const elBtn     = document.getElementById('listen-btn');
-
-        // ===== UPDATE DISPLAY =====
+        // ===== DISPLAY UPDATE =====
         function updateDisplay(freq) {
             if (freq < 0) {
                 elNote.textContent = '—';
@@ -207,7 +239,7 @@
             }
 
             const closest = closestString(freq);
-            const cents   = centsDiff(freq, closest.freq);
+            const cents   = Math.round(1200 * Math.log2(freq / closest.freq));
             const clamped = Math.max(-50, Math.min(50, cents));
             elNeedle.style.left = (50 + clamped) + '%';
             elNote.textContent = closest.note;
@@ -238,52 +270,113 @@
             });
         }
 
-        // ===== RENDER STRINGS LIST =====
+        // ===== RENDER STRINGS =====
         function renderStrings() {
-            const strings = TUNINGS[currentMode];
             elStrings.innerHTML = strings.map(s => `
                 <div class="string-row" data-string="${s.string}">
                     <span class="string-num">${s.string}</span>
-                    <span class="string-note">${s.note}</span>
-                    <span class="string-freq">${s.freq.toFixed(1)} Hz</span>
-                    <button class="string-play" data-freq="${s.freq}">&#9654; Play</button>
+                    <div class="string-edit">
+                        <input
+                            class="string-input"
+                            type="text"
+                            value="${s.note}"
+                            aria-label="String ${s.string} pitch"
+                            data-string="${s.string}"
+                        />
+                        <span class="string-hz">${s.freq.toFixed(1)} Hz</span>
+                    </div>
+                    <button class="string-play" data-string="${s.string}">&#9654; Play</button>
                 </div>
             `).join('');
 
-            elStrings.querySelectorAll('.string-play').forEach(btn => {
-                btn.addEventListener('click', () => playTone(Number(btn.dataset.freq)));
+            elStrings.querySelectorAll('.string-row').forEach(row => {
+                const num    = Number(row.dataset.string);
+                const input  = row.querySelector('.string-input');
+                const hzSpan = row.querySelector('.string-hz');
+                const play   = row.querySelector('.string-play');
+
+                play.addEventListener('click', () => {
+                    const s = strings.find(x => x.string === num);
+                    if (s) playTone(s.freq);
+                });
+
+                let saved = input.value;
+
+                input.addEventListener('focus', () => { saved = input.value; });
+
+                input.addEventListener('keydown', e => {
+                    if (e.key === 'Enter')  input.blur();
+                    if (e.key === 'Escape') {
+                        input.value = saved;
+                        input.classList.remove('invalid');
+                        input.blur();
+                    }
+                });
+
+                // Live Hz preview while typing
+                input.addEventListener('input', () => {
+                    const parsed = parseInput(input.value);
+                    if (parsed) {
+                        hzSpan.textContent = parsed.freq.toFixed(1) + ' Hz';
+                        input.classList.remove('invalid');
+                    } else {
+                        input.classList.add('invalid');
+                    }
+                });
+
+                // Commit on blur
+                input.addEventListener('blur', () => {
+                    const parsed = parseInput(input.value);
+                    if (parsed) {
+                        input.value = parsed.note;
+                        hzSpan.textContent = parsed.freq.toFixed(1) + ' Hz';
+                        input.classList.remove('invalid');
+                        const s = strings.find(x => x.string === num);
+                        if (s) { s.note = parsed.note; s.freq = parsed.freq; }
+                    } else {
+                        // Revert to last valid value
+                        input.value = saved;
+                        input.classList.remove('invalid');
+                        const s = strings.find(x => x.string === num);
+                        if (s) hzSpan.textContent = s.freq.toFixed(1) + ' Hz';
+                    }
+                });
             });
         }
 
-        // ===== MICROPHONE / TUNING LOOP =====
+        // ===== LOAD PRESET =====
+        function loadPreset(name) {
+            const preset = PRESETS[name];
+            if (!preset) return;
+            strings = preset.map(s => ({ ...s }));
+            renderStrings();
+        }
+
+        // ===== LISTENING =====
         async function startListening() {
             try {
                 micStream = await navigator.mediaDevices.getUserMedia({ audio: true, video: false });
-            } catch (err) {
+            } catch (_) {
                 elStatus.textContent = 'Microphone access denied — check browser permissions.';
                 return;
             }
-
             const ctx = getAudioCtx();
             if (ctx.state === 'suspended') await ctx.resume();
 
             analyser = ctx.createAnalyser();
             analyser.fftSize = 4096;
-
-            const source = ctx.createMediaStreamSource(micStream);
-            source.connect(analyser);
+            ctx.createMediaStreamSource(micStream).connect(analyser);
 
             isListening = true;
             freqHistory = [];
             elBtn.textContent = 'Stop Listening';
             elBtn.classList.add('active');
-
             loop();
         }
 
         function stopListening() {
             isListening = false;
-            if (rafId) { cancelAnimationFrame(rafId); rafId = null; }
+            if (rafId)     { cancelAnimationFrame(rafId); rafId = null; }
             if (micStream) { micStream.getTracks().forEach(t => t.stop()); micStream = null; }
             analyser = null;
             elBtn.textContent = 'Start Listening';
@@ -299,33 +392,23 @@
 
         function loop() {
             if (!isListening || !analyser) return;
-
             const buf = new Float32Array(analyser.fftSize);
             analyser.getFloatTimeDomainData(buf);
-
             const raw = autoCorrelate(buf, getAudioCtx().sampleRate);
-
             if (raw > 0) {
                 freqHistory.push(raw);
                 if (freqHistory.length > SMOOTH) freqHistory.shift();
-                const avg = freqHistory.reduce((a, b) => a + b, 0) / freqHistory.length;
-                updateDisplay(avg);
+                updateDisplay(freqHistory.reduce((a, b) => a + b, 0) / freqHistory.length);
             } else {
                 freqHistory = [];
                 updateDisplay(-1);
             }
-
             rafId = requestAnimationFrame(loop);
         }
 
         // ===== EVENTS =====
-        document.querySelectorAll('.toggle-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                currentMode = btn.dataset.mode;
-                renderStrings();
-            });
+        document.querySelectorAll('.preset-btn').forEach(btn => {
+            btn.addEventListener('click', () => loadPreset(btn.dataset.preset));
         });
 
         elBtn.addEventListener('click', () => {
