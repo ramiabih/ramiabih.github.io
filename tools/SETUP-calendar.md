@@ -58,4 +58,5 @@ Notes:
   titles or attendees are ever written, so nothing private leaves your machine.
 - "A meeting" = a timed event with at least one other invitee that you haven't
   declined. Tweak the rule in `scripts/fetch_calendar.py` (`is_meeting`).
-- The window is the last 365 days. Change `WINDOW_DAYS` in the same file.
+- It pulls the last 5 calendar years so the page can show a year picker.
+  Change `HISTORY_YEARS` in the same file.

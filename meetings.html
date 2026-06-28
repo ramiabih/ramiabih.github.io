@@ -18,8 +18,7 @@
         <p class="cal-intro">
             The unit of work for a founder is the meeting. Here's a GitHub-style
             chart of mine, pulled from my Google Calendar. Only meetings with at
-            least one other person invited count &mdash; my solo focus blocks don't
-            pad the numbers.
+            least one other person invited count.
         </p>
 
         <div id="content"></div>
@@ -36,6 +35,10 @@
             var MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
                           'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
             var WEEKDAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+
+            var DATA = null;
+            var counts = {};
+            var year = null;
 
             function esc(s) {
                 return String(s == null ? '' : s)
@@ -75,71 +78,99 @@
                 return 4;
             }
 
-            function render(DATA) {
-                if (!DATA || !DATA.updated) {
-                    content.innerHTML = '<p class="cal-empty">Coming soon &mdash; this syncs ' +
-                        'from Google Calendar and will fill in once the first update runs.</p>';
-                    return;
-                }
-
-                var counts = DATA.counts || {};
+            // Build the heatmap + summary for one calendar year.
+            function renderYear() {
                 var today = new Date();
                 today.setHours(12, 0, 0, 0);
 
-                // Grid starts on the Sunday on/before ~52 weeks ago.
-                var start = new Date(today);
-                start.setDate(start.getDate() - 364);
-                start.setDate(start.getDate() - start.getDay()); // back up to Sunday
+                var jan1 = new Date(year, 0, 1);
+                var lastDay = (year === today.getFullYear())
+                    ? today
+                    : new Date(year, 11, 31);
 
-                // Grid ends on the Saturday of the current week.
-                var end = new Date(today);
+                // Grid spans full weeks: back to the Sunday before Jan 1,
+                // forward to the Saturday after the last day shown.
+                var start = new Date(jan1);
+                start.setDate(start.getDate() - start.getDay());
+                var end = new Date(lastDay);
                 end.setDate(end.getDate() + (6 - end.getDay()));
 
-                // Build day cells (column-major: 7 cells per week column).
                 var cells = '';
                 var monthCols = '';
                 var prevMonth = -1;
+                var total = 0, days = 0, busiest = null;
                 var cur = new Date(start);
                 while (cur <= end) {
-                    // At the top of each week column, emit a month label slot.
                     if (cur.getDay() === 0) {
                         var mLabel = '';
-                        // Label the column if its week introduces a new month.
-                        if (cur.getMonth() !== prevMonth && cur.getDate() <= 7) {
+                        if (cur.getFullYear() === year &&
+                            cur.getMonth() !== prevMonth && cur.getDate() <= 7) {
                             mLabel = MONTHS[cur.getMonth()];
                             prevMonth = cur.getMonth();
                         }
                         monthCols += '<div class="cal-month">' + mLabel + '</div>';
                     }
 
-                    if (cur > today) {
+                    var inYear = cur >= jan1 && cur <= lastDay;
+                    if (!inYear) {
                         cells += '<div class="cal-cell empty-slot"></div>';
                     } else {
                         var key = ymd(cur);
                         var c = counts[key] || 0;
-                        var label = c + (c === 1 ? ' meeting' : ' meetings') + ' on ' + prettyDate(key);
+                        total += c; days += 1;
+                        if (!busiest || c > busiest.count) busiest = { date: key, count: c };
+                        var lbl = c + (c === 1 ? ' meeting' : ' meetings') + ' on ' + prettyDate(key);
                         cells += '<div class="cal-cell l' + level(c) + '" data-date="' + key +
-                            '" data-count="' + c + '" title="' + esc(label) + '"></div>';
+                            '" data-count="' + c + '" title="' + esc(lbl) + '"></div>';
                     }
                     cur.setDate(cur.getDate() + 1);
                 }
 
-                var busiest = DATA.busiest;
-                var busiestHtml = busiest
+                var avg = days ? (total / days).toFixed(1) : '0.0';
+                var busiestHtml = (busiest && busiest.count)
                     ? 'Busiest: <strong>' + esc(prettyDate(busiest.date)) +
                       ' (' + busiest.count + ')</strong>'
                     : '';
 
+                document.getElementById('calSummary').innerHTML =
+                    '<span class="cal-total">' + total.toLocaleString() + ' meetings</span>' +
+                    '<span class="cal-sub">&middot; in ' + year + ' &middot; avg ' + avg + '/day</span>' +
+                    '<span class="cal-busiest">' + busiestHtml + '</span>';
+
+                document.getElementById('calMonths').innerHTML = monthCols;
+                document.getElementById('calGrid').innerHTML = cells;
+                document.getElementById('calDetail').innerHTML =
+                    '<span class="hint">Click any day to see how many meetings I had.</span>';
+            }
+
+            function render() {
+                if (!DATA || !DATA.updated) {
+                    content.innerHTML = '<p class="cal-empty">Coming soon &mdash; this syncs ' +
+                        'from Google Calendar and will fill in once the first update runs.</p>';
+                    return;
+                }
+
+                counts = DATA.counts || {};
+
+                // Years to offer: whatever the data has, newest first; always
+                // include the current year so it's there even early in January.
+                var yearSet = {};
+                (DATA.years || []).forEach(function (y) { yearSet[y] = true; });
+                Object.keys(counts).forEach(function (k) { yearSet[+k.slice(0, 4)] = true; });
+                yearSet[new Date().getFullYear()] = true;
+                var years = Object.keys(yearSet).map(Number).sort(function (a, b) { return b - a; });
+                year = years[0];
+
+                var yearBtns = years.map(function (y) {
+                    return '<button data-year="' + y + '">' + y + '</button>';
+                }).join('');
+
                 content.innerHTML =
-                    '<div class="cal-summary">' +
-                        '<span class="cal-total">' + DATA.total.toLocaleString() + ' meetings</span>' +
-                        '<span class="cal-sub">&middot; last 12 months &middot; avg ' +
-                            DATA.avg_per_day + '/day</span>' +
-                        '<span class="cal-busiest">' + busiestHtml + '</span>' +
-                    '</div>' +
+                    '<div class="cal-summary" id="calSummary"></div>' +
+                    '<div class="cal-years" id="calYears">' + yearBtns + '</div>' +
                     '<div class="cal-scroll">' +
-                        '<div class="cal-months">' + monthCols + '</div>' +
-                        '<div class="cal-grid" id="calGrid">' + cells + '</div>' +
+                        '<div class="cal-months" id="calMonths"></div>' +
+                        '<div class="cal-grid" id="calGrid"></div>' +
                     '</div>' +
                     '<div class="cal-legend">Less' +
                         '<span class="cal-cell l0"></span>' +
@@ -147,34 +178,45 @@
                         '<span class="cal-cell l2"></span>' +
                         '<span class="cal-cell l3"></span>' +
                         '<span class="cal-cell l4"></span>More</div>' +
-                    '<div class="cal-detail" id="calDetail">' +
-                        '<span class="hint">Click any day to see how many meetings I had.</span></div>' +
-                    '<p class="cal-note">Only counts meetings with at least one other person ' +
-                        'invited. The page only ever sees per-day totals &mdash; no titles, ' +
-                        'attendees, or anything about what the meetings actually were.</p>' +
+                    '<div class="cal-detail" id="calDetail"></div>' +
                     '<p class="cal-updated">Updated ' + esc(ago(DATA.updated)) + '.</p>';
 
+                var years_el = document.getElementById('calYears');
+                function markActive() {
+                    [].forEach.call(years_el.querySelectorAll('button'), function (b) {
+                        b.classList.toggle('active', +b.getAttribute('data-year') === year);
+                    });
+                }
+                years_el.addEventListener('click', function (e) {
+                    var btn = e.target.closest('button');
+                    if (!btn) return;
+                    year = +btn.getAttribute('data-year');
+                    markActive();
+                    renderYear();
+                });
+
                 var grid = document.getElementById('calGrid');
-                var detail = document.getElementById('calDetail');
-                var selected = null;
                 grid.addEventListener('click', function (e) {
                     var cell = e.target.closest('.cal-cell[data-date]');
                     if (!cell) return;
-                    if (selected) selected.classList.remove('selected');
-                    selected = cell;
+                    var prev = grid.querySelector('.cal-cell.selected');
+                    if (prev) prev.classList.remove('selected');
                     cell.classList.add('selected');
                     var n = +cell.getAttribute('data-count');
                     var when = prettyDate(cell.getAttribute('data-date'));
-                    detail.innerHTML = n
+                    document.getElementById('calDetail').innerHTML = n
                         ? '<strong>' + esc(when) + '</strong> &mdash; ' + n +
                           (n === 1 ? ' meeting' : ' meetings')
                         : '<span class="hint">' + esc(when) + ' &mdash; no meetings</span>';
                 });
+
+                markActive();
+                renderYear();
             }
 
             fetch('calendar-data.json?t=' + Date.now())
                 .then(function (r) { return r.json(); })
-                .then(function (d) { render(d); })
+                .then(function (d) { DATA = d; render(); })
                 .catch(function () {
                     content.innerHTML = '<p class="cal-empty">Could not load calendar data right now.</p>';
                 });
