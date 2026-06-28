@@ -13,5 +13,6 @@
    ============================================================ */
 
 var articles = [
-  { slug: "hello-world", title: "Hello, world", date: "2026-06-04" }
+  { slug: "hello-world", title: "Hello, world", date: "2026-06-04" },
+  { slug: "lights-on-nobody-home", title: "Lights on nobody home", date: "2026-06-28" }
 ];
