@@ -34,6 +34,7 @@
 .fw-times button,
 .fw-start,
 .fw-stop,
+.fw-view button,
 .fw-actions button {
     font-family: inherit;
     font-size: 9pt;
@@ -48,8 +49,16 @@
 .fw-times button:hover,
 .fw-start:hover,
 .fw-stop:hover,
+.fw-view button:hover,
 .fw-actions button:hover {
     border-color: #000000;
+}
+
+/* View controls (typeface / size / full screen) sit on the right */
+.fw-view {
+    display: flex;
+    gap: 6px;
+    margin-left: auto;
 }
 
 .fw-times button.active {
@@ -74,8 +83,7 @@
 
 .fw-nudge.show { opacity: 1; }
 
-.fw-start { margin-left: auto; }
-.fw-stop  { margin-left: auto; display: none; }
+.fw-stop  { display: none; }
 
 /* The writing surface */
 .fw-text {
@@ -87,8 +95,6 @@
     border: 1px solid #e2e2e2;
     border-radius: 6px;
     padding: 22px 24px;
-    font-family: Georgia, 'Iowan Old Style', 'Palatino Linotype', Palatino, serif;
-    font-size: 1.25rem;
     line-height: 1.75;
     color: #1a1a1a;
     background-color: #ffffff;
@@ -96,6 +102,37 @@
 }
 
 .fw-text:focus { border-color: #cfcfcf; }
+
+/* Typeface options */
+.fw-text.font-serif { font-family: Georgia, 'Iowan Old Style', 'Palatino Linotype', Palatino, serif; }
+.fw-text.font-sans  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+.fw-text.font-mono  { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+
+/* Size options */
+.fw-text.size-s { font-size: 1.05rem; }
+.fw-text.size-m { font-size: 1.25rem; }
+.fw-text.size-l { font-size: 1.55rem; }
+
+/* Full-screen writing surface */
+.fw-main:fullscreen,
+.fw-main:-webkit-full-screen {
+    background-color: #ffffff;
+    max-width: 100%;
+    padding: 5vh 8vw;
+    overflow-y: auto;
+}
+
+.fw-main:fullscreen > *,
+.fw-main:-webkit-full-screen > * {
+    max-width: 820px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fw-main:fullscreen .fw-text,
+.fw-main:-webkit-full-screen .fw-text {
+    min-height: 72vh;
+}
 
 .fw-foot {
     display: flex;
