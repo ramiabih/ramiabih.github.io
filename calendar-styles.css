@@ -103,10 +103,12 @@
     outline-offset: 1px;
 }
 
-/* Month labels above the grid */
+/* Month labels above the grid — one cell per week column, same 12px rhythm
+   as the day grid so labels line up with the weeks they sit above. */
 .cal-months {
     display: inline-grid;
     grid-auto-flow: column;
+    grid-auto-columns: 12px;
     gap: 3px;
     margin-bottom: 4px;
     font-size: 8pt;
@@ -116,6 +118,8 @@
 .cal-month {
     grid-row: 1;
     height: 14px;
+    white-space: nowrap;   /* labels overflow their 12px column to the right */
+    overflow: visible;
 }
 
 /* Legend */
