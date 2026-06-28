@@ -1,0 +1,151 @@
+/* Freewrite — distraction-free writing pad */
+.fw-main {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.fw-intro h2 {
+    font-size: 14pt;
+    font-weight: normal;
+    margin: 0 0 8px 0;
+}
+
+.fw-intro p {
+    color: #444444;
+    line-height: 1.7;
+    margin: 0 0 22px 0;
+}
+
+/* Control bar: durations + timer + start */
+.fw-bar {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 14px;
+}
+
+.fw-times {
+    display: flex;
+    gap: 6px;
+}
+
+.fw-times button,
+.fw-start,
+.fw-stop,
+.fw-actions button {
+    font-family: inherit;
+    font-size: 9pt;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 4px 12px;
+    cursor: pointer;
+}
+
+.fw-times button:hover,
+.fw-start:hover,
+.fw-stop:hover,
+.fw-actions button:hover {
+    border-color: #000000;
+}
+
+.fw-times button.active {
+    background-color: #000000;
+    border-color: #000000;
+    color: #ffffff;
+}
+
+.fw-timer {
+    font-variant-numeric: tabular-nums;
+    font-size: 13pt;
+    color: #000000;
+    min-width: 56px;
+}
+
+.fw-nudge {
+    color: #b08900;
+    font-size: 9pt;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.fw-nudge.show { opacity: 1; }
+
+.fw-start { margin-left: auto; }
+.fw-stop  { margin-left: auto; display: none; }
+
+/* The writing surface */
+.fw-text {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 56vh;
+    resize: vertical;
+    border: 1px solid #e2e2e2;
+    border-radius: 6px;
+    padding: 22px 24px;
+    font-family: Georgia, 'Iowan Old Style', 'Palatino Linotype', Palatino, serif;
+    font-size: 1.25rem;
+    line-height: 1.75;
+    color: #1a1a1a;
+    background-color: #ffffff;
+    outline: none;
+}
+
+.fw-text:focus { border-color: #cfcfcf; }
+
+.fw-foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 12px;
+    min-height: 28px;
+}
+
+.fw-count { color: #666666; font-size: 9pt; }
+
+.fw-actions {
+    display: flex;
+    gap: 6px;
+    visibility: hidden;
+}
+
+.fw-done-msg {
+    color: #216e39;
+    font-size: 9pt;
+    margin-right: 6px;
+}
+
+.fw-note {
+    margin-top: 18px;
+    font-size: 9pt;
+    color: #999999;
+}
+
+/* Running mode: fade everything but the page so the words are all there is */
+body.fw-running .fw-intro,
+body.fw-running .fw-note,
+body.fw-running header,
+body.fw-running footer {
+    opacity: 0.12;
+    transition: opacity 0.5s ease;
+}
+
+body.fw-running .fw-intro:hover,
+body.fw-running header:hover,
+body.fw-running footer:hover {
+    opacity: 1;
+}
+
+body.fw-running .fw-times,
+body.fw-running .fw-start { display: none; }
+
+body.fw-running .fw-stop { display: inline-block; }
+
+/* When a session has finished, surface the actions */
+body.fw-done .fw-actions { visibility: visible; }
