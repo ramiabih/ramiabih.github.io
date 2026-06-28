@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-28T08:41:59.320247+00:00",
+ "updated": "2026-06-28T13:20:02.930306+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -18,18 +18,18 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "Bala Wala Chi - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
      "name": "Alf Leila We Leila",
@@ -79,13 +79,6 @@
      "album": "Law Hobna Ghalta",
      "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
-     "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani",
-     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
      "name": "Ya Helou",
@@ -142,6 +135,13 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     }
    ],
    "artists": [
@@ -149,30 +149,30 @@
      "name": "Fairuz",
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
      "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": [
-      "rap"
-     ]
+     "genres": []
     },
     {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "genres": []
+    },
+    {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": [
       "hip hop",
       "west coast hip hop"
      ]
     },
     {
-     "name": "Ziad Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
-     "genres": []
-    },
-    {
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
-     "genres": []
+     "genres": [
+      "rap"
+     ]
     },
     {
      "name": "Kendrick Lamar",
@@ -341,14 +341,17 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
      "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
      "genres": [
-      "retro soul"
+      "khaleeji"
      ]
     },
     {
      "name": "Ziad Rahbani",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
-     "genres": []
+     "genres": [
+      "hip hop",
+      "west coast hip hop"
+     ]
     },
     {
      "name": "Kanye West",
@@ -360,9 +363,7 @@
      "name": "ABBA",
      "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
      "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
-     "genres": [
-      "khaleeji"
-     ]
+     "genres": []
     },
     {
      "name": "Wael Kfoury",
@@ -374,17 +375,14 @@
      "name": "Bear McCreary",
      "image": "https://i.scdn.co/image/ab6761610000e5eb7cfb8906597801fcadec3513",
      "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG",
-     "genres": [
-      "rap"
-     ]
+     "genres": []
     },
     {
      "name": "Louis Brigham",
      "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
      "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
      "genres": [
-      "soundtrack",
-      "score"
+      "neo-psychedelic"
      ]
     },
     {
@@ -392,26 +390,23 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
      "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
      "genres": [
-      "house",
-      "tech house"
+      "score",
+      "soundtrack"
      ]
     },
     {
      "name": "Thee Sacred Souls",
      "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
      "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "celtic",
-      "soundtrack"
-     ]
+     "genres": []
     },
     {
      "name": "Khruangbin",
      "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
      "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
      "genres": [
-      "hip hop",
-      "west coast hip hop"
+      "soundtrack",
+      "score"
      ]
     },
     {
@@ -424,15 +419,17 @@
      "name": "Oriental Lebanese Band",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/artist/2SnZNKC6aZINg87x5to5rg",
-     "genres": []
+     "genres": [
+      "celtic",
+      "soundtrack"
+     ]
     },
     {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
      "genres": [
-      "score",
-      "soundtrack"
+      "rap"
      ]
     },
     {
@@ -445,7 +442,9 @@
      "name": "John Lunn",
      "image": "https://i.scdn.co/image/ab6761610000e5eb863d89ca82d7a559f4fb7f55",
      "url": "https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt",
-     "genres": []
+     "genres": [
+      "adult standards"
+     ]
     },
     {
      "name": "James Horner",
@@ -458,7 +457,8 @@
      "image": "https://i.scdn.co/image/d05709b256a284d60ebed670fd51f028708073ad",
      "url": "https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG",
      "genres": [
-      "neo-psychedelic"
+      "house",
+      "tech house"
      ]
     },
     {
@@ -471,15 +471,15 @@
      "name": "John Summit",
      "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
      "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205",
-     "genres": [
-      "adult standards"
-     ]
+     "genres": []
     },
     {
      "name": "Zaki Nassif",
      "image": "https://i.scdn.co/image/ab67616d0000b27328840e4aad2b84e07b2f93c0",
      "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT",
-     "genres": []
+     "genres": [
+      "retro soul"
+     ]
     }
    ]
   },
@@ -612,18 +612,18 @@
      "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
     },
     {
-     "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani",
-     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
-    },
-    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     }
    ],
    "artists": [
@@ -631,20 +631,14 @@
      "name": "Fairuz",
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
      "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": [
-      "rap"
-     ]
+     "genres": []
     },
     {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
-      "progressive rock",
-      "psychedelic rock",
-      "classic rock",
-      "art rock",
-      "rock"
+      "khaleeji"
      ]
     },
     {
@@ -652,7 +646,8 @@
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": [
-      "neo-psychedelic"
+      "soundtrack",
+      "score"
      ]
     },
     {
@@ -660,33 +655,37 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "indie soul",
-      "neo soul"
+      "motown",
+      "soul",
+      "classic soul",
+      "soul blues"
      ]
     },
     {
      "name": "Mac Miller",
      "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
      "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": [
-      "soul",
-      "soul blues",
-      "blues",
-      "classic soul",
-      "vocal jazz"
-     ]
+     "genres": []
     },
     {
      "name": "Thee Sacred Souls",
      "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
      "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": []
+     "genres": [
+      "organic house",
+      "tribal house",
+      "downtempo",
+      "deep house"
+     ]
     },
     {
      "name": "Hotel Ugly",
      "image": "https://i.scdn.co/image/ab6761610000e5eb939033cc36c08ab68b33f760",
      "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb",
-     "genres": []
+     "genres": [
+      "hip hop",
+      "west coast hip hop"
+     ]
     },
     {
      "name": "Kendrick Lamar",
@@ -698,7 +697,9 @@
      "name": "Khruangbin",
      "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
      "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": []
+     "genres": [
+      "neo-psychedelic"
+     ]
     },
     {
      "name": "The Beatles",
@@ -711,10 +712,11 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb317527e201289a10f1b82828",
      "url": "https://open.spotify.com/artist/1ySVx1trQOpfqKLkBSrHNI",
      "genres": [
-      "motown",
       "soul",
+      "soul blues",
+      "blues",
       "classic soul",
-      "soul blues"
+      "vocal jazz"
      ]
     },
     {
@@ -730,20 +732,14 @@
      "name": "Thundercat",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
      "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-     "genres": [
-      "organic house",
-      "tribal house",
-      "downtempo",
-      "deep house"
-     ]
+     "genres": []
     },
     {
      "name": "Hraach",
      "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
      "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
      "genres": [
-      "hip hop",
-      "west coast hip hop"
+      "rap"
      ]
     },
     {
@@ -757,15 +753,21 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3c9e8c67b087ba0cb5923b78",
      "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
      "genres": [
-      "soundtrack",
-      "score"
+      "progressive rock",
+      "psychedelic rock",
+      "classic rock",
+      "art rock",
+      "rock"
      ]
     },
     {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
      "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
-     "genres": []
+     "genres": [
+      "indie soul",
+      "neo soul"
+     ]
     },
     {
      "name": "Hans Zimmer",
@@ -777,9 +779,7 @@
      "name": "Aaron Taylor",
      "image": "https://i.scdn.co/image/ab6761610000e5eb22fc5c2b36b5888f5131215f",
      "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7",
-     "genres": [
-      "khaleeji"
-     ]
+     "genres": []
     },
     {
      "name": "Ray Charles",
@@ -793,6 +793,41 @@
   }
  },
  "recent": [
+  {
+   "name": "I Thought About Killing You",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+   "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
+   "played_at": "2026-06-28T13:19:05.873Z"
+  },
+  {
+   "name": "Dance of Maria",
+   "artists": "Elias Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
+   "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC",
+   "played_at": "2026-06-28T13:14:02.183Z"
+  },
+  {
+   "name": "True North",
+   "artists": "Chequerboard",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a67225613cc06f81778b00ce",
+   "url": "https://open.spotify.com/track/56xkEAOHzucwcNbbl6ip7c",
+   "played_at": "2026-06-28T13:04:42.797Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-28T12:06:46.380Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-06-28T12:03:52.167Z"
+  },
   {
    "name": "Easier Said Than Done",
    "artists": "Thee Sacred Souls",
@@ -1107,41 +1142,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
    "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
    "played_at": "2026-06-23T11:56:14.201Z"
-  },
-  {
-   "name": "Esmaa Ya Reda",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac7123ec0939d0fddade6",
-   "url": "https://open.spotify.com/track/5hUFFdwf2yq1v5O8vmVnuV",
-   "played_at": "2026-06-23T11:40:09.539Z"
-  },
-  {
-   "name": "Bala Wala Chi - Live",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-   "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV",
-   "played_at": "2026-06-23T11:29:28.185Z"
-  },
-  {
-   "name": "Oum Fout Nam",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-   "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye",
-   "played_at": "2026-06-23T09:59:50.367Z"
-  },
-  {
-   "name": "W'Kameh",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-   "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2",
-   "played_at": "2026-06-23T09:54:14.864Z"
-  },
-  {
-   "name": "Tamally Maak",
-   "artists": "Amr Diab",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-   "played_at": "2026-06-23T09:43:51.272Z"
   }
  ]
 }
