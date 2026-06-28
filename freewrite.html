@@ -18,37 +18,50 @@
             <h2>Freewrite</h2>
             <p>One rule: keep writing. Don't stop, don't edit, don't judge &mdash; if you stall,
                just type that you've stalled.<br>
-               Pick a length and just start typing &mdash; the timer starts on its own and runs until the time is up.</p>
+               Pick a length, hit start, and don't lift your hands until the time is up.</p>
         </div>
 
-        <div class="fw-bar">
-            <div class="fw-times" id="fwTimes">
-                <button data-min="5">5 min</button>
-                <button data-min="10">10 min</button>
-                <button data-min="15" class="active">15 min</button>
+        <!-- The whole writing unit. This is what goes full screen. -->
+        <div class="fw-pad" id="fwPad">
+            <div class="fw-toolbar">
+                <div class="fw-group">
+                    <div class="fw-seg" id="fwTimes">
+                        <button data-min="5">5m</button>
+                        <button data-min="10">10m</button>
+                        <button data-min="15" class="active">15m</button>
+                    </div>
+                    <span class="fw-timer" id="fwTimer">15:00</span>
+                    <button class="fw-btn fw-start" id="fwStart">Start</button>
+                    <button class="fw-btn fw-stop" id="fwStop">Stop</button>
+                    <span class="fw-nudge" id="fwNudge">keep writing&hellip;</span>
+                </div>
+                <div class="fw-group">
+                    <div class="fw-seg" id="fwFonts">
+                        <button data-font="serif" class="active">Serif</button>
+                        <button data-font="sans">Sans</button>
+                        <button data-font="mono">Mono</button>
+                    </div>
+                    <div class="fw-seg" id="fwSizes">
+                        <button data-size="s">S</button>
+                        <button data-size="m" class="active">M</button>
+                        <button data-size="l">L</button>
+                    </div>
+                    <button class="fw-btn fw-full" id="fwFull">Full screen</button>
+                </div>
             </div>
-            <span class="fw-timer" id="fwTimer">15:00</span>
-            <span class="fw-nudge" id="fwNudge">keep writing&hellip;</span>
-            <span class="fw-view">
-                <button id="fwFont" title="Change typeface">Serif</button>
-                <button id="fwSize" title="Change text size">M</button>
-                <button id="fwFull" title="Toggle full screen">Full screen</button>
-            </span>
-            <button class="fw-start" id="fwStart">Start</button>
-            <button class="fw-stop" id="fwStop">Stop</button>
-        </div>
 
-        <textarea class="fw-text font-serif size-m" id="fwText" spellcheck="false"
-                  placeholder="Start typing&hellip;"></textarea>
+            <textarea class="fw-text font-serif size-m" id="fwText" spellcheck="false"
+                      placeholder="Start typing&hellip;"></textarea>
 
-        <div class="fw-foot">
-            <span class="fw-count" id="fwCount">0 words</span>
-            <span class="fw-actions" id="fwActions">
-                <span class="fw-done-msg" id="fwDoneMsg"></span>
-                <button id="fwCopy">Copy</button>
-                <button id="fwDownload">Download</button>
-                <button id="fwReset">New session</button>
-            </span>
+            <div class="fw-foot">
+                <span class="fw-count" id="fwCount">0 words</span>
+                <span class="fw-actions" id="fwActions">
+                    <span class="fw-done-msg" id="fwDoneMsg"></span>
+                    <button class="fw-btn" id="fwCopy">Copy</button>
+                    <button class="fw-btn" id="fwDownload">Download</button>
+                    <button class="fw-btn" id="fwReset">New session</button>
+                </span>
+            </div>
         </div>
 
         <p class="fw-note">Everything stays in your browser &mdash; nothing is sent anywhere or saved
@@ -61,16 +74,16 @@
 
     <script>
         (function () {
+            var pad = document.getElementById('fwPad');
             var text = document.getElementById('fwText');
             var times = document.getElementById('fwTimes');
+            var fonts = document.getElementById('fwFonts');
+            var sizes = document.getElementById('fwSizes');
             var timerEl = document.getElementById('fwTimer');
             var nudge = document.getElementById('fwNudge');
             var startBtn = document.getElementById('fwStart');
             var stopBtn = document.getElementById('fwStop');
-            var fontBtn = document.getElementById('fwFont');
-            var sizeBtn = document.getElementById('fwSize');
             var fullBtn = document.getElementById('fwFull');
-            var fwMain = document.querySelector('.fw-main');
             var countEl = document.getElementById('fwCount');
             var doneMsg = document.getElementById('fwDoneMsg');
             var copyBtn = document.getElementById('fwCopy');
@@ -80,19 +93,16 @@
             var STORE = 'freewrite-draft';
             var minutes = 15;
             var durationMs = minutes * 60 * 1000;
-            var endAt = 0;
-            var lastType = 0;
-            var tick = null;
-            var running = false;
+            var endAt = 0, lastType = 0, tick = null, running = false;
+            var font = 'serif', size = 'm';
 
-            // Optional ?min= override (accepts fractions, handy for a quick 2-minute sprint)
             var qMin = parseFloat(new URLSearchParams(location.search).get('min'));
             if (qMin > 0) { minutes = qMin; durationMs = Math.round(qMin * 60 * 1000); }
 
-            function pad(n) { return n < 10 ? '0' + n : '' + n; }
+            function pad2(n) { return n < 10 ? '0' + n : '' + n; }
             function fmt(ms) {
                 var s = Math.max(0, Math.round(ms / 1000));
-                return pad(Math.floor(s / 60)) + ':' + pad(s % 60);
+                return pad2(Math.floor(s / 60)) + ':' + pad2(s % 60);
             }
             function words(str) {
                 var t = str.trim();
@@ -102,78 +112,32 @@
                 var n = words(text.value);
                 countEl.textContent = n + (n === 1 ? ' word' : ' words');
             }
-
-            function setActiveButton() {
-                [].forEach.call(times.querySelectorAll('button'), function (b) {
-                    b.classList.toggle('active', +b.getAttribute('data-min') === minutes);
+            function markActive(container, attr, value) {
+                [].forEach.call(container.querySelectorAll('button'), function (b) {
+                    b.classList.toggle('active', b.getAttribute(attr) === value);
                 });
             }
 
-            function loop() {
-                var left = endAt - Date.now();
-                timerEl.textContent = fmt(left);
-                if (left <= 0) { finish(); return; }
-                // Gentle nudge if the hands stop moving
-                nudge.classList.toggle('show', Date.now() - lastType > 4000);
-            }
-
-            function start() {
-                running = true;
-                document.body.classList.remove('fw-done');
-                document.body.classList.add('fw-running');
-                endAt = Date.now() + durationMs;
-                lastType = Date.now();
-                timerEl.textContent = fmt(durationMs);
-                tick = setInterval(loop, 250);
-                text.focus();
-            }
-
-            function stopTimers() {
-                running = false;
-                if (tick) { clearInterval(tick); tick = null; }
-                nudge.classList.remove('show');
-                document.body.classList.remove('fw-running');
-            }
-
-            function finish() {
-                stopTimers();
-                document.body.classList.add('fw-done');
-                timerEl.textContent = '00:00';
-                doneMsg.textContent = 'Done — ' + words(text.value) + ' words. Nicely done.';
-            }
-
-            function stopEarly() {
-                stopTimers();
-                document.body.classList.add('fw-done');
-                doneMsg.textContent = 'Stopped — ' + words(text.value) + ' words.';
-            }
-
-            // --- look & feel: typeface, size, full screen ---
-            var FONTS = ['serif', 'sans', 'mono'];
-            var FONT_LABEL = { serif: 'Serif', sans: 'Sans', mono: 'Mono' };
-            var SIZES = ['s', 'm', 'l'];
-            var SIZE_LABEL = { s: 'S', m: 'M', l: 'L' };
-            var font = 'serif', size = 'm';
-
+            // --- look & feel ---
             function applyLook() {
                 text.className = 'fw-text font-' + font + ' size-' + size;
-                fontBtn.textContent = FONT_LABEL[font];
-                sizeBtn.textContent = SIZE_LABEL[size];
+                markActive(fonts, 'data-font', font);
+                markActive(sizes, 'data-size', size);
                 try {
                     localStorage.setItem('freewrite-font', font);
                     localStorage.setItem('freewrite-size', size);
                 } catch (e) {}
             }
-
-            fontBtn.addEventListener('click', function () {
-                font = FONTS[(FONTS.indexOf(font) + 1) % FONTS.length];
-                applyLook();
+            fonts.addEventListener('click', function (e) {
+                var b = e.target.closest('button'); if (!b) return;
+                font = b.getAttribute('data-font'); applyLook();
             });
-            sizeBtn.addEventListener('click', function () {
-                size = SIZES[(SIZES.indexOf(size) + 1) % SIZES.length];
-                applyLook();
+            sizes.addEventListener('click', function (e) {
+                var b = e.target.closest('button'); if (!b) return;
+                size = b.getAttribute('data-size'); applyLook();
             });
 
+            // --- full screen (the whole writing unit) ---
             function fsElement() {
                 return document.fullscreenElement || document.webkitFullscreenElement;
             }
@@ -181,8 +145,8 @@
                 if (fsElement()) {
                     (document.exitFullscreen || document.webkitExitFullscreen).call(document);
                 } else {
-                    var req = fwMain.requestFullscreen || fwMain.webkitRequestFullscreen;
-                    if (req) req.call(fwMain);
+                    var req = pad.requestFullscreen || pad.webkitRequestFullscreen;
+                    if (req) req.call(pad);
                 }
             });
             function onFsChange() {
@@ -193,25 +157,54 @@
             document.addEventListener('fullscreenchange', onFsChange);
             document.addEventListener('webkitfullscreenchange', onFsChange);
 
+            // --- timer ---
+            function loop() {
+                var left = endAt - Date.now();
+                timerEl.textContent = fmt(left);
+                if (left <= 0) { finish(); return; }
+                nudge.classList.toggle('show', Date.now() - lastType > 4000);
+            }
+            function start() {
+                running = true;
+                document.body.classList.remove('fw-done');
+                document.body.classList.add('fw-running');
+                endAt = Date.now() + durationMs;
+                lastType = Date.now();
+                timerEl.textContent = fmt(durationMs);
+                tick = setInterval(loop, 250);
+                text.focus();
+            }
+            function stopTimers() {
+                running = false;
+                if (tick) { clearInterval(tick); tick = null; }
+                nudge.classList.remove('show');
+                document.body.classList.remove('fw-running');
+            }
+            function finish() {
+                stopTimers();
+                document.body.classList.add('fw-done');
+                timerEl.textContent = '00:00';
+                doneMsg.textContent = 'Done — ' + words(text.value) + ' words. Nicely done.';
+            }
+            function stopEarly() {
+                stopTimers();
+                document.body.classList.add('fw-done');
+                doneMsg.textContent = 'Stopped — ' + words(text.value) + ' words.';
+            }
+
             // --- events ---
             times.addEventListener('click', function (e) {
-                var btn = e.target.closest('button');
-                if (!btn || running) return;
-                minutes = +btn.getAttribute('data-min');
+                var b = e.target.closest('button'); if (!b || running) return;
+                minutes = +b.getAttribute('data-min');
                 durationMs = minutes * 60 * 1000;
-                setActiveButton();
+                markActive(times, 'data-min', String(minutes));
                 timerEl.textContent = fmt(durationMs);
             });
-
             startBtn.addEventListener('click', start);
             stopBtn.addEventListener('click', stopEarly);
 
             text.addEventListener('input', function () {
                 lastType = Date.now();
-                // Just start writing — the timer kicks off on its own.
-                if (!running && !document.body.classList.contains('fw-done')) {
-                    start();
-                }
                 if (running) nudge.classList.remove('show');
                 updateCount();
                 try { localStorage.setItem(STORE, text.value); } catch (e) {}
@@ -223,25 +216,19 @@
                         copyBtn.textContent = 'Copied';
                         setTimeout(function () { copyBtn.textContent = 'Copy'; }, 1500);
                     });
-                } else {
-                    text.select(); document.execCommand('copy');
-                }
+                } else { text.select(); document.execCommand('copy'); }
             });
-
             dlBtn.addEventListener('click', function () {
                 var d = new Date();
-                var name = 'freewrite-' + d.getFullYear() + pad(d.getMonth() + 1) +
-                    pad(d.getDate()) + '.txt';
+                var name = 'freewrite-' + d.getFullYear() + pad2(d.getMonth() + 1) +
+                    pad2(d.getDate()) + '.txt';
                 var blob = new Blob([text.value], { type: 'text/plain' });
                 var a = document.createElement('a');
                 a.href = URL.createObjectURL(blob);
                 a.download = name;
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
+                document.body.appendChild(a); a.click(); document.body.removeChild(a);
                 URL.revokeObjectURL(a.href);
             });
-
             resetBtn.addEventListener('click', function () {
                 if (text.value && !confirm('Clear this session and start fresh?')) return;
                 stopTimers();
@@ -260,11 +247,11 @@
                 if (saved) text.value = saved;
                 var sf = localStorage.getItem('freewrite-font');
                 var sz = localStorage.getItem('freewrite-size');
-                if (FONTS.indexOf(sf) !== -1) font = sf;
-                if (SIZES.indexOf(sz) !== -1) size = sz;
+                if (['serif', 'sans', 'mono'].indexOf(sf) !== -1) font = sf;
+                if (['s', 'm', 'l'].indexOf(sz) !== -1) size = sz;
             } catch (e) {}
             applyLook();
-            setActiveButton();
+            markActive(times, 'data-min', String(minutes));
             timerEl.textContent = fmt(durationMs);
             updateCount();
         })();
