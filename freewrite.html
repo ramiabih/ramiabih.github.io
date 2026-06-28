@@ -29,11 +29,16 @@
             </div>
             <span class="fw-timer" id="fwTimer">15:00</span>
             <span class="fw-nudge" id="fwNudge">keep writing&hellip;</span>
+            <span class="fw-view">
+                <button id="fwFont" title="Change typeface">Serif</button>
+                <button id="fwSize" title="Change text size">M</button>
+                <button id="fwFull" title="Toggle full screen">Full screen</button>
+            </span>
             <button class="fw-start" id="fwStart">Start</button>
             <button class="fw-stop" id="fwStop">Stop</button>
         </div>
 
-        <textarea class="fw-text" id="fwText" spellcheck="false"
+        <textarea class="fw-text font-serif size-m" id="fwText" spellcheck="false"
                   placeholder="Start typing&hellip;"></textarea>
 
         <div class="fw-foot">
@@ -62,6 +67,10 @@
             var nudge = document.getElementById('fwNudge');
             var startBtn = document.getElementById('fwStart');
             var stopBtn = document.getElementById('fwStop');
+            var fontBtn = document.getElementById('fwFont');
+            var sizeBtn = document.getElementById('fwSize');
+            var fullBtn = document.getElementById('fwFull');
+            var fwMain = document.querySelector('.fw-main');
             var countEl = document.getElementById('fwCount');
             var doneMsg = document.getElementById('fwDoneMsg');
             var copyBtn = document.getElementById('fwCopy');
@@ -139,6 +148,51 @@
                 doneMsg.textContent = 'Stopped — ' + words(text.value) + ' words.';
             }
 
+            // --- look & feel: typeface, size, full screen ---
+            var FONTS = ['serif', 'sans', 'mono'];
+            var FONT_LABEL = { serif: 'Serif', sans: 'Sans', mono: 'Mono' };
+            var SIZES = ['s', 'm', 'l'];
+            var SIZE_LABEL = { s: 'S', m: 'M', l: 'L' };
+            var font = 'serif', size = 'm';
+
+            function applyLook() {
+                text.className = 'fw-text font-' + font + ' size-' + size;
+                fontBtn.textContent = FONT_LABEL[font];
+                sizeBtn.textContent = SIZE_LABEL[size];
+                try {
+                    localStorage.setItem('freewrite-font', font);
+                    localStorage.setItem('freewrite-size', size);
+                } catch (e) {}
+            }
+
+            fontBtn.addEventListener('click', function () {
+                font = FONTS[(FONTS.indexOf(font) + 1) % FONTS.length];
+                applyLook();
+            });
+            sizeBtn.addEventListener('click', function () {
+                size = SIZES[(SIZES.indexOf(size) + 1) % SIZES.length];
+                applyLook();
+            });
+
+            function fsElement() {
+                return document.fullscreenElement || document.webkitFullscreenElement;
+            }
+            fullBtn.addEventListener('click', function () {
+                if (fsElement()) {
+                    (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+                } else {
+                    var req = fwMain.requestFullscreen || fwMain.webkitRequestFullscreen;
+                    if (req) req.call(fwMain);
+                }
+            });
+            function onFsChange() {
+                var on = !!fsElement();
+                fullBtn.textContent = on ? 'Exit full screen' : 'Full screen';
+                if (on) text.focus();
+            }
+            document.addEventListener('fullscreenchange', onFsChange);
+            document.addEventListener('webkitfullscreenchange', onFsChange);
+
             // --- events ---
             times.addEventListener('click', function (e) {
                 var btn = e.target.closest('button');
@@ -200,7 +254,12 @@
             try {
                 var saved = localStorage.getItem(STORE);
                 if (saved) text.value = saved;
+                var sf = localStorage.getItem('freewrite-font');
+                var sz = localStorage.getItem('freewrite-size');
+                if (FONTS.indexOf(sf) !== -1) font = sf;
+                if (SIZES.indexOf(sz) !== -1) size = sz;
             } catch (e) {}
+            applyLook();
             setActiveButton();
             timerEl.textContent = fmt(durationMs);
             updateCount();
