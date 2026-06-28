@@ -15,7 +15,7 @@ invited (not just Rami) and that Rami hasn't declined. Solo focus blocks and
 self-bookings are skipped on purpose.
 """
 import json, os, sys, urllib.parse, urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
 CID = os.environ.get("GOOGLE_CLIENT_ID")
@@ -24,7 +24,9 @@ REFRESH = os.environ.get("GOOGLE_REFRESH_TOKEN")
 if not (CID and CSECRET and REFRESH):
     sys.exit("Missing GOOGLE_CLIENT_ID / GOOGLE_CLIENT_SECRET / GOOGLE_REFRESH_TOKEN")
 
-WINDOW_DAYS = 365
+# How many calendar years of history to pull (this year plus the previous N-1),
+# so the page can offer a GitHub-style year picker.
+HISTORY_YEARS = 5
 
 
 def get_token():
@@ -76,7 +78,8 @@ def main():
     tz = ZoneInfo(cal.get("timeZone", "UTC"))
 
     now = datetime.now(timezone.utc)
-    time_min = (now - timedelta(days=WINDOW_DAYS)).isoformat().replace("+00:00", "Z")
+    start = datetime(now.year - (HISTORY_YEARS - 1), 1, 1, tzinfo=timezone.utc)
+    time_min = start.isoformat().replace("+00:00", "Z")
     time_max = now.isoformat().replace("+00:00", "Z")
 
     counts = {}
@@ -104,21 +107,18 @@ def main():
         if not page_token:
             break
 
-    busiest = max(counts.items(), key=lambda kv: kv[1], default=None)
+    years = sorted({int(d[:4]) for d in counts}, reverse=True)
     out = {
         "updated": now.isoformat(),
         "timezone": str(tz),
-        "window_days": WINDOW_DAYS,
-        "window_start": (now - timedelta(days=WINDOW_DAYS)).astimezone(tz).date().isoformat(),
-        "window_end": now.astimezone(tz).date().isoformat(),
         "total": total,
-        "avg_per_day": round(total / WINDOW_DAYS, 1),
-        "busiest": {"date": busiest[0], "count": busiest[1]} if busiest else None,
+        "years": years,
         "counts": dict(sorted(counts.items())),
     }
     with open("calendar-data.json", "w", encoding="utf-8") as f:
         json.dump(out, f, indent=1, ensure_ascii=False)
-    print(f"wrote calendar-data.json: {total} meetings across {len(counts)} days")
+    print(f"wrote calendar-data.json: {total} meetings across {len(counts)} days, "
+          f"years {years}")
 
 
 if __name__ == "__main__":

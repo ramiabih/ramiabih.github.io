@@ -38,6 +38,35 @@
     font-weight: normal;
 }
 
+/* Year picker */
+.cal-years {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 16px;
+}
+
+.cal-years button {
+    font-family: inherit;
+    font-size: 9pt;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 3px 11px;
+    cursor: pointer;
+}
+
+.cal-years button:hover {
+    border-color: #000000;
+}
+
+.cal-years button.active {
+    background-color: #216e39;
+    border-color: #216e39;
+    color: #ffffff;
+}
+
 /* The heatmap scrolls horizontally on narrow screens, never the page */
 .cal-scroll {
     overflow-x: auto;
@@ -110,14 +139,6 @@
 }
 
 .cal-detail .hint { color: #666666; }
-
-.cal-note {
-    margin-top: 22px;
-    padding-top: 16px;
-    border-top: 1px solid #eeeeee;
-    font-size: 9pt;
-    color: #666666;
-}
 
 .cal-updated {
     font-size: 9pt;
