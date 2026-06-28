@@ -1,0 +1,134 @@
+/* Meeting Activity page — GitHub-style contribution heatmap */
+.cal-main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.cal-intro {
+    color: #666666;
+    margin: 0 0 25px 0;
+}
+
+/* Summary line */
+.cal-summary {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 6px 14px;
+    margin-bottom: 18px;
+}
+
+.cal-total {
+    font-size: 13pt;
+    color: #000000;
+}
+
+.cal-sub {
+    color: #666666;
+}
+
+.cal-busiest {
+    margin-left: auto;
+    color: #666666;
+}
+
+.cal-busiest strong {
+    color: #216e39;
+    font-weight: normal;
+}
+
+/* The heatmap scrolls horizontally on narrow screens, never the page */
+.cal-scroll {
+    overflow-x: auto;
+    padding-bottom: 6px;
+    -webkit-overflow-scrolling: touch;
+}
+
+.cal-grid {
+    display: inline-grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(7, 12px);
+    gap: 3px;
+}
+
+.cal-cell {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    background-color: #ebedf0;
+}
+
+.cal-cell.empty-slot {
+    background-color: transparent;
+}
+
+.cal-cell.l1 { background-color: #9be9a8; }
+.cal-cell.l2 { background-color: #40c463; }
+.cal-cell.l3 { background-color: #30a14e; }
+.cal-cell.l4 { background-color: #216e39; }
+
+.cal-cell[data-count] { cursor: pointer; }
+.cal-cell.selected {
+    outline: 1px solid #000000;
+    outline-offset: 1px;
+}
+
+/* Month labels above the grid */
+.cal-months {
+    display: inline-grid;
+    grid-auto-flow: column;
+    gap: 3px;
+    margin-bottom: 4px;
+    font-size: 8pt;
+    color: #666666;
+}
+
+.cal-month {
+    grid-row: 1;
+    height: 14px;
+}
+
+/* Legend */
+.cal-legend {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    justify-content: flex-end;
+    font-size: 8pt;
+    color: #666666;
+    margin-top: 8px;
+}
+
+.cal-legend .cal-cell { cursor: default; }
+
+/* Selected-day detail line */
+.cal-detail {
+    min-height: 1.4em;
+    margin-top: 16px;
+    color: #000000;
+}
+
+.cal-detail .hint { color: #666666; }
+
+.cal-note {
+    margin-top: 22px;
+    padding-top: 16px;
+    border-top: 1px solid #eeeeee;
+    font-size: 9pt;
+    color: #666666;
+}
+
+.cal-updated {
+    font-size: 9pt;
+    color: #999999;
+    margin-top: 10px;
+}
+
+.cal-empty {
+    color: #666666;
+}
+
+@media (max-width: 480px) {
+    .cal-busiest { margin-left: 0; width: 100%; }
+}
