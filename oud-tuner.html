@@ -14,12 +14,22 @@
     </header>
 
     <main class="tuner-main">
-        <div class="preset-bar">
-            <span class="preset-label">Load preset:</span>
-            <button class="preset-btn" data-preset="default">Standard</button>
-            <button class="preset-btn" data-preset="arabic">Arabic</button>
-            <button class="preset-btn" data-preset="turkish">Turkish</button>
-            <button class="preset-btn" data-preset="guitar">Guitar</button>
+        <div class="controls-bar">
+            <div class="preset-bar">
+                <span class="preset-label">Preset:</span>
+                <button class="preset-btn" data-preset="default">Standard</button>
+                <button class="preset-btn" data-preset="arabic">Arabic</button>
+                <button class="preset-btn" data-preset="turkish">Turkish</button>
+                <button class="preset-btn" data-preset="guitar">Guitar</button>
+            </div>
+            <div class="tone-bar">
+                <label class="tone-label" for="tone-select">Tone:</label>
+                <select class="tone-select" id="tone-select">
+                    <option value="oud">Oud</option>
+                    <option value="guitar">Guitar</option>
+                    <option value="reference">Reference</option>
+                </select>
+            </div>
         </div>
 
         <div class="tuner-display">
@@ -54,8 +64,23 @@
     <footer></footer>
 
     <script>
-        // ===== DEFAULT TUNING =====
-        // F A D G C F from low to high; displayed string 1 = highest
+        // ===== NOTE OPTIONS (for mobile selects) =====
+        const NOTE_BASE  = { C:0, D:2, E:4, F:5, G:7, A:9, B:11 };
+        const NOTE_NAMES = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
+
+        const NOTE_OPTIONS = [];
+        for (let midi = 24; midi <= 84; midi++) {
+            const semi   = ((midi % 12) + 12) % 12;
+            const octave = Math.floor(midi / 12) - 1;
+            const note   = NOTE_NAMES[semi] + octave;
+            const freq   = 440 * Math.pow(2, (midi - 69) / 12);
+            NOTE_OPTIONS.push({ midi, note, freq });
+        }
+        const NOTE_OPTIONS_HTML = NOTE_OPTIONS.map(o =>
+            `<option value="${o.midi}">${o.note}</option>`
+        ).join('');
+
+        // ===== TUNINGS =====
         const DEFAULT_TUNING = [
             { string: 1, note: 'F4',  freq: 349.23 },
             { string: 2, note: 'C4',  freq: 261.63 },
@@ -65,7 +90,6 @@
             { string: 6, note: 'F2',  freq: 87.31  },
         ];
 
-        // ===== PRESETS =====
         const PRESETS = {
             default: DEFAULT_TUNING,
             arabic: [
@@ -95,54 +119,132 @@
         };
 
         // ===== STATE =====
-        let strings = DEFAULT_TUNING.map(s => ({ ...s }));
+        let strings     = DEFAULT_TUNING.map(s => ({ ...s }));
         let isListening = false;
-        let audioCtx = null;
-        let analyser = null;
-        let micStream = null;
-        let rafId = null;
+        let audioCtx    = null;
+        let analyser    = null;
+        let micStream   = null;
+        let rafId       = null;
         let freqHistory = [];
-        const SMOOTH = 5;
+        const SMOOTH    = 5;
 
-        // ===== AUDIO CONTEXT =====
         function getAudioCtx() {
             if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
             return audioCtx;
         }
 
-        // ===== PLAY REFERENCE TONE =====
-        function playTone(frequency) {
-            const ctx = getAudioCtx();
-            if (ctx.state === 'suspended') ctx.resume();
-
-            const master = ctx.createGain();
-            master.connect(ctx.destination);
-
-            [[1, 0.55], [2, 0.25], [3, 0.12], [4, 0.05]].forEach(([mult, amp]) => {
-                const osc = ctx.createOscillator();
-                const g   = ctx.createGain();
-                osc.type = 'sine';
-                osc.frequency.value = frequency * mult;
-                g.gain.value = amp;
-                osc.connect(g);
-                g.connect(master);
-                osc.start(ctx.currentTime);
-                osc.stop(ctx.currentTime + 2.5);
-            });
-
-            master.gain.setValueAtTime(0, ctx.currentTime);
-            master.gain.linearRampToValueAtTime(0.9, ctx.currentTime + 0.015);
-            master.gain.exponentialRampToValueAtTime(0.45, ctx.currentTime + 0.35);
-            master.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 2.5);
+        function currentTone() {
+            return document.getElementById('tone-select').value;
         }
 
-        // ===== INPUT PARSING =====
-        const NOTE_BASE = { C:0, D:2, E:4, F:5, G:7, A:9, B:11 };
-        const NOTE_NAMES = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
+        // ===== SOUND SYNTHESIS =====
+
+        function addPluck(ctx, dest, freq, duration, brightness, amp) {
+            const bufSize = Math.floor(ctx.sampleRate * duration);
+            const buf     = ctx.createBuffer(1, bufSize, ctx.sampleRate);
+            const data    = buf.getChannelData(0);
+            for (let i = 0; i < bufSize; i++) data[i] = (Math.random() * 2 - 1);
+
+            const src = ctx.createBufferSource();
+            src.buffer = buf;
+
+            const bpf = ctx.createBiquadFilter();
+            bpf.type            = 'bandpass';
+            bpf.frequency.value = freq * brightness;
+            bpf.Q.value         = 1.2;
+
+            const g = ctx.createGain();
+            g.gain.setValueAtTime(amp, ctx.currentTime);
+            g.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + duration);
+
+            src.connect(bpf);
+            bpf.connect(g);
+            g.connect(dest);
+            src.start(ctx.currentTime);
+            src.stop(ctx.currentTime + duration);
+        }
+
+        function addPartial(ctx, dest, freq, mult, amp, attack, decay) {
+            const osc = ctx.createOscillator();
+            const g   = ctx.createGain();
+            osc.type            = 'sine';
+            osc.frequency.value = freq * mult;
+            g.gain.setValueAtTime(0, ctx.currentTime);
+            g.gain.linearRampToValueAtTime(amp, ctx.currentTime + attack);
+            g.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + attack + decay);
+            osc.connect(g);
+            g.connect(dest);
+            osc.start(ctx.currentTime);
+            osc.stop(ctx.currentTime + attack + decay);
+        }
+
+        function playOud(freq) {
+            const ctx    = getAudioCtx();
+            const master = ctx.createGain();
+            master.gain.value = 0.85;
+            master.connect(ctx.destination);
+
+            addPluck(ctx, master, freq, 0.035, 2.5, 0.6);
+            addPartial(ctx, master, freq, 1, 0.55, 0.008, 2.5);
+            addPartial(ctx, master, freq, 2, 0.22, 0.008, 1.8);
+            addPartial(ctx, master, freq, 3, 0.10, 0.010, 1.2);
+            addPartial(ctx, master, freq, 4, 0.05, 0.012, 0.8);
+        }
+
+        function playGuitar(freq) {
+            const ctx    = getAudioCtx();
+            const master = ctx.createGain();
+            master.gain.value = 0.80;
+            master.connect(ctx.destination);
+
+            addPluck(ctx, master, freq, 0.050, 4.0, 0.5);
+            addPartial(ctx, master, freq, 1, 0.50, 0.006, 4.0);
+            addPartial(ctx, master, freq, 2, 0.25, 0.006, 3.0);
+            addPartial(ctx, master, freq, 3, 0.14, 0.008, 2.0);
+            addPartial(ctx, master, freq, 4, 0.08, 0.010, 1.4);
+            addPartial(ctx, master, freq, 5, 0.04, 0.012, 1.0);
+            addPartial(ctx, master, freq, 6, 0.02, 0.014, 0.7);
+        }
+
+        function playReference(freq) {
+            const ctx = getAudioCtx();
+            const osc = ctx.createOscillator();
+            const g   = ctx.createGain();
+            osc.type            = 'sine';
+            osc.frequency.value = freq;
+            g.gain.setValueAtTime(0, ctx.currentTime);
+            g.gain.linearRampToValueAtTime(0.7, ctx.currentTime + 0.02);
+            g.gain.setValueAtTime(0.7, ctx.currentTime + 1.8);
+            g.gain.linearRampToValueAtTime(0, ctx.currentTime + 2.2);
+            osc.connect(g);
+            g.connect(ctx.destination);
+            osc.start(ctx.currentTime);
+            osc.stop(ctx.currentTime + 2.2);
+        }
+
+        function playTone(freq) {
+            const ctx = getAudioCtx();
+            if (ctx.state === 'suspended') ctx.resume();
+            const tone = currentTone();
+            if (tone === 'guitar')    playGuitar(freq);
+            else if (tone === 'reference') playReference(freq);
+            else                      playOud(freq);
+        }
+
+        // ===== NOTE UTILITIES =====
+        function noteToMidi(note) {
+            const m = note.match(/^([A-Ga-g])([#b]?)(\d)$/);
+            if (!m) return null;
+            let semi = NOTE_BASE[m[1].toUpperCase()];
+            if (m[2] === '#') semi++;
+            if (m[2] === 'b') semi--;
+            semi = ((semi % 12) + 12) % 12;
+            return (parseInt(m[3]) + 1) * 12 + semi;
+        }
 
         function freqToNote(freq) {
-            const midi = Math.round(12 * Math.log2(freq / 440) + 69);
-            const semi  = ((midi % 12) + 12) % 12;
+            const midi   = Math.round(12 * Math.log2(freq / 440) + 69);
+            const semi   = ((midi % 12) + 12) % 12;
             const octave = Math.floor(midi / 12) - 1;
             return NOTE_NAMES[semi] + octave;
         }
@@ -156,28 +258,22 @@
             return 440 * Math.pow(2, (midi - 69) / 12);
         }
 
-        // Accepts: "F4", "F#4", "Bb3", "349.23", "349.23 Hz"
         function parseInput(raw) {
             const str = raw.trim();
             if (!str) return null;
-
-            // Note name first
             const nm = str.match(/^([A-Ga-g])([#b♯♭]?)(\d)$/);
             if (nm) {
-                const acc = nm[2];
-                const oct = parseInt(nm[3]);
+                const acc  = nm[2];
+                const oct  = parseInt(nm[3]);
                 const freq = noteToFreq(nm[1], acc, oct);
                 const note = nm[1].toUpperCase() + acc.replace('♯','#').replace('♭','b') + nm[3];
                 return { freq, note };
             }
-
-            // Frequency (number, optional Hz suffix)
             const hm = str.match(/^(\d+(?:\.\d+)?)\s*(?:[Hh][Zz])?$/);
             if (hm) {
                 const freq = parseFloat(hm[1]);
                 if (freq > 20 && freq < 5000) return { freq, note: freqToNote(freq) };
             }
-
             return null;
         }
 
@@ -194,7 +290,7 @@
             for (let i = 1; i < SIZE / 2; i++) { if (Math.abs(buf[SIZE - i]) < 0.2) { r2 = SIZE - i; break; } }
 
             const seg = buf.slice(r1, r2);
-            const N = seg.length;
+            const N   = seg.length;
             if (N < 2) return -1;
 
             const c = new Float32Array(N);
@@ -211,12 +307,12 @@
             if (maxPos < 1 || maxPos >= N - 1) return -1;
 
             const y1 = c[maxPos - 1], y2 = c[maxPos], y3 = c[maxPos + 1];
-            const a = (y1 + y3 - 2 * y2) / 2;
+            const a  = (y1 + y3 - 2 * y2) / 2;
             const T0 = (a !== 0) ? maxPos - (y3 - y1) / (4 * a) : maxPos;
             return sampleRate / T0;
         }
 
-        // ===== DOM =====
+        // ===== DOM REFS =====
         const elNote    = document.getElementById('display-note');
         const elCents   = document.getElementById('display-cents');
         const elStatus  = document.getElementById('display-status');
@@ -237,39 +333,36 @@
         // ===== DISPLAY UPDATE =====
         function updateDisplay(freq) {
             if (freq < 0) {
-                elNote.textContent = '—';
-                elNote.className = 'display-note';
+                elNote.textContent  = '—';
+                elNote.className    = 'display-note';
                 elCents.textContent = '';
                 elStatus.textContent = 'Waiting for signal…';
-                elStatus.className = 'display-status';
+                elStatus.className  = 'display-status';
                 elNeedle.style.left = '50%';
                 highlightString(null);
                 return;
             }
-
             const closest = closestString(freq);
             const cents   = Math.round(1200 * Math.log2(freq / closest.freq));
             const clamped = Math.max(-50, Math.min(50, cents));
-            elNeedle.style.left = (50 + clamped) + '%';
-            elNote.textContent = closest.note;
-
+            elNeedle.style.left   = (50 + clamped) + '%';
+            elNote.textContent    = closest.note;
             if (Math.abs(cents) <= 5) {
-                elNote.className = 'display-note in-tune';
-                elCents.textContent = 'In tune';
+                elNote.className     = 'display-note in-tune';
+                elCents.textContent  = 'In tune';
                 elStatus.textContent = '✓ In tune';
-                elStatus.className = 'display-status in-tune';
+                elStatus.className   = 'display-status in-tune';
             } else if (cents < 0) {
-                elNote.className = 'display-note';
-                elCents.textContent = `${cents} cents flat`;
+                elNote.className     = 'display-note';
+                elCents.textContent  = `${cents} cents flat`;
                 elStatus.textContent = 'Tune up ↑';
-                elStatus.className = 'display-status';
+                elStatus.className   = 'display-status';
             } else {
-                elNote.className = 'display-note';
-                elCents.textContent = `+${cents} cents sharp`;
+                elNote.className     = 'display-note';
+                elCents.textContent  = `+${cents} cents sharp`;
                 elStatus.textContent = 'Tune down ↓';
-                elStatus.className = 'display-status';
+                elStatus.className   = 'display-status';
             }
-
             highlightString(closest.string);
         }
 
@@ -292,6 +385,9 @@
                             aria-label="String ${s.string} pitch"
                             data-string="${s.string}"
                         />
+                        <select class="string-select" aria-label="String ${s.string} note" data-string="${s.string}">
+                            ${NOTE_OPTIONS_HTML}
+                        </select>
                         <span class="string-hz">${s.freq.toFixed(1)} Hz</span>
                     </div>
                     <button class="string-play" data-string="${s.string}">&#9654; Play</button>
@@ -300,55 +396,48 @@
 
             elStrings.querySelectorAll('.string-row').forEach(row => {
                 const num    = Number(row.dataset.string);
+                const s      = strings.find(x => x.string === num);
                 const input  = row.querySelector('.string-input');
+                const sel    = row.querySelector('.string-select');
                 const hzSpan = row.querySelector('.string-hz');
                 const play   = row.querySelector('.string-play');
 
-                play.addEventListener('click', () => {
-                    const s = strings.find(x => x.string === num);
-                    if (s) playTone(s.freq);
+                // Set select to match current note
+                const midi = noteToMidi(s.note);
+                if (midi !== null) sel.value = midi;
+
+                function commit(note, freq) {
+                    s.note = note; s.freq = freq;
+                    input.value  = note;
+                    hzSpan.textContent = freq.toFixed(1) + ' Hz';
+                    const m = noteToMidi(note);
+                    if (m !== null) sel.value = m;
+                }
+
+                play.addEventListener('click', () => playTone(s.freq));
+
+                // Mobile select
+                sel.addEventListener('change', () => {
+                    const opt = NOTE_OPTIONS.find(o => o.midi === parseInt(sel.value));
+                    if (opt) commit(opt.note, opt.freq);
                 });
 
+                // Desktop input
                 let saved = input.value;
-
-                input.addEventListener('focus', () => { saved = input.value; });
-
+                input.addEventListener('focus',   () => { saved = input.value; });
                 input.addEventListener('keydown', e => {
                     if (e.key === 'Enter')  input.blur();
-                    if (e.key === 'Escape') {
-                        input.value = saved;
-                        input.classList.remove('invalid');
-                        input.blur();
-                    }
+                    if (e.key === 'Escape') { input.value = saved; input.classList.remove('invalid'); input.blur(); }
                 });
-
-                // Live Hz preview while typing
                 input.addEventListener('input', () => {
                     const parsed = parseInput(input.value);
-                    if (parsed) {
-                        hzSpan.textContent = parsed.freq.toFixed(1) + ' Hz';
-                        input.classList.remove('invalid');
-                    } else {
-                        input.classList.add('invalid');
-                    }
+                    if (parsed) { hzSpan.textContent = parsed.freq.toFixed(1) + ' Hz'; input.classList.remove('invalid'); }
+                    else        { input.classList.add('invalid'); }
                 });
-
-                // Commit on blur
                 input.addEventListener('blur', () => {
                     const parsed = parseInput(input.value);
-                    if (parsed) {
-                        input.value = parsed.note;
-                        hzSpan.textContent = parsed.freq.toFixed(1) + ' Hz';
-                        input.classList.remove('invalid');
-                        const s = strings.find(x => x.string === num);
-                        if (s) { s.note = parsed.note; s.freq = parsed.freq; }
-                    } else {
-                        // Revert to last valid value
-                        input.value = saved;
-                        input.classList.remove('invalid');
-                        const s = strings.find(x => x.string === num);
-                        if (s) hzSpan.textContent = s.freq.toFixed(1) + ' Hz';
-                    }
+                    if (parsed) { commit(parsed.note, parsed.freq); input.classList.remove('invalid'); }
+                    else        { input.value = saved; input.classList.remove('invalid'); hzSpan.textContent = s.freq.toFixed(1) + ' Hz'; }
                 });
             });
         }
@@ -371,11 +460,9 @@
             }
             const ctx = getAudioCtx();
             if (ctx.state === 'suspended') await ctx.resume();
-
             analyser = ctx.createAnalyser();
             analyser.fftSize = 4096;
             ctx.createMediaStreamSource(micStream).connect(analyser);
-
             isListening = true;
             freqHistory = [];
             elBtn.textContent = 'Stop Listening';
@@ -390,11 +477,11 @@
             analyser = null;
             elBtn.textContent = 'Start Listening';
             elBtn.classList.remove('active');
-            elNote.textContent = '—';
-            elNote.className = 'display-note';
+            elNote.textContent  = '—';
+            elNote.className    = 'display-note';
             elCents.textContent = '';
             elStatus.textContent = 'Click a string to play a reference tone';
-            elStatus.className = 'display-status';
+            elStatus.className  = 'display-status';
             elNeedle.style.left = '50%';
             highlightString(null);
         }
@@ -419,7 +506,6 @@
         document.querySelectorAll('.preset-btn').forEach(btn => {
             btn.addEventListener('click', () => loadPreset(btn.dataset.preset));
         });
-
         elBtn.addEventListener('click', () => {
             if (isListening) stopListening();
             else startListening();
