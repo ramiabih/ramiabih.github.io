@@ -277,19 +277,47 @@
     line-height: 1.6;
 }
 
-/* ===== MOBILE ===== */
+/* ===== MOBILE =====
+   Lock the page to the viewport height and let the strings list absorb
+   whatever space is left. Nothing can overflow, so the page never scrolls. */
 @media (max-width: 600px) {
-    header { margin: 4px auto 6px; padding: 0 12px; }
-    header h1 { font-size: 10pt; margin-bottom: 0; }
+    html, body {
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+    }
+
+    body {
+        height: 100vh;        /* fallback */
+        height: 100dvh;       /* tracks the dynamic toolbar on mobile */
+        display: flex;
+        flex-direction: column;
+    }
+
+    header {
+        flex: none;
+        margin: 6px auto 4px;
+        padding: 0 12px;
+    }
+    header h1 { font-size: 10.5pt; margin-bottom: 0; }
     header p  { display: none; }
 
-    .tuner-main { padding: 0 12px 8px; }
+    .tuner-main {
+        flex: 1;
+        min-height: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        padding: 0 12px 8px;
+    }
 
+    /* Controls */
     .controls-bar {
+        flex: none;
         flex-direction: column;
         align-items: stretch;
         gap: 6px;
-        margin-bottom: 10px;
+        margin: 0;
     }
 
     .preset-label { display: none; }
@@ -302,31 +330,71 @@
 
     .preset-btn {
         border-radius: 6px;
-        padding: 8px 4px;
+        padding: 7px 4px;
         text-align: center;
         font-size: 9pt;
     }
 
-    .tone-bar {
-        justify-content: center;
-        gap: 8px;
-    }
-
+    .tone-bar { justify-content: center; gap: 8px; }
     .tone-select { flex: 1; }
 
-    .tuner-display { padding: 12px 14px 10px; margin-bottom: 8px; }
-    .display-note  { font-size: 34pt; min-height: 42px; margin-bottom: 2px; }
-    .display-cents { font-size: 9pt; margin-bottom: 10px; min-height: 14px; }
+    /* Display */
+    .tuner-display {
+        flex: none;
+        padding: 10px 14px 8px;
+        margin: 0;
+    }
+    .display-note  { font-size: clamp(28pt, 9vh, 40pt); min-height: 0; margin-bottom: 2px; }
+    .display-cents { font-size: 9pt; margin-bottom: 8px; min-height: 14px; }
+    .meter-wrap    { margin-bottom: 8px; }
     .meter-scale   { display: none; }
+    .display-status { min-height: 16px; }
 
-    .listen-btn { padding: 8px; font-size: 9.5pt; margin-bottom: 8px; }
+    .listen-btn {
+        flex: none;
+        padding: 8px;
+        font-size: 9.5pt;
+        margin: 0;
+    }
 
+    /* Strings — fill remaining height, rows share it evenly */
+    .strings-section {
+        flex: 1;
+        min-height: 0;
+        display: flex;
+        flex-direction: column;
+    }
     .strings-section h3 { display: none; }
-    .string-row { padding: 5px 4px; gap: 8px; }
+
+    .strings-list {
+        flex: 1;
+        min-height: 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .string-row {
+        flex: 1;
+        min-height: 0;
+        padding: 0 4px;
+        gap: 10px;
+    }
+
+    .string-edit { align-items: center; }
+
+    .string-num { font-size: 8.5pt; }
 
     .string-input  { display: none; }
-    .string-select { display: block; }
     .string-hz     { display: none; }
+
+    .string-select {
+        display: block;
+        width: 100%;
+        max-width: 110px;
+        padding: 5px 6px;
+    }
+
+    .string-play { padding: 6px 14px; }
 
     footer, .tuner-note { display: none; }
 }
