@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freewrite - Rami Abi Habib</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="freewrite-styles.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">Rami Abi Habib</a></h1>
+        <p>Founder & CEO of Querio</p>
+    </header>
+
+    <main class="fw-main">
+        <div class="fw-intro">
+            <h2>Freewrite</h2>
+            <p>One rule: keep writing. Don't stop, don't edit, don't judge &mdash; if you stall,
+               just type that you've stalled.<br>
+               Pick a length, press start, and don't lift your hands until the time is up.</p>
+        </div>
+
+        <div class="fw-bar">
+            <div class="fw-times" id="fwTimes">
+                <button data-min="5">5 min</button>
+                <button data-min="10">10 min</button>
+                <button data-min="15" class="active">15 min</button>
+            </div>
+            <span class="fw-timer" id="fwTimer">15:00</span>
+            <span class="fw-nudge" id="fwNudge">keep writing&hellip;</span>
+            <button class="fw-start" id="fwStart">Start</button>
+            <button class="fw-stop" id="fwStop">Stop</button>
+        </div>
+
+        <textarea class="fw-text" id="fwText" spellcheck="false"
+                  placeholder="Start typing&hellip;"></textarea>
+
+        <div class="fw-foot">
+            <span class="fw-count" id="fwCount">0 words</span>
+            <span class="fw-actions" id="fwActions">
+                <span class="fw-done-msg" id="fwDoneMsg"></span>
+                <button id="fwCopy">Copy</button>
+                <button id="fwDownload">Download</button>
+                <button id="fwReset">New session</button>
+            </span>
+        </div>
+
+        <p class="fw-note">Everything stays in your browser &mdash; nothing is sent anywhere or saved
+           online. Your draft is kept locally so a refresh won't lose it.</p>
+    </main>
+
+    <footer>
+        <p><a href="index.html">&larr; Back to home</a></p>
+    </footer>
+
+    <script>
+        (function () {
+            var text = document.getElementById('fwText');
+            var times = document.getElementById('fwTimes');
+            var timerEl = document.getElementById('fwTimer');
+            var nudge = document.getElementById('fwNudge');
+            var startBtn = document.getElementById('fwStart');
+            var stopBtn = document.getElementById('fwStop');
+            var countEl = document.getElementById('fwCount');
+            var doneMsg = document.getElementById('fwDoneMsg');
+            var copyBtn = document.getElementById('fwCopy');
+            var dlBtn = document.getElementById('fwDownload');
+            var resetBtn = document.getElementById('fwReset');
+
+            var STORE = 'freewrite-draft';
+            var minutes = 15;
+            var durationMs = minutes * 60 * 1000;
+            var endAt = 0;
+            var lastType = 0;
+            var tick = null;
+            var running = false;
+
+            // Optional ?min= override (accepts fractions, handy for a quick 2-minute sprint)
+            var qMin = parseFloat(new URLSearchParams(location.search).get('min'));
+            if (qMin > 0) { minutes = qMin; durationMs = Math.round(qMin * 60 * 1000); }
+
+            function pad(n) { return n < 10 ? '0' + n : '' + n; }
+            function fmt(ms) {
+                var s = Math.max(0, Math.round(ms / 1000));
+                return pad(Math.floor(s / 60)) + ':' + pad(s % 60);
+            }
+            function words(str) {
+                var t = str.trim();
+                return t ? t.split(/\s+/).length : 0;
+            }
+            function updateCount() {
+                var n = words(text.value);
+                countEl.textContent = n + (n === 1 ? ' word' : ' words');
+            }
+
+            function setActiveButton() {
+                [].forEach.call(times.querySelectorAll('button'), function (b) {
+                    b.classList.toggle('active', +b.getAttribute('data-min') === minutes);
+                });
+            }
+
+            function loop() {
+                var left = endAt - Date.now();
+                timerEl.textContent = fmt(left);
+                if (left <= 0) { finish(); return; }
+                // Gentle nudge if the hands stop moving
+                nudge.classList.toggle('show', Date.now() - lastType > 4000);
+            }
+
+            function start() {
+                running = true;
+                document.body.classList.remove('fw-done');
+                document.body.classList.add('fw-running');
+                endAt = Date.now() + durationMs;
+                lastType = Date.now();
+                timerEl.textContent = fmt(durationMs);
+                tick = setInterval(loop, 250);
+                text.focus();
+            }
+
+            function stopTimers() {
+                running = false;
+                if (tick) { clearInterval(tick); tick = null; }
+                nudge.classList.remove('show');
+                document.body.classList.remove('fw-running');
+            }
+
+            function finish() {
+                stopTimers();
+                document.body.classList.add('fw-done');
+                timerEl.textContent = '00:00';
+                doneMsg.textContent = 'Done — ' + words(text.value) + ' words. Nicely done.';
+            }
+
+            function stopEarly() {
+                stopTimers();
+                document.body.classList.add('fw-done');
+                doneMsg.textContent = 'Stopped — ' + words(text.value) + ' words.';
+            }
+
+            // --- events ---
+            times.addEventListener('click', function (e) {
+                var btn = e.target.closest('button');
+                if (!btn || running) return;
+                minutes = +btn.getAttribute('data-min');
+                durationMs = minutes * 60 * 1000;
+                setActiveButton();
+                timerEl.textContent = fmt(durationMs);
+            });
+
+            startBtn.addEventListener('click', start);
+            stopBtn.addEventListener('click', stopEarly);
+
+            text.addEventListener('input', function () {
+                lastType = Date.now();
+                if (running) nudge.classList.remove('show');
+                updateCount();
+                try { localStorage.setItem(STORE, text.value); } catch (e) {}
+            });
+
+            copyBtn.addEventListener('click', function () {
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(text.value).then(function () {
+                        copyBtn.textContent = 'Copied';
+                        setTimeout(function () { copyBtn.textContent = 'Copy'; }, 1500);
+                    });
+                } else {
+                    text.select(); document.execCommand('copy');
+                }
+            });
+
+            dlBtn.addEventListener('click', function () {
+                var d = new Date();
+                var name = 'freewrite-' + d.getFullYear() + pad(d.getMonth() + 1) +
+                    pad(d.getDate()) + '.txt';
+                var blob = new Blob([text.value], { type: 'text/plain' });
+                var a = document.createElement('a');
+                a.href = URL.createObjectURL(blob);
+                a.download = name;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(a.href);
+            });
+
+            resetBtn.addEventListener('click', function () {
+                if (text.value && !confirm('Clear this session and start fresh?')) return;
+                stopTimers();
+                document.body.classList.remove('fw-done');
+                text.value = '';
+                try { localStorage.removeItem(STORE); } catch (e) {}
+                updateCount();
+                timerEl.textContent = fmt(durationMs);
+                doneMsg.textContent = '';
+                text.focus();
+            });
+
+            // --- init ---
+            try {
+                var saved = localStorage.getItem(STORE);
+                if (saved) text.value = saved;
+            } catch (e) {}
+            setActiveButton();
+            timerEl.textContent = fmt(durationMs);
+            updateCount();
+        })();
+    </script>
+</body>
+</html>
