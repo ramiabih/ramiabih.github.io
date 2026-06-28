@@ -18,7 +18,7 @@
             <h2>Freewrite</h2>
             <p>One rule: keep writing. Don't stop, don't edit, don't judge &mdash; if you stall,
                just type that you've stalled.<br>
-               Pick a length, press start, and don't lift your hands until the time is up.</p>
+               Pick a length and just start typing &mdash; the timer starts on its own and runs until the time is up.</p>
         </div>
 
         <div class="fw-bar">
@@ -208,6 +208,10 @@
 
             text.addEventListener('input', function () {
                 lastType = Date.now();
+                // Just start writing — the timer kicks off on its own.
+                if (!running && !document.body.classList.contains('fw-done')) {
+                    start();
+                }
                 if (running) nudge.classList.remove('show');
                 updateCount();
                 try { localStorage.setItem(STORE, text.value); } catch (e) {}
