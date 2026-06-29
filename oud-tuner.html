@@ -125,8 +125,25 @@
         let analyser    = null;
         let micStream   = null;
         let rafId       = null;
-        let freqHistory = [];
-        const SMOOTH    = 5;
+
+        // ----- Stabilization state (makes it behave like a tuner, not a
+        //       raw pitch detector) -----
+        let pitchBuf      = [];   // recent accepted frequencies (median window)
+        let displayFreq   = 0;    // EMA-smoothed frequency actually shown
+        let needlePos     = 50;   // EMA-smoothed needle position (percent)
+        let lastValidTime = 0;    // performance.now() of last accepted frame
+        const PITCH_WINDOW = 8;   // frames kept for the median (~130 ms)
+        const CLARITY_MIN  = 0.80;// min normalized autocorrelation peak to trust
+        const HOLD_MS      = 600; // keep showing the last note through dropouts
+        const FREQ_EMA     = 0.25;// how fast the reading eases toward the median
+        const NEEDLE_EMA   = 0.18;// how fast the needle eases (≈150 ms settle)
+        const RMS_GATE     = 0.012;
+
+        function median(arr) {
+            const a = arr.slice().sort((x, y) => x - y);
+            const m = a.length >> 1;
+            return a.length % 2 ? a[m] : (a[m - 1] + a[m]) / 2;
+        }
 
         function getAudioCtx() {
             if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
@@ -278,12 +295,17 @@
         }
 
         // ===== PITCH DETECTION =====
+        // Returns { freq, clarity }. clarity is the autocorrelation peak
+        // normalized by signal energy (0–1): low for noise, high for a clean
+        // periodic tone. freq is -1 when there is no usable signal.
+        const NO_PITCH = { freq: -1, clarity: 0 };
+
         function autoCorrelate(buf, sampleRate) {
             const SIZE = buf.length;
             let rms = 0;
             for (let i = 0; i < SIZE; i++) rms += buf[i] * buf[i];
             rms = Math.sqrt(rms / SIZE);
-            if (rms < 0.008) return -1;
+            if (rms < RMS_GATE) return NO_PITCH;
 
             let r1 = 0, r2 = SIZE - 1;
             for (let i = 0; i < SIZE / 2; i++) { if (Math.abs(buf[i]) < 0.2) { r1 = i; break; } }
@@ -291,12 +313,14 @@
 
             const seg = buf.slice(r1, r2);
             const N   = seg.length;
-            if (N < 2) return -1;
+            if (N < 2) return NO_PITCH;
 
             const c = new Float32Array(N);
             for (let i = 0; i < N; i++)
                 for (let j = 0; j < N - i; j++)
                     c[i] += seg[j] * seg[j + i];
+
+            const energy = c[0] || 1e-9;   // zero-lag energy, for normalization
 
             let d = 0;
             while (d < N - 1 && c[d] > c[d + 1]) d++;
@@ -304,12 +328,12 @@
             for (let i = d; i < N; i++) {
                 if (c[i] > maxVal) { maxVal = c[i]; maxPos = i; }
             }
-            if (maxPos < 1 || maxPos >= N - 1) return -1;
+            if (maxPos < 1 || maxPos >= N - 1) return NO_PITCH;
 
             const y1 = c[maxPos - 1], y2 = c[maxPos], y3 = c[maxPos + 1];
             const a  = (y1 + y3 - 2 * y2) / 2;
             const T0 = (a !== 0) ? maxPos - (y3 - y1) / (4 * a) : maxPos;
-            return sampleRate / T0;
+            return { freq: sampleRate / T0, clarity: maxVal / energy };
         }
 
         // ===== DOM REFS =====
@@ -338,6 +362,7 @@
                 elCents.textContent = '';
                 elStatus.textContent = 'Waiting for signal…';
                 elStatus.className  = 'display-status';
+                needlePos = 50;
                 elNeedle.style.left = '50%';
                 highlightString(null);
                 return;
@@ -345,7 +370,8 @@
             const closest = closestString(freq);
             const cents   = Math.round(1200 * Math.log2(freq / closest.freq));
             const clamped = Math.max(-50, Math.min(50, cents));
-            elNeedle.style.left   = (50 + clamped) + '%';
+            needlePos += ((50 + clamped) - needlePos) * NEEDLE_EMA;
+            elNeedle.style.left   = needlePos + '%';
             elNote.textContent    = closest.note;
             if (Math.abs(cents) <= 5) {
                 elNote.className     = 'display-note in-tune';
@@ -464,7 +490,10 @@
             analyser.fftSize = 4096;
             ctx.createMediaStreamSource(micStream).connect(analyser);
             isListening = true;
-            freqHistory = [];
+            pitchBuf = [];
+            displayFreq = 0;
+            needlePos = 50;
+            lastValidTime = 0;
             elBtn.textContent = 'Stop Listening';
             elBtn.classList.add('active');
             loop();
@@ -475,6 +504,9 @@
             if (rafId)     { cancelAnimationFrame(rafId); rafId = null; }
             if (micStream) { micStream.getTracks().forEach(t => t.stop()); micStream = null; }
             analyser = null;
+            pitchBuf = [];
+            displayFreq = 0;
+            needlePos = 50;
             elBtn.textContent = 'Start Listening';
             elBtn.classList.remove('active');
             elNote.textContent  = '—';
@@ -490,13 +522,36 @@
             if (!isListening || !analyser) return;
             const buf = new Float32Array(analyser.fftSize);
             analyser.getFloatTimeDomainData(buf);
-            const raw = autoCorrelate(buf, getAudioCtx().sampleRate);
-            if (raw > 0) {
-                freqHistory.push(raw);
-                if (freqHistory.length > SMOOTH) freqHistory.shift();
-                updateDisplay(freqHistory.reduce((a, b) => a + b, 0) / freqHistory.length);
+            const { freq, clarity } = autoCorrelate(buf, getAudioCtx().sampleRate);
+            const now = performance.now();
+
+            if (freq > 0 && clarity >= CLARITY_MIN) {
+                // Octave-glitch folding: instruments are harmonic-rich, so a
+                // frame occasionally locks an octave off. If this reading is
+                // ~half or ~double the running estimate, fold it back in.
+                let f = freq;
+                if (pitchBuf.length >= 3) {
+                    const med = median(pitchBuf);
+                    if (Math.abs(f / 2 - med) / med < 0.04)      f /= 2;
+                    else if (Math.abs(f * 2 - med) / med < 0.04) f *= 2;
+                }
+                pitchBuf.push(f);
+                if (pitchBuf.length > PITCH_WINDOW) pitchBuf.shift();
+                lastValidTime = now;
+
+                // Median rejects single bad frames; EMA glides the reading.
+                const med = median(pitchBuf);
+                displayFreq = displayFreq ? displayFreq + (med - displayFreq) * FREQ_EMA : med;
+
+                // Need a couple of agreeing frames before committing a note.
+                if (pitchBuf.length >= 3) updateDisplay(displayFreq);
+            } else if (displayFreq && now - lastValidTime < HOLD_MS) {
+                // Hold the last note briefly so a momentary dropout (e.g. a
+                // string decaying) doesn't make the display flicker.
+                updateDisplay(displayFreq);
             } else {
-                freqHistory = [];
+                pitchBuf = [];
+                displayFreq = 0;
                 updateDisplay(-1);
             }
             rafId = requestAnimationFrame(loop);
