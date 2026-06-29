@@ -126,17 +126,19 @@
         let micStream   = null;
         let rafId       = null;
 
-        // ----- Stabilization state (makes it behave like a tuner, not a
-        //       raw pitch detector) -----
+        // ----- Stabilization state -----
+        // Adaptive smoothing: rock-steady when a note is held, but tracks
+        // fast the instant the pitch starts moving (turning a peg), so you
+        // can watch the reading climb/fall as you tune.
         let pitchBuf      = [];   // recent accepted frequencies (median window)
-        let displayFreq   = 0;    // EMA-smoothed frequency actually shown
-        let needlePos     = 50;   // EMA-smoothed needle position (percent)
+        let displayFreq   = 0;    // smoothed frequency actually shown
         let lastValidTime = 0;    // performance.now() of last accepted frame
-        const PITCH_WINDOW = 8;   // frames kept for the median (~130 ms)
+        const PITCH_WINDOW = 3;   // median window — short, so it stays responsive
         const CLARITY_MIN  = 0.80;// min normalized autocorrelation peak to trust
-        const HOLD_MS      = 600; // keep showing the last note through dropouts
-        const FREQ_EMA     = 0.25;// how fast the reading eases toward the median
-        const NEEDLE_EMA   = 0.18;// how fast the needle eases (≈150 ms settle)
+        const HOLD_MS      = 300; // keep showing the last note through dropouts
+        const EMA_STEADY   = 0.20;// smoothing when the note is steady (stable)
+        const EMA_GAIN     = 80;  // how aggressively smoothing opens up on motion
+        const EMA_MAX      = 0.85;// fastest tracking while actively tuning
         const RMS_GATE     = 0.012;
 
         function median(arr) {
@@ -362,7 +364,6 @@
                 elCents.textContent = '';
                 elStatus.textContent = 'Waiting for signal…';
                 elStatus.className  = 'display-status';
-                needlePos = 50;
                 elNeedle.style.left = '50%';
                 highlightString(null);
                 return;
@@ -370,8 +371,7 @@
             const closest = closestString(freq);
             const cents   = Math.round(1200 * Math.log2(freq / closest.freq));
             const clamped = Math.max(-50, Math.min(50, cents));
-            needlePos += ((50 + clamped) - needlePos) * NEEDLE_EMA;
-            elNeedle.style.left   = needlePos + '%';
+            elNeedle.style.left   = (50 + clamped) + '%';
             elNote.textContent    = closest.note;
             if (Math.abs(cents) <= 5) {
                 elNote.className     = 'display-note in-tune';
@@ -492,7 +492,6 @@
             isListening = true;
             pitchBuf = [];
             displayFreq = 0;
-            needlePos = 50;
             lastValidTime = 0;
             elBtn.textContent = 'Stop Listening';
             elBtn.classList.add('active');
@@ -506,7 +505,6 @@
             analyser = null;
             pitchBuf = [];
             displayFreq = 0;
-            needlePos = 50;
             elBtn.textContent = 'Start Listening';
             elBtn.classList.remove('active');
             elNote.textContent  = '—';
@@ -539,12 +537,20 @@
                 if (pitchBuf.length > PITCH_WINDOW) pitchBuf.shift();
                 lastValidTime = now;
 
-                // Median rejects single bad frames; EMA glides the reading.
+                // Median rejects single bad frames. Then smooth adaptively:
+                // when the reading is close to where we are (note held) smooth
+                // hard for stability; when it has moved (you're turning a peg)
+                // open the filter up so the display tracks the change live.
                 const med = median(pitchBuf);
-                displayFreq = displayFreq ? displayFreq + (med - displayFreq) * FREQ_EMA : med;
+                if (!displayFreq) {
+                    displayFreq = med;
+                } else {
+                    const rel   = Math.abs(med - displayFreq) / displayFreq;
+                    const alpha = Math.min(EMA_MAX, EMA_STEADY + rel * EMA_GAIN);
+                    displayFreq += (med - displayFreq) * alpha;
+                }
 
-                // Need a couple of agreeing frames before committing a note.
-                if (pitchBuf.length >= 3) updateDisplay(displayFreq);
+                if (pitchBuf.length >= 2) updateDisplay(displayFreq);
             } else if (displayFreq && now - lastValidTime < HOLD_MS) {
                 // Hold the last note briefly so a momentary dropout (e.g. a
                 // string decaying) doesn't make the display flicker.
