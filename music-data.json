@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T14:00:23.372495+00:00",
+ "updated": "2026-06-30T19:44:11.982791+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -74,11 +74,25 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
+    },
+    {
      "name": "Nassam Alayna El Hawa",
      "artists": "Fairuz",
      "album": "Bent El Hares",
      "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
      "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
+    },
+    {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "Nasini El Donya",
@@ -109,25 +123,11 @@
      "url": "https://open.spotify.com/track/0iTidIMDh2IvGryXfUfpDM"
     },
     {
-     "name": "Konna Netlaka",
-     "artists": "Fairuz",
-     "album": "Konna Netlaka",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
-    },
-    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "El Bint El Awiye",
@@ -152,6 +152,12 @@
      "genres": []
     },
     {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
+    },
+    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
@@ -160,26 +166,11 @@
      ]
     },
     {
-     "name": "Ziad Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
-     "genres": []
-    },
-    {
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
       "khaleeji"
-     ]
-    },
-    {
-     "name": "Kendrick Lamar",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
-     "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
-     "genres": [
-      "hip hop",
-      "west coast hip hop"
      ]
     },
     {
@@ -794,6 +785,20 @@
  },
  "recent": [
   {
+   "name": "I'm a Nasty Hoe",
+   "artists": "Ugly God",
+   "image": "https://i.scdn.co/image/ab67616d0000b273039c0e14d0dc89e9c270f54e",
+   "url": "https://open.spotify.com/track/2VGNV3fdVW5gdd4j2wYSU8",
+   "played_at": "2026-06-30T18:43:53.158Z"
+  },
+  {
+   "name": "Konna Netlaka",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+   "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu",
+   "played_at": "2026-06-30T14:33:28.332Z"
+  },
+  {
    "name": "Takassim 'Banat Iskandariya'",
    "artists": "Oriental Lebanese Band",
    "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
@@ -1128,20 +1133,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
    "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
    "played_at": "2026-06-24T08:33:23.096Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-06-24T08:28:50.922Z"
-  },
-  {
-   "name": "Fayek Alaya",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
-   "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ",
-   "played_at": "2026-06-24T08:26:11.240Z"
   }
  ]
 }
