@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T09:31:56.553295+00:00",
+ "updated": "2026-07-01T14:13:23.891618+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -53,18 +53,18 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
-    },
-    {
      "name": "Law Hobna Ghalta",
      "artists": "Wael Kfoury",
      "album": "Law Hobna Ghalta",
      "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
      "name": "Bisaraha",
@@ -86,6 +86,13 @@
      "album": "Bent El Hares",
      "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
      "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
+    },
+    {
+     "name": "The Middle East... W Ameh - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
      "name": "I Thought About Killing You",
@@ -128,13 +135,6 @@
      "album": "Emany Satea",
      "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
      "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
-    },
-    {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
      "name": "El Bint El Awiye",
@@ -598,18 +598,18 @@
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
-     "name": "Creep - Acoustic",
-     "artists": "Radiohead",
-     "album": "Creep EP",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647",
-     "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
-    },
-    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "Creep - Acoustic",
+     "artists": "Radiohead",
+     "album": "Creep EP",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647",
+     "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
     },
     {
      "name": "Oum Fout Nam",
@@ -786,6 +786,90 @@
   }
  },
  "recent": [
+  {
+   "name": "Basement Famous",
+   "artists": "Sammy Haig",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b816b4b4574f9581d8e26bb8",
+   "url": "https://open.spotify.com/track/1bS8bfudVHSewfa1dc8KQq",
+   "played_at": "2026-07-01T13:49:48.176Z"
+  },
+  {
+   "name": "I'm Confessin'",
+   "artists": "Lester Young, Oscar Peterson Trio",
+   "image": "https://i.scdn.co/image/ab67616d0000b273560ea575b1d7f32eda29b0c9",
+   "url": "https://open.spotify.com/track/7isKcNmNuuDEK2I8iFhe7h",
+   "played_at": "2026-07-01T13:33:54.237Z"
+  },
+  {
+   "name": "Haupe",
+   "artists": "Duke Ellington",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730405b7489c772ff3158eff6f",
+   "url": "https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf",
+   "played_at": "2026-07-01T13:30:16.237Z"
+  },
+  {
+   "name": "In Your Own Sweet Way - Remastered 2025",
+   "artists": "Wes Montgomery",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738a9afd61a5524dc8266d4244",
+   "url": "https://open.spotify.com/track/01zdWVXJkI4O0srGHVX8hH",
+   "played_at": "2026-07-01T13:27:41.917Z"
+  },
+  {
+   "name": "It's Been a Long, Long Time (with Harry James & His Orchestra)",
+   "artists": "Kitty Kallen, Harry James",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395bba6df81c05c5dc25b898c",
+   "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV",
+   "played_at": "2026-07-01T13:22:46.354Z"
+  },
+  {
+   "name": "Bent El Chalabiya",
+   "artists": "Munir Bachir",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
+   "played_at": "2026-07-01T13:18:45.553Z"
+  },
+  {
+   "name": "Kezzabi",
+   "artists": "Petit Prince",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e1cd04ede6d6dca30d17bb03",
+   "url": "https://open.spotify.com/track/3dveWHZ0Wno1meYweW1cJm",
+   "played_at": "2026-07-01T12:21:25.297Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-07-01T11:53:12.880Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Isabel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
+   "played_at": "2026-07-01T10:11:33.832Z"
+  },
+  {
+   "name": "The Middle East... W Ameh - Live",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+   "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM",
+   "played_at": "2026-07-01T10:08:11.652Z"
+  },
+  {
+   "name": "Law Hobna Ghalta",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+   "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
+   "played_at": "2026-07-01T09:56:35.363Z"
+  },
+  {
+   "name": "Fever",
+   "artists": "Robert Glasper, Hindi Zahra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736c39aa3c2feaf1bb60d8433d",
+   "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR",
+   "played_at": "2026-07-01T07:02:22.389Z"
+  },
   {
    "name": "Bisaraha",
    "artists": "Ziad Rahbani",
@@ -1051,90 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
    "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
    "played_at": "2026-06-27T14:01:56.875Z"
-  },
-  {
-   "name": "Batwanes Beek",
-   "artists": "Warda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
-   "played_at": "2026-06-27T14:00:29.304Z"
-  },
-  {
-   "name": "Batwanes Beek",
-   "artists": "Warda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
-   "played_at": "2026-06-26T02:18:06.286Z"
-  },
-  {
-   "name": "Tamally Maak",
-   "artists": "Amr Diab",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-   "played_at": "2026-06-25T21:30:54.124Z"
-  },
-  {
-   "name": "Tamally Maak",
-   "artists": "Amr Diab",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-   "played_at": "2026-06-25T21:27:12.222Z"
-  },
-  {
-   "name": "El Bosta",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/1CXEC9xPiYKlIjx968sMja",
-   "played_at": "2026-06-25T21:22:53.824Z"
-  },
-  {
-   "name": "El Bosta",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/1CXEC9xPiYKlIjx968sMja",
-   "played_at": "2026-06-25T20:22:19.314Z"
-  },
-  {
-   "name": "Nasini El Donya",
-   "artists": "Ragheb Alama",
-   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
-   "played_at": "2026-06-25T17:09:31.469Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-06-25T17:06:09.387Z"
-  },
-  {
-   "name": "Ya rabaâ",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
-   "url": "https://open.spotify.com/track/5TOwHyD3uQWEeBh5b0cEzx",
-   "played_at": "2026-06-25T17:00:24.575Z"
-  },
-  {
-   "name": "Matrahak Bi Albi",
-   "artists": "Majida El Roumi",
-   "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
-   "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp",
-   "played_at": "2026-06-25T16:22:35.119Z"
-  },
-  {
-   "name": "Haditouni",
-   "artists": "Douaa",
-   "image": "https://i.scdn.co/image/ab67616d0000b273936b4e6df0a18f3d12a8b367",
-   "url": "https://open.spotify.com/track/4jdUdJZgXFjJhYIRGyKRC4",
-   "played_at": "2026-06-25T16:17:33.078Z"
-  },
-  {
-   "name": "Dance of Maria",
-   "artists": "Elias Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
-   "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC",
-   "played_at": "2026-06-25T16:14:09.091Z"
   }
  ]
 }
