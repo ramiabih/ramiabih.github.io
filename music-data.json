@@ -1,15 +1,8 @@
 {
- "updated": "2026-07-01T14:13:23.891618+00:00",
+ "updated": "2026-07-01T19:41:11.970147+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
     {
      "name": "Shou Hal Ayyam - 2008 Remastered",
      "artists": "Ziad Rahbani",
@@ -18,18 +11,18 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
      "name": "Bala Wala Chi - Live",
@@ -67,25 +60,11 @@
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
      "name": "Konna Netlaka",
      "artists": "Fairuz",
      "album": "Konna Netlaka",
      "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
      "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
-    },
-    {
-     "name": "Nassam Alayna El Hawa",
-     "artists": "Fairuz",
-     "album": "Bent El Hares",
-     "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
-     "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
     },
     {
      "name": "The Middle East... W Ameh - Live",
@@ -100,6 +79,13 @@
      "album": "ye",
      "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
      "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
+    },
+    {
+     "name": "Nassam Alayna El Hawa",
+     "artists": "Fairuz",
+     "album": "Bent El Hares",
+     "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
+     "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -123,6 +109,13 @@
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
      "name": "Ya Rabaâ",
      "artists": "Fairuz",
      "album": "Old Is Gold",
@@ -135,6 +128,13 @@
      "album": "Emany Satea",
      "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
      "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
+    },
+    {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
      "name": "El Bint El Awiye",
@@ -787,6 +787,111 @@
  },
  "recent": [
   {
+   "name": "El Sobhiya",
+   "artists": "Al Massrieen",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733bc5ddc4d247ee09ef3b181f",
+   "url": "https://open.spotify.com/track/6uWbVmhDhn0UQxarXn4mxg",
+   "played_at": "2026-07-01T19:18:42.659Z"
+  },
+  {
+   "name": "Bent El Chalabiya",
+   "artists": "Munir Bachir",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
+   "played_at": "2026-07-01T18:06:21.838Z"
+  },
+  {
+   "name": "Kezzabi",
+   "artists": "Petit Prince",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e1cd04ede6d6dca30d17bb03",
+   "url": "https://open.spotify.com/track/3dveWHZ0Wno1meYweW1cJm",
+   "played_at": "2026-07-01T18:02:58.553Z"
+  },
+  {
+   "name": "Smile",
+   "artists": "Lily Allen",
+   "image": "https://i.scdn.co/image/ab67616d0000b273903b3846b9843677ca51bad9",
+   "url": "https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d",
+   "played_at": "2026-07-01T17:58:45.742Z"
+  },
+  {
+   "name": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
+   "artists": "The Weeknd, Ariana Grande",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b5097b81179824803664aaaf",
+   "url": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX",
+   "played_at": "2026-07-01T17:55:30.823Z"
+  },
+  {
+   "name": "As the World Caves In",
+   "artists": "Sarah Cothran",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b065a7bfff7655a18bc18ed",
+   "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S",
+   "played_at": "2026-07-01T17:52:21.642Z"
+  },
+  {
+   "name": "deja vu",
+   "artists": "Olivia Rodrigo",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+   "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
+   "played_at": "2026-07-01T17:49:41.991Z"
+  },
+  {
+   "name": "Hopelessly Devoted To You",
+   "artists": "Olivia Newton-John",
+   "image": "https://i.scdn.co/image/ab67616d0000b27392ba13060de52ac305208aca",
+   "url": "https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b",
+   "played_at": "2026-07-01T17:46:08.437Z"
+  },
+  {
+   "name": "Super Trouper",
+   "artists": "ABBA",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa",
+   "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1",
+   "played_at": "2026-07-01T17:41:47.934Z"
+  },
+  {
+   "name": "Big Poppa - 2005 Remaster",
+   "artists": "The Notorious B.I.G.",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+   "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww",
+   "played_at": "2026-07-01T17:37:37.021Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
+   "played_at": "2026-07-01T17:33:26.211Z"
+  },
+  {
+   "name": "When It's Sleepytime Down South",
+   "artists": "Wynton Marsalis",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732fd83209b66cb3ea4ae9a972",
+   "url": "https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9",
+   "played_at": "2026-07-01T17:27:42.192Z"
+  },
+  {
+   "name": "Willow Weep For Me",
+   "artists": "Vince Guaraldi Trio",
+   "image": "https://i.scdn.co/image/ab67616d0000b27387dfef5f96a6839e012dbdfd",
+   "url": "https://open.spotify.com/track/3DUyVemogGE8aEG6NvMmLv",
+   "played_at": "2026-07-01T17:15:02.466Z"
+  },
+  {
+   "name": "Skating In Central Park",
+   "artists": "Bill Evans, Jim Hall",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731a05b72d0e1fc7a4e30d047d",
+   "url": "https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv",
+   "played_at": "2026-07-01T17:09:44.450Z"
+  },
+  {
+   "name": "Skating In Central Park",
+   "artists": "Bill Evans, Jim Hall",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731a05b72d0e1fc7a4e30d047d",
+   "url": "https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv",
+   "played_at": "2026-07-01T17:06:14.018Z"
+  },
+  {
    "name": "Basement Famous",
    "artists": "Sammy Haig",
    "image": "https://i.scdn.co/image/ab67616d0000b273b816b4b4574f9581d8e26bb8",
@@ -1030,111 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273a67225613cc06f81778b00ce",
    "url": "https://open.spotify.com/track/56xkEAOHzucwcNbbl6ip7c",
    "played_at": "2026-06-28T13:04:42.797Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-06-28T12:06:46.380Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-06-28T12:03:52.167Z"
-  },
-  {
-   "name": "Easier Said Than Done",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3",
-   "played_at": "2026-06-27T22:05:06.377Z"
-  },
-  {
-   "name": "It's Only Us",
-   "artists": "Monophonics, Kelly Finnigan",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730370215a89cb24645f49c2fa",
-   "url": "https://open.spotify.com/track/5z4Yope4ol84bdZtw1Eo4D",
-   "played_at": "2026-06-27T22:02:13.654Z"
-  },
-  {
-   "name": "El Bint El Awiye",
-   "artists": "Wael Kfoury",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
-   "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw",
-   "played_at": "2026-06-27T21:54:32.452Z"
-  },
-  {
-   "name": "Bala Wala Chi - Live",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-   "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV",
-   "played_at": "2026-06-27T21:51:00.057Z"
-  },
-  {
-   "name": "Law Hobna Ghalta",
-   "artists": "Wael Kfoury",
-   "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-   "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
-   "played_at": "2026-06-27T21:37:26.085Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
-   "played_at": "2026-06-27T21:25:50.722Z"
-  },
-  {
-   "name": "Zay El Hawa Live",
-   "artists": "Abdel Halim Hafez",
-   "image": "https://i.scdn.co/image/ab67616d0000b273376d80c4b6c7516dde71c95b",
-   "url": "https://open.spotify.com/track/5XXlURiS0nYnn9qW5TD7qR",
-   "played_at": "2026-06-27T21:15:19.471Z"
-  },
-  {
-   "name": "Bent El Chalabiya",
-   "artists": "Munir Bachir",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
-   "played_at": "2026-06-27T15:38:53.956Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "Umm Kulthum",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-   "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD",
-   "played_at": "2026-06-27T15:36:04.059Z"
-  },
-  {
-   "name": "Ya Ana Ya Ana - Live",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
-   "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg",
-   "played_at": "2026-06-27T14:12:24.100Z"
-  },
-  {
-   "name": "Nassam Alayna El Hawa",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
-   "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN",
-   "played_at": "2026-06-27T14:09:53.722Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-06-27T14:05:51.168Z"
-  },
-  {
-   "name": "Batwanes Beek",
-   "artists": "Warda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
-   "played_at": "2026-06-27T14:01:56.875Z"
   }
  ]
 }
