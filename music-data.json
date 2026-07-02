@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T13:41:25.464860+00:00",
+ "updated": "2026-07-02T19:11:50.150065+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -787,6 +787,13 @@
  },
  "recent": [
   {
+   "name": "Baeed Annak",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b273703a95507746c62f4845ea59",
+   "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ",
+   "played_at": "2026-07-02T17:59:19.325Z"
+  },
+  {
    "name": "El Sobhiya",
    "artists": "Al Massrieen",
    "image": "https://i.scdn.co/image/ab67616d0000b2733bc5ddc4d247ee09ef3b181f",
@@ -1128,13 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
    "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC",
    "played_at": "2026-06-28T13:14:02.183Z"
-  },
-  {
-   "name": "True North",
-   "artists": "Chequerboard",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a67225613cc06f81778b00ce",
-   "url": "https://open.spotify.com/track/56xkEAOHzucwcNbbl6ip7c",
-   "played_at": "2026-06-28T13:04:42.797Z"
   }
  ]
 }
