@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T13:45:54.879369+00:00",
+ "updated": "2026-07-03T19:04:51.630404+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -791,6 +791,13 @@
    "artists": "Umm Kulthum",
    "image": "https://i.scdn.co/image/ab67616d0000b273703a95507746c62f4845ea59",
    "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ",
+   "played_at": "2026-07-03T12:04:23.656Z"
+  },
+  {
+   "name": "Baeed Annak",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b273703a95507746c62f4845ea59",
+   "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ",
    "played_at": "2026-07-02T17:59:19.325Z"
   },
   {
@@ -1128,13 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
    "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA",
    "played_at": "2026-06-28T13:19:05.873Z"
-  },
-  {
-   "name": "Dance of Maria",
-   "artists": "Elias Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
-   "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC",
-   "played_at": "2026-06-28T13:14:02.183Z"
   }
  ]
 }
