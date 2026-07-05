@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T13:13:17.568472+00:00",
+ "updated": "2026-07-05T19:04:15.258842+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,13 +16,6 @@
      "album": "Ana Moush Kafer",
      "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Bala Wala Chi - Live",
@@ -58,6 +51,13 @@
      "album": "Houdou Nisbi",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Nassam Alayna El Hawa",
@@ -130,18 +130,18 @@
      "url": "https://open.spotify.com/track/0iTidIMDh2IvGryXfUfpDM"
     },
     {
-     "name": "Aloula",
-     "artists": "Fairuz",
-     "album": "Maarifti Feek",
-     "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
-     "url": "https://open.spotify.com/track/29m5S52N8hdny9n5l3Q5J4"
-    },
-    {
      "name": "W'Kameh",
      "artists": "Fairuz",
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
+    },
+    {
+     "name": "Saalouny El Nas",
+     "artists": "Fairuz",
+     "album": "Emany Satea",
+     "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
+     "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
     }
    ],
    "artists": [
@@ -787,6 +787,27 @@
  },
  "recent": [
   {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-07-05T16:49:18.333Z"
+  },
+  {
+   "name": "Baeed Annak",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b273703a95507746c62f4845ea59",
+   "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ",
+   "played_at": "2026-07-05T16:31:08.347Z"
+  },
+  {
+   "name": "Baeed Annak",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b273703a95507746c62f4845ea59",
+   "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ",
+   "played_at": "2026-07-05T16:31:00.187Z"
+  },
+  {
    "name": "Aloula",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
@@ -1114,27 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
    "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy",
    "played_at": "2026-07-04T15:45:11.865Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-07-04T15:40:34.466Z"
-  },
-  {
-   "name": "Bisaraha",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
-   "played_at": "2026-07-04T15:31:44.157Z"
-  },
-  {
-   "name": "Baeed Annak",
-   "artists": "Umm Kulthum",
-   "image": "https://i.scdn.co/image/ab67616d0000b273703a95507746c62f4845ea59",
-   "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ",
-   "played_at": "2026-07-03T12:04:23.656Z"
   }
  ]
 }
