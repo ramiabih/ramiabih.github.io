@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T02:14:15.632966+00:00",
+ "updated": "2026-07-05T08:42:37.695817+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -787,6 +787,13 @@
  },
  "recent": [
   {
+   "name": "Bayni Wa Baynak",
+   "artists": "Hoda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
+   "played_at": "2026-07-05T07:37:07.903Z"
+  },
+  {
    "name": "Takassim 'Banat Iskandariya'",
    "artists": "Oriental Lebanese Band",
    "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
@@ -1128,13 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2732fd83209b66cb3ea4ae9a972",
    "url": "https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9",
    "played_at": "2026-07-01T17:27:42.192Z"
-  },
-  {
-   "name": "Willow Weep For Me",
-   "artists": "Vince Guaraldi Trio",
-   "image": "https://i.scdn.co/image/ab67616d0000b27387dfef5f96a6839e012dbdfd",
-   "url": "https://open.spotify.com/track/3DUyVemogGE8aEG6NvMmLv",
-   "played_at": "2026-07-01T17:15:02.466Z"
   }
  ]
 }
