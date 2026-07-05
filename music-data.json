@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T18:58:32.920143+00:00",
+ "updated": "2026-07-05T02:14:15.632966+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -39,6 +39,13 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
      "name": "Alf Leila We Leila",
      "artists": "Umm Kulthum",
      "album": "Umm Kulthum 1",
@@ -53,18 +60,18 @@
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
      "name": "Law Hobna Ghalta",
      "artists": "Wael Kfoury",
      "album": "Law Hobna Ghalta",
      "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
      "name": "Konna Netlaka",
@@ -88,11 +95,11 @@
      "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
      "name": "Can I Call You Rose?",
@@ -107,13 +114,6 @@
      "album": "ye",
      "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
      "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
-    },
-    {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
      "name": "El Bint El Awiye",
@@ -137,11 +137,11 @@
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
-     "name": "Ya Helou",
-     "artists": "Adam",
-     "album": "Ya Helou",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+     "name": "Fayek Alaya",
+     "artists": "Fairuz",
+     "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
+     "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
+     "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
     }
    ],
    "artists": [
@@ -787,6 +787,83 @@
  },
  "recent": [
   {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-07-04T19:34:52.369Z"
+  },
+  {
+   "name": "Khalas",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/2ybL8Dy1tXxmiRWpFueKqg",
+   "played_at": "2026-07-04T19:30:58.041Z"
+  },
+  {
+   "name": "Sixteen Tons",
+   "artists": "Tennessee Ernie Ford",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d996db70f458c900f23a225e",
+   "url": "https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS",
+   "played_at": "2026-07-04T19:26:40.181Z"
+  },
+  {
+   "name": "Brooklyn Baby",
+   "artists": "Lana Del Rey",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+   "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
+   "played_at": "2026-07-04T19:24:00.454Z"
+  },
+  {
+   "name": "ALL THE LOVE (feat. Andre Troutman)",
+   "artists": "Kanye West, Ye, Andre Troutman",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
+   "played_at": "2026-07-04T19:18:10.868Z"
+  },
+  {
+   "name": "PUNCH DRUNK",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV",
+   "played_at": "2026-07-04T19:14:23.762Z"
+  },
+  {
+   "name": "PREACHER MAN",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ",
+   "played_at": "2026-07-04T19:12:37.376Z"
+  },
+  {
+   "name": "BEAUTY AND THE BEAST",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn",
+   "played_at": "2026-07-04T19:09:37.782Z"
+  },
+  {
+   "name": "Fayek Alaya",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
+   "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ",
+   "played_at": "2026-07-04T19:07:54.117Z"
+  },
+  {
+   "name": "Haditouni",
+   "artists": "Douaa",
+   "image": "https://i.scdn.co/image/ab67616d0000b273936b4e6df0a18f3d12a8b367",
+   "url": "https://open.spotify.com/track/4jdUdJZgXFjJhYIRGyKRC4",
+   "played_at": "2026-07-04T19:04:53.881Z"
+  },
+  {
+   "name": "Fever",
+   "artists": "Robert Glasper, Hindi Zahra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736c39aa3c2feaf1bb60d8433d",
+   "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR",
+   "played_at": "2026-07-04T19:01:29.992Z"
+  },
+  {
    "name": "Bisaraha",
    "artists": "Ziad Rahbani",
    "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
@@ -1058,83 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27387dfef5f96a6839e012dbdfd",
    "url": "https://open.spotify.com/track/3DUyVemogGE8aEG6NvMmLv",
    "played_at": "2026-07-01T17:15:02.466Z"
-  },
-  {
-   "name": "Skating In Central Park",
-   "artists": "Bill Evans, Jim Hall",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731a05b72d0e1fc7a4e30d047d",
-   "url": "https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv",
-   "played_at": "2026-07-01T17:09:44.450Z"
-  },
-  {
-   "name": "Skating In Central Park",
-   "artists": "Bill Evans, Jim Hall",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731a05b72d0e1fc7a4e30d047d",
-   "url": "https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv",
-   "played_at": "2026-07-01T17:06:14.018Z"
-  },
-  {
-   "name": "Basement Famous",
-   "artists": "Sammy Haig",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b816b4b4574f9581d8e26bb8",
-   "url": "https://open.spotify.com/track/1bS8bfudVHSewfa1dc8KQq",
-   "played_at": "2026-07-01T13:49:48.176Z"
-  },
-  {
-   "name": "I'm Confessin'",
-   "artists": "Lester Young, Oscar Peterson Trio",
-   "image": "https://i.scdn.co/image/ab67616d0000b273560ea575b1d7f32eda29b0c9",
-   "url": "https://open.spotify.com/track/7isKcNmNuuDEK2I8iFhe7h",
-   "played_at": "2026-07-01T13:33:54.237Z"
-  },
-  {
-   "name": "Haupe",
-   "artists": "Duke Ellington",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730405b7489c772ff3158eff6f",
-   "url": "https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf",
-   "played_at": "2026-07-01T13:30:16.237Z"
-  },
-  {
-   "name": "In Your Own Sweet Way - Remastered 2025",
-   "artists": "Wes Montgomery",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738a9afd61a5524dc8266d4244",
-   "url": "https://open.spotify.com/track/01zdWVXJkI4O0srGHVX8hH",
-   "played_at": "2026-07-01T13:27:41.917Z"
-  },
-  {
-   "name": "It's Been a Long, Long Time (with Harry James & His Orchestra)",
-   "artists": "Kitty Kallen, Harry James",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395bba6df81c05c5dc25b898c",
-   "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV",
-   "played_at": "2026-07-01T13:22:46.354Z"
-  },
-  {
-   "name": "Bent El Chalabiya",
-   "artists": "Munir Bachir",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
-   "played_at": "2026-07-01T13:18:45.553Z"
-  },
-  {
-   "name": "Kezzabi",
-   "artists": "Petit Prince",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e1cd04ede6d6dca30d17bb03",
-   "url": "https://open.spotify.com/track/3dveWHZ0Wno1meYweW1cJm",
-   "played_at": "2026-07-01T12:21:25.297Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-07-01T11:53:12.880Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Isabel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
-   "played_at": "2026-07-01T10:11:33.832Z"
   }
  ]
 }
