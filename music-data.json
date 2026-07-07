@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T19:44:37.878905+00:00",
+ "updated": "2026-07-07T02:14:15.618694+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -9,6 +9,13 @@
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Ana Le Habiby",
+     "artists": "Fairuz",
+     "album": "Ya Reit",
+     "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+     "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -39,18 +46,11 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
-    },
-    {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Batwanes Beek",
@@ -58,6 +58,13 @@
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
      "name": "Nassam Alayna El Hawa",
@@ -88,11 +95,11 @@
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     },
     {
      "name": "Bent El Chalabiya",
@@ -100,13 +107,6 @@
      "album": "Aoud Around the Arab World",
      "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
-    },
-    {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Nasini El Donya",
@@ -137,11 +137,11 @@
      "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
     },
     {
-     "name": "Baeed Annak",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
-     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
+     "name": "The Middle East... W Ameh - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     }
    ],
    "artists": [
@@ -277,18 +277,18 @@
      "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
-    {
      "name": "Bala Wala Chi - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
+    },
+    {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -787,6 +787,111 @@
  },
  "recent": [
   {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T22:16:24.175Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T22:13:24.016Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T22:10:23.806Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T22:07:23.775Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T22:04:23.502Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T22:01:23.312Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T21:58:23.107Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T21:55:23.011Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T21:52:22.846Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T21:49:22.860Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T21:46:22.548Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T21:43:22.371Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-06T21:40:22.169Z"
+  },
+  {
+   "name": "Mafi Ward",
+   "artists": "Melhem Barakat",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ea266c1aa151597e6bf558ff",
+   "url": "https://open.spotify.com/track/4D3fW4RuMmuUi6t5mvjznc",
+   "played_at": "2026-07-06T21:33:57.412Z"
+  },
+  {
+   "name": "Hekm El Alb",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+   "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5",
+   "played_at": "2026-07-06T21:33:50.343Z"
+  },
+  {
    "name": "Ambery",
    "artists": "Fred again.., Floating Points",
    "image": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
@@ -1030,111 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
    "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
    "played_at": "2026-07-04T19:34:52.369Z"
-  },
-  {
-   "name": "Khalas",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/2ybL8Dy1tXxmiRWpFueKqg",
-   "played_at": "2026-07-04T19:30:58.041Z"
-  },
-  {
-   "name": "Sixteen Tons",
-   "artists": "Tennessee Ernie Ford",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d996db70f458c900f23a225e",
-   "url": "https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS",
-   "played_at": "2026-07-04T19:26:40.181Z"
-  },
-  {
-   "name": "Brooklyn Baby",
-   "artists": "Lana Del Rey",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-   "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
-   "played_at": "2026-07-04T19:24:00.454Z"
-  },
-  {
-   "name": "ALL THE LOVE (feat. Andre Troutman)",
-   "artists": "Kanye West, Ye, Andre Troutman",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
-   "played_at": "2026-07-04T19:18:10.868Z"
-  },
-  {
-   "name": "PUNCH DRUNK",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV",
-   "played_at": "2026-07-04T19:14:23.762Z"
-  },
-  {
-   "name": "PREACHER MAN",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ",
-   "played_at": "2026-07-04T19:12:37.376Z"
-  },
-  {
-   "name": "BEAUTY AND THE BEAST",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn",
-   "played_at": "2026-07-04T19:09:37.782Z"
-  },
-  {
-   "name": "Fayek Alaya",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
-   "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ",
-   "played_at": "2026-07-04T19:07:54.117Z"
-  },
-  {
-   "name": "Haditouni",
-   "artists": "Douaa",
-   "image": "https://i.scdn.co/image/ab67616d0000b273936b4e6df0a18f3d12a8b367",
-   "url": "https://open.spotify.com/track/4jdUdJZgXFjJhYIRGyKRC4",
-   "played_at": "2026-07-04T19:04:53.881Z"
-  },
-  {
-   "name": "Fever",
-   "artists": "Robert Glasper, Hindi Zahra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736c39aa3c2feaf1bb60d8433d",
-   "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR",
-   "played_at": "2026-07-04T19:01:29.992Z"
-  },
-  {
-   "name": "Bisaraha",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
-   "played_at": "2026-07-04T18:42:47.208Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
-   "played_at": "2026-07-04T18:38:35.911Z"
-  },
-  {
-   "name": "Shayef El Bahr",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
-   "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
-   "played_at": "2026-07-04T18:32:21.984Z"
-  },
-  {
-   "name": "It takes a lot to try",
-   "artists": "Aviram",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
-   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
-   "played_at": "2026-07-04T18:28:19.823Z"
-  },
-  {
-   "name": "Till Then",
-   "artists": "The Mills Brothers",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e21cd5d12683344fd6c48c17",
-   "url": "https://open.spotify.com/track/2DbgjRaPNxNNrBDdb2kkDU",
-   "played_at": "2026-07-04T18:24:06.432Z"
   }
  ]
 }
