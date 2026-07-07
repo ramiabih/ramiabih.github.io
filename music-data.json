@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T02:14:15.618694+00:00",
+ "updated": "2026-07-07T09:27:05.326991+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -348,18 +348,18 @@
      ]
     },
     {
-     "name": "ABBA",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
-     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
-     "genres": []
-    },
-    {
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
       "khaleeji"
      ]
+    },
+    {
+     "name": "ABBA",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
+     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+     "genres": []
     },
     {
      "name": "Bear McCreary",
@@ -787,6 +787,27 @@
  },
  "recent": [
   {
+   "name": "Bala Wala Chi - Live",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+   "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV",
+   "played_at": "2026-07-07T08:30:14.932Z"
+  },
+  {
+   "name": "WAIT FOR ME",
+   "artists": "RIYO",
+   "image": "https://i.scdn.co/image/ab67616d0000b27381854ad3aff012b676396571",
+   "url": "https://open.spotify.com/track/6epHi54foJRVwRDnjW4w6y",
+   "played_at": "2026-07-07T08:27:14.522Z"
+  },
+  {
+   "name": "Ana Le Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+   "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e",
+   "played_at": "2026-07-07T05:30:50.586Z"
+  },
+  {
    "name": "Ana Le Habiby",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
@@ -1114,27 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
    "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
    "played_at": "2026-07-05T10:55:15.757Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-07-05T10:50:12.021Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-07-05T07:37:07.903Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-07-04T19:34:52.369Z"
   }
  ]
 }
