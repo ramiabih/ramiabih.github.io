@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T02:07:56.686910+00:00",
+ "updated": "2026-07-09T09:33:41.670058+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -242,34 +242,6 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Konna Netlaka",
-     "artists": "Fairuz",
-     "album": "Konna Netlaka",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
-    },
-    {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
-    },
-    {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
-    },
-    {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
      "name": "I Thought About Killing You",
      "artists": "Kanye West",
      "album": "ye",
@@ -284,11 +256,39 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
+    },
+    {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+    },
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+    },
+    {
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+    },
+    {
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -298,11 +298,11 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
      "name": "Ya Helou",
@@ -319,11 +319,11 @@
      "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
     },
     {
-     "name": "Kiss of Life",
-     "artists": "Sade",
-     "album": "The Best of Sade",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+     "name": "Ya Ana Ya Ana - Live",
+     "artists": "Fairuz",
+     "album": "Shahrazad (Live)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
+     "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
     }
    ],
    "artists": [
@@ -348,18 +348,18 @@
      ]
     },
     {
+     "name": "ABBA",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
+     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+     "genres": []
+    },
+    {
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
       "khaleeji"
      ]
-    },
-    {
-     "name": "ABBA",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
-     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
-     "genres": []
     },
     {
      "name": "Bear McCreary",
@@ -369,20 +369,6 @@
       "celtic",
       "soundtrack"
      ]
-    },
-    {
-     "name": "Louis Brigham",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
-     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
-     ]
-    },
-    {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
     },
     {
      "name": "Thee Sacred Souls",
@@ -399,6 +385,12 @@
      "genres": [
       "neo-psychedelic"
      ]
+    },
+    {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
     },
     {
      "name": "Oriental Lebanese Band",
@@ -428,6 +420,14 @@
      "genres": []
     },
     {
+     "name": "Louis Brigham",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
+     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
+     "genres": [
+      "adult standards"
+     ]
+    },
+    {
      "name": "James Horner",
      "image": "https://i.scdn.co/image/cf3b34dae12d2d8147b8c2b39387047778d587e3",
      "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr",
@@ -446,24 +446,9 @@
      ]
     },
     {
-     "name": "John Summit",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
-     "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205",
-     "genres": [
-      "house",
-      "tech house"
-     ]
-    },
-    {
      "name": "Zaki Nassif",
      "image": "https://i.scdn.co/image/ab67616d0000b27328840e4aad2b84e07b2f93c0",
      "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT",
-     "genres": []
-    },
-    {
-     "name": "Thundercat",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
-     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
      "genres": []
     },
     {
@@ -473,6 +458,21 @@
      "genres": [
       "gnawa"
      ]
+    },
+    {
+     "name": "Dan Romer",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebec924733a70eaf15be2a3850",
+     "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4",
+     "genres": [
+      "soundtrack",
+      "score"
+     ]
+    },
+    {
+     "name": "Elias Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
+     "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS",
+     "genres": []
     }
    ]
   },
