@@ -1,3 +1,5 @@
+# Say it out loud
+
 I'm sitting here wondering what to write, I feel like writing but I really don't have much to say today. So I'm just going to write out what's in my head.
 
 Do you think you are your body or do you have a body? I always thought I have a body and I need to take care of it like some kind of car.
