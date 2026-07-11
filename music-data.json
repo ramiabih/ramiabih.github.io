@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T07:42:08.634629+00:00",
+ "updated": "2026-07-11T12:59:29.180458+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -18,11 +18,11 @@
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
-     "name": "Bala Wala Chi - Live",
+     "name": "Shou Hal Ayyam - 2008 Remastered",
      "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -32,11 +32,11 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "name": "Bala Wala Chi - Live",
      "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
      "name": "Bisaraha",
@@ -58,20 +58,6 @@
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
-    },
-    {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
      "name": "W'Kameh",
@@ -102,11 +88,18 @@
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
-     "name": "Nassam Alayna El Hawa",
+     "name": "Shayef El Bahr Shou Kebeer",
      "artists": "Fairuz",
-     "album": "Bent El Hares",
-     "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
-     "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
      "name": "Nasini El Donya",
@@ -114,13 +107,6 @@
      "album": "El Hob El Kebir",
      "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
-    },
-    {
-     "name": "Fayek Alaya",
-     "artists": "Fairuz",
-     "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
-     "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
-     "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
     },
     {
      "name": "Ya Rabaâ",
@@ -142,6 +128,20 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "Nassam Alayna El Hawa",
+     "artists": "Fairuz",
+     "album": "Bent El Hares",
+     "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
+     "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
+    },
+    {
+     "name": "Baeed Annak",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
+     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
     }
    ],
    "artists": [
@@ -787,6 +787,13 @@
  },
  "recent": [
   {
+   "name": "ALL THE LOVE (feat. Andre Troutman)",
+   "artists": "Kanye West, Ye, Andre Troutman",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
+   "played_at": "2026-07-11T11:44:30.017Z"
+  },
+  {
    "name": "Bala Wala Chi - Live",
    "artists": "Ziad Rahbani",
    "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
@@ -1128,13 +1135,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
    "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN",
    "played_at": "2026-07-05T11:02:07.019Z"
-  },
-  {
-   "name": "Bent El Chalabiya",
-   "artists": "Munir Bachir",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
-   "played_at": "2026-07-05T10:58:05.704Z"
   }
  ]
 }
