@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T08:03:01.321570+00:00",
+ "updated": "2026-07-12T13:00:14.716510+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -53,18 +53,11 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
-    },
-    {
-     "name": "Baeed Annak",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
-     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
      "name": "Tamally Maak",
@@ -74,6 +67,13 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
      "name": "Alf Leila We Leila",
      "artists": "Umm Kulthum",
      "album": "Umm Kulthum 1",
@@ -81,11 +81,11 @@
      "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     },
     {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+     "name": "Baeed Annak",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
+     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
     },
     {
      "name": "Law Hobna Ghalta",
@@ -95,11 +95,25 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Nasini El Donya",
-     "artists": "Ragheb Alama",
-     "album": "El Hob El Kebir",
-     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+     "name": "Hekm El Alb",
+     "artists": "Wael Kfoury",
+     "album": "Hekm El Alb",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Ya Rabaâ",
@@ -128,20 +142,6 @@
      "album": "Ya Ashikat El Ward",
      "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
-     "name": "Fayek Alaya",
-     "artists": "Fairuz",
-     "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
-     "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
-     "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
-    },
-    {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     }
    ],
    "artists": [
@@ -158,14 +158,6 @@
      "genres": []
     },
     {
-     "name": "Kanye West",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
-     "genres": [
-      "rap"
-     ]
-    },
-    {
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
@@ -174,11 +166,11 @@
      ]
     },
     {
-     "name": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
-     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
-      "retro soul"
+      "rap"
      ]
     },
     {
@@ -188,6 +180,14 @@
      "genres": [
       "indie",
       "lo-fi indie"
+     ]
+    },
+    {
+     "name": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
+     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+     "genres": [
+      "retro soul"
      ]
     }
    ]
@@ -614,18 +614,18 @@
      "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
     },
     {
+     "name": "Hekm El Alb",
+     "artists": "Wael Kfoury",
+     "album": "Hekm El Alb",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
-    },
-    {
-     "name": "W'Kameh",
-     "artists": "Fairuz",
-     "album": "Mish Kayan Hayek T'Koun",
-     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     }
    ],
    "artists": [
@@ -687,6 +687,15 @@
      ]
     },
     {
+     "name": "Mac DeMarco",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+     "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
+     "genres": [
+      "indie",
+      "lo-fi indie"
+     ]
+    },
+    {
      "name": "Khruangbin",
      "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
      "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
@@ -740,17 +749,6 @@
      ]
     },
     {
-     "name": "Hraach",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
-     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
-     "genres": [
-      "organic house",
-      "tribal house",
-      "downtempo",
-      "deep house"
-     ]
-    },
-    {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
      "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
@@ -771,6 +769,17 @@
      ]
     },
     {
+     "name": "Hraach",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
+     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
+     "genres": [
+      "organic house",
+      "tribal house",
+      "downtempo",
+      "deep house"
+     ]
+    },
+    {
      "name": "Aaron Taylor",
      "image": "https://i.scdn.co/image/ab6761610000e5eb22fc5c2b36b5888f5131215f",
      "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7",
@@ -778,23 +787,67 @@
       "indie soul",
       "neo soul"
      ]
-    },
-    {
-     "name": "Ray Charles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6fc460f10177fa38af69b8bf",
-     "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
-     "genres": [
-      "soul",
-      "soul blues",
-      "blues",
-      "classic soul",
-      "vocal jazz"
-     ]
     }
    ]
   }
  },
  "recent": [
+  {
+   "name": "Al Thaniah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
+   "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz",
+   "played_at": "2026-07-12T10:58:11.534Z"
+  },
+  {
+   "name": "Bayni Wa Baynak",
+   "artists": "Hoda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
+   "played_at": "2026-07-12T10:55:49.232Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-07-12T10:53:18.907Z"
+  },
+  {
+   "name": "Nasini El Donya",
+   "artists": "Ragheb Alama",
+   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
+   "played_at": "2026-07-12T10:22:41.829Z"
+  },
+  {
+   "name": "Law Hobna Ghalta",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+   "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
+   "played_at": "2026-07-12T10:11:02.892Z"
+  },
+  {
+   "name": "Tamally Maak",
+   "artists": "Amr Diab",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+   "played_at": "2026-07-12T10:07:17.081Z"
+  },
+  {
+   "name": "Hekm El Alb",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+   "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5",
+   "played_at": "2026-07-12T10:02:49.875Z"
+  },
+  {
+   "name": "I Want to Be Evil",
+   "artists": "Eartha Kitt",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e6e6f2ebd26cafafe82ef36d",
+   "url": "https://open.spotify.com/track/3H8BLMeJCoXQsozaXi2xzy",
+   "played_at": "2026-07-12T09:58:07.444Z"
+  },
   {
    "name": "5 To 7 PM",
    "artists": "Ziad Rahbani",
@@ -1088,62 +1141,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2",
    "url": "https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7",
    "played_at": "2026-07-11T16:39:27.372Z"
-  },
-  {
-   "name": "No One Noticed",
-   "artists": "The Marías",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
-   "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
-   "played_at": "2026-07-11T16:36:36.268Z"
-  },
-  {
-   "name": "Will I See You Again?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c11b27b0a46175aa97bb471a",
-   "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
-   "played_at": "2026-07-11T16:31:39.905Z"
-  },
-  {
-   "name": "Infrunami",
-   "artists": "Steve Lacy",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
-   "url": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp",
-   "played_at": "2026-07-11T16:27:41.288Z"
-  },
-  {
-   "name": "For the First Time",
-   "artists": "Mac DeMarco",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739f1b21f21b13ff2d3e891f6b",
-   "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL",
-   "played_at": "2026-07-11T16:24:44.971Z"
-  },
-  {
-   "name": "Open My Door",
-   "artists": "Alice Phoebe Lou",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b9000413b688d298a7ce999e",
-   "url": "https://open.spotify.com/track/1A8QcZJKhUmJwdqzoAahvR",
-   "played_at": "2026-07-11T16:21:44.657Z"
-  },
-  {
-   "name": "Sienna",
-   "artists": "The Marías",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
-   "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH",
-   "played_at": "2026-07-11T16:19:13.553Z"
-  },
-  {
-   "name": "hold me in your arms",
-   "artists": "Blood Nose",
-   "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
-   "url": "https://open.spotify.com/track/3e4iMLD1QVefLYMtlSF63F",
-   "played_at": "2026-07-11T16:15:30.668Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
-   "played_at": "2026-07-11T16:14:12.580Z"
   }
  ]
 }
