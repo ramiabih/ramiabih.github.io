@@ -15,5 +15,5 @@
 var articles = [
   { slug: "hello-world", title: "Hello, world", date: "2026-06-04" },
   { slug: "lights-on-nobody-home", title: "Lights on, nobody home", date: "2026-06-28" },
-  { slug: "say-it-out-loud", title: "Say it out loud", date: "2026-07-10" }
+  { slug: "cougars-metal-soccer", title: "Cougars and Master of Puppets", date: "2026-07-11" }
 ];
