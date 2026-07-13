@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T18:53:32.600024+00:00",
+ "updated": "2026-07-13T01:58:15.960087+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -174,6 +174,14 @@
      ]
     },
     {
+     "name": "Umm Kulthum",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
+     "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
+     "genres": [
+      "egyptian pop"
+     ]
+    },
+    {
      "name": "Mac DeMarco",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
@@ -237,18 +245,18 @@
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
      "name": "Law Hobna Ghalta",
      "artists": "Wael Kfoury",
      "album": "Law Hobna Ghalta",
      "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "I Thought About Killing You",
@@ -286,25 +294,11 @@
      "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     },
     {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
      "name": "Tamally Maak",
      "artists": "Amr Diab",
      "album": "Tamally Maak",
      "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Nasini El Donya",
@@ -314,18 +308,32 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
+     "name": "Hekm El Alb",
+     "artists": "Wael Kfoury",
+     "album": "Hekm El Alb",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
      "name": "Ya Helou",
      "artists": "Adam",
      "album": "Ya Helou",
      "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
-    },
-    {
-     "name": "El Bint El Awiye",
-     "artists": "Wael Kfoury",
-     "album": "El Bint El Awiye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
-     "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
     },
     {
      "name": "Ya Ana Ya Ana - Live",
@@ -408,6 +416,14 @@
      "genres": []
     },
     {
+     "name": "Umm Kulthum",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
+     "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
+     "genres": [
+      "egyptian pop"
+     ]
+    },
+    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -476,12 +492,6 @@
       "soundtrack",
       "score"
      ]
-    },
-    {
-     "name": "Elias Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
-     "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS",
-     "genres": []
     }
    ]
   },
@@ -792,6 +802,27 @@
   }
  },
  "recent": [
+  {
+   "name": "Your Love Is King",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ad27e16c5f844ea1ad6797cd",
+   "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz",
+   "played_at": "2026-07-12T21:03:22.551Z"
+  },
+  {
+   "name": "If I Ain't Got You",
+   "artists": "Alicia Keys",
+   "image": "https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b",
+   "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ",
+   "played_at": "2026-07-12T19:16:45.559Z"
+  },
+  {
+   "name": "We Daret El Ayam",
+   "artists": "Umm Kulthum",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+   "url": "https://open.spotify.com/track/4j5Cs82gXPmV6pQNNKevIm",
+   "played_at": "2026-07-12T19:09:19.564Z"
+  },
   {
    "name": "Al Thaniah",
    "artists": "Fairuz",
@@ -1120,27 +1151,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
    "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ",
    "played_at": "2026-07-11T16:51:04.864Z"
-  },
-  {
-   "name": "the perfect pair",
-   "artists": "beabadoobee",
-   "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
-   "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a",
-   "played_at": "2026-07-11T16:46:03.611Z"
-  },
-  {
-   "name": "Mrs Magic (Strings Version)",
-   "artists": "Strawberry Guy",
-   "image": "https://i.scdn.co/image/ab67616d0000b273534aa32cffc253c433d99e7c",
-   "url": "https://open.spotify.com/track/4iVj0UxqLlgrFWNdOnCwFS",
-   "played_at": "2026-07-11T16:43:07.358Z"
-  },
-  {
-   "name": "No Other Heart",
-   "artists": "Mac DeMarco",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2",
-   "url": "https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7",
-   "played_at": "2026-07-11T16:39:27.372Z"
   }
  ]
 }
