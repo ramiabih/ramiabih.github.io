@@ -2,7 +2,7 @@
 
 I'm sitting here wondering what to write, I feel like writing but I really don't have much to say today. So I'm just going to write out what's in my head.
 
-Do you think you *are* your body or do you *have* a body? I always thought I have a body and I need to take care of it like some kind of car.
+Do you think you *are* your body or do you *have* a body? I always thought I am my thoughts, I have a body, and I need to take care of it like some kind of car.
 
 Except the car can kick you around and you're always in it, so you do need to be good with it.
 
@@ -12,7 +12,7 @@ I think I feel a split because I live in my head. I mean don't we all? I'm back 
 
 What do you mean I exist outside my own thoughts?
 
-Maybe for them, I am all of me incuding my body.
+Maybe for them, I am my body.
 But or me, I am only my thoughts. 
 
 Okay that's philosophical enough.
