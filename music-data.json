@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T19:14:28.579919+00:00",
+ "updated": "2026-07-14T01:45:05.550605+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -803,6 +803,13 @@
  },
  "recent": [
   {
+   "name": "Tú Con Él",
+   "artists": "Rauw Alejandro",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+   "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z",
+   "played_at": "2026-07-13T17:11:46.479Z"
+  },
+  {
    "name": "Your Love Is King",
    "artists": "Sade",
    "image": "https://i.scdn.co/image/ab67616d0000b273ad27e16c5f844ea1ad6797cd",
@@ -1144,13 +1151,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
    "url": "https://open.spotify.com/track/2LTRSoho4n35jXJBYZrpwp",
    "played_at": "2026-07-11T16:54:00.084Z"
-  },
-  {
-   "name": "Fayek Alaya",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
-   "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ",
-   "played_at": "2026-07-11T16:51:04.864Z"
   }
  ]
 }
