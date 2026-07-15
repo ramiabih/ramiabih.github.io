@@ -1,15 +1,8 @@
 {
- "updated": "2026-07-14T19:05:26.621027+00:00",
+ "updated": "2026-07-15T01:41:30.037799+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
     {
      "name": "Ana Le Habiby",
      "artists": "Fairuz",
@@ -18,11 +11,11 @@
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -32,11 +25,25 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Bala Wala Chi - Live",
@@ -53,34 +60,6 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
-     "name": "Nasini El Donya",
-     "artists": "Ragheb Alama",
-     "album": "El Hob El Kebir",
-     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
-    },
-    {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
-    },
-    {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
-    },
-    {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
-    },
-    {
      "name": "Baeed Annak",
      "artists": "Umm Kulthum",
      "album": "Umm Kulthum 2",
@@ -95,11 +74,25 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Hekm El Alb",
-     "artists": "Wael Kfoury",
-     "album": "Hekm El Alb",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+    },
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     },
     {
      "name": "Shayef El Bahr Shou Kebeer",
@@ -109,18 +102,18 @@
      "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
+     "name": "Hekm El Alb",
+     "artists": "Wael Kfoury",
+     "album": "Hekm El Alb",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
      "name": "Bayni Wa Baynak",
      "artists": "Hoda",
      "album": "Hoda Collection, Vol. 4",
      "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
-    },
-    {
-     "name": "Ya Rabaâ",
-     "artists": "Fairuz",
-     "album": "Old Is Gold",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731ee488d2dd4491caedd0e044",
-     "url": "https://open.spotify.com/track/0iTidIMDh2IvGryXfUfpDM"
     },
     {
      "name": "Konna Netlaka",
@@ -142,6 +135,13 @@
      "album": "Ya Ashikat El Ward",
      "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+    },
+    {
+     "name": "Fayek Alaya",
+     "artists": "Fairuz",
+     "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
+     "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
+     "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
     }
    ],
    "artists": [
@@ -803,6 +803,13 @@
  },
  "recent": [
   {
+   "name": "In This World",
+   "artists": "Moby",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731fefc78cc3add698ee8a34ae",
+   "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH",
+   "played_at": "2026-07-13T20:12:04.102Z"
+  },
+  {
    "name": "Tú Con Él",
    "artists": "Rauw Alejandro",
    "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
@@ -1144,13 +1151,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
    "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
    "played_at": "2026-07-11T16:58:07.070Z"
-  },
-  {
-   "name": "All Of My Friends",
-   "artists": "Jack Harlow",
-   "image": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
-   "url": "https://open.spotify.com/track/2LTRSoho4n35jXJBYZrpwp",
-   "played_at": "2026-07-11T16:54:00.084Z"
   }
  ]
 }
