@@ -1,8 +1,15 @@
 {
- "updated": "2026-07-16T13:24:29.620686+00:00",
+ "updated": "2026-07-16T18:58:14.885227+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
     {
      "name": "Ana Le Habiby",
      "artists": "Fairuz",
@@ -11,11 +18,11 @@
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -32,18 +39,18 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Bala Wala Chi - Live",
@@ -53,11 +60,11 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+     "name": "It takes a lot to try",
+     "artists": "Aviram",
+     "album": "All My Love's In Vain",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
+     "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
     },
     {
      "name": "Baeed Annak",
@@ -95,6 +102,13 @@
      "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
+     "name": "BEAUTY AND THE BEAST",
+     "artists": "Kanye West, Ye",
+     "album": "BULLY",
+     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+     "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
+    },
+    {
      "name": "Hekm El Alb",
      "artists": "Wael Kfoury",
      "album": "Hekm El Alb",
@@ -128,20 +142,6 @@
      "album": "Umm Kulthum 1",
      "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
      "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
-    },
-    {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
-     "name": "Fayek Alaya",
-     "artists": "Fairuz",
-     "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
-     "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
-     "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
     }
    ],
    "artists": [
@@ -158,19 +158,19 @@
      "genres": []
     },
     {
-     "name": "Wael Kfoury",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
-     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
-     "genres": [
-      "khaleeji"
-     ]
-    },
-    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
       "rap"
+     ]
+    },
+    {
+     "name": "Wael Kfoury",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
+     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
+     "genres": [
+      "khaleeji"
      ]
     },
     {
@@ -801,6 +801,69 @@
  },
  "recent": [
   {
+   "name": "Jagal",
+   "artists": "DÜK",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734dc43ed9c2749b8b26ca8eea",
+   "url": "https://open.spotify.com/track/79VriB0355E7YnBXzRcV2D",
+   "played_at": "2026-07-16T14:18:40.185Z"
+  },
+  {
+   "name": "ALL THE LOVE (feat. Andre Troutman)",
+   "artists": "Kanye West, Ye, Andre Troutman",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
+   "played_at": "2026-07-16T14:11:13.898Z"
+  },
+  {
+   "name": "BEAUTY AND THE BEAST",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn",
+   "played_at": "2026-07-16T14:07:10.243Z"
+  },
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-07-16T14:03:17.319Z"
+  },
+  {
+   "name": "It takes a lot to try",
+   "artists": "Aviram",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
+   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
+   "played_at": "2026-07-16T13:57:50.177Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Isabel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
+   "played_at": "2026-07-16T13:48:27.050Z"
+  },
+  {
+   "name": "Is This The Song You're Looking For",
+   "artists": "Gab Rhome",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e2f89c68443b96c09332a2db",
+   "url": "https://open.spotify.com/track/0ztTO78t17UVvJFqmOt0sQ",
+   "played_at": "2026-07-16T13:44:29.774Z"
+  },
+  {
+   "name": "Jagal",
+   "artists": "DÜK",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734dc43ed9c2749b8b26ca8eea",
+   "url": "https://open.spotify.com/track/79VriB0355E7YnBXzRcV2D",
+   "played_at": "2026-07-16T13:41:39.872Z"
+  },
+  {
+   "name": "Gap in the Clouds",
+   "artists": "Yellow Days",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
+   "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2",
+   "played_at": "2026-07-16T13:31:09.571Z"
+  },
+  {
    "name": "Indelible",
    "artists": "oddfish",
    "image": "https://i.scdn.co/image/ab67616d0000b2736a226e88225fa6943445af2c",
@@ -1086,69 +1149,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273d996db70f458c900f23a225e",
    "url": "https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS",
    "played_at": "2026-07-11T17:49:44.332Z"
-  },
-  {
-   "name": "Day 'N' Nite (nightmare)",
-   "artists": "Kid Cudi",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a487deeecb334b6619489d74",
-   "url": "https://open.spotify.com/track/5wfllwdjglyQislkskYLBv",
-   "played_at": "2026-07-11T17:47:10.417Z"
-  },
-  {
-   "name": "Kabl Ma Nessallem We Nemshy",
-   "artists": "Maha",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734f2273fd56424f80294bd382",
-   "url": "https://open.spotify.com/track/3f1FXVaxjOGwbGcFZ7t6Xo",
-   "played_at": "2026-07-11T17:43:31.212Z"
-  },
-  {
-   "name": "ماتيجي اعدي عليكي - نسخة لايف",
-   "artists": "TUL8TE",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c40a4ab2ee49b86c4e409717",
-   "url": "https://open.spotify.com/track/19Gz8Lc17ca882FPaP3aCn",
-   "played_at": "2026-07-11T17:40:03.228Z"
-  },
-  {
-   "name": "Matrahak Bi Albi",
-   "artists": "Majida El Roumi",
-   "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
-   "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp",
-   "played_at": "2026-07-11T17:37:04.898Z"
-  },
-  {
-   "name": "Bisaraha",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
-   "played_at": "2026-07-11T17:32:03.017Z"
-  },
-  {
-   "name": "Brooklyn Baby",
-   "artists": "Lana Del Rey",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-   "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
-   "played_at": "2026-07-11T17:27:51.720Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-07-11T17:19:03.081Z"
-  },
-  {
-   "name": "Rein Me In (with Olivia Dean)",
-   "artists": "Sam Fender, Olivia Dean",
-   "image": "https://i.scdn.co/image/ab67616d0000b27370722c52a53ef4a56f0c2eb0",
-   "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV",
-   "played_at": "2026-07-11T17:15:59.620Z"
-  },
-  {
-   "name": "Haditouni",
-   "artists": "Douaa",
-   "image": "https://i.scdn.co/image/ab67616d0000b273936b4e6df0a18f3d12a8b367",
-   "url": "https://open.spotify.com/track/4jdUdJZgXFjJhYIRGyKRC4",
-   "played_at": "2026-07-11T17:10:21.725Z"
   }
  ]
 }
