@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T18:58:14.885227+00:00",
+ "updated": "2026-07-17T07:54:20.216432+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -777,17 +777,6 @@
      ]
     },
     {
-     "name": "Hraach",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
-     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
-     "genres": [
-      "organic house",
-      "tribal house",
-      "downtempo",
-      "deep house"
-     ]
-    },
-    {
      "name": "Aaron Taylor",
      "image": "https://i.scdn.co/image/ab6761610000e5eb22fc5c2b36b5888f5131215f",
      "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7",
@@ -795,11 +784,30 @@
       "indie soul",
       "neo soul"
      ]
+    },
+    {
+     "name": "Ray Charles",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6fc460f10177fa38af69b8bf",
+     "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
+     "genres": [
+      "soul",
+      "soul blues",
+      "blues",
+      "classic soul",
+      "vocal jazz"
+     ]
     }
    ]
   }
  },
  "recent": [
+  {
+   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+   "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+   "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
+   "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI",
+   "played_at": "2026-07-17T07:49:10.911Z"
+  },
   {
    "name": "Jagal",
    "artists": "DÜK",
@@ -1142,13 +1150,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf",
    "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0",
    "played_at": "2026-07-11T17:52:59.083Z"
-  },
-  {
-   "name": "Sixteen Tons",
-   "artists": "Tennessee Ernie Ford",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d996db70f458c900f23a225e",
-   "url": "https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS",
-   "played_at": "2026-07-11T17:49:44.332Z"
   }
  ]
 }
