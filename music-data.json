@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T07:54:20.216432+00:00",
+ "updated": "2026-07-17T13:09:07.912509+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -18,18 +18,18 @@
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
-    },
-    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Shou Hal Ayyam - 2008 Remastered",
@@ -44,13 +44,6 @@
      "album": "Houdou Nisbi",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Bala Wala Chi - Live",
@@ -88,6 +81,13 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
      "name": "Tamally Maak",
      "artists": "Amr Diab",
      "album": "Tamally Maak",
@@ -109,11 +109,11 @@
      "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
     },
     {
-     "name": "Hekm El Alb",
-     "artists": "Wael Kfoury",
-     "album": "Hekm El Alb",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -121,6 +121,13 @@
      "album": "Hoda Collection, Vol. 4",
      "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
+     "name": "Hekm El Alb",
+     "artists": "Wael Kfoury",
+     "album": "Hekm El Alb",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
     },
     {
      "name": "Konna Netlaka",
@@ -135,13 +142,6 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     }
    ],
    "artists": [
@@ -802,6 +802,90 @@
  },
  "recent": [
   {
+   "name": "Shadow in Your Smile",
+   "artists": "Eddie Gold",
+   "image": "https://i.scdn.co/image/ab67616d0000b273973ffdfb928e6cd18412f6c1",
+   "url": "https://open.spotify.com/track/032HZ2XbttzV68WCtEm0r7",
+   "played_at": "2026-07-17T13:00:27.591Z"
+  },
+  {
+   "name": "Put the Blame on Mame",
+   "artists": "Jazz At The Movies",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fc4e92ecb24fcadd1c401af7",
+   "url": "https://open.spotify.com/track/34M8EsL4rqmzUCeX9PVKgM",
+   "played_at": "2026-07-17T13:00:27.591Z"
+  },
+  {
+   "name": "Shadow in Your Smile",
+   "artists": "Eddie Gold",
+   "image": "https://i.scdn.co/image/ab67616d0000b273973ffdfb928e6cd18412f6c1",
+   "url": "https://open.spotify.com/track/032HZ2XbttzV68WCtEm0r7",
+   "played_at": "2026-07-17T12:28:03.796Z"
+  },
+  {
+   "name": "Fair Trade (with Travis Scott)",
+   "artists": "Drake, Travis Scott",
+   "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+   "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS",
+   "played_at": "2026-07-17T12:14:15.472Z"
+  },
+  {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-07-17T10:22:14.772Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
+   "played_at": "2026-07-17T10:18:41.371Z"
+  },
+  {
+   "name": "Vienna",
+   "artists": "Billy Joel",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+   "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7",
+   "played_at": "2026-07-17T10:15:32.865Z"
+  },
+  {
+   "name": "I Put A Spell On You",
+   "artists": "Nina Simone",
+   "image": "https://i.scdn.co/image/ab67616d0000b273892abb1ade35b4863b29e051",
+   "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq",
+   "played_at": "2026-07-17T10:12:00.668Z"
+  },
+  {
+   "name": "Ya Ashikat El Ward",
+   "artists": "Zaki Nassif",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+   "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
+   "played_at": "2026-07-17T10:04:20.927Z"
+  },
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-07-17T08:21:46.300Z"
+  },
+  {
+   "name": "Khalas",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/2ybL8Dy1tXxmiRWpFueKqg",
+   "played_at": "2026-07-17T08:17:51.916Z"
+  },
+  {
+   "name": "Creep",
+   "artists": "Louis Brigham",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+   "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ",
+   "played_at": "2026-07-17T08:03:57.853Z"
+  },
+  {
    "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
    "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
    "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
@@ -1066,90 +1150,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
    "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
    "played_at": "2026-07-11T19:45:11.566Z"
-  },
-  {
-   "name": "Haditouni",
-   "artists": "Douaa",
-   "image": "https://i.scdn.co/image/ab67616d0000b273936b4e6df0a18f3d12a8b367",
-   "url": "https://open.spotify.com/track/4jdUdJZgXFjJhYIRGyKRC4",
-   "played_at": "2026-07-11T19:39:26.619Z"
-  },
-  {
-   "name": "Khalas",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/2ybL8Dy1tXxmiRWpFueKqg",
-   "played_at": "2026-07-11T19:36:02.774Z"
-  },
-  {
-   "name": "Man Up Above",
-   "artists": "J. Cole",
-   "image": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3",
-   "url": "https://open.spotify.com/track/0C9B7SpULk3KlkOz3MhTEb",
-   "played_at": "2026-07-11T19:31:53.873Z"
-  },
-  {
-   "name": "Paradise",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
-   "played_at": "2026-07-11T18:16:38.132Z"
-  },
-  {
-   "name": "PREACHER MAN",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ",
-   "played_at": "2026-07-11T18:13:01.243Z"
-  },
-  {
-   "name": "Prague",
-   "artists": "Jack Harlow",
-   "image": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
-   "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ",
-   "played_at": "2026-07-11T18:10:01.645Z"
-  },
-  {
-   "name": "Nassam Alayna El Hawa",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
-   "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN",
-   "played_at": "2026-07-11T18:06:48.054Z"
-  },
-  {
-   "name": "Maybe Another Time",
-   "artists": "Feng Suave",
-   "image": "https://i.scdn.co/image/ab67616d0000b273857e8648086f208e41a316e8",
-   "url": "https://open.spotify.com/track/0fbNOHngBFhKAwQmqHBAGG",
-   "played_at": "2026-07-11T18:02:46.795Z"
-  },
-  {
-   "name": "Future Lover",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK",
-   "played_at": "2026-07-11T17:59:43.503Z"
-  },
-  {
-   "name": "ALL THE LOVE (feat. Andre Troutman)",
-   "artists": "Kanye West, Ye, Andre Troutman",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
-   "played_at": "2026-07-11T17:56:49.409Z"
-  },
-  {
-   "name": "Smile",
-   "artists": "Lily Allen",
-   "image": "https://i.scdn.co/image/ab67616d0000b273903b3846b9843677ca51bad9",
-   "url": "https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d",
-   "played_at": "2026-07-11T17:56:13.850Z"
-  },
-  {
-   "name": "If I Can't",
-   "artists": "50 Cent",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf",
-   "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0",
-   "played_at": "2026-07-11T17:52:59.083Z"
   }
  ]
 }
