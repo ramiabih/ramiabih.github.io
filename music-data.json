@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T18:55:19.495720+00:00",
+ "updated": "2026-07-18T01:45:03.460926+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -44,6 +44,13 @@
      "album": "Houdou Nisbi",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Bala Wala Chi - Live",
@@ -135,13 +142,6 @@
      "album": "Konna Netlaka",
      "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
      "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
-    },
-    {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     }
    ],
    "artists": [
@@ -800,15 +800,29 @@
      "genres": [
       "soul",
       "soul blues",
-      "blues",
       "classic soul",
-      "vocal jazz"
+      "vocal jazz",
+      "jazz"
      ]
     }
    ]
   }
  },
  "recent": [
+  {
+   "name": "In This World",
+   "artists": "Moby",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731fefc78cc3add698ee8a34ae",
+   "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH",
+   "played_at": "2026-07-17T22:02:57.778Z"
+  },
+  {
+   "name": "Creep",
+   "artists": "Louis Brigham",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+   "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ",
+   "played_at": "2026-07-17T21:58:42.524Z"
+  },
   {
    "name": "Shadow in Your Smile",
    "artists": "Eddie Gold",
@@ -1144,20 +1158,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
    "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
    "played_at": "2026-07-11T19:53:54.884Z"
-  },
-  {
-   "name": "Ya Ashikat El Ward",
-   "artists": "Zaki Nassif",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-   "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
-   "played_at": "2026-07-11T19:49:43.581Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-07-11T19:45:11.566Z"
   }
  ]
 }
