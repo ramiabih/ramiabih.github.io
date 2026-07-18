@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T12:55:29.549897+00:00",
+ "updated": "2026-07-18T18:51:03.252489+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -46,18 +46,18 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
      "name": "Creep",
      "artists": "Louis Brigham",
      "album": "Now and Before",
      "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
      "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Bisaraha",
@@ -810,6 +810,13 @@
  },
  "recent": [
   {
+   "name": "Can I Call You Rose?",
+   "artists": "Isabel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
+   "played_at": "2026-07-18T11:19:12.971Z"
+  },
+  {
    "name": "Creep",
    "artists": "Louis Brigham",
    "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
@@ -1151,13 +1158,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
    "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
    "played_at": "2026-07-12T10:53:18.907Z"
-  },
-  {
-   "name": "Nasini El Donya",
-   "artists": "Ragheb Alama",
-   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
-   "played_at": "2026-07-12T10:22:41.829Z"
   }
  ]
 }
