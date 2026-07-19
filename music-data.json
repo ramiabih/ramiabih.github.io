@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T12:58:09.494494+00:00",
+ "updated": "2026-07-19T18:53:44.537060+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -190,6 +190,12 @@
      ]
     },
     {
+     "name": "Lana Del Rey",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+     "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+     "genres": []
+    },
+    {
      "name": "Mac DeMarco",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
@@ -197,12 +203,6 @@
       "indie",
       "lo-fi indie"
      ]
-    },
-    {
-     "name": "Lana Del Rey",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-     "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
-     "genres": []
     },
     {
      "name": "Thee Sacred Souls",
