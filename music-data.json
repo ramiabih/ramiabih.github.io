@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T02:11:17.619663+00:00",
+ "updated": "2026-07-20T08:43:30.108884+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -816,6 +816,13 @@
  },
  "recent": [
   {
+   "name": "Baby I'm Yours",
+   "artists": "Arctic Monkeys",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fc5f23d71de7ad824565f94c",
+   "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL",
+   "played_at": "2026-07-20T08:39:25.539Z"
+  },
+  {
    "name": "The Other Woman",
    "artists": "Lana Del Rey",
    "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
@@ -1157,13 +1164,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
    "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
    "played_at": "2026-07-17T10:04:20.927Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-07-17T08:21:46.300Z"
   }
  ]
 }
