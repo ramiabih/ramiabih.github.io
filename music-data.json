@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T18:53:44.537060+00:00",
+ "updated": "2026-07-20T02:11:17.619663+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -273,6 +273,20 @@
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
+    },
+    {
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+    },
+    {
      "name": "I Thought About Killing You",
      "artists": "Kanye West",
      "album": "ye",
@@ -287,25 +301,18 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
-    },
-    {
-     "name": "Konna Netlaka",
-     "artists": "Fairuz",
-     "album": "Konna Netlaka",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
-    },
-    {
      "name": "Alf Leila We Leila",
      "artists": "Umm Kulthum",
      "album": "Umm Kulthum 1",
      "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
      "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+    },
+    {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
      "name": "Creep",
@@ -322,6 +329,13 @@
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     },
     {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
      "name": "Nasini El Donya",
      "artists": "Ragheb Alama",
      "album": "El Hob El Kebir",
@@ -334,20 +348,6 @@
      "album": "Hekm El Alb",
      "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
-    },
-    {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "El Bint El Awiye",
