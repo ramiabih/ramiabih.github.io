@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T08:10:54.697567+00:00",
+ "updated": "2026-07-22T13:24:22.841874+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -32,13 +32,6 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
      "name": "Shou Hal Ayyam - 2008 Remastered",
      "artists": "Ziad Rahbani",
      "album": "Ana Moush Kafer",
@@ -46,11 +39,11 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "Creep",
@@ -74,6 +67,13 @@
      "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
     },
     {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
      "name": "BEAUTY AND THE BEAST",
      "artists": "Kanye West, Ye",
      "album": "BULLY",
@@ -86,13 +86,6 @@
      "album": "Houdou Nisbi",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Oum Fout Nam",
@@ -123,18 +116,11 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
-     "name": "Konna Netlaka",
-     "artists": "Fairuz",
-     "album": "Konna Netlaka",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Batwanes Beek",
@@ -142,6 +128,20 @@
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     }
    ],
    "artists": [
@@ -816,6 +816,20 @@
  },
  "recent": [
   {
+   "name": "Till Then",
+   "artists": "The Mills Brothers",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e21cd5d12683344fd6c48c17",
+   "url": "https://open.spotify.com/track/2DbgjRaPNxNNrBDdb2kkDU",
+   "played_at": "2026-07-22T09:01:02.494Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Isabel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
+   "played_at": "2026-07-22T08:58:26.182Z"
+  },
+  {
    "name": "Oum Fout Nam",
    "artists": "Ziad Rahbani",
    "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
@@ -1150,20 +1164,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
    "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
    "played_at": "2026-07-17T10:18:41.371Z"
-  },
-  {
-   "name": "Vienna",
-   "artists": "Billy Joel",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
-   "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7",
-   "played_at": "2026-07-17T10:15:32.865Z"
-  },
-  {
-   "name": "I Put A Spell On You",
-   "artists": "Nina Simone",
-   "image": "https://i.scdn.co/image/ab67616d0000b273892abb1ade35b4863b29e051",
-   "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq",
-   "played_at": "2026-07-17T10:12:00.668Z"
   }
  ]
 }
