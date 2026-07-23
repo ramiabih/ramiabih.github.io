@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T18:59:40.600463+00:00",
+ "updated": "2026-07-23T01:59:55.811175+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -816,6 +816,13 @@
  },
  "recent": [
   {
+   "name": "Dance of Maria",
+   "artists": "Elias Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
+   "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC",
+   "played_at": "2026-07-22T22:39:57.918Z"
+  },
+  {
    "name": "Till Then",
    "artists": "The Mills Brothers",
    "image": "https://i.scdn.co/image/ab67616d0000b273e21cd5d12683344fd6c48c17",
@@ -1157,13 +1164,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
    "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
    "played_at": "2026-07-17T10:22:14.772Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
-   "played_at": "2026-07-17T10:18:41.371Z"
   }
  ]
 }
