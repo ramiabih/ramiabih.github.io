@@ -1,21 +1,21 @@
 {
- "updated": "2026-07-23T13:28:01.450564+00:00",
+ "updated": "2026-07-23T19:01:11.643919+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
     {
      "name": "Ana Le Habiby",
      "artists": "Fairuz",
      "album": "Ya Reit",
      "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
      "name": "Baeed Annak",
@@ -32,18 +32,18 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Creep",
@@ -95,20 +95,6 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
-    },
-    {
-     "name": "El Bint El Awiye",
-     "artists": "Wael Kfoury",
-     "album": "El Bint El Awiye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
-     "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
-    },
-    {
      "name": "Bala Wala Chi - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
@@ -123,6 +109,13 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
+     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+     "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
+     "album": "Great Cello Concertos",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
+     "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
+    },
+    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
@@ -130,11 +123,18 @@
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
-     "name": "Nasini El Donya",
-     "artists": "Ragheb Alama",
-     "album": "El Hob El Kebir",
-     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
+     "name": "El Bint El Awiye",
+     "artists": "Wael Kfoury",
+     "album": "El Bint El Awiye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
+     "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
     },
     {
      "name": "Ya Ashikat El Ward",
@@ -818,6 +818,27 @@
  "recent": [
   {
    "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+   "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+   "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
+   "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI",
+   "played_at": "2026-07-23T16:47:46.079Z"
+  },
+  {
+   "name": "Baby I'm Yours",
+   "artists": "Arctic Monkeys",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fc5f23d71de7ad824565f94c",
+   "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL",
+   "played_at": "2026-07-23T16:33:42.528Z"
+  },
+  {
+   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+   "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
+   "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg",
+   "played_at": "2026-07-23T07:26:49.770Z"
+  },
+  {
+   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
    "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
    "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
    "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg",
@@ -1144,27 +1165,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273973ffdfb928e6cd18412f6c1",
    "url": "https://open.spotify.com/track/032HZ2XbttzV68WCtEm0r7",
    "played_at": "2026-07-17T13:00:27.591Z"
-  },
-  {
-   "name": "Put the Blame on Mame",
-   "artists": "Jazz At The Movies",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fc4e92ecb24fcadd1c401af7",
-   "url": "https://open.spotify.com/track/34M8EsL4rqmzUCeX9PVKgM",
-   "played_at": "2026-07-17T13:00:27.591Z"
-  },
-  {
-   "name": "Shadow in Your Smile",
-   "artists": "Eddie Gold",
-   "image": "https://i.scdn.co/image/ab67616d0000b273973ffdfb928e6cd18412f6c1",
-   "url": "https://open.spotify.com/track/032HZ2XbttzV68WCtEm0r7",
-   "played_at": "2026-07-17T12:28:03.796Z"
-  },
-  {
-   "name": "Fair Trade (with Travis Scott)",
-   "artists": "Drake, Travis Scott",
-   "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
-   "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS",
-   "played_at": "2026-07-17T12:14:15.472Z"
   }
  ]
 }
