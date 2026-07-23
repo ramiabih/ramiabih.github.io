@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T01:59:55.811175+00:00",
+ "updated": "2026-07-23T08:14:07.682831+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -231,6 +231,13 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+    },
+    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
@@ -238,11 +245,18 @@
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
-     "name": "Oum Fout Nam",
+     "name": "I Thought About Killing You",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
+    },
+    {
+     "name": "Bala Wala Chi - Live",
      "artists": "Ziad Rahbani",
-     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
      "name": "The Middle East... W Ameh - Live",
@@ -266,18 +280,18 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
-     "name": "W'Kameh",
-     "artists": "Fairuz",
-     "album": "Mish Kayan Hayek T'Koun",
-     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
-    },
-    {
      "name": "Konna Netlaka",
      "artists": "Fairuz",
      "album": "Konna Netlaka",
      "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
      "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
+    },
+    {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Tamally Maak",
@@ -287,18 +301,11 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "I Thought About Killing You",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
-    },
-    {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
+     "name": "W'Kameh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
      "name": "Alf Leila We Leila",
@@ -315,25 +322,11 @@
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
-    {
      "name": "Ya Ashikat El Ward",
      "artists": "Zaki Nassif",
      "album": "Ya Ashikat El Ward",
      "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Nasini El Donya",
@@ -348,6 +341,13 @@
      "album": "Hekm El Alb",
      "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "El Bint El Awiye",
@@ -379,18 +379,18 @@
      ]
     },
     {
+     "name": "ABBA",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
+     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+     "genres": []
+    },
+    {
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
       "khaleeji"
      ]
-    },
-    {
-     "name": "ABBA",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
-     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
-     "genres": []
     },
     {
      "name": "Bear McCreary",
@@ -424,18 +424,18 @@
      "genres": []
     },
     {
-     "name": "Oriental Lebanese Band",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/artist/2SnZNKC6aZINg87x5to5rg",
-     "genres": []
-    },
-    {
      "name": "Umm Kulthum",
      "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
      "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
      "genres": [
       "egyptian pop"
      ]
+    },
+    {
+     "name": "Oriental Lebanese Band",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/artist/2SnZNKC6aZINg87x5to5rg",
+     "genres": []
     },
     {
      "name": "Kendrick Lamar",
@@ -485,23 +485,24 @@
      ]
     },
     {
-     "name": "Zaki Nassif",
-     "image": "https://i.scdn.co/image/ab67616d0000b27328840e4aad2b84e07b2f93c0",
-     "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT",
-     "genres": []
-    },
-    {
-     "name": "Munir Bachir",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy",
-     "genres": [
-      "gnawa"
-     ]
-    },
-    {
      "name": "Dan Romer",
      "image": "https://i.scdn.co/image/ab6761610000e5ebec924733a70eaf15be2a3850",
      "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4",
+     "genres": [
+      "soundtrack",
+      "score"
+     ]
+    },
+    {
+     "name": "Elias Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
+     "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS",
+     "genres": []
+    },
+    {
+     "name": "Alexandre Desplat",
+     "image": "https://i.scdn.co/image/ab6772690000c46cf9a8d4c2fbbdba7962061bf9",
+     "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0",
      "genres": [
       "soundtrack",
       "score"
@@ -815,6 +816,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+   "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
+   "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg",
+   "played_at": "2026-07-23T07:19:36.379Z"
+  },
   {
    "name": "Dance of Maria",
    "artists": "Elias Rahbani",
@@ -1157,13 +1165,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
    "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS",
    "played_at": "2026-07-17T12:14:15.472Z"
-  },
-  {
-   "name": "The Glory",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
-   "played_at": "2026-07-17T10:22:14.772Z"
   }
  ]
 }
