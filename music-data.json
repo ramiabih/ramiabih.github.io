@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T19:01:11.643919+00:00",
+ "updated": "2026-07-24T01:55:16.578112+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -632,13 +632,6 @@
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
-     "name": "I Thought About Killing You",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
-    },
-    {
      "name": "Hekm El Alb",
      "artists": "Wael Kfoury",
      "album": "Hekm El Alb",
@@ -651,6 +644,13 @@
      "album": "Creep EP",
      "image": "https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647",
      "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
+    },
+    {
+     "name": "W'Kameh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     }
    ],
    "artists": [
@@ -683,12 +683,6 @@
      ]
     },
     {
-     "name": "Mac Miller",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
-    },
-    {
      "name": "Thee Sacred Souls",
      "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
      "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
@@ -700,6 +694,12 @@
      "name": "Hotel Ugly",
      "image": "https://i.scdn.co/image/ab6761610000e5eb939033cc36c08ab68b33f760",
      "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb",
+     "genres": []
+    },
+    {
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
      "genres": []
     },
     {
@@ -750,12 +750,6 @@
      "genres": []
     },
     {
-     "name": "Daniel Caesar",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
-     "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA",
-     "genres": []
-    },
-    {
      "name": "¥$",
      "image": "https://i.scdn.co/image/ab6761610000e5eba670555775b5381ac0519658",
      "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv",
@@ -768,15 +762,6 @@
      "genres": [
       "soundtrack",
       "score"
-     ]
-    },
-    {
-     "name": "Aaron Taylor",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb22fc5c2b36b5888f5131215f",
-     "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7",
-     "genres": [
-      "indie soul",
-      "neo soul"
      ]
     },
     {
@@ -811,6 +796,21 @@
       "r&b",
       "neo soul"
      ]
+    },
+    {
+     "name": "Aaron Taylor",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb22fc5c2b36b5888f5131215f",
+     "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7",
+     "genres": [
+      "indie soul",
+      "neo soul"
+     ]
+    },
+    {
+     "name": "Daniel Caesar",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
+     "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA",
+     "genres": []
     }
    ]
   }
