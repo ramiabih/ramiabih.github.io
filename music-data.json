@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T08:10:26.010849+00:00",
+ "updated": "2026-07-24T19:14:00.345182+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -51,13 +51,6 @@
      "album": "Now and Before",
      "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
      "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
-    {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
      "name": "It takes a lot to try",
@@ -116,11 +109,11 @@
      "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
     },
     {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
      "name": "Shayef El Bahr Shou Kebeer",
@@ -142,6 +135,13 @@
      "album": "Ya Ashikat El Ward",
      "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+    },
+    {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     }
    ],
    "artists": [
@@ -817,6 +817,27 @@
  },
  "recent": [
   {
+   "name": "Tamally Maak",
+   "artists": "Amr Diab",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+   "played_at": "2026-07-24T17:07:21.363Z"
+  },
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-07-24T17:07:21.114Z"
+  },
+  {
+   "name": "Creep",
+   "artists": "Louis Brigham",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+   "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ",
+   "played_at": "2026-07-24T17:01:52.193Z"
+  },
+  {
    "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
    "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
    "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
@@ -1144,27 +1165,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273703a95507746c62f4845ea59",
    "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ",
    "played_at": "2026-07-18T09:54:21.773Z"
-  },
-  {
-   "name": "In This World",
-   "artists": "Moby",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731fefc78cc3add698ee8a34ae",
-   "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH",
-   "played_at": "2026-07-17T22:02:57.778Z"
-  },
-  {
-   "name": "Creep",
-   "artists": "Louis Brigham",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-   "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ",
-   "played_at": "2026-07-17T21:58:42.524Z"
-  },
-  {
-   "name": "Shadow in Your Smile",
-   "artists": "Eddie Gold",
-   "image": "https://i.scdn.co/image/ab67616d0000b273973ffdfb928e6cd18412f6c1",
-   "url": "https://open.spotify.com/track/032HZ2XbttzV68WCtEm0r7",
-   "played_at": "2026-07-17T13:00:27.591Z"
   }
  ]
 }
