@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T08:10:47.669292+00:00",
+ "updated": "2026-07-26T13:01:58.162858+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -60,13 +60,6 @@
      "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
      "name": "BEAUTY AND THE BEAST",
      "artists": "Kanye West, Ye",
      "album": "BULLY",
@@ -88,13 +81,6 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
      "name": "Bayni Wa Baynak",
      "artists": "Hoda",
      "album": "Hoda Collection, Vol. 4",
@@ -107,6 +93,13 @@
      "album": "Great Cello Concertos",
      "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
      "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
+    },
+    {
+     "name": "Роза чайная (feat. Маша Распутина)",
+     "artists": "Philipp Kirkorov, Маша Распутина",
+     "album": "Лучшие песни",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733de1d1cba005ccf4341364cf",
+     "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw"
     },
     {
      "name": "Tamally Maak",
@@ -123,13 +116,6 @@
      "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
-     "name": "El Bint El Awiye",
-     "artists": "Wael Kfoury",
-     "album": "El Bint El Awiye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
-     "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
-    },
-    {
      "name": "Ya Ashikat El Ward",
      "artists": "Zaki Nassif",
      "album": "Ya Ashikat El Ward",
@@ -137,11 +123,25 @@
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     },
     {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+     "name": "ALL THE LOVE (feat. Andre Troutman)",
+     "artists": "Kanye West, Ye, Andre Troutman",
+     "album": "BULLY",
+     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+     "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+    },
+    {
+     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+     "album": "Elgar",
+     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
+     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
+    },
+    {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     }
    ],
    "artists": [
@@ -190,9 +190,21 @@
      ]
     },
     {
+     "name": "Philipp Kirkorov",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebc51f3d7c45816566904f7fe9",
+     "url": "https://open.spotify.com/artist/3ANNnVJ7NCdIZV6P2YzvlI",
+     "genres": []
+    },
+    {
      "name": "Lana Del Rey",
      "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
      "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+     "genres": []
+    },
+    {
+     "name": "Valery Meladze",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
+     "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
      "genres": []
     },
     {
@@ -817,6 +829,272 @@
  },
  "recent": [
   {
+   "name": "Океан и три реки",
+   "artists": "Valery Meladze",
+   "image": "https://i.scdn.co/image/ab67616d0000b27384e5b9d401328110a6746716",
+   "url": "https://open.spotify.com/track/2LcxB2cd2GWBiL7xH7anhS",
+   "played_at": "2026-07-26T12:43:20.836Z"
+  },
+  {
+   "name": "Вика - С днем рождения, Вика",
+   "artists": "Korni",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732e3cb7c31f71ccbc50b93dbd",
+   "url": "https://open.spotify.com/track/7gkBPoZApgJAROKy9vm4bO",
+   "played_at": "2026-07-26T12:39:44.061Z"
+  },
+  {
+   "name": "Иногда",
+   "artists": "Alsou",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738e61abc0c22841767bf1f55d",
+   "url": "https://open.spotify.com/track/0fDgwHVs9X8Tb9aasUXDCc",
+   "played_at": "2026-07-26T12:36:36.972Z"
+  },
+  {
+   "name": "Полетели",
+   "artists": "Philipp Kirkorov",
+   "image": "https://i.scdn.co/image/ab67616d0000b273da0a7a10ba69eb019fdda025",
+   "url": "https://open.spotify.com/track/0EcPNbuqK60EBDr0LjyX1a",
+   "played_at": "2026-07-26T12:32:48.121Z"
+  },
+  {
+   "name": "Люби меня по-французски",
+   "artists": "Gosti iz Budushchego",
+   "image": "https://i.scdn.co/image/ab67616d0000b273af7a988b5b4b086cc2146d6b",
+   "url": "https://open.spotify.com/track/2vZYXfij4MLP0DioNkI4bL",
+   "played_at": "2026-07-26T12:28:55.893Z"
+  },
+  {
+   "name": "Милая моя далеко",
+   "artists": "Andrey Gubin",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ec67c56119bf96807d6ec023",
+   "url": "https://open.spotify.com/track/38Z7c7GQ7VDUJGisiduYQL",
+   "played_at": "2026-07-26T12:24:52.378Z"
+  },
+  {
+   "name": "Самба белого мотылька",
+   "artists": "Valery Meladze",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737fb51eff5e69bef107718415",
+   "url": "https://open.spotify.com/track/6NMFYoPQUabrKgDvRexHuf",
+   "played_at": "2026-07-26T12:20:39.375Z"
+  },
+  {
+   "name": "Так же как все",
+   "artists": "A'Studio",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a62d422979ca9663e9801f29",
+   "url": "https://open.spotify.com/track/3Z6QF2tIZb6bf1GyMI5yNd",
+   "played_at": "2026-07-26T12:16:39.326Z"
+  },
+  {
+   "name": "Ты, ты, ты",
+   "artists": "Philipp Kirkorov",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a3e01b7cad40701f4171d34d",
+   "url": "https://open.spotify.com/track/0zWv3BiCdgW3M0p3oit394",
+   "played_at": "2026-07-26T12:12:56.265Z"
+  },
+  {
+   "name": "Часики",
+   "artists": "Valeriya",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b138e1ff78787c2785137750",
+   "url": "https://open.spotify.com/track/6plfiT0DKXvPmCfjcF5lIX",
+   "played_at": "2026-07-26T12:08:20.592Z"
+  },
+  {
+   "name": "Бог тебя выдумал",
+   "artists": "Nepara",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736e2449c737331dbf19b9f555",
+   "url": "https://open.spotify.com/track/1CTLNMAWe7piircjAbf5PI",
+   "played_at": "2026-07-26T12:05:18.471Z"
+  },
+  {
+   "name": "Как упоительны в России вечера",
+   "artists": "Bely Oryol",
+   "image": "https://i.scdn.co/image/ab67616d0000b27341dbdf8f3d384a47d9a9579a",
+   "url": "https://open.spotify.com/track/5rGCSeDDRcFjatqaMTjmbJ",
+   "played_at": "2026-07-26T12:01:35.682Z"
+  },
+  {
+   "name": "25-й этаж",
+   "artists": "Korni",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345f882e5cd1975f9d8c63f47",
+   "url": "https://open.spotify.com/track/3AhF8pzECS9pfORyBgB1cp",
+   "played_at": "2026-07-26T11:56:17.425Z"
+  },
+  {
+   "name": "Просто подари",
+   "artists": "Philipp Kirkorov",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b05b5c72a3f989e664576d05",
+   "url": "https://open.spotify.com/track/2lHHhxIw9Za5SeR1b5dsqa",
+   "played_at": "2026-07-26T11:51:45.750Z"
+  },
+  {
+   "name": "Притяженья больше нет",
+   "artists": "Valery Meladze",
+   "image": "https://i.scdn.co/image/ab67616d0000b27377196c639096c2b924cdc02a",
+   "url": "https://open.spotify.com/track/2Sp19EzcHMNgNO2nRsAWfV",
+   "played_at": "2026-07-26T11:47:48.103Z"
+  },
+  {
+   "name": "Я это ты - Ты это я",
+   "artists": "Murat Nasyrov",
+   "image": "https://i.scdn.co/image/ab67616d0000b273353d4dc516c257b297f1aef3",
+   "url": "https://open.spotify.com/track/1hR9guYbQteebAQ40rKd62",
+   "played_at": "2026-07-26T11:43:17.612Z"
+  },
+  {
+   "name": "Плачь и смотри",
+   "artists": "Nepara",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736e2449c737331dbf19b9f555",
+   "url": "https://open.spotify.com/track/6kV0kC6Wfjz7n1IHw3LKQe",
+   "played_at": "2026-07-26T11:39:15.817Z"
+  },
+  {
+   "name": "Лондон-Париж",
+   "artists": "Irakli",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734381f482aba6e4af95eba62e",
+   "url": "https://open.spotify.com/track/5guoUW15HH4MmWSL5E93th",
+   "played_at": "2026-07-26T11:35:52.902Z"
+  },
+  {
+   "name": "Я поднимаю свой бокал",
+   "artists": "Philipp Kirkorov",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737ff65e521c7bfc45fd7effd4",
+   "url": "https://open.spotify.com/track/3fNpssV34T3S7UhD4iMOtp",
+   "played_at": "2026-07-26T11:28:55.364Z"
+  },
+  {
+   "name": "Зимний сон",
+   "artists": "Alsou",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738e61abc0c22841767bf1f55d",
+   "url": "https://open.spotify.com/track/5ndI7xtuu5IAxixD0rNB0f",
+   "played_at": "2026-07-26T11:24:11.763Z"
+  },
+  {
+   "name": "Салют, Вера!",
+   "artists": "Valery Meladze",
+   "image": "https://i.scdn.co/image/ab67616d0000b27377196c639096c2b924cdc02a",
+   "url": "https://open.spotify.com/track/34IACdkCvXQ0f7sqWBjtOu",
+   "played_at": "2026-07-26T11:19:52.830Z"
+  },
+  {
+   "name": "Мальчик хочет в Тамбов",
+   "artists": "Murat Nasyrov",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736dfa6040aa3609ce9ced30d5",
+   "url": "https://open.spotify.com/track/7BwjUPx97RgQCNTpux1RrK",
+   "played_at": "2026-07-26T11:16:10.727Z"
+  },
+  {
+   "name": "Королева",
+   "artists": "Anzhelika Varum",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734fb1cec33f5ce7c6a9b7392e",
+   "url": "https://open.spotify.com/track/4MEGKxuwC9FTINFzuJejsr",
+   "played_at": "2026-07-26T11:12:37.271Z"
+  },
+  {
+   "name": "Жестокая любовь",
+   "artists": "Philipp Kirkorov",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fe68b9b1af5684f54e650cba",
+   "url": "https://open.spotify.com/track/0rY52RfeilD06KANMPcRle",
+   "played_at": "2026-07-26T11:09:13.719Z"
+  },
+  {
+   "name": "Роза чайная (feat. Маша Распутина)",
+   "artists": "Philipp Kirkorov, Маша Распутина",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733de1d1cba005ccf4341364cf",
+   "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw",
+   "played_at": "2026-07-26T11:01:45.899Z"
+  },
+  {
+   "name": "Роза чайная (feat. Маша Распутина)",
+   "artists": "Philipp Kirkorov, Маша Распутина",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733de1d1cba005ccf4341364cf",
+   "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw",
+   "played_at": "2026-07-26T10:57:28.499Z"
+  },
+  {
+   "name": "Роза чайная (feat. Маша Распутина)",
+   "artists": "Philipp Kirkorov, Маша Распутина",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733de1d1cba005ccf4341364cf",
+   "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw",
+   "played_at": "2026-07-26T10:50:56.413Z"
+  },
+  {
+   "name": "Ya Ahl El Hawa",
+   "artists": "Rabih El Khawli, Sami El Mallah, Nour El Mallah",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e9bf49c3840185429127bc5f",
+   "url": "https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg",
+   "played_at": "2026-07-26T10:43:15.236Z"
+  },
+  {
+   "name": "Chat Iskandaria",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733291148ac6eb2341b8c5d2e4",
+   "url": "https://open.spotify.com/track/3D126sLjlKaI1Ifv1LQcho",
+   "played_at": "2026-07-26T10:42:20.805Z"
+  },
+  {
+   "name": "Sallimleh Alayh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+   "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7",
+   "played_at": "2026-07-26T10:38:48.676Z"
+  },
+  {
+   "name": "Le Beirut",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
+   "url": "https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN",
+   "played_at": "2026-07-26T10:32:59.903Z"
+  },
+  {
+   "name": "Al Bostah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/46R7cZ3s7Mhj85PgFW19j0",
+   "played_at": "2026-07-26T10:28:48.365Z"
+  },
+  {
+   "name": "Bektoub Ismak Ya Habibi",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
+   "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy",
+   "played_at": "2026-07-26T10:19:52.614Z"
+  },
+  {
+   "name": "Ahwak",
+   "artists": "Abdel Halim Hafez",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+   "url": "https://open.spotify.com/track/1chsFxuRdocgGwhhCYfZ9m",
+   "played_at": "2026-07-26T10:13:15.693Z"
+  },
+  {
+   "name": "Akher Ayam El Saifeye",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273655995fda6862efc8c3bbf44",
+   "url": "https://open.spotify.com/track/0sAUacVQZzAc5oK3i7BLP5",
+   "played_at": "2026-07-26T10:08:19.408Z"
+  },
+  {
+   "name": "Chou Helwe Ya Sinin",
+   "artists": "Azar Habib",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b55e82ba1cc1c3a02222cae9",
+   "url": "https://open.spotify.com/track/09McK2YA2OveYiY10VGgEK",
+   "played_at": "2026-07-26T10:00:04.444Z"
+  },
+  {
+   "name": "Kifak Inta",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy",
+   "played_at": "2026-07-26T09:52:54.205Z"
+  },
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-07-26T09:48:40.610Z"
+  },
+  {
    "name": "Tamally Maak",
    "artists": "Amr Diab",
    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
@@ -899,167 +1177,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273fc5f23d71de7ad824565f94c",
    "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL",
    "played_at": "2026-07-20T08:39:25.539Z"
-  },
-  {
-   "name": "The Other Woman",
-   "artists": "Lana Del Rey",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-   "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4",
-   "played_at": "2026-07-19T12:45:11.797Z"
-  },
-  {
-   "name": "West Coast",
-   "artists": "Lana Del Rey",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-   "url": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV",
-   "played_at": "2026-07-19T12:42:11.857Z"
-  },
-  {
-   "name": "Video Games",
-   "artists": "Lana Del Rey",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
-   "url": "https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG",
-   "played_at": "2026-07-19T12:37:57.144Z"
-  },
-  {
-   "name": "Young And Beautiful",
-   "artists": "Lana Del Rey",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
-   "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
-   "played_at": "2026-07-19T12:33:17.141Z"
-  },
-  {
-   "name": "Cinnamon Girl",
-   "artists": "Lana Del Rey",
-   "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
-   "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e",
-   "played_at": "2026-07-19T12:29:23.140Z"
-  },
-  {
-   "name": "Let The Light In (feat. Father John Misty)",
-   "artists": "Lana Del Rey, Father John Misty",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
-   "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z",
-   "played_at": "2026-07-19T12:22:17.151Z"
-  },
-  {
-   "name": "Sad Girl",
-   "artists": "Lana Del Rey",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736b55c2ee78c5a47393ff8e7a",
-   "url": "https://open.spotify.com/track/1wiS0DBWRmEgRcxtJuygtm",
-   "played_at": "2026-07-19T12:15:26.747Z"
-  },
-  {
-   "name": "Close To You - Acoustic",
-   "artists": "Brainheart, Anica",
-   "image": "https://i.scdn.co/image/ab67616d0000b273392705741d87b22d036fb0ed",
-   "url": "https://open.spotify.com/track/1RzHu3XkDCLfrtqkUQfSdV",
-   "played_at": "2026-07-19T12:09:25.130Z"
-  },
-  {
-   "name": "Baby, I'm Yours",
-   "artists": "Barbara Lewis",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738bdcbedcd36489ffa7c08540",
-   "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe",
-   "played_at": "2026-07-19T12:05:54.504Z"
-  },
-  {
-   "name": "Tell It to the Stars",
-   "artists": "Rich McFeather",
-   "image": "https://i.scdn.co/image/ab67616d0000b273142701223b1a719d842c898e",
-   "url": "https://open.spotify.com/track/7bq9dxGJzXMTNGSEw3c3Fr",
-   "played_at": "2026-07-19T12:03:27.810Z"
-  },
-  {
-   "name": "Bittersweet",
-   "artists": "Rich McFeather",
-   "image": "https://i.scdn.co/image/ab67616d0000b27343a716b6bc2db4eb8fe88c94",
-   "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl",
-   "played_at": "2026-07-19T12:00:38.587Z"
-  },
-  {
-   "name": "Heart To Heart",
-   "artists": "Mac DeMarco",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
-   "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2",
-   "played_at": "2026-07-19T11:57:05.115Z"
-  },
-  {
-   "name": "i'm yours",
-   "artists": "Isabel LaRosa",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d69f41928b86ae348d9c34de",
-   "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6",
-   "played_at": "2026-07-19T11:53:36.018Z"
-  },
-  {
-   "name": "Sure Thing",
-   "artists": "Miguel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
-   "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
-   "played_at": "2026-07-19T11:51:12.324Z"
-  },
-  {
-   "name": "Shut up My Moms Calling",
-   "artists": "Hotel Ugly",
-   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
-   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
-   "played_at": "2026-07-19T11:47:59.054Z"
-  },
-  {
-   "name": "Charmed",
-   "artists": "Σtella, Redinho",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
-   "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX",
-   "played_at": "2026-07-19T11:41:24.527Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-07-19T10:59:41.974Z"
-  },
-  {
-   "name": "Konna Netlaka",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-   "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu",
-   "played_at": "2026-07-19T10:57:11.665Z"
-  },
-  {
-   "name": "Bent El Chalabiya",
-   "artists": "Munir Bachir",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-   "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs",
-   "played_at": "2026-07-19T10:52:12.379Z"
-  },
-  {
-   "name": "Aloula",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy",
-   "played_at": "2026-07-19T10:49:22.451Z"
-  },
-  {
-   "name": "El Bint El Awiye",
-   "artists": "Wael Kfoury",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
-   "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw",
-   "played_at": "2026-07-19T10:44:45.081Z"
-  },
-  {
-   "name": "Ya Ana Ya Ana - Live",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
-   "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg",
-   "played_at": "2026-07-19T10:41:12.772Z"
-  },
-  {
-   "name": "Baeed Annak",
-   "artists": "Umm Kulthum",
-   "image": "https://i.scdn.co/image/ab67616d0000b273703a95507746c62f4845ea59",
-   "url": "https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ",
-   "played_at": "2026-07-19T10:38:42.472Z"
   }
  ]
 }
