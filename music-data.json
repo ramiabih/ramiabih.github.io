@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T14:13:04.947177+00:00",
+ "updated": "2026-07-27T19:14:54.877526+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -829,6 +829,20 @@
  },
  "recent": [
   {
+   "name": "Emmenez-moi",
+   "artists": "Charles Aznavour",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c3819452ba645478410111f5",
+   "url": "https://open.spotify.com/track/6kjDLNGtvnbYIXAMsc6iiu",
+   "played_at": "2026-07-27T19:12:06.607Z"
+  },
+  {
+   "name": "Avec le temps",
+   "artists": "Léo Ferré",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fadb490b3d57805da4a804e9",
+   "url": "https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494",
+   "played_at": "2026-07-27T08:02:24.834Z"
+  },
+  {
    "name": "Je Suis Malade",
    "artists": "Lara Fabian",
    "image": "https://i.scdn.co/image/ab67616d0000b27382b9eb34a4d67015b224f323",
@@ -1163,20 +1177,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
    "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI",
    "played_at": "2026-07-23T16:47:46.079Z"
-  },
-  {
-   "name": "Baby I'm Yours",
-   "artists": "Arctic Monkeys",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fc5f23d71de7ad824565f94c",
-   "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL",
-   "played_at": "2026-07-23T16:33:42.528Z"
-  },
-  {
-   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-   "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
-   "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg",
-   "played_at": "2026-07-23T07:26:49.770Z"
   }
  ]
 }
