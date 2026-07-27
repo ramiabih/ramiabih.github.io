@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T02:06:51.431167+00:00",
+ "updated": "2026-07-27T09:34:44.754239+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -829,6 +829,48 @@
  },
  "recent": [
   {
+   "name": "Je Suis Malade",
+   "artists": "Lara Fabian",
+   "image": "https://i.scdn.co/image/ab67616d0000b27382b9eb34a4d67015b224f323",
+   "url": "https://open.spotify.com/track/2EuRnXkQ1X97VNY3NfSqay",
+   "played_at": "2026-07-27T07:58:02.443Z"
+  },
+  {
+   "name": "Les moulins de mon coeur",
+   "artists": "Michel Legrand",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326eb3c922dcc50befb741bf5",
+   "url": "https://open.spotify.com/track/1hc3RKcUrz51tbMgF3LKuq",
+   "played_at": "2026-07-27T07:53:40.092Z"
+  },
+  {
+   "name": "Ne me quitte pas",
+   "artists": "Jacques Brel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d2fd135e270391bc72623986",
+   "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN",
+   "played_at": "2026-07-27T07:49:57.851Z"
+  },
+  {
+   "name": "La bohème",
+   "artists": "Charles Aznavour",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d2ad600632db1bf5947cd890",
+   "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj",
+   "played_at": "2026-07-27T07:45:17.527Z"
+  },
+  {
+   "name": "Yesterday - Remastered 2009",
+   "artists": "The Beatles",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
+   "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI",
+   "played_at": "2026-07-27T07:38:07.417Z"
+  },
+  {
+   "name": "Пропадаю я",
+   "artists": "Lyubov Uspenskaya",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732311202b973542c3bb44f9c8",
+   "url": "https://open.spotify.com/track/2706cc2xcmiwXT5b8axKjX",
+   "played_at": "2026-07-27T07:36:29.216Z"
+  },
+  {
    "name": "Океан и три реки",
    "artists": "Valery Meladze",
    "image": "https://i.scdn.co/image/ab67616d0000b27384e5b9d401328110a6746716",
@@ -1135,48 +1177,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
    "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg",
    "played_at": "2026-07-23T07:26:49.770Z"
-  },
-  {
-   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-   "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
-   "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg",
-   "played_at": "2026-07-23T07:19:36.379Z"
-  },
-  {
-   "name": "Dance of Maria",
-   "artists": "Elias Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
-   "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC",
-   "played_at": "2026-07-22T22:39:57.918Z"
-  },
-  {
-   "name": "Till Then",
-   "artists": "The Mills Brothers",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e21cd5d12683344fd6c48c17",
-   "url": "https://open.spotify.com/track/2DbgjRaPNxNNrBDdb2kkDU",
-   "played_at": "2026-07-22T09:01:02.494Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Isabel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
-   "played_at": "2026-07-22T08:58:26.182Z"
-  },
-  {
-   "name": "Oum Fout Nam",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-   "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye",
-   "played_at": "2026-07-22T06:48:37.831Z"
-  },
-  {
-   "name": "Baby I'm Yours",
-   "artists": "Arctic Monkeys",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fc5f23d71de7ad824565f94c",
-   "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL",
-   "played_at": "2026-07-20T08:39:25.539Z"
   }
  ]
 }
