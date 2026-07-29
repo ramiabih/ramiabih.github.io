@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T01:50:25.695062+00:00",
+ "updated": "2026-07-29T08:23:58.599748+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -221,10 +221,7 @@
      "name": "Mac DeMarco",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
-     "genres": [
-      "indie",
-      "lo-fi indie"
-     ]
+     "genres": []
     },
     {
      "name": "Thee Sacred Souls",
@@ -737,10 +734,7 @@
      "name": "Mac DeMarco",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
-     "genres": [
-      "indie",
-      "lo-fi indie"
-     ]
+     "genres": []
     },
     {
      "name": "Khruangbin",
