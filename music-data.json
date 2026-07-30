@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T08:09:48.978882+00:00",
+ "updated": "2026-07-30T13:40:01.432968+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,18 +11,18 @@
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
-    {
      "name": "Baeed Annak",
      "artists": "Umm Kulthum",
      "album": "Umm Kulthum 2",
      "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
      "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
      "name": "Can I Call You Rose?",
@@ -32,20 +32,6 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
      "name": "Creep",
      "artists": "Louis Brigham",
      "album": "Now and Before",
@@ -53,11 +39,11 @@
      "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
-     "name": "It takes a lot to try",
-     "artists": "Aviram",
-     "album": "All My Love's In Vain",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
-     "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "BEAUTY AND THE BEAST",
@@ -67,18 +53,32 @@
      "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
     },
     {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+    },
+    {
+     "name": "It takes a lot to try",
+     "artists": "Aviram",
+     "album": "All My Love's In Vain",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
+     "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -109,13 +109,6 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
-    },
-    {
      "name": "Ya Ashikat El Ward",
      "artists": "Zaki Nassif",
      "album": "Ya Ashikat El Ward",
@@ -130,6 +123,13 @@
      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
      "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
      "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
      "album": "Elgar",
@@ -137,11 +137,11 @@
      "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     },
     {
-     "name": "Law Hobna Ghalta",
+     "name": "El Bint El Awiye",
      "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+     "album": "El Bint El Awiye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
+     "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
     }
    ],
    "artists": [
@@ -839,6 +839,48 @@
  },
  "recent": [
   {
+   "name": "Roger Rabbit",
+   "artists": "PEACE MAKER!, Phil Harris",
+   "image": "https://i.scdn.co/image/ab67616d0000b273578ec1367c444d4418ec6588",
+   "url": "https://open.spotify.com/track/7dB9frt7TspMnnGpgxzlZw",
+   "played_at": "2026-07-30T12:15:50.841Z"
+  },
+  {
+   "name": "Si Amanece",
+   "artists": "Maone",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735dbf9fc27549e15c8ce5209a",
+   "url": "https://open.spotify.com/track/6u3iLGiZj4o1Qsm1Zm7QoH",
+   "played_at": "2026-07-30T12:13:34.294Z"
+  },
+  {
+   "name": "four",
+   "artists": "kysa",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d5440cb3308219a69b5cbdab",
+   "url": "https://open.spotify.com/track/34dhVWjnHXjaNsU3BjJbKW",
+   "played_at": "2026-07-30T12:10:33.271Z"
+  },
+  {
+   "name": "Keep The Change",
+   "artists": "Bella Ora",
+   "image": "https://i.scdn.co/image/ab67616d0000b27365529aa0dbf52db12cb58c0e",
+   "url": "https://open.spotify.com/track/0XeWRjC6XnoSyB8Fc1YFZK",
+   "played_at": "2026-07-30T12:07:33.949Z"
+  },
+  {
+   "name": "Body Moving",
+   "artists": "Umaedo",
+   "image": "https://i.scdn.co/image/ab67616d0000b27306c221b9be7533e1cf13b488",
+   "url": "https://open.spotify.com/track/4XF44ZR69PSnEa1oIUfS88",
+   "played_at": "2026-07-30T12:04:25.550Z"
+  },
+  {
+   "name": "What's The Move?",
+   "artists": "offrami",
+   "image": "https://i.scdn.co/image/ab67616d0000b273450e77f9bf75091e5db9f731",
+   "url": "https://open.spotify.com/track/6Go4LSFGFXpSd8rgE5G4ha",
+   "played_at": "2026-07-30T12:01:33.515Z"
+  },
+  {
    "name": "Emmenez-moi",
    "artists": "Charles Aznavour",
    "image": "https://i.scdn.co/image/ab67616d0000b273c3819452ba645478410111f5",
@@ -1145,48 +1187,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273b55e82ba1cc1c3a02222cae9",
    "url": "https://open.spotify.com/track/09McK2YA2OveYiY10VGgEK",
    "played_at": "2026-07-26T10:00:04.444Z"
-  },
-  {
-   "name": "Kifak Inta",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy",
-   "played_at": "2026-07-26T09:52:54.205Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-07-26T09:48:40.610Z"
-  },
-  {
-   "name": "Tamally Maak",
-   "artists": "Amr Diab",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-   "played_at": "2026-07-24T17:07:21.363Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-07-24T17:07:21.114Z"
-  },
-  {
-   "name": "Creep",
-   "artists": "Louis Brigham",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-   "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ",
-   "played_at": "2026-07-24T17:01:52.193Z"
-  },
-  {
-   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-   "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
-   "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
-   "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI",
-   "played_at": "2026-07-23T16:47:46.079Z"
   }
  ]
 }
