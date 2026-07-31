@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T19:12:02.919218+00:00",
+ "updated": "2026-07-31T02:00:31.832551+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -54,7 +54,7 @@
     },
     {
      "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani",
+     "artists": "Ziad Rahbani, Joseph Saker",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
@@ -254,7 +254,7 @@
     },
     {
      "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani",
+     "artists": "Ziad Rahbani, Joseph Saker",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
@@ -288,6 +288,13 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
+    },
+    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
@@ -300,13 +307,6 @@
      "album": "Law Hobna Ghalta",
      "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Konna Netlaka",
@@ -323,18 +323,18 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
      "name": "W'Kameh",
      "artists": "Fairuz",
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
-    },
-    {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     },
     {
      "name": "Bent El Chalabiya",
@@ -344,18 +344,18 @@
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
      "name": "Nasini El Donya",
      "artists": "Ragheb Alama",
      "album": "El Hob El Kebir",
      "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     },
     {
      "name": "Hekm El Alb",
@@ -365,18 +365,18 @@
      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
     },
     {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
      "name": "Bayni Wa Baynak",
      "artists": "Hoda",
      "album": "Hoda Collection, Vol. 4",
      "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
-    },
-    {
-     "name": "El Bint El Awiye",
-     "artists": "Wael Kfoury",
-     "album": "El Bint El Awiye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
-     "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
     }
    ],
    "artists": [
@@ -446,20 +446,6 @@
      "genres": []
     },
     {
-     "name": "Umm Kulthum",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
-     "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
-     "genres": [
-      "egyptian pop"
-     ]
-    },
-    {
-     "name": "Oriental Lebanese Band",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/artist/2SnZNKC6aZINg87x5to5rg",
-     "genres": []
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -469,16 +455,18 @@
      ]
     },
     {
-     "name": "Majida El Roumi",
-     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
-     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
-     "genres": []
-    },
-    {
      "name": "John Lunn",
      "image": "https://i.scdn.co/image/ab6761610000e5eb863d89ca82d7a559f4fb7f55",
      "url": "https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt",
      "genres": []
+    },
+    {
+     "name": "Umm Kulthum",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
+     "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
+     "genres": [
+      "egyptian pop"
+     ]
     },
     {
      "name": "Louis Brigham",
@@ -516,18 +504,37 @@
      ]
     },
     {
-     "name": "Elias Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
-     "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS",
-     "genres": []
-    },
-    {
      "name": "Alexandre Desplat",
      "image": "https://i.scdn.co/image/ab6772690000c46cf9a8d4c2fbbdba7962061bf9",
      "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0",
      "genres": [
       "soundtrack",
       "score"
+     ]
+    },
+    {
+     "name": "Sonya Belousova",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb8286adc45dea01a8747f2ba3",
+     "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP",
+     "genres": [
+      "soundtrack",
+      "medieval"
+     ]
+    },
+    {
+     "name": "Joseph Trapanese",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebee808587615bbc280d7cc2a3",
+     "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V",
+     "genres": [
+      "soundtrack"
+     ]
+    },
+    {
+     "name": "Ilan Eshkeri",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92c3da9dae514e75ff711305",
+     "url": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z",
+     "genres": [
+      "soundtrack"
      ]
     }
    ]
@@ -634,7 +641,7 @@
     },
     {
      "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani",
+     "artists": "Ziad Rahbani, Joseph Saker",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
