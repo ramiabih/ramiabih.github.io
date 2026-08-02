@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T13:02:17.038691+00:00",
+ "updated": "2026-08-02T18:57:38.552794+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -845,6 +845,13 @@
   }
  },
  "recent": [
+  {
+   "name": "My Mother",
+   "artists": "Marcel Khalife",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737f77f43e5dc9025862dc913b",
+   "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ",
+   "played_at": "2026-08-02T18:54:32.324Z"
+  },
   {
    "name": "Ya Tair",
    "artists": "Fairuz",
