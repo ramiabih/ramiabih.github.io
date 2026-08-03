@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T02:00:34.954504+00:00",
+ "updated": "2026-08-03T09:26:57.467074+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -928,55 +928,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273c3819452ba645478410111f5",
    "url": "https://open.spotify.com/track/6kjDLNGtvnbYIXAMsc6iiu",
    "played_at": "2026-07-27T19:12:06.607Z"
-  },
-  {
-   "name": "Avec le temps",
-   "artists": "Léo Ferré",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fadb490b3d57805da4a804e9",
-   "url": "https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494",
-   "played_at": "2026-07-27T08:02:24.834Z"
-  },
-  {
-   "name": "Je Suis Malade",
-   "artists": "Lara Fabian",
-   "image": "https://i.scdn.co/image/ab67616d0000b27382b9eb34a4d67015b224f323",
-   "url": "https://open.spotify.com/track/2EuRnXkQ1X97VNY3NfSqay",
-   "played_at": "2026-07-27T07:58:02.443Z"
-  },
-  {
-   "name": "Les moulins de mon coeur",
-   "artists": "Michel Legrand",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326eb3c922dcc50befb741bf5",
-   "url": "https://open.spotify.com/track/1hc3RKcUrz51tbMgF3LKuq",
-   "played_at": "2026-07-27T07:53:40.092Z"
-  },
-  {
-   "name": "Ne me quitte pas",
-   "artists": "Jacques Brel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d2fd135e270391bc72623986",
-   "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN",
-   "played_at": "2026-07-27T07:49:57.851Z"
-  },
-  {
-   "name": "La bohème",
-   "artists": "Charles Aznavour",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d2ad600632db1bf5947cd890",
-   "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj",
-   "played_at": "2026-07-27T07:45:17.527Z"
-  },
-  {
-   "name": "Yesterday - Remastered 2009",
-   "artists": "The Beatles",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
-   "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI",
-   "played_at": "2026-07-27T07:38:07.417Z"
-  },
-  {
-   "name": "Пропадаю я",
-   "artists": "Lyubov Uspenskaya",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732311202b973542c3bb44f9c8",
-   "url": "https://open.spotify.com/track/2706cc2xcmiwXT5b8axKjX",
-   "played_at": "2026-07-27T07:36:29.216Z"
   }
  ]
 }
