@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T18:57:38.552794+00:00",
+ "updated": "2026-08-03T02:00:34.954504+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,13 +11,6 @@
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
-     "name": "Baeed Annak",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
-     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
-    },
-    {
      "name": "Creep",
      "artists": "Louis Brigham",
      "album": "Now and Before",
@@ -25,11 +18,11 @@
      "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+     "name": "Baeed Annak",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
+     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
     },
     {
      "name": "Can I Call You Rose?",
@@ -39,6 +32,13 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
+     "name": "BEAUTY AND THE BEAST",
+     "artists": "Kanye West, Ye",
+     "album": "BULLY",
+     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+     "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
+    },
+    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
@@ -46,18 +46,11 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
-     "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani, Joseph Saker",
-     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
-    },
-    {
-     "name": "BEAUTY AND THE BEAST",
-     "artists": "Kanye West, Ye",
-     "album": "BULLY",
-     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-     "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
      "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
@@ -74,18 +67,18 @@
      "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw"
     },
     {
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani, Joseph Saker",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+    },
+    {
      "name": "It takes a lot to try",
      "artists": "Aviram",
      "album": "All My Love's In Vain",
      "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
      "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
-    },
-    {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Tamally Maak",
@@ -95,18 +88,18 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
      "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
      "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
      "album": "Elgar",
      "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
      "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
-    },
-    {
-     "name": "Nasini El Donya",
-     "artists": "Ragheb Alama",
-     "album": "El Hob El Kebir",
-     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
      "name": "Hekm El Alb",
@@ -116,11 +109,11 @@
      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
     },
     {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+     "name": "ALL THE LOVE (feat. Andre Troutman)",
+     "artists": "Kanye West, Ye, Andre Troutman",
+     "album": "BULLY",
+     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+     "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -130,18 +123,25 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "ALL THE LOVE (feat. Andre Troutman)",
-     "artists": "Kanye West, Ye, Andre Troutman",
-     "album": "BULLY",
-     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-     "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
-    },
-    {
      "name": "Law Hobna Ghalta",
      "artists": "Wael Kfoury",
      "album": "Law Hobna Ghalta",
      "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
+     "name": "Nasini El Donya",
+     "artists": "Ragheb Alama",
+     "album": "El Hob El Kebir",
+     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     }
    ],
    "artists": [
@@ -174,19 +174,19 @@
      ]
     },
     {
-     "name": "Umm Kulthum",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
-     "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
-     "genres": [
-      "egyptian pop"
-     ]
-    },
-    {
      "name": "Louis Brigham",
      "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
      "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
      "genres": [
       "adult standards"
+     ]
+    },
+    {
+     "name": "Umm Kulthum",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
+     "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
+     "genres": [
+      "egyptian pop"
      ]
     },
     {
