@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T14:19:04.708764+00:00",
+ "updated": "2026-08-03T19:21:06.465966+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -914,20 +914,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273450e77f9bf75091e5db9f731",
    "url": "https://open.spotify.com/track/6Go4LSFGFXpSd8rgE5G4ha",
    "played_at": "2026-07-30T12:01:33.515Z"
-  },
-  {
-   "name": "Quando Quando Quando",
-   "artists": "Engelbert Humperdinck",
-   "image": "https://i.scdn.co/image/ab67616d0000b27313f61b73b155d49c9ad671b9",
-   "url": "https://open.spotify.com/track/03MOcbkkoNLjP0G91iODSB",
-   "played_at": "2026-07-27T19:12:49.331Z"
-  },
-  {
-   "name": "Emmenez-moi",
-   "artists": "Charles Aznavour",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c3819452ba645478410111f5",
-   "url": "https://open.spotify.com/track/6kjDLNGtvnbYIXAMsc6iiu",
-   "played_at": "2026-07-27T19:12:06.607Z"
   }
  ]
 }
