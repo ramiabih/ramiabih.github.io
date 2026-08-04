@@ -1,15 +1,8 @@
 {
- "updated": "2026-08-04T13:50:38.936539+00:00",
+ "updated": "2026-08-04T19:19:48.181028+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Ana Le Habiby",
-     "artists": "Fairuz",
-     "album": "Ya Reit",
-     "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
-     "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
-    },
     {
      "name": "Creep",
      "artists": "Louis Brigham",
@@ -25,39 +18,18 @@
      "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
-    },
-    {
-     "name": "BEAUTY AND THE BEAST",
-     "artists": "Kanye West, Ye",
-     "album": "BULLY",
-     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-     "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
-    },
-    {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
-    {
      "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
      "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
      "album": "Great Cello Concertos",
      "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
      "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Роза чайная (feat. Маша Распутина)",
@@ -74,11 +46,11 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "It takes a lot to try",
-     "artists": "Aviram",
-     "album": "All My Love's In Vain",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
-     "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
+     "name": "BEAUTY AND THE BEAST",
+     "artists": "Kanye West, Ye",
+     "album": "BULLY",
+     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+     "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
     },
     {
      "name": "Tamally Maak",
@@ -86,6 +58,13 @@
      "album": "Tamally Maak",
      "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+    },
+    {
+     "name": "It takes a lot to try",
+     "artists": "Aviram",
+     "album": "All My Love's In Vain",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
+     "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
     },
     {
      "name": "Shou Hal Ayyam - 2008 Remastered",
@@ -102,18 +81,11 @@
      "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     },
     {
-     "name": "Hekm El Alb",
-     "artists": "Wael Kfoury",
-     "album": "Hekm El Alb",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
-    },
-    {
-     "name": "ALL THE LOVE (feat. Andre Troutman)",
-     "artists": "Kanye West, Ye, Andre Troutman",
-     "album": "BULLY",
-     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-     "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -121,6 +93,13 @@
      "album": "Hoda Collection, Vol. 4",
      "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
      "name": "Law Hobna Ghalta",
@@ -137,11 +116,32 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
+     "name": "Hekm El Alb",
+     "artists": "Wael Kfoury",
+     "album": "Hekm El Alb",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
      "name": "Bisaraha",
      "artists": "Ziad Rahbani",
      "album": "Houdou Nisbi",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "Heart To Heart",
+     "artists": "Mac DeMarco",
+     "album": "Here Comes The Cowboy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
+     "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+     "name": "Paper Aeroplane",
+     "artists": "Angus & Julia Stone",
+     "album": "Memories Of An Old Friend",
+     "image": "https://i.scdn.co/image/ab67616d0000b2736b4f8468e2ddd7b0afadfa10",
+     "url": "https://open.spotify.com/track/0cqaJXq4asBK3710YaaOoZ"
     }
    ],
    "artists": [
@@ -845,6 +845,55 @@
   }
  },
  "recent": [
+  {
+   "name": "Why Are There Boundaries",
+   "artists": "FKJ",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
+   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
+   "played_at": "2026-08-04T17:47:35.125Z"
+  },
+  {
+   "name": "Chocolate Hills",
+   "artists": "Khruangbin, Leon Bridges",
+   "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
+   "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
+   "played_at": "2026-08-04T17:44:34.610Z"
+  },
+  {
+   "name": "Kiss of Life",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
+   "played_at": "2026-08-04T17:41:26.077Z"
+  },
+  {
+   "name": "Hell N Back",
+   "artists": "Bakar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+   "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP",
+   "played_at": "2026-08-04T17:37:16.901Z"
+  },
+  {
+   "name": "I Think I Like When It Rains",
+   "artists": "WILLIS",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
+   "played_at": "2026-08-04T17:33:45.210Z"
+  },
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-08-04T17:17:57.788Z"
+  },
+  {
+   "name": "Bektoub Ismak Ya Habibi",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
+   "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy",
+   "played_at": "2026-08-04T17:07:04.456Z"
+  },
   {
    "name": "My Mother",
    "artists": "Marcel Khalife",
