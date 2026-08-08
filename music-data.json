@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T12:29:46.243033+00:00",
+ "updated": "2026-08-08T18:24:23.162160+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -130,18 +130,18 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
-     "name": "Heart To Heart",
-     "artists": "Mac DeMarco",
-     "album": "Here Comes The Cowboy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
-     "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
-     "name": "Paper Aeroplane",
-     "artists": "Angus & Julia Stone",
-     "album": "Memories Of An Old Friend",
-     "image": "https://i.scdn.co/image/ab67616d0000b2736b4f8468e2ddd7b0afadfa10",
-     "url": "https://open.spotify.com/track/0cqaJXq4asBK3710YaaOoZ"
+     "name": "La bohème",
+     "artists": "Charles Aznavour",
+     "album": "La bohème",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d2ad600632db1bf5947cd890",
+     "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj"
     }
    ],
    "artists": [
@@ -217,15 +217,6 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
      "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
      "genres": []
-    },
-    {
-     "name": "Mac DeMarco",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-     "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
-     "genres": [
-      "indie",
-      "lo-fi indie"
-     ]
     },
     {
      "name": "Thee Sacred Souls",
@@ -848,6 +839,34 @@
   }
  },
  "recent": [
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-08-08T15:31:03.289Z"
+  },
+  {
+   "name": "Texas Sun",
+   "artists": "Khruangbin, Leon Bridges",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ff26bd277274b27f249cc638",
+   "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY",
+   "played_at": "2026-08-08T15:30:24.659Z"
+  },
+  {
+   "name": "Seems Like",
+   "artists": "Thee Sinseers",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9954e8ec997f3aaa1821269",
+   "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F",
+   "played_at": "2026-08-05T12:39:45.028Z"
+  },
+  {
+   "name": "Seems Like",
+   "artists": "Thee Sinseers",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9954e8ec997f3aaa1821269",
+   "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F",
+   "played_at": "2026-08-05T12:39:29.031Z"
+  },
   {
    "name": "Will I See You Again?",
    "artists": "Thee Sacred Souls",
