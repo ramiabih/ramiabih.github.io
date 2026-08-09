@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T06:40:09.869315+00:00",
+ "updated": "2026-08-09T12:32:00.282291+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -53,11 +53,11 @@
      "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
     },
     {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+     "album": "Elgar",
+     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
+     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     },
     {
      "name": "It takes a lot to try",
@@ -74,11 +74,11 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
-     "album": "Elgar",
-     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
-     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
+     "name": "In This World",
+     "artists": "Moby",
+     "album": "18 & 18 B-Sides",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731fefc78cc3add698ee8a34ae",
+     "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -88,46 +88,25 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+     "name": "Pink + White",
+     "artists": "Frank Ocean",
+     "album": "Blonde",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+     "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
-     "name": "Nasini El Donya",
-     "artists": "Ragheb Alama",
-     "album": "El Hob El Kebir",
-     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
-    },
-    {
-     "name": "Hekm El Alb",
-     "artists": "Wael Kfoury",
-     "album": "Hekm El Alb",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
-    },
-    {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
      "name": "I Think I Like When It Rains",
@@ -142,6 +121,27 @@
      "album": "La bohème",
      "image": "https://i.scdn.co/image/ab67616d0000b273d2ad600632db1bf5947cd890",
      "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj"
+    },
+    {
+     "name": "ALL THE LOVE (feat. Andre Troutman)",
+     "artists": "Kanye West, Ye, Andre Troutman",
+     "album": "BULLY",
+     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+     "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+    },
+    {
+     "name": "We Daret El Ayam",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/4j5Cs82gXPmV6pQNNKevIm"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     }
    ],
    "artists": [
@@ -152,17 +152,34 @@
      "genres": []
     },
     {
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "genres": [
+      "rap"
+     ]
+    },
+    {
      "name": "Ziad Rahbani",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": []
     },
     {
-     "name": "Kanye West",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "name": "Louis Brigham",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
+     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
      "genres": [
-      "rap"
+      "adult standards"
+     ]
+    },
+    {
+     "name": "Kendrick Lamar",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+     "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+     "genres": [
+      "hip hop",
+      "west coast hip hop"
      ]
     },
     {
@@ -175,11 +192,13 @@
      ]
     },
     {
-     "name": "Louis Brigham",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
-     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
+     "name": "Charles Aznavour",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb9df3ab10872287c871c7a1be",
+     "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT",
      "genres": [
-      "adult standards"
+      "chanson",
+      "variété française",
+      "french jazz"
      ]
     },
     {
@@ -188,16 +207,6 @@
      "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
      "genres": [
       "egyptian pop"
-     ]
-    },
-    {
-     "name": "Charles Aznavour",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb9df3ab10872287c871c7a1be",
-     "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT",
-     "genres": [
-      "chanson",
-      "variété française",
-      "french jazz"
      ]
     },
     {
@@ -217,14 +226,6 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
      "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
      "genres": []
-    },
-    {
-     "name": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
-     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "retro soul"
-     ]
     }
    ]
   },
@@ -838,6 +839,104 @@
  },
  "recent": [
   {
+   "name": "Behind Barz - Bonus",
+   "artists": "Drake",
+   "image": "https://i.scdn.co/image/ab67616d0000b273be955a885d12b9e3ad44d122",
+   "url": "https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p",
+   "played_at": "2026-08-09T10:25:59.451Z"
+  },
+  {
+   "name": "Dirt And Grime",
+   "artists": "Father's Children",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
+   "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1",
+   "played_at": "2026-08-09T10:18:14.873Z"
+  },
+  {
+   "name": "Bitch, Don’t Kill My Vibe",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+   "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9",
+   "played_at": "2026-08-09T10:13:40.371Z"
+  },
+  {
+   "name": "PRIDE.",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+   "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg",
+   "played_at": "2026-08-09T10:06:43.089Z"
+  },
+  {
+   "name": "YAH.",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+   "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni",
+   "played_at": "2026-08-09T10:02:09.786Z"
+  },
+  {
+   "name": "Heartless",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+   "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
+   "played_at": "2026-08-09T09:59:31.489Z"
+  },
+  {
+   "name": "Devil In A New Dress",
+   "artists": "Kanye West, Rick Ross",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
+   "played_at": "2026-08-09T09:55:32.917Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-08-09T09:49:43.070Z"
+  },
+  {
+   "name": "Everything I Am",
+   "artists": "Kanye West, DJ Premier",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr",
+   "played_at": "2026-08-09T09:39:54.954Z"
+  },
+  {
+   "name": "I Wonder",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+   "played_at": "2026-08-09T09:36:09.095Z"
+  },
+  {
+   "name": "I Wonder",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+   "played_at": "2026-08-09T09:32:03.536Z"
+  },
+  {
+   "name": "Flashing Lights",
+   "artists": "Kanye West, Dwele",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+   "played_at": "2026-08-09T09:32:03.531Z"
+  },
+  {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-08-09T09:22:17.348Z"
+  },
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-08-09T08:03:06.546Z"
+  },
+  {
    "name": "Takassim 'Banat Iskandariya'",
    "artists": "Oriental Lebanese Band",
    "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
@@ -955,27 +1054,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2737f77f43e5dc9025862dc913b",
    "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ",
    "played_at": "2026-08-02T18:54:32.324Z"
-  },
-  {
-   "name": "Ya Tair",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
-   "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD",
-   "played_at": "2026-08-02T10:02:45.127Z"
-  },
-  {
-   "name": "Kifak Inta",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy",
-   "played_at": "2026-08-02T09:56:15.979Z"
-  },
-  {
-   "name": "Sugar",
-   "artists": "Dafs",
-   "image": "https://i.scdn.co/image/ab67616d0000b27324387c8cef33c387007ff1eb",
-   "url": "https://open.spotify.com/track/6EAKZOdXVffeCjp4uWH02J",
-   "played_at": "2026-08-02T09:52:43.290Z"
   }
  ]
 }
