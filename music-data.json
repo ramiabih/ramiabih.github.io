@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T18:24:23.162160+00:00",
+ "updated": "2026-08-09T01:03:19.328142+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -252,13 +252,6 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
@@ -278,6 +271,13 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Creep",
@@ -301,18 +301,11 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Konna Netlaka",
-     "artists": "Fairuz",
-     "album": "Konna Netlaka",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
-    },
-    {
-     "name": "Kiss of Life",
-     "artists": "Sade",
-     "album": "The Best of Sade",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Tamally Maak",
@@ -322,18 +315,18 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+     "name": "Konna Netlaka",
+     "artists": "Fairuz",
+     "album": "Konna Netlaka",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+     "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
     },
     {
-     "name": "W'Kameh",
-     "artists": "Fairuz",
-     "album": "Mish Kayan Hayek T'Koun",
-     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
+     "name": "Alf Leila We Leila",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
+     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
     },
     {
      "name": "Bent El Chalabiya",
@@ -350,18 +343,25 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+     "name": "W'Kameh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
-     "name": "Hekm El Alb",
-     "artists": "Wael Kfoury",
-     "album": "Hekm El Alb",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+     "name": "Ana Le Habiby",
+     "artists": "Fairuz",
+     "album": "Ya Reit",
+     "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+     "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
+    },
+    {
+     "name": "Fayek Alaya",
+     "artists": "Fairuz",
+     "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
+     "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
+     "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -373,15 +373,15 @@
    ],
    "artists": [
     {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
-    {
      "name": "Ziad Rahbani",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
+    },
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
      "genres": []
     },
     {
@@ -425,20 +425,6 @@
      ]
     },
     {
-     "name": "Khruangbin",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
-     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": [
-      "neo-psychedelic"
-     ]
-    },
-    {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -454,19 +440,17 @@
      "genres": []
     },
     {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
+    },
+    {
      "name": "Umm Kulthum",
      "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
      "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
      "genres": [
       "egyptian pop"
-     ]
-    },
-    {
-     "name": "Louis Brigham",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
-     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
      ]
     },
     {
@@ -485,6 +469,14 @@
      "genres": [
       "score",
       "soundtrack"
+     ]
+    },
+    {
+     "name": "Louis Brigham",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
+     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
+     "genres": [
+      "adult standards"
      ]
     },
     {
@@ -529,6 +521,12 @@
      "genres": [
       "soundtrack"
      ]
+    },
+    {
+     "name": "Marc Streitenfeld",
+     "image": "https://i.scdn.co/image/113de9cd0ec7b0b31c09356d333f3edb9dd894fc",
+     "url": "https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM",
+     "genres": []
     }
    ]
   },
