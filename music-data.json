@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T12:32:00.282291+00:00",
+ "updated": "2026-08-09T18:26:55.823447+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -102,6 +102,13 @@
      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
+     "name": "Swimming Pools (Drank)",
+     "artists": "Kendrick Lamar",
+     "album": "Swimming Pools (Drank)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
+     "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
+    },
+    {
      "name": "The Glory",
      "artists": "Kanye West",
      "album": "Graduation",
@@ -123,25 +130,18 @@
      "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj"
     },
     {
+     "name": "Dirt And Grime",
+     "artists": "Father's Children",
+     "album": "Who's Gonna Save The World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
+     "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1"
+    },
+    {
      "name": "ALL THE LOVE (feat. Andre Troutman)",
      "artists": "Kanye West, Ye, Andre Troutman",
      "album": "BULLY",
      "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
-    },
-    {
-     "name": "We Daret El Ayam",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/4j5Cs82gXPmV6pQNNKevIm"
-    },
-    {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     }
    ],
    "artists": [
@@ -418,20 +418,20 @@
      ]
     },
     {
-     "name": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
-     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "retro soul"
-     ]
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
      "genres": [
       "hip hop",
       "west coast hip hop"
+     ]
+    },
+    {
+     "name": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
+     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+     "genres": [
+      "retro soul"
      ]
     },
     {
@@ -611,18 +611,18 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Thee Sacred Souls",
-     "album": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
-    },
-    {
      "name": "White Dress",
      "artists": "Kanye West",
      "album": "The Man with the Iron Fists (Original Motion Picture Soundtrack)",
      "image": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
      "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Thee Sacred Souls",
+     "album": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
      "name": "Aloula",
@@ -719,12 +719,6 @@
      "genres": []
     },
     {
-     "name": "Mac Miller",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -732,6 +726,12 @@
       "hip hop",
       "west coast hip hop"
      ]
+    },
+    {
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
+     "genres": []
     },
     {
      "name": "Mac DeMarco",
@@ -838,6 +838,34 @@
   }
  },
  "recent": [
+  {
+   "name": "Behind Barz - Bonus",
+   "artists": "Drake",
+   "image": "https://i.scdn.co/image/ab67616d0000b273be955a885d12b9e3ad44d122",
+   "url": "https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p",
+   "played_at": "2026-08-09T16:49:41.635Z"
+  },
+  {
+   "name": "Dirt And Grime",
+   "artists": "Father's Children",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
+   "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1",
+   "played_at": "2026-08-09T16:46:57.817Z"
+  },
+  {
+   "name": "Swimming Pools (Drank)",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
+   "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi",
+   "played_at": "2026-08-09T16:43:15.230Z"
+  },
+  {
+   "name": "Ultralight Beam",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+   "url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS",
+   "played_at": "2026-08-09T13:49:21.044Z"
+  },
   {
    "name": "Behind Barz - Bonus",
    "artists": "Drake",
