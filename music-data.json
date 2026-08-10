@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T12:49:08.360872+00:00",
+ "updated": "2026-08-10T18:43:43.554556+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -838,6 +838,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Heartless",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+   "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
+   "played_at": "2026-08-10T18:20:17.504Z"
+  },
   {
    "name": "Behind Barz - Bonus",
    "artists": "Drake",
