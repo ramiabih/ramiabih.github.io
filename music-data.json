@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T18:26:55.823447+00:00",
+ "updated": "2026-08-10T01:05:11.527329+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1075,13 +1075,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
    "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy",
    "played_at": "2026-08-04T17:07:04.456Z"
-  },
-  {
-   "name": "My Mother",
-   "artists": "Marcel Khalife",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737f77f43e5dc9025862dc913b",
-   "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ",
-   "played_at": "2026-08-02T18:54:32.324Z"
   }
  ]
 }
