@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T12:44:07.468351+00:00",
+ "updated": "2026-08-11T18:49:48.432642+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -53,6 +53,13 @@
      "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
     },
     {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+    },
+    {
      "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
      "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
      "album": "Elgar",
@@ -72,6 +79,13 @@
      "album": "Ana Moush Kafer",
      "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+     "name": "Swimming Pools (Drank)",
+     "artists": "Kendrick Lamar",
+     "album": "Swimming Pools (Drank)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
+     "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
     },
     {
      "name": "In This World",
@@ -102,18 +116,11 @@
      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
-     "name": "Swimming Pools (Drank)",
-     "artists": "Kendrick Lamar",
-     "album": "Swimming Pools (Drank)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
-     "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
-    },
-    {
-     "name": "The Glory",
-     "artists": "Kanye West",
+     "name": "Everything I Am",
+     "artists": "Kanye West, DJ Premier",
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+     "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
     },
     {
      "name": "I Think I Like When It Rains",
@@ -123,25 +130,18 @@
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
+     "name": "Devil In A New Dress",
+     "artists": "Kanye West, Rick Ross",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
+    },
+    {
      "name": "La bohème",
      "artists": "Charles Aznavour",
      "album": "La bohème",
      "image": "https://i.scdn.co/image/ab67616d0000b273d2ad600632db1bf5947cd890",
      "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj"
-    },
-    {
-     "name": "Dirt And Grime",
-     "artists": "Father's Children",
-     "album": "Who's Gonna Save The World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
-     "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1"
-    },
-    {
-     "name": "ALL THE LOVE (feat. Andre Troutman)",
-     "artists": "Kanye West, Ye, Andre Troutman",
-     "album": "BULLY",
-     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-     "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     }
    ],
    "artists": [
@@ -166,20 +166,20 @@
      "genres": []
     },
     {
-     "name": "Louis Brigham",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
-     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
-     ]
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
      "genres": [
       "hip hop",
       "west coast hip hop"
+     ]
+    },
+    {
+     "name": "Louis Brigham",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
+     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
+     "genres": [
+      "adult standards"
      ]
     },
     {
@@ -697,6 +697,15 @@
      ]
     },
     {
+     "name": "Kendrick Lamar",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+     "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+     "genres": [
+      "hip hop",
+      "west coast hip hop"
+     ]
+    },
+    {
      "name": "Thee Sacred Souls",
      "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
      "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
@@ -709,15 +718,6 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb77039980a84fb5a790a80e52",
      "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb",
      "genres": []
-    },
-    {
-     "name": "Kendrick Lamar",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
-     "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
-     "genres": [
-      "hip hop",
-      "west coast hip hop"
-     ]
     },
     {
      "name": "Mac Miller",
@@ -735,14 +735,6 @@
      ]
     },
     {
-     "name": "Khruangbin",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
-     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": [
-      "neo-psychedelic"
-     ]
-    },
-    {
      "name": "The Beatles",
      "image": "https://i.scdn.co/image/ab6761610000e5eb119b61b35985e3b957c5ecb7",
      "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
@@ -756,6 +748,14 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb317527e201289a10f1b82828",
      "url": "https://open.spotify.com/artist/1ySVx1trQOpfqKLkBSrHNI",
      "genres": []
+    },
+    {
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "genres": [
+      "neo-psychedelic"
+     ]
     },
     {
      "name": "Thundercat",
@@ -830,6 +830,83 @@
   }
  },
  "recent": [
+  {
+   "name": "Bitch, Don’t Kill My Vibe",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+   "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9",
+   "played_at": "2026-08-11T14:10:18.966Z"
+  },
+  {
+   "name": "Swimming Pools (Drank)",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
+   "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi",
+   "played_at": "2026-08-11T14:05:10.158Z"
+  },
+  {
+   "name": "PRIDE.",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+   "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg",
+   "played_at": "2026-08-11T14:01:04.359Z"
+  },
+  {
+   "name": "YAH.",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+   "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni",
+   "played_at": "2026-08-11T13:56:31.161Z"
+  },
+  {
+   "name": "Heartless",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+   "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
+   "played_at": "2026-08-11T13:53:52.791Z"
+  },
+  {
+   "name": "Devil In A New Dress",
+   "artists": "Kanye West, Rick Ross",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
+   "played_at": "2026-08-11T13:50:23.846Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-08-11T13:44:33.950Z"
+  },
+  {
+   "name": "Everything I Am",
+   "artists": "Kanye West, DJ Premier",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr",
+   "played_at": "2026-08-11T13:35:28.134Z"
+  },
+  {
+   "name": "I Wonder",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+   "played_at": "2026-08-11T13:31:42.271Z"
+  },
+  {
+   "name": "Flashing Lights",
+   "artists": "Kanye West, Dwele",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+   "played_at": "2026-08-11T13:27:40.844Z"
+  },
+  {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-08-11T13:23:45.367Z"
+  },
   {
    "name": "Heartless",
    "artists": "Kanye West",
@@ -1025,55 +1102,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
    "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc",
    "played_at": "2026-08-04T20:29:24.465Z"
-  },
-  {
-   "name": "Why Are There Boundaries",
-   "artists": "FKJ",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
-   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
-   "played_at": "2026-08-04T17:47:35.125Z"
-  },
-  {
-   "name": "Chocolate Hills",
-   "artists": "Khruangbin, Leon Bridges",
-   "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
-   "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
-   "played_at": "2026-08-04T17:44:34.610Z"
-  },
-  {
-   "name": "Kiss of Life",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
-   "played_at": "2026-08-04T17:41:26.077Z"
-  },
-  {
-   "name": "Hell N Back",
-   "artists": "Bakar",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-   "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP",
-   "played_at": "2026-08-04T17:37:16.901Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-08-04T17:33:45.210Z"
-  },
-  {
-   "name": "Bisaraha",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
-   "played_at": "2026-08-04T17:17:57.788Z"
-  },
-  {
-   "name": "Bektoub Ismak Ya Habibi",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
-   "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy",
-   "played_at": "2026-08-04T17:07:04.456Z"
   }
  ]
 }
