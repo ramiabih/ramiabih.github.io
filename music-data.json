@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T18:49:48.432642+00:00",
+ "updated": "2026-08-12T01:11:51.106104+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1067,41 +1067,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273c9954e8ec997f3aaa1821269",
    "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F",
    "played_at": "2026-08-05T12:39:29.031Z"
-  },
-  {
-   "name": "Will I See You Again?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a6523c6cecb43b3c2f44fd1e",
-   "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
-   "played_at": "2026-08-04T20:45:17.548Z"
-  },
-  {
-   "name": "Paradise",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
-   "played_at": "2026-08-04T20:39:23.513Z"
-  },
-  {
-   "name": "I Put A Spell On You",
-   "artists": "Nina Simone",
-   "image": "https://i.scdn.co/image/ab67616d0000b273892abb1ade35b4863b29e051",
-   "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq",
-   "played_at": "2026-08-04T20:35:48.004Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
-   "played_at": "2026-08-04T20:33:15.011Z"
-  },
-  {
-   "name": "Pluto Projector",
-   "artists": "Rex Orange County",
-   "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
-   "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc",
-   "played_at": "2026-08-04T20:29:24.465Z"
   }
  ]
 }
