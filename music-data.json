@@ -1,35 +1,14 @@
 {
- "updated": "2026-08-14T12:44:35.995297+00:00",
+ "updated": "2026-08-14T18:41:40.035841+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
     {
      "name": "Baeed Annak",
      "artists": "Umm Kulthum",
      "album": "Umm Kulthum 2",
      "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
      "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
-    },
-    {
-     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-     "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
-     "album": "Great Cello Concertos",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
-     "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
-    },
-    {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Роза чайная (feat. Маша Распутина)",
@@ -39,18 +18,18 @@
      "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw"
     },
     {
+     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+     "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
+     "album": "Great Cello Concertos",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
+     "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
+    },
+    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani, Joseph Saker",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
-    },
-    {
-     "name": "BEAUTY AND THE BEAST",
-     "artists": "Kanye West, Ye",
-     "album": "BULLY",
-     "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-     "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn"
     },
     {
      "name": "The Glory",
@@ -60,18 +39,11 @@
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
-     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
-     "album": "Elgar",
-     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
-     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
-    },
-    {
-     "name": "It takes a lot to try",
-     "artists": "Aviram",
-     "album": "All My Love's In Vain",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
-     "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5"
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Shou Hal Ayyam - 2008 Remastered",
@@ -95,11 +67,18 @@
      "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+     "name": "Dirt And Grime",
+     "artists": "Father's Children",
+     "album": "Who's Gonna Save The World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
+     "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
      "name": "Tamally Maak",
@@ -116,11 +95,25 @@
      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
      "name": "Everything I Am",
      "artists": "Kanye West, DJ Premier",
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
      "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
+    },
+    {
+     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+     "album": "Elgar",
+     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
+     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     },
     {
      "name": "I Think I Like When It Rains",
@@ -142,15 +135,16 @@
      "album": "La bohème",
      "image": "https://i.scdn.co/image/ab67616d0000b273d2ad600632db1bf5947cd890",
      "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj"
+    },
+    {
+     "name": "Runaway",
+     "artists": "Kanye West, Pusha T",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     }
    ],
    "artists": [
-    {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
     {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
@@ -160,9 +154,9 @@
      ]
     },
     {
-     "name": "Ziad Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
      "genres": []
     },
     {
@@ -175,12 +169,10 @@
      ]
     },
     {
-     "name": "Louis Brigham",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
-     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
-     ]
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
     },
     {
      "name": "Wael Kfoury",
@@ -189,16 +181,6 @@
      "genres": [
       "khaleeji",
       "egyptian pop"
-     ]
-    },
-    {
-     "name": "Charles Aznavour",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb9df3ab10872287c871c7a1be",
-     "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT",
-     "genres": [
-      "chanson",
-      "variété française",
-      "french jazz"
      ]
     },
     {
@@ -830,6 +812,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Dirt And Grime",
+   "artists": "Father's Children",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
+   "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1",
+   "played_at": "2026-08-14T16:27:59.541Z"
+  },
   {
    "name": "Bitch, Don’t Kill My Vibe",
    "artists": "Kendrick Lamar",
