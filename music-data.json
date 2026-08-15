@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T00:44:43.944421+00:00",
+ "updated": "2026-08-15T06:22:35.310758+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -290,6 +290,13 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+    },
+    {
      "name": "Konna Netlaka",
      "artists": "Fairuz",
      "album": "Konna Netlaka",
@@ -302,13 +309,6 @@
      "album": "Umm Kulthum 1",
      "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
      "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
-    },
-    {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
      "name": "Nasini El Donya",
