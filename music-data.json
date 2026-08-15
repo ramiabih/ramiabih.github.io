@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T12:19:55.206142+00:00",
+ "updated": "2026-08-15T18:16:01.567654+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -550,18 +550,18 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
-     "name": "Kiss of Life",
-     "artists": "Sade",
-     "album": "The Best of Sade",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
      "name": "Bent El Chalabiya",
      "artists": "Munir Bachir",
      "album": "Aoud Around the Arab World",
      "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+    },
+    {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
      "name": "Ya Helou",
@@ -1028,20 +1028,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
    "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
    "played_at": "2026-08-09T08:03:06.546Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-08-08T15:31:03.289Z"
-  },
-  {
-   "name": "Texas Sun",
-   "artists": "Khruangbin, Leon Bridges",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ff26bd277274b27f249cc638",
-   "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY",
-   "played_at": "2026-08-08T15:30:24.659Z"
   }
  ]
 }
