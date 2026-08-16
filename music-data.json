@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-16T00:47:54.915187+00:00",
+ "updated": "2026-08-16T06:24:48.125749+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Роза чайная (feat. Маша Распутина)",
-     "artists": "Philipp Kirkorov, Маша Распутина",
-     "album": "Лучшие песни",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733de1d1cba005ccf4341364cf",
-     "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw"
-    },
     {
      "name": "Come Back to Earth",
      "artists": "Mac Miller",
      "album": "Swimming",
      "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
      "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
+    },
+    {
+     "name": "Роза чайная (feat. Маша Распутина)",
+     "artists": "Philipp Kirkorov, Маша Распутина",
+     "album": "Лучшие песни",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733de1d1cba005ccf4341364cf",
+     "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw"
     },
     {
      "name": "The Glory",
@@ -46,11 +46,25 @@
      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
     },
     {
+     "name": "Perfecto",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4"
+    },
+    {
      "name": "Dirt And Grime",
      "artists": "Father's Children",
      "album": "Who's Gonna Save The World",
      "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
      "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1"
+    },
+    {
+     "name": "What's the Use?",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
     },
     {
      "name": "Shou Hal Ayyam - 2008 Remastered",
@@ -72,6 +86,13 @@
      "album": "Blonde",
      "image": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+     "name": "Hurt Feelings",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -121,30 +142,15 @@
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
-    },
-    {
-     "name": "Runaway",
-     "artists": "Kanye West, Pusha T",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
-    },
-    {
-     "name": "YAH.",
-     "artists": "Kendrick Lamar",
-     "album": "DAMN.",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-     "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni"
-    },
-    {
-     "name": "Heartless",
-     "artists": "Kanye West",
-     "album": "808s & Heartbreak",
-     "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
-     "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     }
    ],
    "artists": [
+    {
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
+     "genres": []
+    },
     {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
@@ -167,12 +173,6 @@
       "hip hop",
       "west coast hip hop"
      ]
-    },
-    {
-     "name": "Mac Miller",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
     },
     {
      "name": "Ziad Rahbani",
@@ -301,20 +301,6 @@
      "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
     },
     {
-     "name": "Alf Leila We Leila",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739604a0ff2983ec0d36100c4c",
-     "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
-    },
-    {
-     "name": "Nasini El Donya",
-     "artists": "Ragheb Alama",
-     "album": "El Hob El Kebir",
-     "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-     "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
-    },
-    {
      "name": "W'Kameh",
      "artists": "Fairuz",
      "album": "Mish Kayan Hayek T'Koun",
@@ -341,21 +327,23 @@
      "album": "Hoda Collection, Vol. 4",
      "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     }
    ],
    "artists": [
-    {
-     "name": "Ziad Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
-     "genres": []
-    },
-    {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
     {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
@@ -365,10 +353,31 @@
      ]
     },
     {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
+    {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
+    },
+    {
      "name": "ABBA",
      "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
      "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
      "genres": []
+    },
+    {
+     "name": "Bear McCreary",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7cfb8906597801fcadec3513",
+     "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG",
+     "genres": [
+      "celtic",
+      "soundtrack"
+     ]
     },
     {
      "name": "Wael Kfoury",
@@ -380,13 +389,10 @@
      ]
     },
     {
-     "name": "Bear McCreary",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7cfb8906597801fcadec3513",
-     "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG",
-     "genres": [
-      "celtic",
-      "soundtrack"
-     ]
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
+     "genres": []
     },
     {
      "name": "Kendrick Lamar",
@@ -493,12 +499,6 @@
      "genres": [
       "soundtrack"
      ]
-    },
-    {
-     "name": "Marc Streitenfeld",
-     "image": "https://i.scdn.co/image/113de9cd0ec7b0b31c09356d333f3edb9dd894fc",
-     "url": "https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM",
-     "genres": []
     }
    ]
   },
@@ -810,6 +810,69 @@
  },
  "recent": [
   {
+   "name": "Perfecto",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4",
+   "played_at": "2026-08-16T01:25:38.825Z"
+  },
+  {
+   "name": "What's the Use?",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs",
+   "played_at": "2026-08-16T01:22:03.422Z"
+  },
+  {
+   "name": "Hurt Feelings",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8",
+   "played_at": "2026-08-16T01:17:14.736Z"
+  },
+  {
+   "name": "Come Back to Earth",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR",
+   "played_at": "2026-08-16T01:13:09.132Z"
+  },
+  {
+   "name": "So It Goes",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/0EA2RhRHL4KWeNa7JfD1Yw",
+   "played_at": "2026-08-16T01:10:29.261Z"
+  },
+  {
+   "name": "2009",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/6dFn6my1sHK2bcf23GlHwM",
+   "played_at": "2026-08-16T01:05:16.354Z"
+  },
+  {
+   "name": "Jet Fuel",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG",
+   "played_at": "2026-08-16T00:59:09.117Z"
+  },
+  {
+   "name": "Dunno",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/3YnwIp2b99p3e5dsFTXIIx",
+   "played_at": "2026-08-16T00:53:23.917Z"
+  },
+  {
+   "name": "Conversation Pt. 1",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/1oFEAWvPHP5TdSlmIs77sV",
+   "played_at": "2026-08-16T00:49:26.820Z"
+  },
+  {
    "name": "Small Worlds",
    "artists": "Mac Miller",
    "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
@@ -1095,20 +1158,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
    "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
    "played_at": "2026-08-09T09:32:03.531Z"
-  },
-  {
-   "name": "The Glory",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
-   "played_at": "2026-08-09T09:22:17.348Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-08-09T08:03:06.546Z"
   }
  ]
 }
