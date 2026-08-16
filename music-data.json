@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T12:21:18.716717+00:00",
+ "updated": "2026-08-16T18:16:08.802155+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -23,13 +23,6 @@
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
-     "name": "Baeed Annak",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
-     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
     },
     {
      "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
@@ -86,6 +79,13 @@
      "album": "Blonde",
      "image": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+     "name": "Self Care",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
     },
     {
      "name": "Hurt Feelings",
@@ -160,12 +160,6 @@
      ]
     },
     {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -173,6 +167,12 @@
       "hip hop",
       "west coast hip hop"
      ]
+    },
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
     },
     {
      "name": "Ziad Rahbani",
@@ -190,12 +190,6 @@
      "name": "Valery Meladze",
      "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
      "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
-     "genres": []
-    },
-    {
-     "name": "Lana Del Rey",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-     "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
      "genres": []
     }
    ]
@@ -589,13 +583,6 @@
      "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Thee Sacred Souls",
-     "album": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
-    },
-    {
      "name": "Aloula",
      "artists": "Fairuz",
      "album": "Fairuz - Modern Favorites",
@@ -615,6 +602,13 @@
      "album": "The College Dropout",
      "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
      "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Thee Sacred Souls",
+     "album": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
      "name": "The Middle East... W Ameh - Live",
@@ -676,6 +670,12 @@
      ]
     },
     {
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
+     "genres": []
+    },
+    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -696,12 +696,6 @@
      "name": "Hotel Ugly",
      "image": "https://i.scdn.co/image/ab6761610000e5eb77039980a84fb5a790a80e52",
      "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb",
-     "genres": []
-    },
-    {
-     "name": "Mac Miller",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
      "genres": []
     },
     {
@@ -809,6 +803,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Self Care",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
+   "played_at": "2026-08-16T14:01:51.393Z"
+  },
   {
    "name": "Perfecto",
    "artists": "Mac Miller",
@@ -1046,34 +1047,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
    "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
    "played_at": "2026-08-10T18:20:17.504Z"
-  },
-  {
-   "name": "Behind Barz - Bonus",
-   "artists": "Drake",
-   "image": "https://i.scdn.co/image/ab67616d0000b273be955a885d12b9e3ad44d122",
-   "url": "https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p",
-   "played_at": "2026-08-09T16:49:41.635Z"
-  },
-  {
-   "name": "Dirt And Grime",
-   "artists": "Father's Children",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
-   "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1",
-   "played_at": "2026-08-09T16:46:57.817Z"
-  },
-  {
-   "name": "Swimming Pools (Drank)",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
-   "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi",
-   "played_at": "2026-08-09T16:43:15.230Z"
-  },
-  {
-   "name": "Ultralight Beam",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-   "url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS",
-   "played_at": "2026-08-09T13:49:21.044Z"
   }
  ]
 }
