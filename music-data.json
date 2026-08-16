@@ -1,15 +1,8 @@
 {
- "updated": "2026-08-15T18:16:01.567654+00:00",
+ "updated": "2026-08-16T00:47:54.915187+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Baeed Annak",
-     "artists": "Umm Kulthum",
-     "album": "Umm Kulthum 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
-     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
-    },
     {
      "name": "Роза чайная (feat. Маша Распутина)",
      "artists": "Philipp Kirkorov, Маша Распутина",
@@ -18,18 +11,11 @@
      "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw"
     },
     {
-     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-     "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
-     "album": "Great Cello Concertos",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
-     "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
-    },
-    {
-     "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani, Joseph Saker",
-     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+     "name": "Come Back to Earth",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
     },
     {
      "name": "The Glory",
@@ -39,18 +25,18 @@
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
+     "name": "Baeed Annak",
+     "artists": "Umm Kulthum",
+     "album": "Umm Kulthum 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738d39ec4f326cfb1e55044b90",
+     "url": "https://open.spotify.com/track/0RwZNSSOFzj5MFLvva3vNB"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+     "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
+     "album": "Great Cello Concertos",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
+     "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
     },
     {
      "name": "Swimming Pools (Drank)",
@@ -60,13 +46,6 @@
      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
     },
     {
-     "name": "In This World",
-     "artists": "Moby",
-     "album": "18 & 18 B-Sides",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731fefc78cc3add698ee8a34ae",
-     "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH"
-    },
-    {
      "name": "Dirt And Grime",
      "artists": "Father's Children",
      "album": "Who's Gonna Save The World",
@@ -74,18 +53,18 @@
      "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
      "name": "Pink + White",
@@ -109,13 +88,6 @@
      "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
     },
     {
-     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
-     "album": "Elgar",
-     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
-     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
-    },
-    {
      "name": "I Think I Like When It Rains",
      "artists": "WILLIS",
      "album": "Locals 2",
@@ -137,11 +109,39 @@
      "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj"
     },
     {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani, Joseph Saker",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+    },
+    {
      "name": "Runaway",
      "artists": "Kanye West, Pusha T",
      "album": "My Beautiful Dark Twisted Fantasy",
      "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
+     "name": "YAH.",
+     "artists": "Kendrick Lamar",
+     "album": "DAMN.",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+     "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni"
+    },
+    {
+     "name": "Heartless",
+     "artists": "Kanye West",
+     "album": "808s & Heartbreak",
+     "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+     "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     }
    ],
    "artists": [
@@ -169,19 +169,16 @@
      ]
     },
     {
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
+     "genres": []
+    },
+    {
      "name": "Ziad Rahbani",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": []
-    },
-    {
-     "name": "Wael Kfoury",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
-     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
-     "genres": [
-      "khaleeji",
-      "egyptian pop"
-     ]
     },
     {
      "name": "Philipp Kirkorov",
@@ -190,15 +187,15 @@
      "genres": []
     },
     {
-     "name": "Lana Del Rey",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-     "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
-     "genres": []
-    },
-    {
      "name": "Valery Meladze",
      "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
      "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
+     "genres": []
+    },
+    {
+     "name": "Lana Del Rey",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+     "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
      "genres": []
     }
    ]
@@ -812,6 +809,90 @@
   }
  },
  "recent": [
+  {
+   "name": "Small Worlds",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2",
+   "played_at": "2026-08-16T00:45:56.625Z"
+  },
+  {
+   "name": "Ladders",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI",
+   "played_at": "2026-08-16T00:41:24.801Z"
+  },
+  {
+   "name": "Wings",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo",
+   "played_at": "2026-08-16T00:36:37.816Z"
+  },
+  {
+   "name": "Self Care",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
+   "played_at": "2026-08-16T00:32:27.710Z"
+  },
+  {
+   "name": "Perfecto",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4",
+   "played_at": "2026-08-16T00:26:42.554Z"
+  },
+  {
+   "name": "What's the Use?",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs",
+   "played_at": "2026-08-16T00:23:07.198Z"
+  },
+  {
+   "name": "Hurt Feelings",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8",
+   "played_at": "2026-08-15T19:09:59.170Z"
+  },
+  {
+   "name": "Come Back to Earth",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR",
+   "played_at": "2026-08-15T19:05:53.668Z"
+  },
+  {
+   "name": "Perfecto",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4",
+   "played_at": "2026-08-15T18:56:42.461Z"
+  },
+  {
+   "name": "What's the Use?",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs",
+   "played_at": "2026-08-15T18:41:34.117Z"
+  },
+  {
+   "name": "Come Back to Earth",
+   "artists": "Mac Miller",
+   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+   "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR",
+   "played_at": "2026-08-15T18:35:27.275Z"
+  },
+  {
+   "name": "Law Hobna Ghalta",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+   "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
+   "played_at": "2026-08-15T18:32:24.314Z"
+  },
   {
    "name": "Dirt And Grime",
    "artists": "Father's Children",
