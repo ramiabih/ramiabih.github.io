@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T12:25:54.938954+00:00",
+ "updated": "2026-08-17T18:25:53.018444+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1038,13 +1038,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
    "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
    "played_at": "2026-08-11T13:23:45.367Z"
-  },
-  {
-   "name": "Heartless",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
-   "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
-   "played_at": "2026-08-10T18:20:17.504Z"
   }
  ]
 }
