@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T12:27:38.687080+00:00",
+ "updated": "2026-08-18T18:24:26.636269+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -963,83 +963,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
    "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1",
    "played_at": "2026-08-14T16:27:59.541Z"
-  },
-  {
-   "name": "Bitch, Don’t Kill My Vibe",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
-   "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9",
-   "played_at": "2026-08-11T14:10:18.966Z"
-  },
-  {
-   "name": "Swimming Pools (Drank)",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
-   "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi",
-   "played_at": "2026-08-11T14:05:10.158Z"
-  },
-  {
-   "name": "PRIDE.",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-   "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg",
-   "played_at": "2026-08-11T14:01:04.359Z"
-  },
-  {
-   "name": "YAH.",
-   "artists": "Kendrick Lamar",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-   "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni",
-   "played_at": "2026-08-11T13:56:31.161Z"
-  },
-  {
-   "name": "Heartless",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
-   "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
-   "played_at": "2026-08-11T13:53:52.791Z"
-  },
-  {
-   "name": "Devil In A New Dress",
-   "artists": "Kanye West, Rick Ross",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
-   "played_at": "2026-08-11T13:50:23.846Z"
-  },
-  {
-   "name": "Runaway",
-   "artists": "Kanye West, Pusha T",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
-   "played_at": "2026-08-11T13:44:33.950Z"
-  },
-  {
-   "name": "Everything I Am",
-   "artists": "Kanye West, DJ Premier",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr",
-   "played_at": "2026-08-11T13:35:28.134Z"
-  },
-  {
-   "name": "I Wonder",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
-   "played_at": "2026-08-11T13:31:42.271Z"
-  },
-  {
-   "name": "Flashing Lights",
-   "artists": "Kanye West, Dwele",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
-   "played_at": "2026-08-11T13:27:40.844Z"
-  },
-  {
-   "name": "The Glory",
-   "artists": "Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
-   "played_at": "2026-08-11T13:23:45.367Z"
   }
  ]
 }
