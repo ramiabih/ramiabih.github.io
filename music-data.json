@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T12:28:56.939156+00:00",
+ "updated": "2026-08-21T18:24:05.008548+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -954,13 +954,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
    "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
    "played_at": "2026-08-15T18:32:24.314Z"
-  },
-  {
-   "name": "Dirt And Grime",
-   "artists": "Father's Children",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
-   "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1",
-   "played_at": "2026-08-14T16:27:59.541Z"
   }
  ]
 }
