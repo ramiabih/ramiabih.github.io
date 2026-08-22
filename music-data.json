@@ -1,8 +1,15 @@
 {
- "updated": "2026-08-22T12:21:13.161087+00:00",
+ "updated": "2026-08-22T18:16:44.816691+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
+    {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
     {
      "name": "Come Back to Earth",
      "artists": "Mac Miller",
@@ -135,13 +142,6 @@
      "album": "good kid, m.A.A.d city",
      "image": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
      "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
-    },
-    {
-     "name": "Flashing Lights",
-     "artists": "Kanye West, Dwele",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     }
    ],
    "artists": [
@@ -795,6 +795,41 @@
   }
  },
  "recent": [
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-08-22T12:58:05.207Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-08-22T12:54:59.597Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-08-22T12:51:49.393Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-08-22T12:48:28.127Z"
+  },
+  {
+   "name": "Inevitable Ending - Original",
+   "artists": "Armen Miran, Hraach",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c7e764158802946bfeca3246",
+   "url": "https://open.spotify.com/track/6uWvMsU36wN3yQNpeN9jit",
+   "played_at": "2026-08-22T12:47:30.427Z"
+  },
   {
    "name": "Younan",
    "artists": "Alì Farahani",
