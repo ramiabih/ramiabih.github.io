@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T18:24:05.008548+00:00",
+ "updated": "2026-08-22T00:44:08.425996+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -25,11 +25,11 @@
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
-     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-     "artists": "Edward Elgar, Yo-Yo Ma, André Previn, London Symphony Orchestra",
-     "album": "Great Cello Concertos",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738a8fd6ab6ed404f7071293c3",
-     "url": "https://open.spotify.com/track/0Vpg615AyfTEg6eFbZ7WLg"
+     "name": "Ankara",
+     "artists": "Birds of Mind",
+     "album": "Ankara",
+     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
      "name": "Swimming Pools (Drank)",
@@ -60,20 +60,6 @@
      "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
      "name": "Pink + White",
      "artists": "Frank Ocean",
      "album": "Blonde",
@@ -93,13 +79,6 @@
      "album": "Swimming",
      "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
      "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
-    },
-    {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "Everything I Am",
@@ -130,18 +109,39 @@
      "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+     "name": "Runaway",
+     "artists": "Kanye West, Pusha T",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
-     "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani, Joseph Saker",
-     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+     "name": "YAH.",
+     "artists": "Kendrick Lamar",
+     "album": "DAMN.",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+     "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni"
+    },
+    {
+     "name": "Heartless",
+     "artists": "Kanye West",
+     "album": "808s & Heartbreak",
+     "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+     "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+     "name": "Bitch, Don’t Kill My Vibe",
+     "artists": "Kendrick Lamar",
+     "album": "good kid, m.A.A.d city",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
+     "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
+    },
+    {
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     }
    ],
    "artists": [
@@ -172,12 +172,6 @@
      "name": "Fairuz",
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
      "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
-    {
-     "name": "Ziad Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": []
     },
     {
@@ -801,6 +795,34 @@
   }
  },
  "recent": [
+  {
+   "name": "Younan",
+   "artists": "Alì Farahani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27320ae7c69c43a3cb3f373549c",
+   "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx",
+   "played_at": "2026-08-21T22:46:43.304Z"
+  },
+  {
+   "name": "Dle Yaman (116 Deep Mix)",
+   "artists": "Hraach",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
+   "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt",
+   "played_at": "2026-08-21T22:39:46.908Z"
+  },
+  {
+   "name": "Kataltoni - Zone+ & Usif Remix",
+   "artists": "Laroz, Zone+, Usif",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734f428a8874ed2ae00beca602",
+   "url": "https://open.spotify.com/track/5QpqZWHn2kRiELVupBhBGu",
+   "played_at": "2026-08-21T22:32:20.686Z"
+  },
+  {
+   "name": "Ankara",
+   "artists": "Birds of Mind",
+   "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+   "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC",
+   "played_at": "2026-08-21T22:24:53.674Z"
+  },
   {
    "name": "Self Care",
    "artists": "Mac Miller",
