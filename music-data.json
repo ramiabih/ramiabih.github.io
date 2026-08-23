@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T18:16:44.816691+00:00",
+ "updated": "2026-08-23T00:48:48.859374+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -240,6 +240,13 @@
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
      "name": "Creep",
      "artists": "Louis Brigham",
      "album": "Now and Before",
@@ -322,13 +329,6 @@
      "album": "Houdou Nisbi",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     }
    ],
    "artists": [
@@ -533,6 +533,13 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
      "name": "Bent El Chalabiya",
      "artists": "Munir Bachir",
      "album": "Aoud Around the Arab World",
@@ -545,13 +552,6 @@
      "album": "The Best of Sade",
      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
-     "name": "Ya Helou",
-     "artists": "Adam",
-     "album": "Ya Helou",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
      "name": "I Think I Like When It Rains",
@@ -624,11 +624,11 @@
      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
     },
     {
-     "name": "Creep - Acoustic",
-     "artists": "Radiohead",
-     "album": "Creep EP",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647",
-     "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
+     "name": "Ankara",
+     "artists": "Birds of Mind",
+     "album": "Ankara",
+     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     }
    ],
    "artists": [
@@ -786,15 +786,41 @@
      ]
     },
     {
-     "name": "Daniel Caesar",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
-     "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA",
-     "genres": []
+     "name": "Hraach",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
+     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
+     "genres": [
+      "organic house",
+      "tribal house",
+      "downtempo",
+      "deep house"
+     ]
     }
    ]
   }
  },
  "recent": [
+  {
+   "name": "Ya rabaâ",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
+   "url": "https://open.spotify.com/track/5TOwHyD3uQWEeBh5b0cEzx",
+   "played_at": "2026-08-23T00:22:17.189Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-08-23T00:14:24.458Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-08-22T13:03:47.797Z"
+  },
   {
    "name": "Ya Helou",
    "artists": "Adam",
@@ -927,90 +953,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
    "url": "https://open.spotify.com/track/1oFEAWvPHP5TdSlmIs77sV",
    "played_at": "2026-08-16T00:49:26.820Z"
-  },
-  {
-   "name": "Small Worlds",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2",
-   "played_at": "2026-08-16T00:45:56.625Z"
-  },
-  {
-   "name": "Ladders",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI",
-   "played_at": "2026-08-16T00:41:24.801Z"
-  },
-  {
-   "name": "Wings",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo",
-   "played_at": "2026-08-16T00:36:37.816Z"
-  },
-  {
-   "name": "Self Care",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
-   "played_at": "2026-08-16T00:32:27.710Z"
-  },
-  {
-   "name": "Perfecto",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4",
-   "played_at": "2026-08-16T00:26:42.554Z"
-  },
-  {
-   "name": "What's the Use?",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs",
-   "played_at": "2026-08-16T00:23:07.198Z"
-  },
-  {
-   "name": "Hurt Feelings",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8",
-   "played_at": "2026-08-15T19:09:59.170Z"
-  },
-  {
-   "name": "Come Back to Earth",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR",
-   "played_at": "2026-08-15T19:05:53.668Z"
-  },
-  {
-   "name": "Perfecto",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4",
-   "played_at": "2026-08-15T18:56:42.461Z"
-  },
-  {
-   "name": "What's the Use?",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs",
-   "played_at": "2026-08-15T18:41:34.117Z"
-  },
-  {
-   "name": "Come Back to Earth",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR",
-   "played_at": "2026-08-15T18:35:27.275Z"
-  },
-  {
-   "name": "Law Hobna Ghalta",
-   "artists": "Wael Kfoury",
-   "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-   "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
-   "played_at": "2026-08-15T18:32:24.314Z"
   }
  ]
 }
