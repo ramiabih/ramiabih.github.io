@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T12:22:04.195452+00:00",
+ "updated": "2026-08-23T18:17:08.215336+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -801,6 +801,20 @@
  },
  "recent": [
   {
+   "name": "Rain (feat. Max Milner) - Live from London Alexandra Palace",
+   "artists": "Ben Böhmer",
+   "image": "https://i.scdn.co/image/ab6742d3000053b773e1bc1d3153e2870338e879",
+   "url": "https://open.spotify.com/track/6u18aMKCw88aRSRzhRd7X8",
+   "played_at": "2026-08-23T17:24:25.551Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-08-23T17:22:34.751Z"
+  },
+  {
    "name": "Ya rabaâ",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
@@ -883,13 +897,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
    "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC",
    "played_at": "2026-08-21T22:24:53.674Z"
-  },
-  {
-   "name": "Self Care",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
-   "played_at": "2026-08-16T14:01:51.393Z"
   }
  ]
 }
