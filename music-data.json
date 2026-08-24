@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T18:17:08.215336+00:00",
+ "updated": "2026-08-24T00:46:50.370316+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,13 +16,6 @@
      "album": "Swimming",
      "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
      "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
-    },
-    {
-     "name": "Роза чайная (feat. Маша Распутина)",
-     "artists": "Philipp Kirkorov, Маша Распутина",
-     "album": "Лучшие песни",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733de1d1cba005ccf4341364cf",
-     "url": "https://open.spotify.com/track/2VaXpoBYLLBHwhgo7MrzFw"
     },
     {
      "name": "The Glory",
@@ -93,6 +86,13 @@
      "album": "Swimming",
      "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
      "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
+    },
+    {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
      "name": "Everything I Am",
@@ -173,18 +173,6 @@
       "hip hop",
       "west coast hip hop"
      ]
-    },
-    {
-     "name": "Philipp Kirkorov",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebc51f3d7c45816566904f7fe9",
-     "url": "https://open.spotify.com/artist/3ANNnVJ7NCdIZV6P2YzvlI",
-     "genres": []
-    },
-    {
-     "name": "Valery Meladze",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
-     "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
-     "genres": []
     }
    ]
   },
@@ -540,18 +528,18 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
-    },
-    {
      "name": "Kiss of Life",
      "artists": "Sade",
      "album": "The Best of Sade",
      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+     "name": "Bent El Chalabiya",
+     "artists": "Munir Bachir",
+     "album": "Aoud Around the Arab World",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
+     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
      "name": "I Think I Like When It Rains",
@@ -596,13 +584,6 @@
      "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Thee Sacred Souls",
-     "album": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
-    },
-    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
@@ -629,6 +610,13 @@
      "album": "Ankara",
      "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
+    },
+    {
+     "name": "Creep - Acoustic",
+     "artists": "Radiohead",
+     "album": "Creep EP",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647",
+     "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
     }
    ],
    "artists": [
