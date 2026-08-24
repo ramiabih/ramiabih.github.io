@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T12:30:14.391807+00:00",
+ "updated": "2026-08-24T18:27:05.790302+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -788,6 +788,34 @@
   }
  },
  "recent": [
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
+   "played_at": "2026-08-24T18:10:50.529Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-08-24T18:03:19.341Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-08-24T17:59:45.657Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
+   "played_at": "2026-08-24T17:58:51.352Z"
+  },
   {
    "name": "Rain (feat. Max Milner) - Live from London Alexandra Palace",
    "artists": "Ben Böhmer",
