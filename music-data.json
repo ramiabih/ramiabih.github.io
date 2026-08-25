@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T18:27:05.790302+00:00",
+ "updated": "2026-08-25T00:46:01.068662+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,6 +16,13 @@
      "album": "Swimming",
      "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
      "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
      "name": "The Glory",
@@ -95,6 +102,13 @@
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
+     "name": "Can I Call You Rose?",
+     "artists": "Thee Sacred Souls",
+     "album": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
      "name": "Everything I Am",
      "artists": "Kanye West, DJ Premier",
      "album": "Graduation",
@@ -116,13 +130,6 @@
      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
-     "name": "La bohème",
-     "artists": "Charles Aznavour",
-     "album": "La bohème",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d2ad600632db1bf5947cd890",
-     "url": "https://open.spotify.com/track/1WvvmEowf7hiz5EnyAwtTj"
-    },
-    {
      "name": "Runaway",
      "artists": "Kanye West, Pusha T",
      "album": "My Beautiful Dark Twisted Fantasy",
@@ -135,13 +142,6 @@
      "album": "DAMN.",
      "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
      "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni"
-    },
-    {
-     "name": "Heartless",
-     "artists": "Kanye West",
-     "album": "808s & Heartbreak",
-     "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
-     "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     }
    ],
    "artists": [
