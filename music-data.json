@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T12:34:09.498161+00:00",
+ "updated": "2026-08-26T19:38:46.067123+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -786,6 +786,55 @@
   }
  },
  "recent": [
+  {
+   "name": "stupid song",
+   "artists": "Olivia Rodrigo",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+   "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+   "played_at": "2026-08-26T19:36:42.502Z"
+  },
+  {
+   "name": "Why Are There Boundaries",
+   "artists": "FKJ",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
+   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
+   "played_at": "2026-08-26T19:30:39.719Z"
+  },
+  {
+   "name": "Chocolate Hills",
+   "artists": "Khruangbin, Leon Bridges",
+   "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
+   "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
+   "played_at": "2026-08-26T19:27:39.312Z"
+  },
+  {
+   "name": "Kiss of Life",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
+   "played_at": "2026-08-26T19:24:30.917Z"
+  },
+  {
+   "name": "Hell N Back",
+   "artists": "Bakar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+   "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP",
+   "played_at": "2026-08-26T19:20:21.504Z"
+  },
+  {
+   "name": "I Think I Like When It Rains",
+   "artists": "WILLIS",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
+   "played_at": "2026-08-26T19:16:49.997Z"
+  },
+  {
+   "name": "The Man Who Sold the World - 2015 Remaster",
+   "artists": "David Bowie",
+   "image": "https://i.scdn.co/image/ab67616d0000b27346926e777bd6665f03128d29",
+   "url": "https://open.spotify.com/track/4mWahKerLaVddUjb8d1Q4Q",
+   "played_at": "2026-08-26T19:11:32.645Z"
+  },
   {
    "name": "That's Life",
    "artists": "Frank Sinatra",
