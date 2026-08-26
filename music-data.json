@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T06:33:09.185374+00:00",
+ "updated": "2026-08-26T12:34:09.498161+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -130,18 +130,18 @@
      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
+     "name": "Space Oddity - 2015 Remaster",
+     "artists": "David Bowie",
+     "album": "David Bowie (aka Space Oddity) [2015 Remaster]",
+     "image": "https://i.scdn.co/image/ab67616d0000b27305b5cc1872911eafc2bf996c",
+     "url": "https://open.spotify.com/track/2pO2TwmcAHh0xF8WTqMvIV"
+    },
+    {
      "name": "Runaway",
      "artists": "Kanye West, Pusha T",
      "album": "My Beautiful Dark Twisted Fantasy",
      "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
-    },
-    {
-     "name": "YAH.",
-     "artists": "Kendrick Lamar",
-     "album": "DAMN.",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-     "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni"
     }
    ],
    "artists": [
@@ -786,6 +786,55 @@
   }
  },
  "recent": [
+  {
+   "name": "That's Life",
+   "artists": "Frank Sinatra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2",
+   "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
+   "played_at": "2026-08-26T09:28:22.929Z"
+  },
+  {
+   "name": "Harvest Moon",
+   "artists": "Neil Young",
+   "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
+   "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
+   "played_at": "2026-08-26T09:25:17.948Z"
+  },
+  {
+   "name": "Yesterday - Remastered 2009",
+   "artists": "The Beatles",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
+   "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI",
+   "played_at": "2026-08-26T09:20:16.795Z"
+  },
+  {
+   "name": "Time in a Bottle",
+   "artists": "Jim Croce",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
+   "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn",
+   "played_at": "2026-08-26T09:18:13.041Z"
+  },
+  {
+   "name": "Starman - 2012 Remaster",
+   "artists": "David Bowie",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
+   "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq",
+   "played_at": "2026-08-26T09:15:46.437Z"
+  },
+  {
+   "name": "Space Oddity - 2015 Remaster",
+   "artists": "David Bowie",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464",
+   "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG",
+   "played_at": "2026-08-26T09:11:34.155Z"
+  },
+  {
+   "name": "Miles Into Minutes",
+   "artists": "Ishani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
+   "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD",
+   "played_at": "2026-08-26T09:06:07.909Z"
+  },
   {
    "name": "Wahdon",
    "artists": "Fairuz",
