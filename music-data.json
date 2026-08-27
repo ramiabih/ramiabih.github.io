@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T19:38:46.067123+00:00",
+ "updated": "2026-08-27T05:59:06.803086+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -25,6 +25,13 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+    },
+    {
      "name": "The Glory",
      "artists": "Kanye West",
      "album": "Graduation",
@@ -37,6 +44,13 @@
      "album": "Ankara",
      "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
+    },
+    {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
      "name": "Swimming Pools (Drank)",
@@ -95,13 +109,6 @@
      "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
     },
     {
-     "name": "Kiss of Life",
-     "artists": "Sade",
-     "album": "The Best of Sade",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
      "name": "Can I Call You Rose?",
      "artists": "Thee Sacred Souls",
      "album": "Thee Sacred Souls",
@@ -116,32 +123,25 @@
      "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
     },
     {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+     "name": "Why Are There Boundaries",
+     "artists": "FKJ",
+     "album": "French Kiwi Juice",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
+     "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI"
     },
     {
-     "name": "Devil In A New Dress",
-     "artists": "Kanye West, Rick Ross",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
+     "name": "Hell N Back",
+     "artists": "Bakar",
+     "album": "Hell N Back (Sped Up)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     },
     {
-     "name": "Space Oddity - 2015 Remaster",
-     "artists": "David Bowie",
-     "album": "David Bowie (aka Space Oddity) [2015 Remaster]",
-     "image": "https://i.scdn.co/image/ab67616d0000b27305b5cc1872911eafc2bf996c",
-     "url": "https://open.spotify.com/track/2pO2TwmcAHh0xF8WTqMvIV"
-    },
-    {
-     "name": "Runaway",
-     "artists": "Kanye West, Pusha T",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+     "name": "Chocolate Hills",
+     "artists": "Khruangbin, Leon Bridges",
+     "album": "Texas Moon",
+     "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
+     "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     }
    ],
    "artists": [
@@ -172,6 +172,15 @@
      "genres": [
       "hip hop",
       "west coast hip hop"
+     ]
+    },
+    {
+     "name": "David Bowie",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
+     "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy",
+     "genres": [
+      "glam rock",
+      "art rock"
      ]
     }
    ]
@@ -228,13 +237,6 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
-    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
@@ -247,6 +249,13 @@
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Can I Call You Rose?",
@@ -786,6 +795,76 @@
   }
  },
  "recent": [
+  {
+   "name": "Sun Bleached Flies",
+   "artists": "Ethel Cain",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ccd1887cc78b0bd55f54bbe1",
+   "url": "https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS",
+   "played_at": "2026-08-26T20:29:13.823Z"
+  },
+  {
+   "name": "It takes a lot to try",
+   "artists": "Aviram",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
+   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
+   "played_at": "2026-08-26T20:21:39.831Z"
+  },
+  {
+   "name": "Nightingale Lane.",
+   "artists": "RAYE",
+   "image": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+   "url": "https://open.spotify.com/track/5TCpeSXHkTEUJmCXlxhESv",
+   "played_at": "2026-08-26T20:18:10.837Z"
+  },
+  {
+   "name": "Supercut",
+   "artists": "Lorde",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336",
+   "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR",
+   "played_at": "2026-08-26T20:09:53.029Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
+   "played_at": "2026-08-26T20:05:17.536Z"
+  },
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-08-26T19:58:04.505Z"
+  },
+  {
+   "name": "Loud",
+   "artists": "Olivia Dean",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
+   "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT",
+   "played_at": "2026-08-26T19:54:10.311Z"
+  },
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-08-26T19:51:08.331Z"
+  },
+  {
+   "name": "Brooklyn Baby",
+   "artists": "Lana Del Rey",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+   "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
+   "played_at": "2026-08-26T19:46:57.029Z"
+  },
+  {
+   "name": "At The Beach, In Every Life",
+   "artists": "Gigi Perez",
+   "image": "https://i.scdn.co/image/ab67616d0000b27349c26270052e1671add569c1",
+   "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m",
+   "played_at": "2026-08-26T19:41:07.330Z"
+  },
   {
    "name": "stupid song",
    "artists": "Olivia Rodrigo",
