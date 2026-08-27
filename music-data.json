@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T05:59:06.803086+00:00",
+ "updated": "2026-08-27T17:26:23.476545+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -795,6 +795,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Talk to You (ft. Elton John)",
+   "artists": "Sam Fender, Elton John",
+   "image": "https://i.scdn.co/image/ab67616d0000b27370722c52a53ef4a56f0c2eb0",
+   "url": "https://open.spotify.com/track/3WvRovm27gKBa9AxV1MxE5",
+   "played_at": "2026-08-27T08:34:25.741Z"
+  },
   {
    "name": "Sun Bleached Flies",
    "artists": "Ethel Cain",
