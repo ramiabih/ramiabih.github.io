@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T01:57:01.528494+00:00",
+ "updated": "2026-08-28T17:56:27.027725+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -37,6 +37,13 @@
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Ankara",
@@ -81,11 +88,11 @@
      "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+     "name": "Ya Tair",
+     "artists": "Fairuz",
+     "album": "Safarbarlek (From \"Safarbarlek\")",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
+     "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D"
     },
     {
      "name": "Pink + White",
@@ -135,13 +142,6 @@
      "album": "Hell N Back (Sped Up)",
      "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-    },
-    {
-     "name": "Chocolate Hills",
-     "artists": "Khruangbin, Leon Bridges",
-     "album": "Texas Moon",
-     "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
-     "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     }
    ],
    "artists": [
@@ -152,18 +152,18 @@
      "genres": []
     },
     {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
+    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
       "rap"
      ]
-    },
-    {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
     },
     {
      "name": "Kendrick Lamar",
@@ -796,6 +796,160 @@
  },
  "recent": [
   {
+   "name": "Amen",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/3uBtA78OM8o5HE2hTlKWfC",
+   "played_at": "2026-08-28T17:54:23.075Z"
+  },
+  {
+   "name": "Gone Again",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b008b93a1f42bafa415f82f6",
+   "url": "https://open.spotify.com/track/106lJbhLkOAOLeuhpkOmR5",
+   "played_at": "2026-08-28T17:51:18.589Z"
+  },
+  {
+   "name": "I'm a Changed Man",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/4pbQT136c2cmaebmotN7j0",
+   "played_at": "2026-08-28T17:48:56.515Z"
+  },
+  {
+   "name": "Pounds And Hundreds (Lbs + 100s)",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b008b93a1f42bafa415f82f6",
+   "url": "https://open.spotify.com/track/3lrxy8W8xacaePxgVfugfA",
+   "played_at": "2026-08-28T17:46:38.428Z"
+  },
+  {
+   "name": "Champagne and Wine",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/2NdOuc56cqLlixjN5jbkcJ",
+   "played_at": "2026-08-28T17:44:20.120Z"
+  },
+  {
+   "name": "I've Got Dreams to Remember",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/4C2jxg2GZsvttTiHpWP5ZL",
+   "played_at": "2026-08-28T17:41:18.334Z"
+  },
+  {
+   "name": "Direct Me",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/7oxX06wBXOJdGOEcMT0Svy",
+   "played_at": "2026-08-28T17:38:02.516Z"
+  },
+  {
+   "name": "Love Man",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/374tBrNY6Cjhlh4gIrpnu2",
+   "played_at": "2026-08-28T17:35:42.323Z"
+  },
+  {
+   "name": "The Happy Song (Dum-Dum)",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/4BMr0bsmgpOYfIGDdCVe1Q",
+   "played_at": "2026-08-28T17:33:22.817Z"
+  },
+  {
+   "name": "Hard to Handle",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM",
+   "played_at": "2026-08-28T17:30:41.246Z"
+  },
+  {
+   "name": "That's How Strong My Love Is",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735b76382492fe487d46de4c51",
+   "url": "https://open.spotify.com/track/3p6keDkfLYYpuAdvv1Ktsh",
+   "played_at": "2026-08-28T17:28:22.206Z"
+  },
+  {
+   "name": "Cigarettes and Coffee",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734b56389fb1e78b2b3ab443d8",
+   "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9",
+   "played_at": "2026-08-28T17:25:59.837Z"
+  },
+  {
+   "name": "Try a Little Tenderness",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ffffe932598090498459b77c",
+   "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81",
+   "played_at": "2026-08-28T17:22:01.116Z"
+  },
+  {
+   "name": "Think About It",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
+   "played_at": "2026-08-28T17:18:41.313Z"
+  },
+  {
+   "name": "Ya Ana Ya Ana - Live",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
+   "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg",
+   "played_at": "2026-08-28T14:21:47.916Z"
+  },
+  {
+   "name": "Al Thaniah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
+   "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz",
+   "played_at": "2026-08-28T14:19:17.619Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-08-28T14:16:55.223Z"
+  },
+  {
+   "name": "Ya Tair",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
+   "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD",
+   "played_at": "2026-08-28T14:10:23.441Z"
+  },
+  {
+   "name": "Hekm El Alb",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+   "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5",
+   "played_at": "2026-08-28T14:05:12.257Z"
+  },
+  {
+   "name": "Tamally Maak",
+   "artists": "Amr Diab",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+   "played_at": "2026-08-28T14:01:18.186Z"
+  },
+  {
+   "name": "Bayni Wa Baynak",
+   "artists": "Hoda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
+   "played_at": "2026-08-28T13:56:50.898Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-08-28T13:54:15.972Z"
+  },
+  {
    "name": "Talk to You (ft. Elton John)",
    "artists": "Sam Fender, Elton John",
    "image": "https://i.scdn.co/image/ab67616d0000b27370722c52a53ef4a56f0c2eb0",
@@ -990,125 +1144,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
    "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
    "played_at": "2026-08-24T18:10:50.529Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-08-24T18:03:19.341Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-08-24T17:59:45.657Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
-   "played_at": "2026-08-24T17:58:51.352Z"
-  },
-  {
-   "name": "Rain (feat. Max Milner) - Live from London Alexandra Palace",
-   "artists": "Ben Böhmer",
-   "image": "https://i.scdn.co/image/ab6742d3000053b773e1bc1d3153e2870338e879",
-   "url": "https://open.spotify.com/track/6u18aMKCw88aRSRzhRd7X8",
-   "played_at": "2026-08-23T17:24:25.551Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-08-23T17:22:34.751Z"
-  },
-  {
-   "name": "Ya rabaâ",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
-   "url": "https://open.spotify.com/track/5TOwHyD3uQWEeBh5b0cEzx",
-   "played_at": "2026-08-23T00:22:17.189Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-08-23T00:14:24.458Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-08-22T13:03:47.797Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-08-22T12:58:05.207Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-08-22T12:54:59.597Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-08-22T12:51:49.393Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-08-22T12:48:28.127Z"
-  },
-  {
-   "name": "Inevitable Ending - Original",
-   "artists": "Armen Miran, Hraach",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c7e764158802946bfeca3246",
-   "url": "https://open.spotify.com/track/6uWvMsU36wN3yQNpeN9jit",
-   "played_at": "2026-08-22T12:47:30.427Z"
-  },
-  {
-   "name": "Younan",
-   "artists": "Alì Farahani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27320ae7c69c43a3cb3f373549c",
-   "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx",
-   "played_at": "2026-08-21T22:46:43.304Z"
-  },
-  {
-   "name": "Dle Yaman (116 Deep Mix)",
-   "artists": "Hraach",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
-   "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt",
-   "played_at": "2026-08-21T22:39:46.908Z"
-  },
-  {
-   "name": "Kataltoni - Zone+ & Usif Remix",
-   "artists": "Laroz, Zone+, Usif",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734f428a8874ed2ae00beca602",
-   "url": "https://open.spotify.com/track/5QpqZWHn2kRiELVupBhBGu",
-   "played_at": "2026-08-21T22:32:20.686Z"
-  },
-  {
-   "name": "Ankara",
-   "artists": "Birds of Mind",
-   "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
-   "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC",
-   "played_at": "2026-08-21T22:24:53.674Z"
   }
  ]
 }
