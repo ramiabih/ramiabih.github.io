@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T01:23:55.506770+00:00",
+ "updated": "2026-08-29T12:01:00.644937+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -18,18 +18,18 @@
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
-     "name": "Come Back to Earth",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
-    },
-    {
      "name": "Wahdon",
      "artists": "Fairuz",
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Come Back to Earth",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
     },
     {
      "name": "The Glory",
@@ -88,6 +88,13 @@
      "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
     },
     {
+     "name": "Think About It",
+     "artists": "Otis Redding",
+     "album": "The Immortal Otis Redding",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a90dba60a3c33a00c88dedae",
+     "url": "https://open.spotify.com/track/3fjbvX7yos9aI0YNRVdAzb"
+    },
+    {
      "name": "Ya Tair",
      "artists": "Fairuz",
      "album": "Safarbarlek (From \"Safarbarlek\")",
@@ -135,13 +142,6 @@
      "album": "French Kiwi Juice",
      "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
      "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI"
-    },
-    {
-     "name": "Hell N Back",
-     "artists": "Bakar",
-     "album": "Hell N Back (Sped Up)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     }
    ],
    "artists": [
@@ -248,6 +248,13 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
+    },
+    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
@@ -260,13 +267,6 @@
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
      "name": "Tamally Maak",
@@ -613,18 +613,18 @@
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
      "name": "Hekm El Alb",
      "artists": "Wael Kfoury",
      "album": "Hekm El Alb",
      "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "Ankara",
@@ -732,6 +732,17 @@
      ]
     },
     {
+     "name": "Otis Redding",
+     "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
+     "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
+     "genres": [
+      "motown",
+      "soul",
+      "classic soul",
+      "soul blues"
+     ]
+    },
+    {
      "name": "Thundercat",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
      "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
@@ -793,22 +804,39 @@
       "indie soul",
       "neo soul"
      ]
-    },
-    {
-     "name": "Hraach",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
-     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
-     "genres": [
-      "organic house",
-      "tribal house",
-      "downtempo",
-      "deep house"
-     ]
     }
    ]
   }
  },
  "recent": [
+  {
+   "name": "Nasini El Donya",
+   "artists": "Ragheb Alama",
+   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
+   "played_at": "2026-08-29T11:23:28.289Z"
+  },
+  {
+   "name": "Soft Thang",
+   "artists": "1 9 0 5, Former City Records",
+   "image": "https://i.scdn.co/image/ab67616d0000b273018397d9a66ea226ac399f24",
+   "url": "https://open.spotify.com/track/4hgO47XBJ0iO5sb8e17mDw",
+   "played_at": "2026-08-29T11:17:46.690Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-08-29T11:14:41.197Z"
+  },
+  {
+   "name": "Think About It",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
+   "played_at": "2026-08-29T10:58:08.222Z"
+  },
   {
    "name": "(Sittin' On) the Dock of the Bay",
    "artists": "Otis Redding",
@@ -1130,34 +1158,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
    "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq",
    "played_at": "2026-08-26T09:15:46.437Z"
-  },
-  {
-   "name": "Space Oddity - 2015 Remaster",
-   "artists": "David Bowie",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464",
-   "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG",
-   "played_at": "2026-08-26T09:11:34.155Z"
-  },
-  {
-   "name": "Miles Into Minutes",
-   "artists": "Ishani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
-   "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD",
-   "played_at": "2026-08-26T09:06:07.909Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-08-25T14:56:13.695Z"
-  },
-  {
-   "name": "Nasini El Donya",
-   "artists": "Ragheb Alama",
-   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
-   "played_at": "2026-08-25T14:56:08.831Z"
   }
  ]
 }
