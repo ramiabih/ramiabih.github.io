@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T17:56:27.027725+00:00",
+ "updated": "2026-08-29T01:23:55.506770+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -9,6 +9,13 @@
      "album": "Ya Helou",
      "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
      "name": "Come Back to Earth",
@@ -23,13 +30,6 @@
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
-    {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
      "name": "The Glory",
@@ -166,6 +166,17 @@
      ]
     },
     {
+     "name": "Otis Redding",
+     "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
+     "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
+     "genres": [
+      "motown",
+      "soul",
+      "classic soul",
+      "soul blues"
+     ]
+    },
+    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -258,6 +269,13 @@
      "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
     },
     {
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+    },
+    {
      "name": "Can I Call You Rose?",
      "artists": "Isabel",
      "album": "Can I Call You Rose?",
@@ -272,13 +290,6 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
-    },
-    {
      "name": "Ana Le Habiby",
      "artists": "Fairuz",
      "album": "Ya Reit",
@@ -291,6 +302,13 @@
      "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
      "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
      "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Bent El Chalabiya",
@@ -319,13 +337,6 @@
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
-    },
-    {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     }
    ],
    "artists": [
@@ -385,6 +396,17 @@
      "genres": [
       "hip hop",
       "west coast hip hop"
+     ]
+    },
+    {
+     "name": "Otis Redding",
+     "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
+     "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
+     "genres": [
+      "motown",
+      "soul",
+      "classic soul",
+      "soul blues"
      ]
     },
     {
@@ -470,14 +492,6 @@
      "name": "Joseph Trapanese",
      "image": "https://i.scdn.co/image/ab6761610000e5ebee808587615bbc280d7cc2a3",
      "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V",
-     "genres": [
-      "soundtrack"
-     ]
-    },
-    {
-     "name": "Ilan Eshkeri",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92c3da9dae514e75ff711305",
-     "url": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z",
      "genres": [
       "soundtrack"
      ]
@@ -795,6 +809,13 @@
   }
  },
  "recent": [
+  {
+   "name": "(Sittin' On) the Dock of the Bay",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/7bwt3onTC1MCsCfI648J44",
+   "played_at": "2026-08-28T17:57:01.783Z"
+  },
   {
    "name": "Amen",
    "artists": "Otis Redding",
@@ -1137,13 +1158,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
    "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
    "played_at": "2026-08-25T14:56:08.831Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
-   "played_at": "2026-08-24T18:10:50.529Z"
   }
  ]
 }
