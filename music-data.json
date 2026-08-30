@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T15:46:32.346835+00:00",
+ "updated": "2026-08-30T20:19:41.091581+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -152,12 +152,6 @@
      "genres": []
     },
     {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
-    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
@@ -175,6 +169,12 @@
       "classic soul",
       "soul blues"
      ]
+    },
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
     },
     {
      "name": "Kendrick Lamar",
