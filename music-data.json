@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T20:13:27.067082+00:00",
+ "updated": "2026-08-30T02:42:18.771996+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -810,6 +810,13 @@
  },
  "recent": [
   {
+   "name": "SOLEIL",
+   "artists": "Naïka",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
+   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
+   "played_at": "2026-08-29T20:25:19.010Z"
+  },
+  {
    "name": "Nasini El Donya",
    "artists": "Ragheb Alama",
    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
@@ -1151,13 +1158,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
    "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn",
    "played_at": "2026-08-26T09:18:13.041Z"
-  },
-  {
-   "name": "Starman - 2012 Remaster",
-   "artists": "David Bowie",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
-   "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq",
-   "played_at": "2026-08-26T09:15:46.437Z"
   }
  ]
 }
