@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T12:15:47.465944+00:00",
+ "updated": "2026-08-31T22:13:17.962314+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -810,6 +810,13 @@
  },
  "recent": [
   {
+   "name": "Copyright Entertainment",
+   "artists": "1 9 0 5, Former City Records",
+   "image": "https://i.scdn.co/image/ab67616d0000b273018397d9a66ea226ac399f24",
+   "url": "https://open.spotify.com/track/30p4DJ5WfiE3sUiUTB3YMR",
+   "played_at": "2026-08-31T18:33:29.981Z"
+  },
+  {
    "name": "Takassim 'Banat Iskandariya'",
    "artists": "Oriental Lebanese Band",
    "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
@@ -1151,13 +1158,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2",
    "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
    "played_at": "2026-08-26T09:28:22.929Z"
-  },
-  {
-   "name": "Harvest Moon",
-   "artists": "Neil Young",
-   "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
-   "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
-   "played_at": "2026-08-26T09:25:17.948Z"
   }
  ]
 }
