@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T20:19:41.091581+00:00",
+ "updated": "2026-08-31T02:35:40.627976+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -95,13 +95,6 @@
      "url": "https://open.spotify.com/track/3fjbvX7yos9aI0YNRVdAzb"
     },
     {
-     "name": "Ya Tair",
-     "artists": "Fairuz",
-     "album": "Safarbarlek (From \"Safarbarlek\")",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
-     "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D"
-    },
-    {
      "name": "Pink + White",
      "artists": "Frank Ocean",
      "album": "Blonde",
@@ -142,6 +135,13 @@
      "album": "French Kiwi Juice",
      "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
      "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI"
+    },
+    {
+     "name": "Hell N Back",
+     "artists": "Bakar",
+     "album": "Hell N Back (Sped Up)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     }
    ],
    "artists": [
@@ -171,12 +171,6 @@
      ]
     },
     {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
-    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -184,6 +178,12 @@
       "hip hop",
       "west coast hip hop"
      ]
+    },
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
     },
     {
      "name": "David Bowie",
@@ -220,13 +220,6 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
      "name": "I Thought About Killing You",
      "artists": "Kanye West",
      "album": "ye",
@@ -241,6 +234,13 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani, Joseph Saker",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
@@ -248,25 +248,11 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
-    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Tamally Maak",
@@ -281,6 +267,13 @@
      "album": "Can I Call You Rose?",
      "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Law Hobna Ghalta",
@@ -302,13 +295,6 @@
      "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
      "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
      "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Bent El Chalabiya",
@@ -337,6 +323,20 @@
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
+    },
+    {
+     "name": "Creep",
+     "artists": "Louis Brigham",
+     "album": "Now and Before",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
+     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     }
    ],
    "artists": [
@@ -810,6 +810,20 @@
  },
  "recent": [
   {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-08-30T22:26:44.364Z"
+  },
+  {
+   "name": "Paradise",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
+   "played_at": "2026-08-30T22:22:39.841Z"
+  },
+  {
    "name": "SOLEIL",
    "artists": "Naïka",
    "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
@@ -1144,20 +1158,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
    "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
    "played_at": "2026-08-26T09:25:17.948Z"
-  },
-  {
-   "name": "Yesterday - Remastered 2009",
-   "artists": "The Beatles",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
-   "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI",
-   "played_at": "2026-08-26T09:20:16.795Z"
-  },
-  {
-   "name": "Time in a Bottle",
-   "artists": "Jim Croce",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
-   "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn",
-   "played_at": "2026-08-26T09:18:13.041Z"
   }
  ]
 }
