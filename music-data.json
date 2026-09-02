@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T02:09:23.193771+00:00",
+ "updated": "2026-09-02T10:15:58.527193+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -9,13 +9,6 @@
      "album": "Ya Helou",
      "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
-    },
-    {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
      "name": "Wahdon",
@@ -39,6 +32,13 @@
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+    },
+    {
      "name": "Shou Hal Ayyam - 2008 Remastered",
      "artists": "Ziad Rahbani",
      "album": "Ana Moush Kafer",
@@ -51,13 +51,6 @@
      "album": "Ankara",
      "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
-    },
-    {
-     "name": "Kiss of Life",
-     "artists": "Sade",
-     "album": "The Best of Sade",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
      "name": "Swimming Pools (Drank)",
@@ -116,11 +109,11 @@
      "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Thee Sacred Souls",
-     "album": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
      "name": "Everything I Am",
@@ -130,18 +123,25 @@
      "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
     },
     {
-     "name": "Why Are There Boundaries",
-     "artists": "FKJ",
-     "album": "French Kiwi Juice",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
-     "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI"
+     "name": "Devil In A New Dress",
+     "artists": "Kanye West, Rick Ross",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
-     "name": "Hell N Back",
-     "artists": "Bakar",
-     "album": "Hell N Back (Sped Up)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+     "name": "Space Oddity - 2015 Remaster",
+     "artists": "David Bowie",
+     "album": "David Bowie (aka Space Oddity) [2015 Remaster]",
+     "image": "https://i.scdn.co/image/ab67616d0000b27305b5cc1872911eafc2bf996c",
+     "url": "https://open.spotify.com/track/2pO2TwmcAHh0xF8WTqMvIV"
+    },
+    {
+     "name": "Runaway",
+     "artists": "Kanye West, Pusha T",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     }
    ],
    "artists": [
@@ -1151,13 +1151,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27346926e777bd6665f03128d29",
    "url": "https://open.spotify.com/track/4mWahKerLaVddUjb8d1Q4Q",
    "played_at": "2026-08-26T19:11:32.645Z"
-  },
-  {
-   "name": "That's Life",
-   "artists": "Frank Sinatra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2",
-   "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
-   "played_at": "2026-08-26T09:28:22.929Z"
   }
  ]
 }
