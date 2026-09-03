@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T20:19:37.159656+00:00",
+ "updated": "2026-09-03T02:16:06.296987+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1046,20 +1046,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27370722c52a53ef4a56f0c2eb0",
    "url": "https://open.spotify.com/track/3WvRovm27gKBa9AxV1MxE5",
    "played_at": "2026-08-27T08:34:25.741Z"
-  },
-  {
-   "name": "Sun Bleached Flies",
-   "artists": "Ethel Cain",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ccd1887cc78b0bd55f54bbe1",
-   "url": "https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS",
-   "played_at": "2026-08-26T20:29:13.823Z"
-  },
-  {
-   "name": "It takes a lot to try",
-   "artists": "Aviram",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
-   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
-   "played_at": "2026-08-26T20:21:39.831Z"
   }
  ]
 }
