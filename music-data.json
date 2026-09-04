@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T15:30:13.257687+00:00",
+ "updated": "2026-09-04T20:05:09.113095+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,6 +16,13 @@
      "album": "Locals 2",
      "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Wahdon",
@@ -44,13 +51,6 @@
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Ankara",
@@ -812,6 +812,13 @@
  },
  "recent": [
   {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-04T15:31:03.252Z"
+  },
+  {
    "name": "It Runs Through Me (feat. De La Soul)",
    "artists": "Tom Misch, De La Soul",
    "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
@@ -957,111 +964,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
    "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
    "played_at": "2026-08-29T10:58:08.222Z"
-  },
-  {
-   "name": "(Sittin' On) the Dock of the Bay",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/7bwt3onTC1MCsCfI648J44",
-   "played_at": "2026-08-28T17:57:01.783Z"
-  },
-  {
-   "name": "Amen",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/3uBtA78OM8o5HE2hTlKWfC",
-   "played_at": "2026-08-28T17:54:23.075Z"
-  },
-  {
-   "name": "Gone Again",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b008b93a1f42bafa415f82f6",
-   "url": "https://open.spotify.com/track/106lJbhLkOAOLeuhpkOmR5",
-   "played_at": "2026-08-28T17:51:18.589Z"
-  },
-  {
-   "name": "I'm a Changed Man",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/4pbQT136c2cmaebmotN7j0",
-   "played_at": "2026-08-28T17:48:56.515Z"
-  },
-  {
-   "name": "Pounds And Hundreds (Lbs + 100s)",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b008b93a1f42bafa415f82f6",
-   "url": "https://open.spotify.com/track/3lrxy8W8xacaePxgVfugfA",
-   "played_at": "2026-08-28T17:46:38.428Z"
-  },
-  {
-   "name": "Champagne and Wine",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/2NdOuc56cqLlixjN5jbkcJ",
-   "played_at": "2026-08-28T17:44:20.120Z"
-  },
-  {
-   "name": "I've Got Dreams to Remember",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/4C2jxg2GZsvttTiHpWP5ZL",
-   "played_at": "2026-08-28T17:41:18.334Z"
-  },
-  {
-   "name": "Direct Me",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/7oxX06wBXOJdGOEcMT0Svy",
-   "played_at": "2026-08-28T17:38:02.516Z"
-  },
-  {
-   "name": "Love Man",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/374tBrNY6Cjhlh4gIrpnu2",
-   "played_at": "2026-08-28T17:35:42.323Z"
-  },
-  {
-   "name": "The Happy Song (Dum-Dum)",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/4BMr0bsmgpOYfIGDdCVe1Q",
-   "played_at": "2026-08-28T17:33:22.817Z"
-  },
-  {
-   "name": "Hard to Handle",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM",
-   "played_at": "2026-08-28T17:30:41.246Z"
-  },
-  {
-   "name": "That's How Strong My Love Is",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735b76382492fe487d46de4c51",
-   "url": "https://open.spotify.com/track/3p6keDkfLYYpuAdvv1Ktsh",
-   "played_at": "2026-08-28T17:28:22.206Z"
-  },
-  {
-   "name": "Cigarettes and Coffee",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734b56389fb1e78b2b3ab443d8",
-   "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9",
-   "played_at": "2026-08-28T17:25:59.837Z"
-  },
-  {
-   "name": "Try a Little Tenderness",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ffffe932598090498459b77c",
-   "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81",
-   "played_at": "2026-08-28T17:22:01.116Z"
-  },
-  {
-   "name": "Think About It",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
-   "played_at": "2026-08-28T17:18:41.313Z"
   }
  ]
 }
