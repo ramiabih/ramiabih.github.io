@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T09:43:03.820514+00:00",
+ "updated": "2026-09-05T14:17:50.586600+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -936,34 +936,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
    "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
    "played_at": "2026-08-29T20:25:19.010Z"
-  },
-  {
-   "name": "Nasini El Donya",
-   "artists": "Ragheb Alama",
-   "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
-   "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7",
-   "played_at": "2026-08-29T11:23:28.289Z"
-  },
-  {
-   "name": "Soft Thang",
-   "artists": "1 9 0 5, Former City Records",
-   "image": "https://i.scdn.co/image/ab67616d0000b273018397d9a66ea226ac399f24",
-   "url": "https://open.spotify.com/track/4hgO47XBJ0iO5sb8e17mDw",
-   "played_at": "2026-08-29T11:17:46.690Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-08-29T11:14:41.197Z"
-  },
-  {
-   "name": "Think About It",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
-   "played_at": "2026-08-29T10:58:08.222Z"
   }
  ]
 }
