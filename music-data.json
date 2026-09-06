@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T02:07:45.173551+00:00",
+ "updated": "2026-09-06T09:58:15.018394+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -811,6 +811,20 @@
   }
  },
  "recent": [
+  {
+   "name": "Batwanes Beek",
+   "artists": "Warda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
+   "played_at": "2026-09-06T09:22:14.586Z"
+  },
+  {
+   "name": "I'm Like A Bird",
+   "artists": "Nelly Furtado",
+   "image": "https://i.scdn.co/image/ab67616d0000b273709087714422d592d6591f41",
+   "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi",
+   "played_at": "2026-09-06T08:11:56.724Z"
+  },
   {
    "name": "Shou Hal Ayyam - 2008 Remastered",
    "artists": "Ziad Rahbani",
