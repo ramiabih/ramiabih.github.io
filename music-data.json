@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T19:44:50.028917+00:00",
+ "updated": "2026-09-06T02:07:45.173551+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -929,13 +929,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
    "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
    "played_at": "2026-08-30T22:22:39.841Z"
-  },
-  {
-   "name": "SOLEIL",
-   "artists": "Naïka",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
-   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
-   "played_at": "2026-08-29T20:25:19.010Z"
   }
  ]
 }
