@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T14:41:02.529946+00:00",
+ "updated": "2026-09-06T19:48:38.054754+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -88,13 +88,6 @@
      "url": "https://open.spotify.com/track/3fjbvX7yos9aI0YNRVdAzb"
     },
     {
-     "name": "Swimming Pools (Drank)",
-     "artists": "Kendrick Lamar",
-     "album": "Swimming Pools (Drank)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c",
-     "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
-    },
-    {
      "name": "Self Care",
      "artists": "Mac Miller",
      "album": "Swimming",
@@ -130,18 +123,25 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
-     "name": "Dirt And Grime",
-     "artists": "Father's Children",
-     "album": "Who's Gonna Save The World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2736e32bdbab2320cd267902a51",
-     "url": "https://open.spotify.com/track/1h9Ld1byxzplRgkvwSWjj1"
-    },
-    {
      "name": "Space Oddity - 2015 Remaster",
      "artists": "David Bowie",
      "album": "David Bowie (aka Space Oddity) [2015 Remaster]",
      "image": "https://i.scdn.co/image/ab67616d0000b27305b5cc1872911eafc2bf996c",
      "url": "https://open.spotify.com/track/2pO2TwmcAHh0xF8WTqMvIV"
+    },
+    {
+     "name": "Can I Call You Rose?",
+     "artists": "Thee Sacred Souls",
+     "album": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+     "name": "Hell N Back",
+     "artists": "Bakar",
+     "album": "Hell N Back (Sped Up)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     }
    ],
    "artists": [
@@ -163,18 +163,18 @@
      ]
     },
     {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
+    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
       "rap"
      ]
-    },
-    {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
     },
     {
      "name": "Kendrick Lamar",
@@ -248,6 +248,13 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
@@ -267,13 +274,6 @@
      "album": "Can I Call You Rose?",
      "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Law Hobna Ghalta",
@@ -811,6 +811,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Batwanes Beek",
+   "artists": "Warda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
+   "played_at": "2026-09-06T18:31:48.788Z"
+  },
   {
    "name": "Batwanes Beek",
    "artists": "Warda",
