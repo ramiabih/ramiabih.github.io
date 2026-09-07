@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T19:48:38.054754+00:00",
+ "updated": "2026-09-07T02:05:15.913530+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -936,20 +936,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273018397d9a66ea226ac399f24",
    "url": "https://open.spotify.com/track/30p4DJ5WfiE3sUiUTB3YMR",
    "played_at": "2026-08-31T18:33:29.981Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-08-30T22:26:44.364Z"
-  },
-  {
-   "name": "Paradise",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
-   "played_at": "2026-08-30T22:22:39.841Z"
   }
  ]
 }
