@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T02:05:15.913530+00:00",
+ "updated": "2026-09-07T11:08:45.483641+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -325,18 +325,18 @@
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     },
     {
-     "name": "Creep",
-     "artists": "Louis Brigham",
-     "album": "Now and Before",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732c964711c65215ed281607dc",
-     "url": "https://open.spotify.com/track/5v21YMv54h81ZhnCC8xFBJ"
-    },
-    {
      "name": "Bayni Wa Baynak",
      "artists": "Hoda",
      "album": "Hoda Collection, Vol. 4",
      "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
+     "name": "Ghost Town",
+     "artists": "Kanye West, PARTYNEXTDOOR",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
     }
    ],
    "artists": [
