@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T02:20:05.920014+00:00",
+ "updated": "2026-09-09T10:28:33.956250+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,18 +11,18 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
      "name": "I Think I Like When It Rains",
      "artists": "WILLIS",
      "album": "Locals 2",
      "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Wahdon",
@@ -46,13 +46,6 @@
      "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ"
     },
     {
-     "name": "Ankara",
-     "artists": "Birds of Mind",
-     "album": "Ankara",
-     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
-     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
-    },
-    {
      "name": "Kiss of Life",
      "artists": "Sade",
      "album": "The Best of Sade",
@@ -60,39 +53,18 @@
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
+     "name": "Ankara",
+     "artists": "Birds of Mind",
+     "album": "Ankara",
+     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
+    },
+    {
      "name": "Perfecto",
      "artists": "Mac Miller",
      "album": "Swimming",
      "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
      "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4"
-    },
-    {
-     "name": "What's the Use?",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
-    },
-    {
-     "name": "Think About It",
-     "artists": "Otis Redding",
-     "album": "The Immortal Otis Redding",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a90dba60a3c33a00c88dedae",
-     "url": "https://open.spotify.com/track/3fjbvX7yos9aI0YNRVdAzb"
-    },
-    {
-     "name": "Self Care",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
-    },
-    {
-     "name": "Hurt Feelings",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
     },
     {
      "name": "Why Are There Boundaries",
@@ -109,11 +81,53 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
+     "name": "What's the Use?",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
+    },
+    {
+     "name": "Think About It",
+     "artists": "Otis Redding",
+     "album": "The Immortal Otis Redding",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a90dba60a3c33a00c88dedae",
+     "url": "https://open.spotify.com/track/3fjbvX7yos9aI0YNRVdAzb"
+    },
+    {
+     "name": "Hell N Back",
+     "artists": "Bakar",
+     "album": "Hell N Back (Sped Up)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+     "name": "Self Care",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
+    },
+    {
+     "name": "Hurt Feelings",
+     "artists": "Mac Miller",
+     "album": "Swimming",
+     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+     "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
+    },
+    {
      "name": "Space Oddity - 2015 Remaster",
      "artists": "David Bowie",
      "album": "David Bowie (aka Space Oddity) [2015 Remaster]",
      "image": "https://i.scdn.co/image/ab67616d0000b27305b5cc1872911eafc2bf996c",
      "url": "https://open.spotify.com/track/2pO2TwmcAHh0xF8WTqMvIV"
+    },
+    {
+     "name": "He Loves Me",
+     "artists": "Brittany Howard",
+     "album": "Jaime",
+     "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+     "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
     },
     {
      "name": "Can I Call You Rose?",
@@ -128,20 +142,6 @@
      "album": "Hoda Collection, Vol. 4",
      "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
-    },
-    {
-     "name": "Hell N Back",
-     "artists": "Bakar",
-     "album": "Hell N Back (Sped Up)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-    },
-    {
-     "name": "Hologram",
-     "artists": "Bedouin",
-     "album": "Ride into the Unknown EP",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735cae8f4543d7c12067647ae8",
-     "url": "https://open.spotify.com/track/1KhiXD8SDMXTdjaFZpYj6x"
     }
    ],
    "artists": [
@@ -794,6 +794,55 @@
   }
  },
  "recent": [
+  {
+   "name": "He Loves Me",
+   "artists": "Brittany Howard",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
+   "played_at": "2026-09-09T07:00:21.188Z"
+  },
+  {
+   "name": "Pluto Projector",
+   "artists": "Rex Orange County",
+   "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
+   "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc",
+   "played_at": "2026-09-09T05:57:49.666Z"
+  },
+  {
+   "name": "Why Are There Boundaries",
+   "artists": "FKJ",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
+   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
+   "played_at": "2026-09-09T05:53:19.444Z"
+  },
+  {
+   "name": "Chocolate Hills",
+   "artists": "Khruangbin, Leon Bridges",
+   "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
+   "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
+   "played_at": "2026-09-09T05:50:13.875Z"
+  },
+  {
+   "name": "Kiss of Life",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
+   "played_at": "2026-09-09T05:47:00.463Z"
+  },
+  {
+   "name": "Hell N Back",
+   "artists": "Bakar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+   "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP",
+   "played_at": "2026-09-09T05:42:46.286Z"
+  },
+  {
+   "name": "I Think I Like When It Rains",
+   "artists": "WILLIS",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
+   "played_at": "2026-09-09T05:39:10.144Z"
+  },
   {
    "name": "Bayni Wa Baynak",
    "artists": "Hoda",
