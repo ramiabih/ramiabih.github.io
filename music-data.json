@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T02:19:08.097032+00:00",
+ "updated": "2026-09-10T10:18:45.100627+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -947,27 +947,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
    "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
    "played_at": "2026-09-03T10:34:53.865Z"
-  },
-  {
-   "name": "I'm Like A Bird",
-   "artists": "Nelly Furtado",
-   "image": "https://i.scdn.co/image/ab67616d0000b273709087714422d592d6591f41",
-   "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi",
-   "played_at": "2026-09-03T09:52:15.603Z"
-  },
-  {
-   "name": "CALIFORNIA - the OC theme",
-   "artists": "Phantom Planet",
-   "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
-   "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ",
-   "played_at": "2026-09-03T09:48:14.410Z"
-  },
-  {
-   "name": "Touch My Body",
-   "artists": "Mariah Carey",
-   "image": "https://i.scdn.co/image/ab67616d0000b273633bb0a5f75b91c45c3a6b37",
-   "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW",
-   "played_at": "2026-09-03T09:37:55.073Z"
   }
  ]
 }
