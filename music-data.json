@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T10:18:45.100627+00:00",
+ "updated": "2026-09-10T15:34:06.071763+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -933,20 +933,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
    "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
    "played_at": "2026-09-04T01:03:19.176Z"
-  },
-  {
-   "name": "CALIFORNIA - the OC theme",
-   "artists": "Phantom Planet",
-   "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
-   "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ",
-   "played_at": "2026-09-03T10:38:50.054Z"
-  },
-  {
-   "name": "Upside Down",
-   "artists": "Jack Johnson",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731e0232d637e8313d3ef4923e",
-   "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
-   "played_at": "2026-09-03T10:34:53.865Z"
   }
  ]
 }
