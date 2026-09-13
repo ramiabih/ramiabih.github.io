@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T02:19:10.035733+00:00",
+ "updated": "2026-09-13T10:50:51.842700+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -864,20 +864,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
    "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
    "played_at": "2026-09-06T18:31:48.788Z"
-  },
-  {
-   "name": "Batwanes Beek",
-   "artists": "Warda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
-   "played_at": "2026-09-06T09:22:14.586Z"
-  },
-  {
-   "name": "I'm Like A Bird",
-   "artists": "Nelly Furtado",
-   "image": "https://i.scdn.co/image/ab67616d0000b273709087714422d592d6591f41",
-   "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi",
-   "played_at": "2026-09-06T08:11:56.724Z"
   }
  ]
 }
