@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T15:21:58.561993+00:00",
+ "updated": "2026-09-13T20:02:25.518395+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -25,6 +25,13 @@
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
      "name": "Wahdon",
      "artists": "Fairuz",
      "album": "Habbaitak Tanseet El Noum",
@@ -44,13 +51,6 @@
      "album": "The Best of Sade",
      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Ankara",
@@ -116,6 +116,13 @@
      "url": "https://open.spotify.com/track/3pyTDU97m6ovu6VG6bbKMV"
     },
     {
+     "name": "Ya Ana Ya Ana - Live",
+     "artists": "Fairuz",
+     "album": "Shahrazad (Live)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
+     "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
+    },
+    {
      "name": "Al Thaniah",
      "artists": "Fairuz",
      "album": "Maarifti Feek",
@@ -135,16 +142,15 @@
      "album": "Old Is Gold",
      "image": "https://i.scdn.co/image/ab67616d0000b2731ee488d2dd4491caedd0e044",
      "url": "https://open.spotify.com/track/0iTidIMDh2IvGryXfUfpDM"
-    },
-    {
-     "name": "Hologram",
-     "artists": "Bedouin",
-     "album": "Ride into the Unknown EP",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735cae8f4543d7c12067647ae8",
-     "url": "https://open.spotify.com/track/1KhiXD8SDMXTdjaFZpYj6x"
     }
    ],
    "artists": [
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
     {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
@@ -155,12 +161,6 @@
       "classic soul",
       "soul blues"
      ]
-    },
-    {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
     },
     {
      "name": "Ziad Rahbani",
@@ -782,6 +782,20 @@
  },
  "recent": [
   {
+   "name": "Ya Ana Ya Ana - Live",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
+   "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg",
+   "played_at": "2026-09-13T15:52:09.094Z"
+  },
+  {
+   "name": "Batwanes Beek",
+   "artists": "Warda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
+   "played_at": "2026-09-13T15:49:36.268Z"
+  },
+  {
    "name": "Bisaraha",
    "artists": "Ziad Rahbani",
    "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
@@ -906,13 +920,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
    "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
    "played_at": "2026-09-08T16:10:06.074Z"
-  },
-  {
-   "name": "Batwanes Beek",
-   "artists": "Warda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
-   "played_at": "2026-09-06T18:31:48.788Z"
   }
  ]
 }
