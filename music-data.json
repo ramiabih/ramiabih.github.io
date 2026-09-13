@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T10:50:51.842700+00:00",
+ "updated": "2026-09-13T15:21:58.561993+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,18 +11,18 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
      "name": "Shou Hal Ayyam - 2008 Remastered",
      "artists": "Ziad Rahbani",
      "album": "Ana Moush Kafer",
      "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
      "name": "Wahdon",
@@ -32,25 +32,11 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
-     "name": "Come Back to Earth",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
-    },
-    {
      "name": "CALIFORNIA - the OC theme",
      "artists": "Phantom Planet",
      "album": "CALIFORNIA (the OC theme)",
      "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
      "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Kiss of Life",
@@ -60,18 +46,18 @@
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
      "name": "Ankara",
      "artists": "Birds of Mind",
      "album": "Ankara",
      "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
-    },
-    {
-     "name": "Perfecto",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4"
     },
     {
      "name": "Why Are There Boundaries",
@@ -88,18 +74,18 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
-     "name": "What's the Use?",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
-    },
-    {
      "name": "Think About It",
      "artists": "Otis Redding",
      "album": "The Immortal Otis Redding",
      "image": "https://i.scdn.co/image/ab67616d0000b273a90dba60a3c33a00c88dedae",
      "url": "https://open.spotify.com/track/3fjbvX7yos9aI0YNRVdAzb"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Hell N Back",
@@ -109,18 +95,11 @@
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     },
     {
-     "name": "Self Care",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
-    },
-    {
-     "name": "Hurt Feelings",
-     "artists": "Mac Miller",
-     "album": "Swimming",
-     "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-     "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "Space Oddity - 2015 Remaster",
@@ -130,11 +109,18 @@
      "url": "https://open.spotify.com/track/2pO2TwmcAHh0xF8WTqMvIV"
     },
     {
-     "name": "He Loves Me",
-     "artists": "Brittany Howard",
-     "album": "Jaime",
-     "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-     "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
+     "name": "Na Nisti Na",
+     "artists": "Pause, Paniz",
+     "album": "Na Nisti Na",
+     "image": "https://i.scdn.co/image/ab67616d0000b27375f3ff69850ec3afca3bddc8",
+     "url": "https://open.spotify.com/track/3pyTDU97m6ovu6VG6bbKMV"
+    },
+    {
+     "name": "Al Thaniah",
+     "artists": "Fairuz",
+     "album": "Maarifti Feek",
+     "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
+     "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz"
     },
     {
      "name": "Can I Call You Rose?",
@@ -142,15 +128,23 @@
      "album": "Thee Sacred Souls",
      "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+     "name": "Ya Rabaâ",
+     "artists": "Fairuz",
+     "album": "Old Is Gold",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731ee488d2dd4491caedd0e044",
+     "url": "https://open.spotify.com/track/0iTidIMDh2IvGryXfUfpDM"
+    },
+    {
+     "name": "Hologram",
+     "artists": "Bedouin",
+     "album": "Ride into the Unknown EP",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735cae8f4543d7c12067647ae8",
+     "url": "https://open.spotify.com/track/1KhiXD8SDMXTdjaFZpYj6x"
     }
    ],
    "artists": [
-    {
-     "name": "Mac Miller",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
-    },
     {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
@@ -166,6 +160,12 @@
      "name": "Fairuz",
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
      "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
+    {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": []
     },
     {
@@ -781,6 +781,55 @@
   }
  },
  "recent": [
+  {
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-09-13T11:44:17.240Z"
+  },
+  {
+   "name": "Fayek Alaya",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
+   "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ",
+   "played_at": "2026-09-13T11:37:00.870Z"
+  },
+  {
+   "name": "Al Thaniah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
+   "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz",
+   "played_at": "2026-09-13T11:34:00.623Z"
+  },
+  {
+   "name": "Bayni Wa Baynak",
+   "artists": "Hoda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
+   "played_at": "2026-09-13T11:13:47.573Z"
+  },
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-09-13T11:11:17.259Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-13T11:07:22.992Z"
+  },
+  {
+   "name": "Na Nisti Na",
+   "artists": "Pause, Paniz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27375f3ff69850ec3afca3bddc8",
+   "url": "https://open.spotify.com/track/3pyTDU97m6ovu6VG6bbKMV",
+   "played_at": "2026-09-13T11:00:55.811Z"
+  },
   {
    "name": "He Loves Me",
    "artists": "Brittany Howard",
