@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T17:18:19.973224+00:00",
+ "updated": "2026-09-14T21:12:50.276022+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -123,6 +123,13 @@
      "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
     },
     {
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
+    },
+    {
      "name": "He Loves Me",
      "artists": "Brittany Howard",
      "album": "Jaime",
@@ -135,13 +142,6 @@
      "album": "Maarifti Feek",
      "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
      "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz"
-    },
-    {
-     "name": "Can I Call You Rose?",
-     "artists": "Thee Sacred Souls",
-     "album": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-     "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     }
    ],
    "artists": [
@@ -160,6 +160,14 @@
       "soul",
       "classic soul",
       "soul blues"
+     ]
+    },
+    {
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "genres": [
+      "rap"
      ]
     },
     {
@@ -267,6 +275,13 @@
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
      "name": "Tamally Maak",
      "artists": "Amr Diab",
      "album": "Tamally Maak",
@@ -293,13 +308,6 @@
      "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
      "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
      "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Bisaraha",
@@ -804,6 +812,55 @@
  },
  "recent": [
   {
+   "name": "YAH.",
+   "artists": "Kendrick Lamar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+   "url": "https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni",
+   "played_at": "2026-09-14T19:49:04.791Z"
+  },
+  {
+   "name": "Heartless",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+   "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
+   "played_at": "2026-09-14T18:59:22.056Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-09-14T18:46:41.234Z"
+  },
+  {
+   "name": "Everything I Am",
+   "artists": "Kanye West, DJ Premier",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr",
+   "played_at": "2026-09-14T18:35:22.268Z"
+  },
+  {
+   "name": "I Wonder",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+   "played_at": "2026-09-14T18:31:36.453Z"
+  },
+  {
+   "name": "Flashing Lights",
+   "artists": "Kanye West, Dwele",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+   "played_at": "2026-09-14T18:27:34.925Z"
+  },
+  {
+   "name": "Don't Dream It's Over",
+   "artists": "Crowded House",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+   "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh",
+   "played_at": "2026-09-14T18:05:17.569Z"
+  },
+  {
    "name": "Yesterday - Remastered 2009",
    "artists": "The Beatles",
    "image": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
@@ -1103,34 +1160,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
    "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
    "played_at": "2026-09-09T05:39:10.144Z"
-  },
-  {
-   "name": "Ya Ashikat El Ward",
-   "artists": "Zaki Nassif",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-   "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
-   "played_at": "2026-09-08T21:31:44.099Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-09-08T16:16:30.630Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-09-08T16:14:00.433Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-09-08T16:10:06.074Z"
   }
  ]
 }
