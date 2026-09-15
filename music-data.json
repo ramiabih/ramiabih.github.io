@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T21:12:50.276022+00:00",
+ "updated": "2026-09-15T02:40:13.925156+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -471,6 +471,15 @@
      ]
     },
     {
+     "name": "The Beatles",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb119b61b35985e3b957c5ecb7",
+     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
+     "genres": [
+      "classic rock",
+      "psychedelic rock"
+     ]
+    },
+    {
      "name": "Philipp Kirkorov",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc51f3d7c45816566904f7fe9",
      "url": "https://open.spotify.com/artist/3ANNnVJ7NCdIZV6P2YzvlI",
@@ -489,12 +498,6 @@
      "name": "Lana Del Rey",
      "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
      "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
-     "genres": []
-    },
-    {
-     "name": "Valery Meladze",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
-     "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
      "genres": []
     }
    ]
