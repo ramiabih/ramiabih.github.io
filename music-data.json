@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T15:50:21.919699+00:00",
+ "updated": "2026-09-16T20:41:40.919826+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -67,6 +67,13 @@
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
+    },
+    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
@@ -109,6 +116,13 @@
      "url": "https://open.spotify.com/track/2pO2TwmcAHh0xF8WTqMvIV"
     },
     {
+     "name": "Runaway",
+     "artists": "Kanye West, Pusha T",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
      "name": "Na Nisti Na",
      "artists": "Pause, Paniz",
      "album": "Na Nisti Na",
@@ -123,25 +137,11 @@
      "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
     },
     {
-     "name": "Flashing Lights",
-     "artists": "Kanye West, Dwele",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
      "name": "He Loves Me",
      "artists": "Brittany Howard",
      "album": "Jaime",
      "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
      "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
-    },
-    {
-     "name": "Al Thaniah",
-     "artists": "Fairuz",
-     "album": "Maarifti Feek",
-     "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
-     "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz"
     }
    ],
    "artists": [
@@ -814,6 +814,41 @@
   }
  },
  "recent": [
+  {
+   "name": "Devil In A New Dress",
+   "artists": "Kanye West, Rick Ross",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
+   "played_at": "2026-09-16T18:58:03.205Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-09-16T18:51:15.139Z"
+  },
+  {
+   "name": "Konna Netlaka",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+   "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu",
+   "played_at": "2026-09-16T18:30:55.468Z"
+  },
+  {
+   "name": "Nocturne en Mi Bémol Majeur, Op. 9 No. 2",
+   "artists": "Frédéric Chopin, Luis Fernando Pérez",
+   "image": "https://i.scdn.co/image/ab67616d0000b27318bccd55ef4b1c50dac2f2bc",
+   "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd",
+   "played_at": "2026-09-16T16:23:54.941Z"
+  },
+  {
+   "name": "White Room",
+   "artists": "Cream",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee",
+   "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG",
+   "played_at": "2026-09-16T16:05:45.150Z"
+  },
   {
    "name": "Takassim 'Banat Iskandariya'",
    "artists": "Oriental Lebanese Band",
