@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T02:38:51.188381+00:00",
+ "updated": "2026-09-17T10:42:34.384541+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -815,6 +815,13 @@
  },
  "recent": [
   {
+   "name": "Nocturne en Mi Bémol Majeur, Op. 9 No. 2",
+   "artists": "Frédéric Chopin, Luis Fernando Pérez",
+   "image": "https://i.scdn.co/image/ab67616d0000b27318bccd55ef4b1c50dac2f2bc",
+   "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd",
+   "played_at": "2026-09-17T09:30:05.022Z"
+  },
+  {
    "name": "Devil In A New Dress",
    "artists": "Kanye West, Rick Ross",
    "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
@@ -1156,13 +1163,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
    "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
    "played_at": "2026-09-13T11:07:22.992Z"
-  },
-  {
-   "name": "Na Nisti Na",
-   "artists": "Pause, Paniz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27375f3ff69850ec3afca3bddc8",
-   "url": "https://open.spotify.com/track/3pyTDU97m6ovu6VG6bbKMV",
-   "played_at": "2026-09-13T11:00:55.811Z"
   }
  ]
 }
