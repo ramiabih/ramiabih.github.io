@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T10:00:52.650171+00:00",
+ "updated": "2026-09-19T15:05:23.857663+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -60,13 +60,6 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Ankara",
-     "artists": "Birds of Mind",
-     "album": "Ankara",
-     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
-     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
-    },
-    {
      "name": "Flashing Lights",
      "artists": "Kanye West, Dwele",
      "album": "Graduation",
@@ -123,6 +116,13 @@
      "url": "https://open.spotify.com/track/2pO2TwmcAHh0xF8WTqMvIV"
     },
     {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+    },
+    {
      "name": "Runaway",
      "artists": "Kanye West, Pusha T",
      "album": "My Beautiful Dark Twisted Fantasy",
@@ -152,6 +152,14 @@
      "genres": []
     },
     {
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "genres": [
+      "rap"
+     ]
+    },
+    {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
      "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
@@ -160,14 +168,6 @@
       "soul",
       "classic soul",
       "soul blues"
-     ]
-    },
-    {
-     "name": "Kanye West",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
-     "genres": [
-      "rap"
      ]
     },
     {
@@ -815,6 +815,48 @@
  },
  "recent": [
   {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-09-19T10:27:10.894Z"
+  },
+  {
+   "name": "Harvest Moon",
+   "artists": "Neil Young",
+   "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
+   "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
+   "played_at": "2026-09-19T10:18:45.265Z"
+  },
+  {
+   "name": "AWGAZI",
+   "artists": "Palm Monkey, RUSSI, The Palm Tree Boy",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739b54d562b56df90f6c409fad",
+   "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl",
+   "played_at": "2026-09-19T10:13:44.066Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-19T10:10:59.240Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-19T10:10:29.278Z"
+  },
+  {
+   "name": "Behind Barz - Bonus",
+   "artists": "Drake",
+   "image": "https://i.scdn.co/image/ab67616d0000b273be955a885d12b9e3ad44d122",
+   "url": "https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p",
+   "played_at": "2026-09-19T10:04:20.962Z"
+  },
+  {
    "name": "Heartless",
    "artists": "Kanye West",
    "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
@@ -1121,48 +1163,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
    "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg",
    "played_at": "2026-09-13T15:52:09.094Z"
-  },
-  {
-   "name": "Batwanes Beek",
-   "artists": "Warda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-   "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF",
-   "played_at": "2026-09-13T15:49:36.268Z"
-  },
-  {
-   "name": "Bisaraha",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
-   "played_at": "2026-09-13T11:44:17.240Z"
-  },
-  {
-   "name": "Fayek Alaya",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
-   "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ",
-   "played_at": "2026-09-13T11:37:00.870Z"
-  },
-  {
-   "name": "Al Thaniah",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
-   "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz",
-   "played_at": "2026-09-13T11:34:00.623Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-09-13T11:13:47.573Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-09-13T11:11:17.259Z"
   }
  ]
 }
