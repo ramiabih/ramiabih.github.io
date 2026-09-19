@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T15:05:23.857663+00:00",
+ "updated": "2026-09-19T19:48:25.716331+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -233,13 +233,6 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
@@ -261,25 +254,18 @@
      "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
     },
     {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani, Joseph Saker",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
      "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
-    },
-    {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Tamally Maak",
@@ -308,6 +294,13 @@
      "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
      "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
      "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Bisaraha",
@@ -345,11 +338,18 @@
      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
     },
     {
-     "name": "W'Kameh",
-     "artists": "Fairuz",
-     "album": "Mish Kayan Hayek T'Koun",
-     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
+     "name": "The Middle East... W Ameh - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "Hekm El Alb",
+     "artists": "Wael Kfoury",
+     "album": "Hekm El Alb",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
     }
    ],
    "artists": [
@@ -423,12 +423,6 @@
      ]
     },
     {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
-    },
-    {
      "name": "Umm Kulthum",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc857a1e6180f6696da6e31de",
      "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
@@ -452,12 +446,6 @@
      "name": "Elias Rahbani",
      "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
      "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS",
-     "genres": []
-    },
-    {
-     "name": "Oriental Lebanese Band",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/artist/2SnZNKC6aZINg87x5to5rg",
      "genres": []
     },
     {
@@ -499,6 +487,21 @@
      "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
      "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
      "genres": []
+    },
+    {
+     "name": "Valery Meladze",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
+     "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
+     "genres": []
+    },
+    {
+     "name": "David Bowie",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
+     "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy",
+     "genres": [
+      "glam rock",
+      "art rock"
+     ]
     }
    ]
   },
