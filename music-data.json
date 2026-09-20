@@ -1,15 +1,8 @@
 {
- "updated": "2026-09-19T19:48:25.716331+00:00",
+ "updated": "2026-09-20T02:36:29.215372+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Ya Helou",
-     "artists": "Adam",
-     "album": "Ya Helou",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
-    },
     {
      "name": "Shou Hal Ayyam - 2008 Remastered",
      "artists": "Ziad Rahbani",
@@ -39,13 +32,6 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
-     "name": "CALIFORNIA - the OC theme",
-     "artists": "Phantom Planet",
-     "album": "CALIFORNIA (the OC theme)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
-     "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ"
-    },
-    {
      "name": "Kiss of Life",
      "artists": "Sade",
      "album": "The Best of Sade",
@@ -53,11 +39,11 @@
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+     "name": "CALIFORNIA - the OC theme",
+     "artists": "Phantom Planet",
+     "album": "CALIFORNIA (the OC theme)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
+     "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ"
     },
     {
      "name": "Flashing Lights",
@@ -67,11 +53,11 @@
      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Why Are There Boundaries",
@@ -88,11 +74,39 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+     "name": "Hell N Back",
+     "artists": "Bakar",
+     "album": "Hell N Back (Sped Up)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
      "name": "Think About It",
      "artists": "Otis Redding",
      "album": "The Immortal Otis Redding",
      "image": "https://i.scdn.co/image/ab67616d0000b273a90dba60a3c33a00c88dedae",
      "url": "https://open.spotify.com/track/3fjbvX7yos9aI0YNRVdAzb"
+    },
+    {
+     "name": "He Loves Me",
+     "artists": "Brittany Howard",
+     "album": "Jaime",
+     "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+     "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
     },
     {
      "name": "Nasini El Donya",
@@ -102,11 +116,11 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
-     "name": "Hell N Back",
-     "artists": "Bakar",
-     "album": "Hell N Back (Sped Up)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+     "name": "Pluto Projector",
+     "artists": "Rex Orange County",
+     "album": "Pony",
+     "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
+     "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
     },
     {
      "name": "Space Oddity - 2015 Remaster",
@@ -123,25 +137,11 @@
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
-     "name": "Runaway",
-     "artists": "Kanye West, Pusha T",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
-    },
-    {
-     "name": "Na Nisti Na",
-     "artists": "Pause, Paniz",
-     "album": "Na Nisti Na",
-     "image": "https://i.scdn.co/image/ab67616d0000b27375f3ff69850ec3afca3bddc8",
-     "url": "https://open.spotify.com/track/3pyTDU97m6ovu6VG6bbKMV"
-    },
-    {
-     "name": "Ya Ana Ya Ana - Live",
-     "artists": "Fairuz",
-     "album": "Shahrazad (Live)",
-     "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
-     "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
+     "name": "It Runs Through Me (feat. De La Soul)",
+     "artists": "Tom Misch, De La Soul",
+     "album": "Geography",
+     "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
+     "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     }
    ],
    "artists": [
@@ -818,6 +818,146 @@
  },
  "recent": [
   {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-20T02:20:46.521Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-20T02:20:41.446Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-20T01:57:53.979Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-20T01:45:37.255Z"
+  },
+  {
+   "name": "Breakfast in Bed",
+   "artists": "Mayer Hawthorne",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fb8ea05deeb8233e73ed5148",
+   "url": "https://open.spotify.com/track/48aAmHfCQXi9H5pIkZf3xj",
+   "played_at": "2026-09-20T01:42:59.254Z"
+  },
+  {
+   "name": "Friday Morning - Recorded at Spotify Studios NYC",
+   "artists": "Khruangbin",
+   "image": "https://i.scdn.co/image/ab67616d0000b273df6e8dd95841ca51c88325e1",
+   "url": "https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy",
+   "played_at": "2026-09-20T01:38:53.772Z"
+  },
+  {
+   "name": "Morning Dew",
+   "artists": "Matt Quentin",
+   "image": "https://i.scdn.co/image/ab67616d0000b273bff3d6b78adf2e26e6cad909",
+   "url": "https://open.spotify.com/track/6c1cfkmxM66A3r7qAuKvsr",
+   "played_at": "2026-09-20T01:32:19.273Z"
+  },
+  {
+   "name": "Chamber Of Reflection",
+   "artists": "Mac DeMarco",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
+   "url": "https://open.spotify.com/track/1Snko28yJOihcRVXs9dAo9",
+   "played_at": "2026-09-20T01:28:24.251Z"
+  },
+  {
+   "name": "Lying In The Sunshine",
+   "artists": "Free",
+   "image": "https://i.scdn.co/image/ab67616d0000b273640df56fe46cd51896a00810",
+   "url": "https://open.spotify.com/track/7iA3xHruObBBOiqYRUVKTD",
+   "played_at": "2026-09-20T01:24:34.472Z"
+  },
+  {
+   "name": "Charcoal Baby",
+   "artists": "Blood Orange",
+   "image": "https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6",
+   "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS",
+   "played_at": "2026-09-20T01:20:43.974Z"
+  },
+  {
+   "name": "It Runs Through Me (feat. De La Soul)",
+   "artists": "Tom Misch, De La Soul",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
+   "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy",
+   "played_at": "2026-09-20T01:16:43.672Z"
+  },
+  {
+   "name": "He Loves Me",
+   "artists": "Brittany Howard",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
+   "played_at": "2026-09-20T01:12:23.780Z"
+  },
+  {
+   "name": "Gap in the Clouds",
+   "artists": "Yellow Days",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
+   "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2",
+   "played_at": "2026-09-20T01:09:54.075Z"
+  },
+  {
+   "name": "Pluto Projector",
+   "artists": "Rex Orange County",
+   "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
+   "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc",
+   "played_at": "2026-09-20T01:05:15.978Z"
+  },
+  {
+   "name": "Why Are There Boundaries",
+   "artists": "FKJ",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
+   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
+   "played_at": "2026-09-20T01:00:50.478Z"
+  },
+  {
+   "name": "Chocolate Hills",
+   "artists": "Khruangbin, Leon Bridges",
+   "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
+   "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
+   "played_at": "2026-09-20T00:57:49.976Z"
+  },
+  {
+   "name": "Kiss of Life",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
+   "played_at": "2026-09-20T00:54:41.579Z"
+  },
+  {
+   "name": "Hell N Back",
+   "artists": "Bakar",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+   "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP",
+   "played_at": "2026-09-20T00:50:32.261Z"
+  },
+  {
+   "name": "I Think I Like When It Rains",
+   "artists": "WILLIS",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
+   "played_at": "2026-09-20T00:47:00.677Z"
+  },
+  {
+   "name": "Flashing Lights",
+   "artists": "Kanye West, Dwele",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+   "played_at": "2026-09-20T00:42:00.087Z"
+  },
+  {
    "name": "The Glory",
    "artists": "Kanye West",
    "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
@@ -1026,146 +1166,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27305bdc7164b38b5bbadeb63a3",
    "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY",
    "played_at": "2026-09-14T13:41:04.567Z"
-  },
-  {
-   "name": "In My Life - Remastered 2009",
-   "artists": "The Beatles",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4",
-   "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo",
-   "played_at": "2026-09-14T13:35:54.665Z"
-  },
-  {
-   "name": "California Dreamin' - Mono Version",
-   "artists": "The Mamas & The Papas",
-   "image": "https://i.scdn.co/image/ab67616d0000b27351b0ded91cc503d5e873562e",
-   "url": "https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt",
-   "played_at": "2026-09-14T13:33:30.353Z"
-  },
-  {
-   "name": "That's Life",
-   "artists": "Frank Sinatra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2",
-   "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
-   "played_at": "2026-09-14T13:30:47.856Z"
-  },
-  {
-   "name": "Starman - 2012 Remaster",
-   "artists": "David Bowie",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
-   "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq",
-   "played_at": "2026-09-14T13:27:42.768Z"
-  },
-  {
-   "name": "Ain't No Sunshine",
-   "artists": "Bill Withers",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-   "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
-   "played_at": "2026-09-14T13:23:30.459Z"
-  },
-  {
-   "name": "Ain't No Sunshine",
-   "artists": "Bill Withers",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-   "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
-   "played_at": "2026-09-14T13:21:44.868Z"
-  },
-  {
-   "name": "We Can Work It Out - Remastered 2009",
-   "artists": "The Beatles",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735ef4660298ae29ee18799fc2",
-   "url": "https://open.spotify.com/track/7LNiAjyg9P2GKINTtN6Yt8",
-   "played_at": "2026-09-14T11:55:12.911Z"
-  },
-  {
-   "name": "Don't Let Me Be Misunderstood",
-   "artists": "The Animals",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732e53030089729a33c3003a3b",
-   "url": "https://open.spotify.com/track/4zzY7s6PKnMFIQ3ZNfHzGh",
-   "played_at": "2026-09-14T11:52:58.796Z"
-  },
-  {
-   "name": "Do It Again",
-   "artists": "Steely Dan",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-   "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
-   "played_at": "2026-09-14T11:50:31.379Z"
-  },
-  {
-   "name": "Time in a Bottle",
-   "artists": "Jim Croce",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
-   "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn",
-   "played_at": "2026-09-14T11:44:36.395Z"
-  },
-  {
-   "name": "Harvest Moon",
-   "artists": "Neil Young",
-   "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
-   "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
-   "played_at": "2026-09-14T11:42:09.788Z"
-  },
-  {
-   "name": "Eleanor Rigby - Remastered 2009",
-   "artists": "The Beatles",
-   "image": "https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a",
-   "url": "https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q",
-   "played_at": "2026-09-14T11:37:08.569Z"
-  },
-  {
-   "name": "Goodbye Yellow Brick Road - Remastered 2014",
-   "artists": "Elton John",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
-   "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE",
-   "played_at": "2026-09-14T11:35:04.070Z"
-  },
-  {
-   "name": "Dream A Little Dream Of Me",
-   "artists": "The Mamas & The Papas",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736a7ffb7ecffe490b3abd82af",
-   "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5",
-   "played_at": "2026-09-14T11:31:53.179Z"
-  },
-  {
-   "name": "Somethin' Stupid",
-   "artists": "Frank Sinatra, Nancy Sinatra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733e2331ff09f59ea3c87fe5d6",
-   "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV",
-   "played_at": "2026-09-14T11:28:40.697Z"
-  },
-  {
-   "name": "Space Oddity - 2015 Remaster",
-   "artists": "David Bowie",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464",
-   "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG",
-   "played_at": "2026-09-14T11:26:00.216Z"
-  },
-  {
-   "name": "Day Tripper - Remastered 2009",
-   "artists": "The Beatles",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735ef4660298ae29ee18799fc2",
-   "url": "https://open.spotify.com/track/3hNUYt4dMM9RhcWmty8oKF",
-   "played_at": "2026-09-14T11:20:44.179Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-09-14T11:17:55.263Z"
-  },
-  {
-   "name": "Esmaa Ya Reda",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac7123ec0939d0fddade6",
-   "url": "https://open.spotify.com/track/5hUFFdwf2yq1v5O8vmVnuV",
-   "played_at": "2026-09-14T11:17:46.420Z"
-  },
-  {
-   "name": "Ya Ana Ya Ana - Live",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
-   "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg",
-   "played_at": "2026-09-13T15:52:09.094Z"
   }
  ]
 }
