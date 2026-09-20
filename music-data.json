@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T10:20:50.845480+00:00",
+ "updated": "2026-09-20T15:09:31.135971+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -437,6 +437,14 @@
      ]
     },
     {
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "genres": [
+      "neo-psychedelic"
+     ]
+    },
+    {
      "name": "Aviram",
      "image": "https://i.scdn.co/image/ab6761610000e5ebb280d96ba1eb1508e278dc6b",
      "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8",
@@ -493,15 +501,6 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb5173b464f062ccac1b0097eb",
      "url": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
      "genres": []
-    },
-    {
-     "name": "David Bowie",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
-     "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy",
-     "genres": [
-      "glam rock",
-      "art rock"
-     ]
     }
    ]
   },
@@ -817,6 +816,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-09-20T15:06:04.755Z"
+  },
   {
    "name": "Omar Gatlato",
    "artists": "Ahmed Malek",
@@ -1159,13 +1165,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
    "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI",
    "played_at": "2026-09-14T14:11:17.335Z"
-  },
-  {
-   "name": "Stuck In The Middle With You",
-   "artists": "Stealers Wheel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a5ce236c22035a02cf87d4de",
-   "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT",
-   "played_at": "2026-09-14T14:07:49.952Z"
   }
  ]
 }
