@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T11:33:32.433912+00:00",
+ "updated": "2026-09-21T17:31:12.626553+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -591,18 +591,18 @@
      "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
     },
     {
-     "name": "Aloula",
-     "artists": "Fairuz",
-     "album": "Fairuz - Modern Favorites",
-     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
-    },
-    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "Aloula",
+     "artists": "Fairuz",
+     "album": "Fairuz - Modern Favorites",
+     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
     },
     {
      "name": "Oum Fout Nam",
@@ -633,18 +633,18 @@
      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
     },
     {
-     "name": "Creep - Acoustic",
-     "artists": "Radiohead",
-     "album": "Creep EP",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647",
-     "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
-    },
-    {
      "name": "W'Kameh",
      "artists": "Fairuz",
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     }
    ],
    "artists": [
