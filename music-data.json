@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T17:31:12.626553+00:00",
+ "updated": "2026-09-21T21:28:22.319485+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -9,13 +9,6 @@
      "album": "Ana Moush Kafer",
      "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
      "name": "I Think I Like When It Rains",
@@ -32,6 +25,13 @@
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
      "name": "Bayni Wa Baynak",
      "artists": "Hoda",
      "album": "Hoda Collection, Vol. 4",
@@ -39,11 +39,11 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Ya Helou",
-     "artists": "Adam",
-     "album": "Ya Helou",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
      "name": "CALIFORNIA - the OC theme",
@@ -51,13 +51,6 @@
      "album": "CALIFORNIA (the OC theme)",
      "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
      "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ"
-    },
-    {
-     "name": "Flashing Lights",
-     "artists": "Kanye West, Dwele",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -102,6 +95,27 @@
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     },
     {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+    },
+    {
+     "name": "Runaway",
+     "artists": "Kanye West, Pusha T",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
      "name": "Think About It",
      "artists": "Otis Redding",
      "album": "The Immortal Otis Redding",
@@ -128,20 +142,6 @@
      "album": "El Hob El Kebir",
      "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
-    },
-    {
-     "name": "Ya Rabaâ",
-     "artists": "Fairuz",
-     "album": "Old Is Gold",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731ee488d2dd4491caedd0e044",
-     "url": "https://open.spotify.com/track/0iTidIMDh2IvGryXfUfpDM"
-    },
-    {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     }
    ],
    "artists": [
@@ -817,6 +817,62 @@
  },
  "recent": [
   {
+   "name": "Devil In A New Dress",
+   "artists": "Kanye West, Rick Ross",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
+   "played_at": "2026-09-21T18:12:21.155Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-09-21T18:06:10.563Z"
+  },
+  {
+   "name": "Everything I Am",
+   "artists": "Kanye West, DJ Premier",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr",
+   "played_at": "2026-09-21T17:56:40.506Z"
+  },
+  {
+   "name": "I Wonder",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+   "played_at": "2026-09-21T17:52:54.618Z"
+  },
+  {
+   "name": "Flashing Lights",
+   "artists": "Kanye West, Dwele",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+   "played_at": "2026-09-21T17:47:33.978Z"
+  },
+  {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-09-21T17:41:23.177Z"
+  },
+  {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-09-21T17:37:20.128Z"
+  },
+  {
+   "name": "Emsek Yadi'",
+   "artists": "Samir Sorour",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737a2d3895f8e5fdc816e4753e",
+   "url": "https://open.spotify.com/track/7kJEnV8k6ONFxIMeyMQJjw",
+   "played_at": "2026-09-21T17:35:17.134Z"
+  },
+  {
    "name": "Blue Ain't Your Color",
    "artists": "Keith Urban",
    "image": "https://i.scdn.co/image/ab67616d0000b27354cf35cdbebd3ff59e9328b4",
@@ -1109,62 +1165,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
    "url": "https://open.spotify.com/track/1Snko28yJOihcRVXs9dAo9",
    "played_at": "2026-09-20T01:28:24.251Z"
-  },
-  {
-   "name": "Lying In The Sunshine",
-   "artists": "Free",
-   "image": "https://i.scdn.co/image/ab67616d0000b273640df56fe46cd51896a00810",
-   "url": "https://open.spotify.com/track/7iA3xHruObBBOiqYRUVKTD",
-   "played_at": "2026-09-20T01:24:34.472Z"
-  },
-  {
-   "name": "Charcoal Baby",
-   "artists": "Blood Orange",
-   "image": "https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6",
-   "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS",
-   "played_at": "2026-09-20T01:20:43.974Z"
-  },
-  {
-   "name": "It Runs Through Me (feat. De La Soul)",
-   "artists": "Tom Misch, De La Soul",
-   "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
-   "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy",
-   "played_at": "2026-09-20T01:16:43.672Z"
-  },
-  {
-   "name": "He Loves Me",
-   "artists": "Brittany Howard",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
-   "played_at": "2026-09-20T01:12:23.780Z"
-  },
-  {
-   "name": "Gap in the Clouds",
-   "artists": "Yellow Days",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
-   "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2",
-   "played_at": "2026-09-20T01:09:54.075Z"
-  },
-  {
-   "name": "Pluto Projector",
-   "artists": "Rex Orange County",
-   "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
-   "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc",
-   "played_at": "2026-09-20T01:05:15.978Z"
-  },
-  {
-   "name": "Why Are There Boundaries",
-   "artists": "FKJ",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
-   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
-   "played_at": "2026-09-20T01:00:50.478Z"
-  },
-  {
-   "name": "Chocolate Hills",
-   "artists": "Khruangbin, Leon Bridges",
-   "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
-   "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
-   "played_at": "2026-09-20T00:57:49.976Z"
   }
  ]
 }
