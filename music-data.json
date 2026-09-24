@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T10:49:09.045825+00:00",
+ "updated": "2026-09-24T16:12:10.409804+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -808,6 +808,13 @@
  },
  "recent": [
   {
+   "name": "Bayni Wa Baynak",
+   "artists": "Hoda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
+   "played_at": "2026-09-24T11:27:49.804Z"
+  },
+  {
    "name": "Takassim 'Banat Iskandariya'",
    "artists": "Oriental Lebanese Band",
    "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
@@ -1149,13 +1156,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
    "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
    "played_at": "2026-09-20T02:43:21.438Z"
-  },
-  {
-   "name": "Bizakker Bil Kharif - Take 2",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
-   "url": "https://open.spotify.com/track/1p1JHznu0xR8CLSLceMCpo",
-   "played_at": "2026-09-20T02:40:49.186Z"
   }
  ]
 }
