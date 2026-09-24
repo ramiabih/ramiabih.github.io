@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T02:25:41.807495+00:00",
+ "updated": "2026-09-24T10:49:09.045825+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,18 +11,18 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
      "name": "Wahdon",
@@ -46,6 +46,13 @@
      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
      "name": "CALIFORNIA - the OC theme",
      "artists": "Phantom Planet",
      "album": "CALIFORNIA (the OC theme)",
@@ -53,11 +60,25 @@
      "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
      "name": "Why Are There Boundaries",
@@ -74,41 +95,6 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
-     "name": "Kiss of Life",
-     "artists": "Sade",
-     "album": "The Best of Sade",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
-     "name": "Hell N Back",
-     "artists": "Bakar",
-     "album": "Hell N Back (Sped Up)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-    },
-    {
-     "name": "Ya Helou",
-     "artists": "Adam",
-     "album": "Ya Helou",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
-    },
-    {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
      "name": "Runaway",
      "artists": "Kanye West, Pusha T",
      "album": "My Beautiful Dark Twisted Fantasy",
@@ -123,6 +109,13 @@
      "url": "https://open.spotify.com/track/3fjbvX7yos9aI0YNRVdAzb"
     },
     {
+     "name": "Ya Ana Ya Ana - Live",
+     "artists": "Fairuz",
+     "album": "Shahrazad (Live)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
+     "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg"
+    },
+    {
      "name": "He Loves Me",
      "artists": "Brittany Howard",
      "album": "Jaime",
@@ -135,6 +128,13 @@
      "album": "Maarifti Feek",
      "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
      "url": "https://open.spotify.com/track/5j14q3oFK4AkZ474kxMBQz"
+    },
+    {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
      "name": "Everything I Am",
@@ -175,15 +175,6 @@
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": []
-    },
-    {
-     "name": "David Bowie",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
-     "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy",
-     "genres": [
-      "glam rock",
-      "art rock"
-     ]
     },
     {
      "name": "The Beatles",
@@ -817,6 +808,62 @@
  },
  "recent": [
   {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-09-24T09:35:34.436Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-09-24T09:31:40.002Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-09-24T09:25:44.995Z"
+  },
+  {
+   "name": "Tamally Maak",
+   "artists": "Amr Diab",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+   "played_at": "2026-09-24T09:22:41.435Z"
+  },
+  {
+   "name": "Ya Ana Ya Ana - Live",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
+   "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg",
+   "played_at": "2026-09-24T09:18:09.456Z"
+  },
+  {
+   "name": "Hekm El Alb",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+   "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5",
+   "played_at": "2026-09-24T09:15:39.129Z"
+  },
+  {
+   "name": "Aloula",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy",
+   "played_at": "2026-09-24T09:09:52.734Z"
+  },
+  {
+   "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
+   "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
+   "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s",
+   "played_at": "2026-09-23T07:56:40.438Z"
+  },
+  {
    "name": "I Think I Like When It Rains",
    "artists": "WILLIS",
    "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
@@ -1109,62 +1156,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
    "url": "https://open.spotify.com/track/1p1JHznu0xR8CLSLceMCpo",
    "played_at": "2026-09-20T02:40:49.186Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
-   "played_at": "2026-09-20T02:37:49.066Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-09-20T02:20:46.521Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-09-20T02:20:41.446Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-09-20T01:57:53.979Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-09-20T01:45:37.255Z"
-  },
-  {
-   "name": "Breakfast in Bed",
-   "artists": "Mayer Hawthorne",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fb8ea05deeb8233e73ed5148",
-   "url": "https://open.spotify.com/track/48aAmHfCQXi9H5pIkZf3xj",
-   "played_at": "2026-09-20T01:42:59.254Z"
-  },
-  {
-   "name": "Friday Morning - Recorded at Spotify Studios NYC",
-   "artists": "Khruangbin",
-   "image": "https://i.scdn.co/image/ab67616d0000b273df6e8dd95841ca51c88325e1",
-   "url": "https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy",
-   "played_at": "2026-09-20T01:38:53.772Z"
-  },
-  {
-   "name": "Morning Dew",
-   "artists": "Matt Quentin",
-   "image": "https://i.scdn.co/image/ab67616d0000b273bff3d6b78adf2e26e6cad909",
-   "url": "https://open.spotify.com/track/6c1cfkmxM66A3r7qAuKvsr",
-   "played_at": "2026-09-20T01:32:19.273Z"
   }
  ]
 }
