@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T20:58:07.888529+00:00",
+ "updated": "2026-09-25T02:42:17.586827+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -191,6 +191,15 @@
      ]
     },
     {
+     "name": "Pale Jay",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb8f9248427efd447ee9bb61a3",
+     "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM",
+     "genres": [
+      "retro soul",
+      "indie soul"
+     ]
+    },
+    {
      "name": "Khruangbin",
      "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
      "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
@@ -214,6 +223,15 @@
      "genres": [
       "classic rock",
       "psychedelic rock"
+     ]
+    },
+    {
+     "name": "Mayer Hawthorne",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebc465e461c7e8833253a89063",
+     "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O",
+     "genres": [
+      "retro soul",
+      "pop soul"
      ]
     },
     {
@@ -839,6 +857,104 @@
  },
  "recent": [
   {
+   "name": "Hey Little Baby",
+   "artists": "DOPE LEMON",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738775ad8a2b68f96f454b580a",
+   "url": "https://open.spotify.com/track/4A3kzEpEbviXXvj7AuHm74",
+   "played_at": "2026-09-24T21:03:26.619Z"
+  },
+  {
+   "name": "Shameful Game",
+   "artists": "Pale Jay",
+   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
+   "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx",
+   "played_at": "2026-09-24T20:58:10.989Z"
+  },
+  {
+   "name": "Love Again",
+   "artists": "Moon Soul",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d5be4bc580e37f0d0a9782e9",
+   "url": "https://open.spotify.com/track/31Sr3l0OKMn5gG2A1toFpj",
+   "played_at": "2026-09-24T20:55:07.996Z"
+  },
+  {
+   "name": "Pictures of You",
+   "artists": "Drugdealer, Kate Bollinger",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e206a794a9ec45516eb6de6d",
+   "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
+   "played_at": "2026-09-24T20:52:46.050Z"
+  },
+  {
+   "name": "Teardrops",
+   "artists": "NEIL FRANCES",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733feee87ba987459cd681b071",
+   "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm",
+   "played_at": "2026-09-24T20:49:38.518Z"
+  },
+  {
+   "name": "B'nD",
+   "artists": "Connan Mockasin",
+   "image": "https://i.scdn.co/image/ab67616d0000b27327836860ec501aa01951050d",
+   "url": "https://open.spotify.com/track/5fty13GaUkkD31bHwB6Bse",
+   "played_at": "2026-09-24T20:46:22.218Z"
+  },
+  {
+   "name": "Got To Be Good",
+   "artists": "Gotts Street Park, Pip Millett",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
+   "url": "https://open.spotify.com/track/59QJsTw38Jj13WnR1qz1MC",
+   "played_at": "2026-09-24T20:42:47.626Z"
+  },
+  {
+   "name": "Donny In Valdez",
+   "artists": "Pale Jay",
+   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
+   "url": "https://open.spotify.com/track/2DDotwiQOexZwpf2uH83gC",
+   "played_at": "2026-09-24T20:40:09.718Z"
+  },
+  {
+   "name": "When I'm in Your Arms",
+   "artists": "Cleo Sol",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734090a5cf4a046710a3e5f577",
+   "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo",
+   "played_at": "2026-09-24T20:37:17.010Z"
+  },
+  {
+   "name": "Both Sides Of The Moon",
+   "artists": "Celeste, Gotts Street Park",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a724f0a2c23fdc0ef98201b8",
+   "url": "https://open.spotify.com/track/76oWruR7pYy8Fjvgn4KBUA",
+   "played_at": "2026-09-24T20:31:43.812Z"
+  },
+  {
+   "name": "Is It a Crime",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
+   "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME",
+   "played_at": "2026-09-24T20:27:28.434Z"
+  },
+  {
+   "name": "Heaven Knows",
+   "artists": "54 Ultra",
+   "image": "https://i.scdn.co/image/ab67616d0000b27396b331e479adacf1ca778c2c",
+   "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc",
+   "played_at": "2026-09-24T20:21:09.330Z"
+  },
+  {
+   "name": "A Long Time",
+   "artists": "Mayer Hawthorne",
+   "image": "https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152",
+   "url": "https://open.spotify.com/track/6g6HrbsIFI9GrGLtYOFE8U",
+   "played_at": "2026-09-24T20:18:09.403Z"
+  },
+  {
+   "name": "Under The Magnolia Tree",
+   "artists": "Pale Jay",
+   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
+   "url": "https://open.spotify.com/track/3taMsBBraU23lStSSq3QuH",
+   "played_at": "2026-09-24T20:14:30.419Z"
+  },
+  {
    "name": "Everything",
    "artists": "Gotts Street Park, Rosie Lowe",
    "image": "https://i.scdn.co/image/ab67616d0000b273fea907607012d0b9f250043f",
@@ -1089,104 +1205,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
    "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
    "played_at": "2026-09-24T17:46:16.766Z"
-  },
-  {
-   "name": "Hell N Back",
-   "artists": "Bakar",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-   "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP",
-   "played_at": "2026-09-24T17:42:07.356Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-09-24T17:38:35.866Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-09-24T11:27:49.804Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-09-24T09:35:34.436Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-09-24T09:31:40.002Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-09-24T09:25:44.995Z"
-  },
-  {
-   "name": "Tamally Maak",
-   "artists": "Amr Diab",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-   "played_at": "2026-09-24T09:22:41.435Z"
-  },
-  {
-   "name": "Ya Ana Ya Ana - Live",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27354937778f65ebf40275957cb",
-   "url": "https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg",
-   "played_at": "2026-09-24T09:18:09.456Z"
-  },
-  {
-   "name": "Hekm El Alb",
-   "artists": "Wael Kfoury",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-   "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5",
-   "played_at": "2026-09-24T09:15:39.129Z"
-  },
-  {
-   "name": "Aloula",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy",
-   "played_at": "2026-09-24T09:09:52.734Z"
-  },
-  {
-   "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
-   "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
-   "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s",
-   "played_at": "2026-09-23T07:56:40.438Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-09-23T07:56:20.536Z"
-  },
-  {
-   "name": "Devil In A New Dress",
-   "artists": "Kanye West, Rick Ross",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
-   "played_at": "2026-09-21T18:12:21.155Z"
-  },
-  {
-   "name": "Runaway",
-   "artists": "Kanye West, Pusha T",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
-   "played_at": "2026-09-21T18:06:10.563Z"
   }
  ]
 }
