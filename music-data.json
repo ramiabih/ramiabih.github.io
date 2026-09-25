@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T10:53:06.512854+00:00",
+ "updated": "2026-09-25T16:13:13.523690+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -857,6 +857,13 @@
  },
  "recent": [
   {
+   "name": "The Sweetest Taboo",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
+   "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf",
+   "played_at": "2026-09-24T22:52:51.770Z"
+  },
+  {
    "name": "Hey Little Baby",
    "artists": "DOPE LEMON",
    "image": "https://i.scdn.co/image/ab67616d0000b2738775ad8a2b68f96f454b580a",
@@ -1198,13 +1205,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
    "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
    "played_at": "2026-09-24T17:49:25.164Z"
-  },
-  {
-   "name": "Kiss of Life",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
-   "played_at": "2026-09-24T17:46:16.766Z"
   }
  ]
 }
