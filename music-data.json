@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T02:45:40.085330+00:00",
+ "updated": "2026-09-27T11:05:46.928084+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -25,6 +25,13 @@
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
+    },
+    {
      "name": "Wahdon",
      "artists": "Fairuz",
      "album": "Habbaitak Tanseet El Noum",
@@ -39,18 +46,18 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Flashing Lights",
-     "artists": "Kanye West, Dwele",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
      "name": "CALIFORNIA - the OC theme",
@@ -81,6 +88,13 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
+     "name": "Runaway",
+     "artists": "Kanye West, Pusha T",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
      "name": "Bisaraha",
      "artists": "Ziad Rahbani",
      "album": "Houdou Nisbi",
@@ -102,6 +116,13 @@
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
+     "name": "Everything I Am",
+     "artists": "Kanye West, DJ Premier",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
+    },
+    {
      "name": "Hell N Back",
      "artists": "Bakar",
      "album": "Hell N Back (Sped Up)",
@@ -109,48 +130,21 @@
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     },
     {
-     "name": "The Glory",
+     "name": "Devil In A New Dress",
+     "artists": "Kanye West, Rick Ross",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
+    },
+    {
+     "name": "I Wonder",
      "artists": "Kanye West",
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
-     "name": "It Runs Through Me (feat. De La Soul)",
-     "artists": "Tom Misch, De La Soul",
-     "album": "Geography",
-     "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
-     "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-     "name": "Runaway",
-     "artists": "Kanye West, Pusha T",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
-    },
-    {
-     "name": "Ya Helou",
-     "artists": "Adam",
-     "album": "Ya Helou",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
-    },
-    {
-     "name": "Everything I Am",
-     "artists": "Kanye West, DJ Premier",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
+     "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
     }
    ],
    "artists": [
-    {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
     {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
@@ -158,6 +152,12 @@
      "genres": [
       "rap"
      ]
+    },
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
     },
     {
      "name": "Ziad Rahbani",
@@ -846,6 +846,76 @@
  },
  "recent": [
   {
+   "name": "Cherish the Day",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+   "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w",
+   "played_at": "2026-09-27T09:56:28.574Z"
+  },
+  {
+   "name": "Will I See You Again?",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a6523c6cecb43b3c2f44fd1e",
+   "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
+   "played_at": "2026-09-27T09:50:58.597Z"
+  },
+  {
+   "name": "Sometimes",
+   "artists": "Erykah Badu",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
+   "url": "https://open.spotify.com/track/2ESN3ebvvqXcFAMxxn6QXF",
+   "played_at": "2026-09-27T09:46:35.089Z"
+  },
+  {
+   "name": "Heartless",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+   "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5",
+   "played_at": "2026-09-27T09:36:36.810Z"
+  },
+  {
+   "name": "Devil In A New Dress",
+   "artists": "Kanye West, Rick Ross",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
+   "played_at": "2026-09-27T09:33:48.187Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-09-27T09:27:58.102Z"
+  },
+  {
+   "name": "Everything I Am",
+   "artists": "Kanye West, DJ Premier",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr",
+   "played_at": "2026-09-27T09:18:52.257Z"
+  },
+  {
+   "name": "I Wonder",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+   "played_at": "2026-09-27T09:15:06.374Z"
+  },
+  {
+   "name": "Flashing Lights",
+   "artists": "Kanye West, Dwele",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+   "played_at": "2026-09-27T09:10:33.548Z"
+  },
+  {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-09-27T09:06:38.063Z"
+  },
+  {
    "name": "AWGAZI",
    "artists": "Palm Monkey, RUSSI, The Palm Tree Boy",
    "image": "https://i.scdn.co/image/ab67616d0000b2739b54d562b56df90f6c409fad",
@@ -1124,76 +1194,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
    "url": "https://open.spotify.com/track/2DDotwiQOexZwpf2uH83gC",
    "played_at": "2026-09-24T20:40:09.718Z"
-  },
-  {
-   "name": "When I'm in Your Arms",
-   "artists": "Cleo Sol",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734090a5cf4a046710a3e5f577",
-   "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo",
-   "played_at": "2026-09-24T20:37:17.010Z"
-  },
-  {
-   "name": "Both Sides Of The Moon",
-   "artists": "Celeste, Gotts Street Park",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a724f0a2c23fdc0ef98201b8",
-   "url": "https://open.spotify.com/track/76oWruR7pYy8Fjvgn4KBUA",
-   "played_at": "2026-09-24T20:31:43.812Z"
-  },
-  {
-   "name": "Is It a Crime",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
-   "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME",
-   "played_at": "2026-09-24T20:27:28.434Z"
-  },
-  {
-   "name": "Heaven Knows",
-   "artists": "54 Ultra",
-   "image": "https://i.scdn.co/image/ab67616d0000b27396b331e479adacf1ca778c2c",
-   "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc",
-   "played_at": "2026-09-24T20:21:09.330Z"
-  },
-  {
-   "name": "A Long Time",
-   "artists": "Mayer Hawthorne",
-   "image": "https://i.scdn.co/image/ab67616d0000b27369069f0a19609de8db3e7152",
-   "url": "https://open.spotify.com/track/6g6HrbsIFI9GrGLtYOFE8U",
-   "played_at": "2026-09-24T20:18:09.403Z"
-  },
-  {
-   "name": "Under The Magnolia Tree",
-   "artists": "Pale Jay",
-   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
-   "url": "https://open.spotify.com/track/3taMsBBraU23lStSSq3QuH",
-   "played_at": "2026-09-24T20:14:30.419Z"
-  },
-  {
-   "name": "Everything",
-   "artists": "Gotts Street Park, Rosie Lowe",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fea907607012d0b9f250043f",
-   "url": "https://open.spotify.com/track/2ncwkPlvdbLpgd3d1Kvlo6",
-   "played_at": "2026-09-24T20:11:25.109Z"
-  },
-  {
-   "name": "White Gloves",
-   "artists": "Khruangbin",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e08ee206ad63148105336a19",
-   "url": "https://open.spotify.com/track/7g18n5nxV5ep8ugBR3BmHD",
-   "played_at": "2026-09-24T20:07:51.566Z"
-  },
-  {
-   "name": "Like a Tattoo",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-   "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
-   "played_at": "2026-09-24T20:04:15.206Z"
-  },
-  {
-   "name": "It's Our Love",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b273013c2a2a3ae10543122a4fd7",
-   "url": "https://open.spotify.com/track/4A6zEXlSk7xIIqDh92iZ26",
-   "played_at": "2026-09-24T20:00:39.220Z"
   }
  ]
 }
