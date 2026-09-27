@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T20:25:33.422668+00:00",
+ "updated": "2026-09-27T02:45:40.085330+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -360,18 +360,18 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
      "name": "Hekm El Alb",
      "artists": "Wael Kfoury",
      "album": "Hekm El Alb",
      "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
      "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+    },
+    {
+     "name": "The Middle East... W Ameh - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
      "name": "Bent El Chalabiya",
@@ -458,19 +458,19 @@
      "genres": []
     },
     {
-     "name": "Louis Brigham",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
-     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
-     ]
-    },
-    {
      "name": "Khruangbin",
      "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
      "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
      "genres": [
       "neo-psychedelic"
+     ]
+    },
+    {
+     "name": "Louis Brigham",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
+     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
+     "genres": [
+      "adult standards"
      ]
     },
     {
@@ -495,6 +495,15 @@
      "genres": []
     },
     {
+     "name": "The Beatles",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb119b61b35985e3b957c5ecb7",
+     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
+     "genres": [
+      "classic rock",
+      "psychedelic rock"
+     ]
+    },
+    {
      "name": "Elias Rahbani",
      "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
      "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS",
@@ -508,15 +517,6 @@
       "chanson",
       "variété française",
       "french jazz"
-     ]
-    },
-    {
-     "name": "The Beatles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb119b61b35985e3b957c5ecb7",
-     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
-     "genres": [
-      "classic rock",
-      "psychedelic rock"
      ]
     },
     {
