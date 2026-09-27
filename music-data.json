@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T16:05:55.441724+00:00",
+ "updated": "2026-09-27T20:38:36.082231+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -137,11 +137,11 @@
      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
-     "name": "I Wonder",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     }
    ],
    "artists": [
@@ -262,18 +262,18 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Bala Wala Chi - Live",
@@ -290,6 +290,13 @@
      "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
     },
     {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani, Joseph Saker",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
@@ -302,13 +309,6 @@
      "album": "Houdou Nisbi",
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Tamally Maak",
@@ -374,11 +374,11 @@
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
-     "name": "Bent El Chalabiya",
-     "artists": "Munir Bachir",
-     "album": "Aoud Around the Arab World",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735f110e25a76562943c1b4464",
-     "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     }
    ],
    "artists": [
@@ -474,6 +474,12 @@
      ]
     },
     {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
+    },
+    {
      "name": "Aviram",
      "image": "https://i.scdn.co/image/ab6761610000e5ebb280d96ba1eb1508e278dc6b",
      "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8",
@@ -487,12 +493,6 @@
       "indie",
       "lo-fi indie"
      ]
-    },
-    {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
     },
     {
      "name": "The Beatles",
@@ -620,18 +620,18 @@
      "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
     },
     {
-     "name": "Aloula",
-     "artists": "Fairuz",
-     "album": "Fairuz - Modern Favorites",
-     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
-    },
-    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "Aloula",
+     "artists": "Fairuz",
+     "album": "Fairuz - Modern Favorites",
+     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
     },
     {
      "name": "Oum Fout Nam",
@@ -845,6 +845,20 @@
   }
  },
  "recent": [
+  {
+   "name": "Ya Ashikat El Ward",
+   "artists": "Zaki Nassif",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+   "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
+   "played_at": "2026-09-27T16:37:13.546Z"
+  },
+  {
+   "name": "Ya Ashikat El Ward",
+   "artists": "Zaki Nassif",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+   "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
+   "played_at": "2026-09-27T16:37:13.546Z"
+  },
   {
    "name": "Bayni Wa Baynak",
    "artists": "Hoda",
@@ -1180,20 +1194,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2738775ad8a2b68f96f454b580a",
    "url": "https://open.spotify.com/track/4A3kzEpEbviXXvj7AuHm74",
    "played_at": "2026-09-24T21:03:26.619Z"
-  },
-  {
-   "name": "Shameful Game",
-   "artists": "Pale Jay",
-   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
-   "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx",
-   "played_at": "2026-09-24T20:58:10.989Z"
-  },
-  {
-   "name": "Love Again",
-   "artists": "Moon Soul",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d5be4bc580e37f0d0a9782e9",
-   "url": "https://open.spotify.com/track/31Sr3l0OKMn5gG2A1toFpj",
-   "played_at": "2026-09-24T20:55:07.996Z"
   }
  ]
 }
