@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T02:47:09.992286+00:00",
+ "updated": "2026-09-28T12:28:01.077001+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -346,6 +346,13 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+    },
+    {
      "name": "Ana Le Habiby",
      "artists": "Fairuz",
      "album": "Ya Reit",
@@ -372,13 +379,6 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     }
    ],
    "artists": [
@@ -846,6 +846,13 @@
  },
  "recent": [
   {
+   "name": "Emsek Yadi'",
+   "artists": "Samir Sorour",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737a2d3895f8e5fdc816e4753e",
+   "url": "https://open.spotify.com/track/7kJEnV8k6ONFxIMeyMQJjw",
+   "played_at": "2026-09-27T21:41:05.414Z"
+  },
+  {
    "name": "Ya Ashikat El Ward",
    "artists": "Zaki Nassif",
    "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
@@ -1187,13 +1194,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
    "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf",
    "played_at": "2026-09-24T22:52:51.770Z"
-  },
-  {
-   "name": "Hey Little Baby",
-   "artists": "DOPE LEMON",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738775ad8a2b68f96f454b580a",
-   "url": "https://open.spotify.com/track/4A3kzEpEbviXXvj7AuHm74",
-   "played_at": "2026-09-24T21:03:26.619Z"
   }
  ]
 }
