@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T20:38:36.082231+00:00",
+ "updated": "2026-09-28T02:47:09.992286+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -65,6 +65,13 @@
      "album": "CALIFORNIA (the OC theme)",
      "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
      "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ"
+    },
+    {
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     },
     {
      "name": "Pluto Projector",
@@ -135,13 +142,6 @@
      "album": "My Beautiful Dark Twisted Fantasy",
      "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
-    },
-    {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     }
    ],
    "artists": [
