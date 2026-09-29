@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T17:21:13.151750+00:00",
+ "updated": "2026-09-29T21:41:38.349186+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -745,20 +745,20 @@
      "genres": []
     },
     {
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "genres": [
+      "neo-psychedelic"
+     ]
+    },
+    {
      "name": "Mac DeMarco",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
      "genres": [
       "indie",
       "lo-fi indie"
-     ]
-    },
-    {
-     "name": "Khruangbin",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
-     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": [
-      "neo-psychedelic"
      ]
     },
     {
