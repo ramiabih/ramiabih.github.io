@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T03:28:46.663432+00:00",
+ "updated": "2026-09-29T11:51:52.531196+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -472,24 +472,18 @@
      ]
     },
     {
-     "name": "Louis Brigham",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
-     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
-     ]
-    },
-    {
      "name": "Sade",
      "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
      "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
      "genres": []
     },
     {
-     "name": "Aviram",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb280d96ba1eb1508e278dc6b",
-     "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8",
-     "genres": []
+     "name": "Louis Brigham",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
+     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
+     "genres": [
+      "adult standards"
+     ]
     },
     {
      "name": "Mac DeMarco",
@@ -499,6 +493,12 @@
       "indie",
       "lo-fi indie"
      ]
+    },
+    {
+     "name": "Aviram",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb280d96ba1eb1508e278dc6b",
+     "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8",
+     "genres": []
     },
     {
      "name": "The Beatles",
@@ -532,10 +532,13 @@
      "genres": []
     },
     {
-     "name": "Lana Del Rey",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-     "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
-     "genres": []
+     "name": "Pale Jay",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb8f9248427efd447ee9bb61a3",
+     "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM",
+     "genres": [
+      "retro soul",
+      "indie soul"
+     ]
     }
    ]
   },
