@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T17:07:12.821852+00:00",
+ "updated": "2026-10-02T21:37:55.746780+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,13 +11,6 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
      "name": "I Think I Like When It Rains",
      "artists": "WILLIS",
      "album": "Locals 2",
@@ -25,11 +18,11 @@
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -39,18 +32,25 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Flashing Lights",
-     "artists": "Kanye West, Dwele",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
      "name": "Wahdon",
      "artists": "Fairuz",
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+    },
+    {
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
      "name": "The Glory",
@@ -65,6 +65,13 @@
      "album": "Pony",
      "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
      "name": "Why Are There Boundaries",
@@ -95,13 +102,6 @@
      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
      "name": "He Loves Me",
      "artists": "Brittany Howard",
      "album": "Jaime",
@@ -116,6 +116,13 @@
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
      "name": "Everything I Am",
      "artists": "Kanye West, DJ Premier",
      "album": "Graduation",
@@ -123,25 +130,18 @@
      "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
     },
     {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
      "name": "Devil In A New Dress",
      "artists": "Kanye West, Rick Ross",
      "album": "My Beautiful Dark Twisted Fantasy",
      "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
-    },
-    {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
-     "name": "I Wonder",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
     }
    ],
    "artists": [
@@ -170,6 +170,15 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
      "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
      "genres": []
+    },
+    {
+     "name": "Wael Kfoury",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
+     "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
+     "genres": [
+      "khaleeji",
+      "egyptian pop"
+     ]
     },
     {
      "name": "Khruangbin",
@@ -855,6 +864,125 @@
  },
  "recent": [
   {
+   "name": "PUNCH DRUNK",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV",
+   "played_at": "2026-10-02T20:04:06.404Z"
+  },
+  {
+   "name": "PREACHER MAN",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ",
+   "played_at": "2026-10-02T20:02:20.012Z"
+  },
+  {
+   "name": "BEAUTY AND THE BEAST",
+   "artists": "Kanye West, Ye",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn",
+   "played_at": "2026-10-02T19:59:20.420Z"
+  },
+  {
+   "name": "Shayef El Bahr",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
+   "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
+   "played_at": "2026-10-02T19:53:08.841Z"
+  },
+  {
+   "name": "It takes a lot to try",
+   "artists": "Aviram",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
+   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
+   "played_at": "2026-10-02T19:49:06.514Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-10-02T19:45:37.612Z"
+  },
+  {
+   "name": "Can I Call You Rose?",
+   "artists": "Isabel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
+   "played_at": "2026-10-02T19:39:08.669Z"
+  },
+  {
+   "name": "SOLEIL",
+   "artists": "Naïka",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
+   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
+   "played_at": "2026-10-02T19:36:03.305Z"
+  },
+  {
+   "name": "Ya Tair",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
+   "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD",
+   "played_at": "2026-10-02T19:32:16.904Z"
+  },
+  {
+   "name": "I'll Stay",
+   "artists": "The RH Factor, D'Angelo",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
+   "played_at": "2026-10-02T19:27:50.302Z"
+  },
+  {
+   "name": "El Bint El Awiye",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
+   "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw",
+   "played_at": "2026-10-02T19:18:10.893Z"
+  },
+  {
+   "name": "Aloula",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy",
+   "played_at": "2026-10-02T19:14:38.549Z"
+  },
+  {
+   "name": "Law Hobna Ghalta",
+   "artists": "Wael Kfoury",
+   "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+   "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
+   "played_at": "2026-10-02T19:06:18.474Z"
+  },
+  {
+   "name": "Ya Helou",
+   "artists": "Adam",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
+   "played_at": "2026-10-02T19:02:05.436Z"
+  },
+  {
+   "name": "Tamally Maak",
+   "artists": "Amr Diab",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+   "played_at": "2026-10-02T18:58:59.438Z"
+  },
+  {
+   "name": "I Think I Like When It Rains",
+   "artists": "WILLIS",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
+   "played_at": "2026-10-02T18:54:15.581Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-10-02T18:36:49.129Z"
+  },
+  {
    "name": "It takes a lot to try",
    "artists": "Aviram",
    "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
@@ -1084,125 +1212,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6",
    "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS",
    "played_at": "2026-09-28T18:47:33.580Z"
-  },
-  {
-   "name": "It Runs Through Me (feat. De La Soul)",
-   "artists": "Tom Misch, De La Soul",
-   "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
-   "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy",
-   "played_at": "2026-09-28T18:43:33.263Z"
-  },
-  {
-   "name": "He Loves Me",
-   "artists": "Brittany Howard",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
-   "played_at": "2026-09-28T18:39:13.362Z"
-  },
-  {
-   "name": "Gap in the Clouds",
-   "artists": "Yellow Days",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
-   "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2",
-   "played_at": "2026-09-28T18:36:43.642Z"
-  },
-  {
-   "name": "Why Are There Boundaries",
-   "artists": "FKJ",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
-   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
-   "played_at": "2026-09-28T18:27:45.561Z"
-  },
-  {
-   "name": "Chocolate Hills",
-   "artists": "Khruangbin, Leon Bridges",
-   "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
-   "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
-   "played_at": "2026-09-28T18:24:45.112Z"
-  },
-  {
-   "name": "Kiss of Life",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
-   "played_at": "2026-09-28T18:21:36.650Z"
-  },
-  {
-   "name": "Hell N Back",
-   "artists": "Bakar",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-   "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP",
-   "played_at": "2026-09-28T18:17:27.327Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-09-28T18:13:55.838Z"
-  },
-  {
-   "name": "Emsek Yadi'",
-   "artists": "Samir Sorour",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737a2d3895f8e5fdc816e4753e",
-   "url": "https://open.spotify.com/track/7kJEnV8k6ONFxIMeyMQJjw",
-   "played_at": "2026-09-27T21:41:05.414Z"
-  },
-  {
-   "name": "Ya Ashikat El Ward",
-   "artists": "Zaki Nassif",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-   "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
-   "played_at": "2026-09-27T16:37:13.546Z"
-  },
-  {
-   "name": "Ya Ashikat El Ward",
-   "artists": "Zaki Nassif",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-   "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3",
-   "played_at": "2026-09-27T16:37:13.546Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-09-27T12:38:39.201Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-09-27T12:36:08.752Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-09-27T12:33:32.993Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-09-27T12:21:27.886Z"
-  },
-  {
-   "name": "Tell Me Why",
-   "artists": "Gotts Street Park, Olive Jones",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
-   "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj",
-   "played_at": "2026-09-27T12:15:24.308Z"
-  },
-  {
-   "name": "Cherish the Day",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-   "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w",
-   "played_at": "2026-09-27T09:56:28.574Z"
   }
  ]
 }
