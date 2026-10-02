@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T11:38:13.513647+00:00",
+ "updated": "2026-10-02T17:07:12.821852+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,18 +11,18 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -60,20 +60,6 @@
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
-     "name": "Why Are There Boundaries",
-     "artists": "FKJ",
-     "album": "French Kiwi Juice",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
-     "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI"
-    },
-    {
-     "name": "Chocolate Hills",
-     "artists": "Khruangbin, Leon Bridges",
-     "album": "Texas Moon",
-     "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
-     "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
-    },
-    {
      "name": "Pluto Projector",
      "artists": "Rex Orange County",
      "album": "Pony",
@@ -81,25 +67,11 @@
      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
     },
     {
-     "name": "CALIFORNIA - the OC theme",
-     "artists": "Phantom Planet",
-     "album": "CALIFORNIA (the OC theme)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
-     "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ"
-    },
-    {
-     "name": "He Loves Me",
-     "artists": "Brittany Howard",
-     "album": "Jaime",
-     "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-     "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
-    },
-    {
-     "name": "Kiss of Life",
-     "artists": "Sade",
-     "album": "The Best of Sade",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+     "name": "Why Are There Boundaries",
+     "artists": "FKJ",
+     "album": "French Kiwi Juice",
+     "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
+     "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI"
     },
     {
      "name": "Hell N Back",
@@ -109,18 +81,11 @@
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     },
     {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
-     "name": "It Runs Through Me (feat. De La Soul)",
-     "artists": "Tom Misch, De La Soul",
-     "album": "Geography",
-     "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
-     "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+     "name": "Chocolate Hills",
+     "artists": "Khruangbin, Leon Bridges",
+     "album": "Texas Moon",
+     "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
+     "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
      "name": "Runaway",
@@ -137,11 +102,46 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
+     "name": "He Loves Me",
+     "artists": "Brittany Howard",
+     "album": "Jaime",
+     "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+     "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
+    },
+    {
+     "name": "Kiss of Life",
+     "artists": "Sade",
+     "album": "The Best of Sade",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+     "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
      "name": "Everything I Am",
      "artists": "Kanye West, DJ Premier",
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
      "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
+    },
+    {
+     "name": "Devil In A New Dress",
+     "artists": "Kanye West, Rick Ross",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
+    },
+    {
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+    },
+    {
+     "name": "I Wonder",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
     }
    ],
    "artists": [
@@ -855,6 +855,13 @@
  },
  "recent": [
   {
+   "name": "It takes a lot to try",
+   "artists": "Aviram",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
+   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
+   "played_at": "2026-10-02T07:12:15.024Z"
+  },
+  {
    "name": "Orange Moon",
    "artists": "Erykah Badu",
    "image": "https://i.scdn.co/image/ab67616d0000b2730d934cb462fae5a26f829efb",
@@ -1196,13 +1203,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
    "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w",
    "played_at": "2026-09-27T09:56:28.574Z"
-  },
-  {
-   "name": "Will I See You Again?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a6523c6cecb43b3c2f44fd1e",
-   "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
-   "played_at": "2026-09-27T09:50:58.597Z"
   }
  ]
 }
