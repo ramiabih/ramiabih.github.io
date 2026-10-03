@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T21:37:55.746780+00:00",
+ "updated": "2026-10-03T03:05:45.196422+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -176,8 +176,7 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji",
-      "egyptian pop"
+      "khaleeji"
      ]
     },
     {
@@ -291,13 +290,6 @@
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
      "name": "I Thought About Killing You",
      "artists": "Kanye West",
      "album": "ye",
@@ -312,18 +304,11 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani, Joseph Saker",
-     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
-    },
-    {
-     "name": "Bisaraha",
+     "name": "Bala Wala Chi - Live",
      "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
      "name": "Tamally Maak",
@@ -333,11 +318,18 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
-     "name": "Fayek Alaya",
-     "artists": "Fairuz",
-     "album": "El Leil We El Kandeel (From \"El Leil We El Kandeel\")",
-     "image": "https://i.scdn.co/image/ab67616d0000b273508056f4d4324b44b76d60cf",
-     "url": "https://open.spotify.com/track/4fwe3lM9xM79LMk0nGk9UJ"
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
      "name": "Shayef El Bahr Shou Kebeer",
@@ -354,25 +346,18 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+     "name": "Oum Fout Nam",
+     "artists": "Ziad Rahbani, Joseph Saker",
+     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
+     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "Ya Ashikat El Ward",
-     "artists": "Zaki Nassif",
-     "album": "Ya Ashikat El Ward",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
-     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
-     "name": "Ana Le Habiby",
-     "artists": "Fairuz",
-     "album": "Ya Reit",
-     "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
-     "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
      "name": "Nasini El Donya",
@@ -382,11 +367,11 @@
      "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
-     "name": "Hekm El Alb",
-     "artists": "Wael Kfoury",
-     "album": "Hekm El Alb",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+     "name": "Ana Le Habiby",
+     "artists": "Fairuz",
+     "album": "Ya Reit",
+     "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+     "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
      "name": "The Middle East... W Ameh - Live",
@@ -394,17 +379,23 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "Ya Ashikat El Ward",
+     "artists": "Zaki Nassif",
+     "album": "Ya Ashikat El Ward",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732648c47633e0ae920ba5eedb",
+     "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
+    },
+    {
+     "name": "Hekm El Alb",
+     "artists": "Wael Kfoury",
+     "album": "Hekm El Alb",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
+     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
     }
    ],
    "artists": [
-    {
-     "name": "Kanye West",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
-     "genres": [
-      "rap"
-     ]
-    },
     {
      "name": "Fairuz",
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
@@ -418,6 +409,14 @@
      "genres": []
     },
     {
+     "name": "Kanye West",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+     "genres": [
+      "rap"
+     ]
+    },
+    {
      "name": "ABBA",
      "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
      "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
@@ -428,8 +427,7 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji",
-      "egyptian pop"
+      "khaleeji"
      ]
     },
     {
@@ -720,8 +718,7 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji",
-      "egyptian pop"
+      "khaleeji"
      ]
     },
     {
@@ -863,6 +860,13 @@
   }
  },
  "recent": [
+  {
+   "name": "ALL THE LOVE (feat. Andre Troutman)",
+   "artists": "Kanye West, Ye, Andre Troutman",
+   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
+   "played_at": "2026-10-02T21:45:07.941Z"
+  },
   {
    "name": "PUNCH DRUNK",
    "artists": "Kanye West, Ye",
@@ -1205,13 +1209,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273640df56fe46cd51896a00810",
    "url": "https://open.spotify.com/track/7iA3xHruObBBOiqYRUVKTD",
    "played_at": "2026-09-28T18:51:24.044Z"
-  },
-  {
-   "name": "Charcoal Baby",
-   "artists": "Blood Orange",
-   "image": "https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6",
-   "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS",
-   "played_at": "2026-09-28T18:47:33.580Z"
   }
  ]
 }
