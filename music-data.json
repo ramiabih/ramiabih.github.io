@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T15:29:59.730003+00:00",
+ "updated": "2026-10-03T20:24:11.780607+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -53,13 +53,6 @@
      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
      "name": "Pluto Projector",
      "artists": "Rex Orange County",
      "album": "Pony",
@@ -67,11 +60,18 @@
      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
     },
     {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+     "name": "Gap in the Clouds",
+     "artists": "Yellow Days",
+     "album": "Harmless Melodies",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
+     "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
+    },
+    {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
      "name": "Why Are There Boundaries",
@@ -95,13 +95,6 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
-     "name": "Runaway",
-     "artists": "Kanye West, Pusha T",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
-    },
-    {
      "name": "He Loves Me",
      "artists": "Brittany Howard",
      "album": "Jaime",
@@ -116,6 +109,27 @@
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "It Runs Through Me (feat. De La Soul)",
+     "artists": "Tom Misch, De La Soul",
+     "album": "Geography",
+     "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
+     "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+     "name": "Runaway",
+     "artists": "Kanye West, Pusha T",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
      "name": "Ya Helou",
      "artists": "Adam",
      "album": "Ya Helou",
@@ -128,20 +142,6 @@
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
      "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
-    },
-    {
-     "name": "Shayef El Bahr Shou Kebeer",
-     "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
-    },
-    {
-     "name": "Devil In A New Dress",
-     "artists": "Kanye West, Rick Ross",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     }
    ],
    "artists": [
@@ -861,6 +861,41 @@
  },
  "recent": [
   {
+   "name": "It Runs Through Me (feat. De La Soul)",
+   "artists": "Tom Misch, De La Soul",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
+   "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy",
+   "played_at": "2026-10-03T16:43:59.534Z"
+  },
+  {
+   "name": "He Loves Me",
+   "artists": "Brittany Howard",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
+   "played_at": "2026-10-03T15:42:53.072Z"
+  },
+  {
+   "name": "Gap in the Clouds",
+   "artists": "Yellow Days",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
+   "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2",
+   "played_at": "2026-10-03T15:40:23.388Z"
+  },
+  {
+   "name": "Pluto Projector",
+   "artists": "Rex Orange County",
+   "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
+   "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc",
+   "played_at": "2026-10-03T15:35:42.027Z"
+  },
+  {
+   "name": "Why Are There Boundaries",
+   "artists": "FKJ",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
+   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
+   "played_at": "2026-10-03T15:30:34.647Z"
+  },
+  {
    "name": "Chocolate Hills",
    "artists": "Khruangbin, Leon Bridges",
    "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
@@ -1174,41 +1209,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
    "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs",
    "played_at": "2026-09-28T19:28:14.223Z"
-  },
-  {
-   "name": "Heart To Heart",
-   "artists": "Mac DeMarco",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
-   "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2",
-   "played_at": "2026-09-28T19:23:27.536Z"
-  },
-  {
-   "name": "Paradise",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
-   "played_at": "2026-09-28T19:19:58.437Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS",
-   "played_at": "2026-09-28T19:16:22.884Z"
-  },
-  {
-   "name": "Solitude",
-   "artists": "Billie Holiday",
-   "image": "https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1",
-   "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ",
-   "played_at": "2026-09-28T19:13:14.341Z"
-  },
-  {
-   "name": "Breakfast in Bed",
-   "artists": "Mayer Hawthorne",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fb8ea05deeb8233e73ed5148",
-   "url": "https://open.spotify.com/track/48aAmHfCQXi9H5pIkZf3xj",
-   "played_at": "2026-09-28T19:09:48.806Z"
   }
  ]
 }
