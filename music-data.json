@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T04:02:47.102829+00:00",
+ "updated": "2026-10-06T12:29:21.531427+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -860,6 +860,48 @@
   }
  },
  "recent": [
+  {
+   "name": "Bayni Wa Baynak",
+   "artists": "Hoda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
+   "played_at": "2026-10-06T11:58:06.509Z"
+  },
+  {
+   "name": "Takassim 'Banat Iskandariya'",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
+   "played_at": "2026-10-06T11:55:36.121Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-10-06T11:51:41.725Z"
+  },
+  {
+   "name": "I Think I Like When It Rains",
+   "artists": "WILLIS",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
+   "played_at": "2026-10-06T11:44:08.803Z"
+  },
+  {
+   "name": "Harvest Moon",
+   "artists": "Neil Young",
+   "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
+   "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
+   "played_at": "2026-10-06T06:04:14.567Z"
+  },
+  {
+   "name": "I'm Not Okay (I Promise)",
+   "artists": "My Chemical Romance",
+   "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+   "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd",
+   "played_at": "2026-10-06T06:04:14.567Z"
+  },
   {
    "name": "I Think I Like When It Rains",
    "artists": "WILLIS",
