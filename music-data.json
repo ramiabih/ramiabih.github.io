@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T23:30:41.646944+00:00",
+ "updated": "2026-10-06T04:02:47.102829+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,13 +16,6 @@
      "album": "Locals 2",
      "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -65,6 +58,13 @@
      "album": "Harmless Melodies",
      "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
      "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "The Glory",
