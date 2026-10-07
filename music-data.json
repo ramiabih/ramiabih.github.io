@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:22:37.591172+00:00",
+ "updated": "2026-10-07T22:28:04.006463+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -367,6 +367,13 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
+     "name": "The Middle East... W Ameh - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
      "name": "Nasini El Donya",
      "artists": "Ragheb Alama",
      "album": "El Hob El Kebir",
@@ -379,13 +386,6 @@
      "album": "Ya Reit",
      "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
-    },
-    {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
      "name": "Ya Ashikat El Ward",
@@ -869,6 +869,27 @@
   }
  },
  "recent": [
+  {
+   "name": "Matrahak Bi Albi",
+   "artists": "Majida El Roumi",
+   "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
+   "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp",
+   "played_at": "2026-10-07T21:33:41.553Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
+   "played_at": "2026-10-07T21:28:39.601Z"
+  },
+  {
+   "name": "The Middle East... W Ameh - Live",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+   "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM",
+   "played_at": "2026-10-07T21:20:01.354Z"
+  },
   {
    "name": "The Middle East... W Ameh - Live",
    "artists": "Ziad Rahbani",
