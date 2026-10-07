@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T22:03:20.676830+00:00",
+ "updated": "2026-10-07T03:31:14.540175+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -757,20 +757,20 @@
      "genres": []
     },
     {
-     "name": "Khruangbin",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
-     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": [
-      "neo-psychedelic"
-     ]
-    },
-    {
      "name": "Mac DeMarco",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
      "genres": [
       "indie",
       "lo-fi indie"
+     ]
+    },
+    {
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "genres": [
+      "neo-psychedelic"
      ]
     },
     {
@@ -789,6 +789,12 @@
      "genres": []
     },
     {
+     "name": "Thundercat",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
+     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
+     "genres": []
+    },
+    {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
      "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
@@ -798,12 +804,6 @@
       "classic soul",
       "soul blues"
      ]
-    },
-    {
-     "name": "Thundercat",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
-     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-     "genres": []
     },
     {
      "name": "¥$",
