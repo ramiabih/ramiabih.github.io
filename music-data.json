@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T03:31:14.540175+00:00",
+ "updated": "2026-10-07T12:22:37.591172+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -46,20 +46,6 @@
      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
-     "name": "Pluto Projector",
-     "artists": "Rex Orange County",
-     "album": "Pony",
-     "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
-     "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
-    },
-    {
-     "name": "Hell N Back",
-     "artists": "Bakar",
-     "album": "Hell N Back (Sped Up)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-    },
-    {
      "name": "Gap in the Clouds",
      "artists": "Yellow Days",
      "album": "Harmless Melodies",
@@ -81,6 +67,27 @@
      "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
+     "name": "Pluto Projector",
+     "artists": "Rex Orange County",
+     "album": "Pony",
+     "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
+     "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
+    },
+    {
+     "name": "Hell N Back",
+     "artists": "Bakar",
+     "album": "Hell N Back (Sped Up)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
      "name": "Why Are There Boundaries",
      "artists": "FKJ",
      "album": "French Kiwi Juice",
@@ -88,11 +95,25 @@
      "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI"
     },
     {
+     "name": "It Runs Through Me (feat. De La Soul)",
+     "artists": "Tom Misch, De La Soul",
+     "album": "Geography",
+     "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
+     "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
      "name": "Chocolate Hills",
      "artists": "Khruangbin, Leon Bridges",
      "album": "Texas Moon",
      "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+    },
+    {
+     "name": "Runaway",
+     "artists": "Kanye West, Pusha T",
+     "album": "My Beautiful Dark Twisted Fantasy",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
      "name": "He Loves Me",
@@ -107,27 +128,6 @@
      "album": "The Best of Sade",
      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
-    },
-    {
-     "name": "It Runs Through Me (feat. De La Soul)",
-     "artists": "Tom Misch, De La Soul",
-     "album": "Geography",
-     "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
-     "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-     "name": "Runaway",
-     "artists": "Kanye West, Pusha T",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
      "name": "Ya Helou",
@@ -176,7 +176,8 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji"
+      "khaleeji",
+      "egyptian pop"
      ]
     },
     {
@@ -433,7 +434,8 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji"
+      "khaleeji",
+      "egyptian pop"
      ]
     },
     {
@@ -724,7 +726,8 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji"
+      "khaleeji",
+      "egyptian pop"
      ]
     },
     {
@@ -866,6 +869,13 @@
   }
  },
  "recent": [
+  {
+   "name": "The Middle East... W Ameh - Live",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+   "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM",
+   "played_at": "2026-10-07T10:44:58.144Z"
+  },
   {
    "name": "We Ain't Feeling Time",
    "artists": "FKJ",
