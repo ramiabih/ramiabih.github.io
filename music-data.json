@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:31:59.159618+00:00",
+ "updated": "2026-10-08T22:41:14.680115+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -109,11 +109,25 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
+     "name": "Alf Leila We Leila",
+     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+     "album": "Oum Kolthoom - The Anniversary Tribute",
+     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
+    },
+    {
      "name": "Runaway",
      "artists": "Kanye West, Pusha T",
      "album": "My Beautiful Dark Twisted Fantasy",
      "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
+     "name": "Who's Ya Daddy?",
+     "artists": "Necro",
+     "album": "The Sexorcist",
+     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
     },
     {
      "name": "He Loves Me",
@@ -128,20 +142,6 @@
      "album": "The Best of Sade",
      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
-     "name": "Ya Helou",
-     "artists": "Adam",
-     "album": "Ya Helou",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
-    },
-    {
-     "name": "Everything I Am",
-     "artists": "Kanye West, DJ Premier",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr"
     }
    ],
    "artists": [
@@ -870,6 +870,97 @@
  },
  "recent": [
   {
+   "name": "Bektoub Ismak Ya Habibi",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
+   "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy",
+   "played_at": "2026-10-08T22:12:44.819Z"
+  },
+  {
+   "name": "Ya Tair",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
+   "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD",
+   "played_at": "2026-10-08T22:08:07.830Z"
+  },
+  {
+   "name": "Miles Into Minutes",
+   "artists": "Ishani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
+   "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD",
+   "played_at": "2026-10-08T22:03:41.250Z"
+  },
+  {
+   "name": "Think About It",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
+   "played_at": "2026-10-08T21:59:19.739Z"
+  },
+  {
+   "name": "I'll Stay",
+   "artists": "The RH Factor, D'Angelo",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
+   "played_at": "2026-10-08T21:56:18.929Z"
+  },
+  {
+   "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
+   "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
+   "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s",
+   "played_at": "2026-10-08T21:48:30.499Z"
+  },
+  {
+   "name": "Zombie - 2025 Remastered",
+   "artists": "The Cranberries",
+   "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+   "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+   "played_at": "2026-10-08T21:45:42.630Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
+   "played_at": "2026-10-08T21:40:33.354Z"
+  },
+  {
+   "name": "Who's Ya Daddy?",
+   "artists": "Necro",
+   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
+   "played_at": "2026-10-08T21:34:45.353Z"
+  },
+  {
+   "name": "I'll Stay",
+   "artists": "The RH Factor, D'Angelo",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
+   "played_at": "2026-10-08T17:08:17.559Z"
+  },
+  {
+   "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
+   "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
+   "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s",
+   "played_at": "2026-10-08T12:43:59.666Z"
+  },
+  {
+   "name": "Zombie - 2025 Remastered",
+   "artists": "The Cranberries",
+   "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+   "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+   "played_at": "2026-10-08T12:41:11.846Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
+   "played_at": "2026-10-08T12:36:08.117Z"
+  },
+  {
    "name": "Who's Ya Daddy?",
    "artists": "Necro",
    "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
@@ -1127,97 +1218,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
    "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
    "played_at": "2026-10-02T19:53:08.841Z"
-  },
-  {
-   "name": "It takes a lot to try",
-   "artists": "Aviram",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
-   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
-   "played_at": "2026-10-02T19:49:06.514Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-10-02T19:45:37.612Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Isabel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
-   "played_at": "2026-10-02T19:39:08.669Z"
-  },
-  {
-   "name": "SOLEIL",
-   "artists": "Naïka",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
-   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
-   "played_at": "2026-10-02T19:36:03.305Z"
-  },
-  {
-   "name": "Ya Tair",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
-   "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD",
-   "played_at": "2026-10-02T19:32:16.904Z"
-  },
-  {
-   "name": "I'll Stay",
-   "artists": "The RH Factor, D'Angelo",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
-   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
-   "played_at": "2026-10-02T19:27:50.302Z"
-  },
-  {
-   "name": "El Bint El Awiye",
-   "artists": "Wael Kfoury",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
-   "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw",
-   "played_at": "2026-10-02T19:18:10.893Z"
-  },
-  {
-   "name": "Aloula",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy",
-   "played_at": "2026-10-02T19:14:38.549Z"
-  },
-  {
-   "name": "Law Hobna Ghalta",
-   "artists": "Wael Kfoury",
-   "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-   "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV",
-   "played_at": "2026-10-02T19:06:18.474Z"
-  },
-  {
-   "name": "Ya Helou",
-   "artists": "Adam",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
-   "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ",
-   "played_at": "2026-10-02T19:02:05.436Z"
-  },
-  {
-   "name": "Tamally Maak",
-   "artists": "Amr Diab",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-   "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-   "played_at": "2026-10-02T18:58:59.438Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-10-02T18:54:15.581Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-10-02T18:36:49.129Z"
   }
  ]
 }
