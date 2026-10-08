@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T03:45:15.057259+00:00",
+ "updated": "2026-10-08T12:31:59.159618+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -395,11 +395,11 @@
      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     },
     {
-     "name": "Hekm El Alb",
-     "artists": "Wael Kfoury",
-     "album": "Hekm El Alb",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+     "name": "W'Kameh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
     }
    ],
    "artists": [
@@ -665,6 +665,13 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
+     "name": "The Middle East... W Ameh - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
      "name": "Oum Fout Nam",
      "artists": "Ziad Rahbani, Joseph Saker",
      "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
@@ -677,13 +684,6 @@
      "album": "The College Dropout",
      "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
      "url": "https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB"
-    },
-    {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
      "name": "Hekm El Alb",
@@ -869,6 +869,20 @@
   }
  },
  "recent": [
+  {
+   "name": "Who's Ya Daddy?",
+   "artists": "Necro",
+   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
+   "played_at": "2026-10-08T12:23:33.752Z"
+  },
+  {
+   "name": "Shut up My Moms Calling",
+   "artists": "Hotel Ugly",
+   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
+   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
+   "played_at": "2026-10-08T04:32:08.541Z"
+  },
   {
    "name": "Bala Wala Chi",
    "artists": "Ziad Rahbani",
@@ -1204,13 +1218,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
    "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
    "played_at": "2026-10-02T18:36:49.129Z"
-  },
-  {
-   "name": "It takes a lot to try",
-   "artists": "Aviram",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739165ec17e3d5cd85b68e51b1",
-   "url": "https://open.spotify.com/track/2msEqSJXNaiGII74opT2Q5",
-   "played_at": "2026-10-02T07:12:15.024Z"
   }
  ]
 }
