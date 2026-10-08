@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:28:04.006463+00:00",
+ "updated": "2026-10-08T03:45:15.057259+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -869,6 +869,13 @@
   }
  },
  "recent": [
+  {
+   "name": "Bala Wala Chi",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX",
+   "played_at": "2026-10-08T01:54:21.795Z"
+  },
   {
    "name": "Matrahak Bi Albi",
    "artists": "Majida El Roumi",
