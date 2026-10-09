@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T03:50:39.003528+00:00",
+ "updated": "2026-10-09T12:20:20.527465+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -493,20 +493,20 @@
      "genres": []
     },
     {
-     "name": "Louis Brigham",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
-     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
-     ]
-    },
-    {
      "name": "Mac DeMarco",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
      "genres": [
       "indie",
       "lo-fi indie"
+     ]
+    },
+    {
+     "name": "Louis Brigham",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
+     "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
+     "genres": [
+      "adult standards"
      ]
     },
     {
