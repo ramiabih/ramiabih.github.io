@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T22:41:14.680115+00:00",
+ "updated": "2026-10-09T03:50:39.003528+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -44,6 +44,13 @@
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
+    },
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+     "album": "Oum Kolthoom - The Anniversary Tribute",
+     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
      "name": "Gap in the Clouds",
@@ -107,13 +114,6 @@
      "album": "Texas Moon",
      "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
-    },
-    {
-     "name": "Alf Leila We Leila",
-     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-     "album": "Oum Kolthoom - The Anniversary Tribute",
-     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
      "name": "Runaway",
@@ -870,6 +870,41 @@
  },
  "recent": [
   {
+   "name": "Call of the Rooster (El Helwa Di)",
+   "artists": "Marcel Khalife",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b810dec20e377e70130e97c6",
+   "url": "https://open.spotify.com/track/4FnuYtmoJT8x2Ypf9lFxmp",
+   "played_at": "2026-10-09T03:20:41.508Z"
+  },
+  {
+   "name": "Beiny We Beinak - Live",
+   "artists": "Hoda Haddad, Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739012ef2f742cea9e9267632d",
+   "url": "https://open.spotify.com/track/3XyvgKHmrWHV9wxQwbwGSJ",
+   "played_at": "2026-10-09T01:58:06.586Z"
+  },
+  {
+   "name": "Etazalt El Gharam",
+   "artists": "Majida El Roumi",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ae836a402f1e23eae259a3f0",
+   "url": "https://open.spotify.com/track/17PmYDXXlGJh95jUS1bHWe",
+   "played_at": "2026-10-09T01:54:11.556Z"
+  },
+  {
+   "name": "Saaltak Habiby",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273655995fda6862efc8c3bbf44",
+   "url": "https://open.spotify.com/track/0VEckWCkjfEPFEhsly59hK",
+   "played_at": "2026-10-09T01:45:54.545Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
+   "played_at": "2026-10-09T01:40:24.427Z"
+  },
+  {
    "name": "Bektoub Ismak Ya Habibi",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
@@ -1183,41 +1218,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
    "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
    "played_at": "2026-10-03T14:53:05.207Z"
-  },
-  {
-   "name": "ALL THE LOVE (feat. Andre Troutman)",
-   "artists": "Kanye West, Ye, Andre Troutman",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
-   "played_at": "2026-10-02T21:45:07.941Z"
-  },
-  {
-   "name": "PUNCH DRUNK",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV",
-   "played_at": "2026-10-02T20:04:06.404Z"
-  },
-  {
-   "name": "PREACHER MAN",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ",
-   "played_at": "2026-10-02T20:02:20.012Z"
-  },
-  {
-   "name": "BEAUTY AND THE BEAST",
-   "artists": "Kanye West, Ye",
-   "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-   "url": "https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn",
-   "played_at": "2026-10-02T19:59:20.420Z"
-  },
-  {
-   "name": "Shayef El Bahr",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
-   "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4",
-   "played_at": "2026-10-02T19:53:08.841Z"
   }
  ]
 }
