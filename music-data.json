@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:20:20.527465+00:00",
+ "updated": "2026-10-09T22:03:12.186768+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -32,6 +32,13 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
+     "name": "Alf Leila We Leila",
+     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+     "album": "Oum Kolthoom - The Anniversary Tribute",
+     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
+    },
+    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
@@ -44,13 +51,6 @@
      "album": "Graduation",
      "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
-     "name": "Alf Leila We Leila",
-     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-     "album": "Oum Kolthoom - The Anniversary Tribute",
-     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
      "name": "Gap in the Clouds",
@@ -870,6 +870,55 @@
  },
  "recent": [
   {
+   "name": "Unchained Melody",
+   "artists": "The Righteous Brothers",
+   "image": "https://i.scdn.co/image/ab67616d0000b273cd7530409d09802935c840f9",
+   "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz",
+   "played_at": "2026-10-09T15:34:39.448Z"
+  },
+  {
+   "name": "Slow Dancing in a Burning Room",
+   "artists": "John Mayer",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ac9fea717d5b78e73cbd89f6",
+   "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu",
+   "played_at": "2026-10-09T15:28:30.928Z"
+  },
+  {
+   "name": "Stand By Me",
+   "artists": "Ben E. King",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922",
+   "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy",
+   "played_at": "2026-10-09T15:26:54.060Z"
+  },
+  {
+   "name": "So This Is Love - From \"Cinderella\"",
+   "artists": "Ilene Woods, Mike Douglas",
+   "image": "https://i.scdn.co/image/ab67616d0000b27308d9c6031629be7cb89e1862",
+   "url": "https://open.spotify.com/track/1jlCTXvGEQpPuumICdSKzw",
+   "played_at": "2026-10-09T15:20:28.635Z"
+  },
+  {
+   "name": "Just the Two of Us",
+   "artists": "Grover Washington, Jr., Bill Withers",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d8e0e065037b496212e554b7",
+   "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD",
+   "played_at": "2026-10-09T15:18:42.233Z"
+  },
+  {
+   "name": "Hopelessly Devoted To You - From “Grease”",
+   "artists": "Olivia Newton-John",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+   "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R",
+   "played_at": "2026-10-09T15:10:21.440Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
+   "played_at": "2026-10-09T15:06:47.651Z"
+  },
+  {
    "name": "Call of the Rooster (El Helwa Di)",
    "artists": "Marcel Khalife",
    "image": "https://i.scdn.co/image/ab67616d0000b273b810dec20e377e70130e97c6",
@@ -1169,55 +1218,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
    "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
    "played_at": "2026-10-03T15:42:53.072Z"
-  },
-  {
-   "name": "Gap in the Clouds",
-   "artists": "Yellow Days",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
-   "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2",
-   "played_at": "2026-10-03T15:40:23.388Z"
-  },
-  {
-   "name": "Pluto Projector",
-   "artists": "Rex Orange County",
-   "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
-   "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc",
-   "played_at": "2026-10-03T15:35:42.027Z"
-  },
-  {
-   "name": "Why Are There Boundaries",
-   "artists": "FKJ",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
-   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
-   "played_at": "2026-10-03T15:30:34.647Z"
-  },
-  {
-   "name": "Chocolate Hills",
-   "artists": "Khruangbin, Leon Bridges",
-   "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
-   "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP",
-   "played_at": "2026-10-03T15:27:34.129Z"
-  },
-  {
-   "name": "Kiss of Life",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
-   "played_at": "2026-10-03T15:24:25.710Z"
-  },
-  {
-   "name": "Hell N Back",
-   "artists": "Bakar",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-   "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP",
-   "played_at": "2026-10-03T14:56:36.786Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-10-03T14:53:05.207Z"
   }
  ]
 }
