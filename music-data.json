@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T11:38:41.569114+00:00",
+ "updated": "2026-10-10T16:40:15.947174+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1211,13 +1211,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
    "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy",
    "played_at": "2026-10-03T16:43:59.534Z"
-  },
-  {
-   "name": "He Loves Me",
-   "artists": "Brittany Howard",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
-   "played_at": "2026-10-03T15:42:53.072Z"
   }
  ]
 }
