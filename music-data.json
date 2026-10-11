@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T20:56:07.153674+00:00",
+ "updated": "2026-10-11T03:07:12.759704+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -869,6 +869,20 @@
   }
  },
  "recent": [
+  {
+   "name": "Shut up My Moms Calling",
+   "artists": "Hotel Ugly",
+   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
+   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
+   "played_at": "2026-10-11T02:22:56.689Z"
+  },
+  {
+   "name": "Imagine - Remastered 2010",
+   "artists": "John Lennon",
+   "image": "https://i.scdn.co/image/ab67616d0000b27399581550ef9746ca582bb3cc",
+   "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9",
+   "played_at": "2026-10-11T02:05:36.539Z"
+  },
   {
    "name": "Unchained Melody",
    "artists": "The Righteous Brothers",
