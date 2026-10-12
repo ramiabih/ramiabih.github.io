@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:17:24.896203+00:00",
+ "updated": "2026-10-12T03:30:30.353811+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -25,18 +25,18 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
-    {
      "name": "Alf Leila We Leila",
      "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
      "album": "Oum Kolthoom - The Anniversary Tribute",
      "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
      "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -60,13 +60,6 @@
      "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
     },
     {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
      "name": "The Glory",
      "artists": "Kanye West",
      "album": "Graduation",
@@ -86,13 +79,6 @@
      "album": "Hell N Back (Sped Up)",
      "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-    },
-    {
-     "name": "Bisaraha",
-     "artists": "Ziad Rahbani",
-     "album": "Houdou Nisbi",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
      "name": "Why Are There Boundaries",
@@ -142,6 +128,20 @@
      "album": "The Best of Sade",
      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+     "name": "I'll Stay",
+     "artists": "The RH Factor, D'Angelo",
+     "album": "Hard Groove",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+     "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
+    },
+    {
+     "name": "Ya Helou",
+     "artists": "Adam",
+     "album": "Ya Helou",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
+     "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     }
    ],
    "artists": [
@@ -870,6 +870,188 @@
  },
  "recent": [
   {
+   "name": "Messiaen: Quatuor pour la fin du temps: V. Louange à l'éternité de Jésus",
+   "artists": "Olivier Messiaen, Michel Béroff, William Pleeth",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f49e64acd825ecaed843ae66",
+   "url": "https://open.spotify.com/track/2Ow0yMUSccQ4vmfq8pyCCF",
+   "played_at": "2026-10-12T02:57:45.345Z"
+  },
+  {
+   "name": "Musetta's Waltz",
+   "artists": "Giacomo Puccini, Arranged By, Dick Hyman, Moe Koffman",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a9663afebc15f80c29cb237c",
+   "url": "https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir",
+   "played_at": "2026-10-12T02:50:47.273Z"
+  },
+  {
+   "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
+   "artists": "Frédéric Chopin, Mikhail Pletnev",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
+   "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV",
+   "played_at": "2026-10-12T02:46:21.672Z"
+  },
+  {
+   "name": "Harvest Moon",
+   "artists": "Neil Young",
+   "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
+   "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
+   "played_at": "2026-10-12T02:41:36.470Z"
+  },
+  {
+   "name": "In This World",
+   "artists": "Moby",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731fefc78cc3add698ee8a34ae",
+   "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH",
+   "played_at": "2026-10-12T02:35:45.582Z"
+  },
+  {
+   "name": "Future Lover",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+   "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK",
+   "played_at": "2026-10-12T02:31:44.888Z"
+  },
+  {
+   "name": "Wicked Game",
+   "artists": "Chris Isaak",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ad0e25c1c366d63bcbae4073",
+   "url": "https://open.spotify.com/track/2y42xAsl6dfMeVXQgOYsUw",
+   "played_at": "2026-10-12T02:19:22.988Z"
+  },
+  {
+   "name": "Feet Don't Fail Me Now",
+   "artists": "Joy Crookes",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fbc65345f46a31184123c8bc",
+   "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU",
+   "played_at": "2026-10-12T02:14:35.912Z"
+  },
+  {
+   "name": "Babydoll",
+   "artists": "Dominic Fike",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+   "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+   "played_at": "2026-10-12T02:11:19.111Z"
+  },
+  {
+   "name": "It Ain't Over 'Til It's Over",
+   "artists": "Lenny Kravitz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273bfc19627a4a3a604c0a195e5",
+   "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR",
+   "played_at": "2026-10-12T02:09:43.189Z"
+  },
+  {
+   "name": "Chintamani",
+   "artists": "Céline Dessberg",
+   "image": "https://i.scdn.co/image/ab67616d0000b27348ac7dd9b26e7f438b034c8b",
+   "url": "https://open.spotify.com/track/2of9joj3ddogAZl4i0jVmg",
+   "played_at": "2026-10-12T02:05:42.504Z"
+  },
+  {
+   "name": "Mother Forgot",
+   "artists": "Tora",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731259d832df4fe55e1b342207",
+   "url": "https://open.spotify.com/track/2nJfOivqiAKX6r1gxu6QhT",
+   "played_at": "2026-10-12T02:02:12.178Z"
+  },
+  {
+   "name": "The Less I Know The Better",
+   "artists": "Tame Impala",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+   "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
+   "played_at": "2026-10-12T01:59:05.306Z"
+  },
+  {
+   "name": "Last Train to London",
+   "artists": "Rikas",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
+   "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq",
+   "played_at": "2026-10-12T01:55:30.895Z"
+  },
+  {
+   "name": "So Easy (To Fall In Love)",
+   "artists": "Olivia Dean",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
+   "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
+   "played_at": "2026-10-12T01:52:33.921Z"
+  },
+  {
+   "name": "Cannock Chase",
+   "artists": "Labi Siffre",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5",
+   "url": "https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY",
+   "played_at": "2026-10-12T01:49:46.895Z"
+  },
+  {
+   "name": "Seabird",
+   "artists": "Alessi Brothers",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739ac897f7feb71470bc9a7222",
+   "url": "https://open.spotify.com/track/1iUpSRmgnbTRqU0Pb217qI",
+   "played_at": "2026-10-12T01:45:42.088Z"
+  },
+  {
+   "name": "Knockin' On Heaven's Door",
+   "artists": "Bob Dylan",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d",
+   "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh",
+   "played_at": "2026-10-12T01:42:35.178Z"
+  },
+  {
+   "name": "I'm Glad You're Mine",
+   "artists": "Al Green",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735bba82fc0d047f6f23177767",
+   "url": "https://open.spotify.com/track/4fiC7RTotySw4ZeYaCSsXP",
+   "played_at": "2026-10-12T01:40:07.485Z"
+  },
+  {
+   "name": "Space Talk",
+   "artists": "Asha Puthli",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737034e287b0fd8a35d13fd275",
+   "url": "https://open.spotify.com/track/1PZeJ6kmAILT5Y5GK9zpLk",
+   "played_at": "2026-10-12T01:37:08.703Z"
+  },
+  {
+   "name": "Ms. Fat Booty",
+   "artists": "Mos Def",
+   "image": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+   "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU",
+   "played_at": "2026-10-12T01:31:42.050Z"
+  },
+  {
+   "name": "Crosswalk",
+   "artists": "Beaks",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737664b3f7a7cae53bcc8bac16",
+   "url": "https://open.spotify.com/track/1cGEZCD84bA6znJbgDSv6g",
+   "played_at": "2026-10-12T01:28:00.490Z"
+  },
+  {
+   "name": "We Are The People",
+   "artists": "Empire Of The Sun",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d",
+   "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7",
+   "played_at": "2026-10-12T01:25:42.455Z"
+  },
+  {
+   "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+   "artists": "Gorillaz, Bizarrap, Kara Jackson, Anoushka Shankar",
+   "image": "https://i.scdn.co/image/ab67616d0000b273eeb01b41f48210d032d1b6a4",
+   "url": "https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x",
+   "played_at": "2026-10-12T01:21:17.131Z"
+  },
+  {
+   "name": "I Think I Like When It Rains",
+   "artists": "WILLIS",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
+   "played_at": "2026-10-12T01:21:13.960Z"
+  },
+  {
+   "name": "Konna Netlaka",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
+   "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu",
+   "played_at": "2026-10-11T18:11:39.546Z"
+  },
+  {
    "name": "Shut up My Moms Calling",
    "artists": "Hotel Ugly",
    "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
@@ -1036,188 +1218,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
    "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
    "played_at": "2026-10-08T17:08:17.559Z"
-  },
-  {
-   "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
-   "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
-   "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s",
-   "played_at": "2026-10-08T12:43:59.666Z"
-  },
-  {
-   "name": "Zombie - 2025 Remastered",
-   "artists": "The Cranberries",
-   "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-   "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
-   "played_at": "2026-10-08T12:41:11.846Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
-   "played_at": "2026-10-08T12:36:08.117Z"
-  },
-  {
-   "name": "Who's Ya Daddy?",
-   "artists": "Necro",
-   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
-   "played_at": "2026-10-08T12:23:33.752Z"
-  },
-  {
-   "name": "Shut up My Moms Calling",
-   "artists": "Hotel Ugly",
-   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
-   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
-   "played_at": "2026-10-08T04:32:08.541Z"
-  },
-  {
-   "name": "Bala Wala Chi",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX",
-   "played_at": "2026-10-08T01:54:21.795Z"
-  },
-  {
-   "name": "Matrahak Bi Albi",
-   "artists": "Majida El Roumi",
-   "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
-   "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp",
-   "played_at": "2026-10-07T21:33:41.553Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
-   "played_at": "2026-10-07T21:28:39.601Z"
-  },
-  {
-   "name": "The Middle East... W Ameh - Live",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-   "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM",
-   "played_at": "2026-10-07T21:20:01.354Z"
-  },
-  {
-   "name": "The Middle East... W Ameh - Live",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-   "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM",
-   "played_at": "2026-10-07T10:44:58.144Z"
-  },
-  {
-   "name": "We Ain't Feeling Time",
-   "artists": "FKJ",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
-   "url": "https://open.spotify.com/track/0uPA6fX70cCdfG172jdcKO",
-   "played_at": "2026-10-06T20:45:43.244Z"
-  },
-  {
-   "name": "Ballad of the Basement",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b27384c37650d333067c04a57145",
-   "url": "https://open.spotify.com/track/0nvgnOZhHqxSfSRJ4DGvDT",
-   "played_at": "2026-10-06T20:41:39.441Z"
-  },
-  {
-   "name": "Paradise",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
-   "played_at": "2026-10-06T20:36:48.475Z"
-  },
-  {
-   "name": "Heart To Heart",
-   "artists": "Mac DeMarco",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672",
-   "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2",
-   "played_at": "2026-10-06T20:33:09.564Z"
-  },
-  {
-   "name": "Tell Me Why",
-   "artists": "Gotts Street Park, Olive Jones",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
-   "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj",
-   "played_at": "2026-10-06T20:29:37.929Z"
-  },
-  {
-   "name": "Come Back to Earth",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR",
-   "played_at": "2026-10-06T20:25:45.869Z"
-  },
-  {
-   "name": "Future Lover",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK",
-   "played_at": "2026-10-06T20:23:03.505Z"
-  },
-  {
-   "name": "What's the Use?",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-   "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs",
-   "played_at": "2026-10-06T20:19:31.363Z"
-  },
-  {
-   "name": "Bayni Wa Baynak",
-   "artists": "Hoda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-   "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO",
-   "played_at": "2026-10-06T11:58:06.509Z"
-  },
-  {
-   "name": "Takassim 'Banat Iskandariya'",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc",
-   "played_at": "2026-10-06T11:55:36.121Z"
-  },
-  {
-   "name": "Shou Hal Ayyam - 2008 Remastered",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
-   "played_at": "2026-10-06T11:51:41.725Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-10-06T11:44:08.803Z"
-  },
-  {
-   "name": "Harvest Moon",
-   "artists": "Neil Young",
-   "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
-   "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
-   "played_at": "2026-10-06T06:04:14.567Z"
-  },
-  {
-   "name": "I'm Not Okay (I Promise)",
-   "artists": "My Chemical Romance",
-   "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
-   "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd",
-   "played_at": "2026-10-06T06:04:14.567Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-10-05T23:05:17.983Z"
-  },
-  {
-   "name": "This Is My House",
-   "artists": "SIENNA SPIRO",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
-   "url": "https://open.spotify.com/track/2JhXnuA0t4gnGa41bE30p8",
-   "played_at": "2026-10-05T23:00:41.817Z"
   }
  ]
 }
