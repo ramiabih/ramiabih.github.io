@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T13:59:34.943407+00:00",
+ "updated": "2026-10-12T23:58:49.909349+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -870,6 +870,76 @@
  },
  "recent": [
   {
+   "name": "Début",
+   "artists": "Mélanie Laurent",
+   "image": "https://i.scdn.co/image/ab67616d0000b273973b2f526ee2289f4144c24c",
+   "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk",
+   "played_at": "2026-10-12T03:38:51.945Z"
+  },
+  {
+   "name": "Gymnopédie No. 1",
+   "artists": "Erik Satie, Philippe Entremont",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730d3d783124fd96e37b6feee4",
+   "url": "https://open.spotify.com/track/5NGtFXVpXSvwunEIGeviY3",
+   "played_at": "2026-10-12T03:36:13.893Z"
+  },
+  {
+   "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+   "artists": "Wolfgang Amadeus Mozart, Maria João Pires",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ab34ec04dd3073df6d8caef8",
+   "url": "https://open.spotify.com/track/0ftAOThcYwpSDapJhDOy7o",
+   "played_at": "2026-10-12T03:32:49.972Z"
+  },
+  {
+   "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+   "artists": "Pyotr Ilyich Tchaikovsky, André Previn, London Symphony Orchestra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da",
+   "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
+   "played_at": "2026-10-12T03:28:07.967Z"
+  },
+  {
+   "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - 2005 Recording",
+   "artists": "Frédéric Chopin, Maurizio Pollini",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59",
+   "url": "https://open.spotify.com/track/3G98iZXs933j4EkqACWfka",
+   "played_at": "2026-10-12T03:25:23.188Z"
+  },
+  {
+   "name": "Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1",
+   "artists": "Frédéric Chopin, Maurizio Pollini",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59",
+   "url": "https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV",
+   "played_at": "2026-10-12T03:20:30.587Z"
+  },
+  {
+   "name": "Love Is Here To Stay",
+   "artists": "George Gershwin, Zubin Mehta, New York Philharmonic, Brian Koonin, Eric Cohen, Dick Hyman, Lewis Eley, Milt Hinton",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735a5fb6652f6cdb977eb9124a",
+   "url": "https://open.spotify.com/track/6agmwIL4xVqp5FE9BdG3jX",
+   "played_at": "2026-10-12T03:15:45.557Z"
+  },
+  {
+   "name": "Suite Bergamasque, L. 75: III. Clair de lune",
+   "artists": "Claude Debussy, Alain Planès",
+   "image": "https://i.scdn.co/image/ab67616d0000b27375a31b6a823db32c88b5250a",
+   "url": "https://open.spotify.com/track/7wQVSemzfhIgjLWd6irsMe",
+   "played_at": "2026-10-12T03:13:03.367Z"
+  },
+  {
+   "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+   "artists": "Frédéric Chopin, Arthur Rubinstein",
+   "image": "https://i.scdn.co/image/ab67616d0000b27398d1350f0daab23baa629959",
+   "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw",
+   "played_at": "2026-10-12T03:08:26.276Z"
+  },
+  {
+   "name": "Nocturne en Mi Bémol Majeur, Op. 9 No. 2",
+   "artists": "Frédéric Chopin, Luis Fernando Pérez",
+   "image": "https://i.scdn.co/image/ab67616d0000b27318bccd55ef4b1c50dac2f2bc",
+   "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd",
+   "played_at": "2026-10-12T03:02:11.748Z"
+  },
+  {
    "name": "Messiaen: Quatuor pour la fin du temps: V. Louange à l'éternité de Jésus",
    "artists": "Olivier Messiaen, Michel Béroff, William Pleeth",
    "image": "https://i.scdn.co/image/ab67616d0000b273f49e64acd825ecaed843ae66",
@@ -1148,76 +1218,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
    "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
    "played_at": "2026-10-09T01:40:24.427Z"
-  },
-  {
-   "name": "Bektoub Ismak Ya Habibi",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
-   "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy",
-   "played_at": "2026-10-08T22:12:44.819Z"
-  },
-  {
-   "name": "Ya Tair",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
-   "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD",
-   "played_at": "2026-10-08T22:08:07.830Z"
-  },
-  {
-   "name": "Miles Into Minutes",
-   "artists": "Ishani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
-   "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD",
-   "played_at": "2026-10-08T22:03:41.250Z"
-  },
-  {
-   "name": "Think About It",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
-   "played_at": "2026-10-08T21:59:19.739Z"
-  },
-  {
-   "name": "I'll Stay",
-   "artists": "The RH Factor, D'Angelo",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
-   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
-   "played_at": "2026-10-08T21:56:18.929Z"
-  },
-  {
-   "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
-   "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
-   "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s",
-   "played_at": "2026-10-08T21:48:30.499Z"
-  },
-  {
-   "name": "Zombie - 2025 Remastered",
-   "artists": "The Cranberries",
-   "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-   "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
-   "played_at": "2026-10-08T21:45:42.630Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
-   "played_at": "2026-10-08T21:40:33.354Z"
-  },
-  {
-   "name": "Who's Ya Daddy?",
-   "artists": "Necro",
-   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
-   "played_at": "2026-10-08T21:34:45.353Z"
-  },
-  {
-   "name": "I'll Stay",
-   "artists": "The RH Factor, D'Angelo",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
-   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
-   "played_at": "2026-10-08T17:08:17.559Z"
   }
  ]
 }
