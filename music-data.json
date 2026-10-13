@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T23:58:49.909349+00:00",
+ "updated": "2026-10-13T05:55:50.069159+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -18,13 +18,6 @@
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
-    },
-    {
      "name": "Alf Leila We Leila",
      "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
      "album": "Oum Kolthoom - The Anniversary Tribute",
@@ -39,18 +32,18 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+    },
+    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
      "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
-     "name": "Flashing Lights",
-     "artists": "Kanye West, Dwele",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
      "name": "Gap in the Clouds",
@@ -72,6 +65,13 @@
      "album": "Pony",
      "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
+    },
+    {
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
      "name": "Hell N Back",
@@ -100,13 +100,6 @@
      "album": "Texas Moon",
      "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
-    },
-    {
-     "name": "Runaway",
-     "artists": "Kanye West, Pusha T",
-     "album": "My Beautiful Dark Twisted Fantasy",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-     "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
      "name": "Who's Ya Daddy?",
@@ -142,9 +135,22 @@
      "album": "Ya Helou",
      "image": "https://i.scdn.co/image/ab67616d0000b2738facebae3fed1b911dc33f30",
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
+    },
+    {
+     "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
+     "artists": "Frédéric Chopin, Mikhail Pletnev",
+     "album": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
+     "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV"
     }
    ],
    "artists": [
+    {
+     "name": "Fairuz",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
+     "genres": []
+    },
     {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
@@ -152,12 +158,6 @@
      "genres": [
       "rap"
      ]
-    },
-    {
-     "name": "Fairuz",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-     "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
     },
     {
      "name": "Ziad Rahbani",
@@ -176,8 +176,7 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji",
-      "egyptian pop"
+      "khaleeji"
      ]
     },
     {
@@ -227,34 +226,12 @@
      "genres": []
     },
     {
-     "name": "The Beatles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
-     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
-     "genres": [
-      "classic rock",
-      "psychedelic rock"
-     ]
-    },
-    {
      "name": "Mayer Hawthorne",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc465e461c7e8833253a89063",
      "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O",
      "genres": [
       "retro soul",
       "pop soul"
-     ]
-    },
-    {
-     "name": "Frank Sinatra",
-     "image": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
-     "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0",
-     "genres": [
-      "christmas",
-      "big band",
-      "adult standards",
-      "swing music",
-      "jazz",
-      "vocal jazz"
      ]
     }
    ]
@@ -434,8 +411,7 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji",
-      "egyptian pop"
+      "khaleeji"
      ]
     },
     {
@@ -726,8 +702,7 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
-      "khaleeji",
-      "egyptian pop"
+      "khaleeji"
      ]
     },
     {
