@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T16:13:45.915527+00:00",
+ "updated": "2026-10-14T21:08:07.536554+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -67,13 +67,6 @@
      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
     },
     {
-     "name": "Flashing Lights",
-     "artists": "Kanye West, Dwele",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
      "name": "Hell N Back",
      "artists": "Bakar",
      "album": "Hell N Back (Sped Up)",
@@ -137,11 +130,18 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
-     "artists": "Frédéric Chopin, Mikhail Pletnev",
-     "album": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
-     "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV"
+     "name": "Bisaraha",
+     "artists": "Ziad Rahbani",
+     "album": "Houdou Nisbi",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     }
    ],
    "artists": [
@@ -845,6 +845,34 @@
  },
  "recent": [
   {
+   "name": "Ya Tair",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
+   "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD",
+   "played_at": "2026-10-14T19:57:26.808Z"
+  },
+  {
+   "name": "Baadak Ala Baly",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273cce8f4f7da0add6042b0b035",
+   "url": "https://open.spotify.com/track/0zQwnvv9A41q7sQPSEPL4s",
+   "played_at": "2026-10-14T19:51:02.582Z"
+  },
+  {
+   "name": "Matrahak Bi Albi",
+   "artists": "Majida El Roumi",
+   "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
+   "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp",
+   "played_at": "2026-10-14T19:46:57.244Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
+   "played_at": "2026-10-14T19:41:55.322Z"
+  },
+  {
    "name": "Début",
    "artists": "Mélanie Laurent",
    "image": "https://i.scdn.co/image/ab67616d0000b273973b2f526ee2289f4144c24c",
@@ -1165,34 +1193,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273b810dec20e377e70130e97c6",
    "url": "https://open.spotify.com/track/4FnuYtmoJT8x2Ypf9lFxmp",
    "played_at": "2026-10-09T03:20:41.508Z"
-  },
-  {
-   "name": "Beiny We Beinak - Live",
-   "artists": "Hoda Haddad, Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739012ef2f742cea9e9267632d",
-   "url": "https://open.spotify.com/track/3XyvgKHmrWHV9wxQwbwGSJ",
-   "played_at": "2026-10-09T01:58:06.586Z"
-  },
-  {
-   "name": "Etazalt El Gharam",
-   "artists": "Majida El Roumi",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ae836a402f1e23eae259a3f0",
-   "url": "https://open.spotify.com/track/17PmYDXXlGJh95jUS1bHWe",
-   "played_at": "2026-10-09T01:54:11.556Z"
-  },
-  {
-   "name": "Saaltak Habiby",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273655995fda6862efc8c3bbf44",
-   "url": "https://open.spotify.com/track/0VEckWCkjfEPFEhsly59hK",
-   "played_at": "2026-10-09T01:45:54.545Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
-   "played_at": "2026-10-09T01:40:24.427Z"
   }
  ]
 }
