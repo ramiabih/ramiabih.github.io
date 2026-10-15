@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T16:01:13.345725+00:00",
+ "updated": "2026-10-15T20:45:47.849518+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -823,21 +823,23 @@
      ]
     },
     {
-     "name": "Alicia Keys",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb4518cf16a45e35fc0cc82862",
-     "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
-     "genres": [
-      "r&b",
-      "neo soul"
-     ]
-    },
-    {
      "name": "Aaron Taylor",
      "image": "https://i.scdn.co/image/ab6761610000e5eb22fc5c2b36b5888f5131215f",
      "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7",
      "genres": [
       "indie soul",
       "neo soul"
+     ]
+    },
+    {
+     "name": "Hraach",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
+     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
+     "genres": [
+      "organic house",
+      "tribal house",
+      "downtempo",
+      "deep house"
      ]
     }
    ]
