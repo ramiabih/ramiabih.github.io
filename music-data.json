@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:45:47.849518+00:00",
+ "updated": "2026-10-16T02:26:44.277838+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -137,11 +137,11 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     }
    ],
    "artists": [
@@ -847,6 +847,13 @@
  },
  "recent": [
   {
+   "name": "Lamma Bada Yatathana",
+   "artists": "Lena Chamamyan",
+   "image": "https://i.scdn.co/image/ab67616d0000b27328cfc8fdba73216613ca9087",
+   "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO",
+   "played_at": "2026-10-15T11:37:56.129Z"
+  },
+  {
    "name": "Ya Tair",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
@@ -1188,13 +1195,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
    "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
    "played_at": "2026-10-09T15:06:47.651Z"
-  },
-  {
-   "name": "Call of the Rooster (El Helwa Di)",
-   "artists": "Marcel Khalife",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b810dec20e377e70130e97c6",
-   "url": "https://open.spotify.com/track/4FnuYtmoJT8x2Ypf9lFxmp",
-   "played_at": "2026-10-09T03:20:41.508Z"
   }
  ]
 }
