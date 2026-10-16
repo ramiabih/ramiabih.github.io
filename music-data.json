@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:23:19.078072+00:00",
+ "updated": "2026-10-16T15:49:52.830135+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -1146,55 +1146,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27399581550ef9746ca582bb3cc",
    "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9",
    "played_at": "2026-10-11T02:05:36.539Z"
-  },
-  {
-   "name": "Unchained Melody",
-   "artists": "The Righteous Brothers",
-   "image": "https://i.scdn.co/image/ab67616d0000b273cd7530409d09802935c840f9",
-   "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz",
-   "played_at": "2026-10-09T15:34:39.448Z"
-  },
-  {
-   "name": "Slow Dancing in a Burning Room",
-   "artists": "John Mayer",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ac9fea717d5b78e73cbd89f6",
-   "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu",
-   "played_at": "2026-10-09T15:28:30.928Z"
-  },
-  {
-   "name": "Stand By Me",
-   "artists": "Ben E. King",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922",
-   "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy",
-   "played_at": "2026-10-09T15:26:54.060Z"
-  },
-  {
-   "name": "So This Is Love - From \"Cinderella\"",
-   "artists": "Ilene Woods, Mike Douglas",
-   "image": "https://i.scdn.co/image/ab67616d0000b27308d9c6031629be7cb89e1862",
-   "url": "https://open.spotify.com/track/1jlCTXvGEQpPuumICdSKzw",
-   "played_at": "2026-10-09T15:20:28.635Z"
-  },
-  {
-   "name": "Just the Two of Us",
-   "artists": "Grover Washington, Jr., Bill Withers",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d8e0e065037b496212e554b7",
-   "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD",
-   "played_at": "2026-10-09T15:18:42.233Z"
-  },
-  {
-   "name": "Hopelessly Devoted To You - From “Grease”",
-   "artists": "Olivia Newton-John",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
-   "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R",
-   "played_at": "2026-10-09T15:10:21.440Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
-   "played_at": "2026-10-09T15:06:47.651Z"
   }
  ]
 }
