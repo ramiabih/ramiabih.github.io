@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:55:45.209651+00:00",
+ "updated": "2026-10-17T14:43:03.721836+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -849,6 +849,27 @@
   }
  },
  "recent": [
+  {
+   "name": "Aayesh Wahda Balak",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273438c2ad42919fc828940b880",
+   "url": "https://open.spotify.com/track/3yPtJbqaujgtuTEDwVWNs4",
+   "played_at": "2026-10-17T14:20:32.899Z"
+  },
+  {
+   "name": "Alf Leila We Leila",
+   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
+   "played_at": "2026-10-17T14:14:11.141Z"
+  },
+  {
+   "name": "Lamma Bada Yatathana",
+   "artists": "Lena Chamamyan",
+   "image": "https://i.scdn.co/image/ab67616d0000b27328cfc8fdba73216613ca9087",
+   "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO",
+   "played_at": "2026-10-17T14:08:22.962Z"
+  },
   {
    "name": "Lamma Bada Yatathana",
    "artists": "Lena Chamamyan",
