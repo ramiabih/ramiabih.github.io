@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-17T14:43:03.721836+00:00",
+ "updated": "2026-10-17T19:53:50.513499+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
-    {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
     {
      "name": "I Think I Like When It Rains",
      "artists": "WILLIS",
      "album": "Locals 2",
      "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Alf Leila We Leila",
@@ -51,13 +51,6 @@
      "album": "Harmless Melodies",
      "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
      "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
-    },
-    {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
      "name": "Pluto Projector",
@@ -137,6 +130,13 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
+    },
+    {
      "name": "Flashing Lights",
      "artists": "Kanye West, Dwele",
      "album": "Graduation",
@@ -152,18 +152,18 @@
      "genres": []
     },
     {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
+    },
+    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
       "rap"
      ]
-    },
-    {
-     "name": "Ziad Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
-     "genres": []
     },
     {
      "name": "Sade",
@@ -218,6 +218,12 @@
      "name": "Gotts Street Park",
      "image": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
      "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
+     "genres": []
+    },
+    {
+     "name": "Majida El Roumi",
+     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
+     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
      "genres": []
     },
     {
@@ -850,6 +856,111 @@
  },
  "recent": [
   {
+   "name": "Kedeish Kan Fe Nas - Live from Baalbeck 1973",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732cd23acb687d9445bd503865",
+   "url": "https://open.spotify.com/track/1zKwulPt1jOqEhRbiXfTxa",
+   "played_at": "2026-10-17T17:58:26.880Z"
+  },
+  {
+   "name": "وغلاوتك",
+   "artists": "Amr Diab",
+   "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+   "url": "https://open.spotify.com/track/1dVGCdJ4SibwgThXlUBU0l",
+   "played_at": "2026-10-17T17:54:41.295Z"
+  },
+  {
+   "name": "Yara",
+   "artists": "Charif Megarbane",
+   "image": "https://i.scdn.co/image/ab67616d0000b27332a11f29a222ae1dfb8e83d3",
+   "url": "https://open.spotify.com/track/2ujL1EbN6XSiff52LGqmQp",
+   "played_at": "2026-10-17T17:50:52.695Z"
+  },
+  {
+   "name": "Beiny We Beinak - Live",
+   "artists": "Hoda Haddad, Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739012ef2f742cea9e9267632d",
+   "url": "https://open.spotify.com/track/3XyvgKHmrWHV9wxQwbwGSJ",
+   "played_at": "2026-10-17T17:48:29.400Z"
+  },
+  {
+   "name": "Men Andena",
+   "artists": "Ronza",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b2a20b432dd7879ef6b8690f",
+   "url": "https://open.spotify.com/track/7gqMmowrDciJDNSVzoKEzU",
+   "played_at": "2026-10-17T17:39:26.356Z"
+  },
+  {
+   "name": "Takassim Oud",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
+   "played_at": "2026-10-17T17:34:54.059Z"
+  },
+  {
+   "name": "Ahu Dalli Sar - Live",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+   "url": "https://open.spotify.com/track/016lX3EHvIMevMbsAgOUqv",
+   "played_at": "2026-10-17T17:29:28.643Z"
+  },
+  {
+   "name": "Bossa",
+   "artists": "Ahmed Malek",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e281aa13ec12f896a6c64d7f",
+   "url": "https://open.spotify.com/track/3WtuCGU59OvSGLnFd96HM3",
+   "played_at": "2026-10-17T17:26:03.497Z"
+  },
+  {
+   "name": "Takassim Oud",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
+   "played_at": "2026-10-17T14:43:09.516Z"
+  },
+  {
+   "name": "Takassim Oud",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
+   "played_at": "2026-10-17T14:40:37.056Z"
+  },
+  {
+   "name": "Takassim Oud",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
+   "played_at": "2026-10-17T14:38:14.128Z"
+  },
+  {
+   "name": "Takassim Oud",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
+   "played_at": "2026-10-17T14:35:50.877Z"
+  },
+  {
+   "name": "Takassim Oud",
+   "artists": "Oriental Lebanese Band",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
+   "played_at": "2026-10-17T14:33:19.566Z"
+  },
+  {
+   "name": "Bossa",
+   "artists": "Ahmed Malek",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e281aa13ec12f896a6c64d7f",
+   "url": "https://open.spotify.com/track/3WtuCGU59OvSGLnFd96HM3",
+   "played_at": "2026-10-17T14:31:03.462Z"
+  },
+  {
+   "name": "Aayesh Wahda Balak",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273438c2ad42919fc828940b880",
+   "url": "https://open.spotify.com/track/3yPtJbqaujgtuTEDwVWNs4",
+   "played_at": "2026-10-17T14:28:21.809Z"
+  },
+  {
    "name": "Aayesh Wahda Balak",
    "artists": "Ziad Rahbani",
    "image": "https://i.scdn.co/image/ab67616d0000b273438c2ad42919fc828940b880",
@@ -1093,83 +1204,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2739ac897f7feb71470bc9a7222",
    "url": "https://open.spotify.com/track/1iUpSRmgnbTRqU0Pb217qI",
    "played_at": "2026-10-12T01:45:42.088Z"
-  },
-  {
-   "name": "Knockin' On Heaven's Door",
-   "artists": "Bob Dylan",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d",
-   "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh",
-   "played_at": "2026-10-12T01:42:35.178Z"
-  },
-  {
-   "name": "I'm Glad You're Mine",
-   "artists": "Al Green",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735bba82fc0d047f6f23177767",
-   "url": "https://open.spotify.com/track/4fiC7RTotySw4ZeYaCSsXP",
-   "played_at": "2026-10-12T01:40:07.485Z"
-  },
-  {
-   "name": "Space Talk",
-   "artists": "Asha Puthli",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737034e287b0fd8a35d13fd275",
-   "url": "https://open.spotify.com/track/1PZeJ6kmAILT5Y5GK9zpLk",
-   "played_at": "2026-10-12T01:37:08.703Z"
-  },
-  {
-   "name": "Ms. Fat Booty",
-   "artists": "Mos Def",
-   "image": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-   "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU",
-   "played_at": "2026-10-12T01:31:42.050Z"
-  },
-  {
-   "name": "Crosswalk",
-   "artists": "Beaks",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737664b3f7a7cae53bcc8bac16",
-   "url": "https://open.spotify.com/track/1cGEZCD84bA6znJbgDSv6g",
-   "played_at": "2026-10-12T01:28:00.490Z"
-  },
-  {
-   "name": "We Are The People",
-   "artists": "Empire Of The Sun",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d",
-   "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7",
-   "played_at": "2026-10-12T01:25:42.455Z"
-  },
-  {
-   "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
-   "artists": "Gorillaz, Bizarrap, Kara Jackson, Anoushka Shankar",
-   "image": "https://i.scdn.co/image/ab67616d0000b273eeb01b41f48210d032d1b6a4",
-   "url": "https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x",
-   "played_at": "2026-10-12T01:21:17.131Z"
-  },
-  {
-   "name": "I Think I Like When It Rains",
-   "artists": "WILLIS",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-   "played_at": "2026-10-12T01:21:13.960Z"
-  },
-  {
-   "name": "Konna Netlaka",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e813e4e7a171b46eb5e94f0c",
-   "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu",
-   "played_at": "2026-10-11T18:11:39.546Z"
-  },
-  {
-   "name": "Shut up My Moms Calling",
-   "artists": "Hotel Ugly",
-   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
-   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
-   "played_at": "2026-10-11T02:22:56.689Z"
-  },
-  {
-   "name": "Imagine - Remastered 2010",
-   "artists": "John Lennon",
-   "image": "https://i.scdn.co/image/ab67616d0000b27399581550ef9746ca582bb3cc",
-   "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9",
-   "played_at": "2026-10-11T02:05:36.539Z"
   }
  ]
 }
