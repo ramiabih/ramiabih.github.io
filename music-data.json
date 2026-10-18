@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:08:37.185711+00:00",
+ "updated": "2026-10-18T15:08:44.157329+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -628,13 +628,6 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
-     "name": "White Dress",
-     "artists": "Kanye West",
-     "album": "The Man with the Iron Fists (Original Motion Picture Soundtrack)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
-     "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
-    },
-    {
      "name": "Aloula",
      "artists": "Fairuz",
      "album": "Fairuz - Modern Favorites",
@@ -654,6 +647,13 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "White Dress",
+     "artists": "Kanye West",
+     "album": "The Man with the Iron Fists (Original Motion Picture Soundtrack)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
+     "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
     },
     {
      "name": "Oum Fout Nam",
