@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T02:34:22.925523+00:00",
+ "updated": "2026-10-19T11:40:30.438745+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -330,18 +330,18 @@
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
     },
     {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
      "name": "Shayef El Bahr Shou Kebeer",
      "artists": "Fairuz",
      "album": "Habbaitak Be El Saif, Vol. 2",
      "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
      "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+    },
+    {
+     "name": "Bala Wala Chi - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
      "name": "Nasini El Donya",
@@ -519,6 +519,12 @@
      "genres": []
     },
     {
+     "name": "Gotts Street Park",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
+     "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
+     "genres": []
+    },
+    {
      "name": "Pale Jay",
      "image": "https://i.scdn.co/image/ab6761610000e5eb8f9248427efd447ee9bb61a3",
      "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM",
@@ -531,12 +537,6 @@
      "name": "Lana Del Rey",
      "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
      "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
-     "genres": []
-    },
-    {
-     "name": "Majida El Roumi",
-     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
-     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
      "genres": []
     }
    ]
