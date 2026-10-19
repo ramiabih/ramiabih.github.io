@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:40:30.438745+00:00",
+ "updated": "2026-10-19T18:01:32.071163+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -231,6 +231,14 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eba6e6973a01eb04abf32b58bb",
      "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z",
      "genres": []
+    },
+    {
+     "name": "Jalen Ngonda",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb42b3620fa149f037543ceacd",
+     "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ",
+     "genres": [
+      "retro soul"
+     ]
     },
     {
      "name": "Mayer Hawthorne",
@@ -856,6 +864,48 @@
  },
  "recent": [
   {
+   "name": "Just Like You Used To",
+   "artists": "Jalen Ngonda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273753a720a9845b697d8a120f6",
+   "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h",
+   "played_at": "2026-10-19T16:00:52.383Z"
+  },
+  {
+   "name": "Tell Me Why",
+   "artists": "Gotts Street Park, Olive Jones",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
+   "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj",
+   "played_at": "2026-10-19T15:57:44.248Z"
+  },
+  {
+   "name": "I Think I Like When It Rains",
+   "artists": "WILLIS",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+   "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
+   "played_at": "2026-10-19T15:53:54.618Z"
+  },
+  {
+   "name": "trees for the woods",
+   "artists": "Amie Blu",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732a88a7040ba03ab72c6f2434",
+   "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk",
+   "played_at": "2026-10-19T15:49:18.304Z"
+  },
+  {
+   "name": "Will I See You Again?",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a6523c6cecb43b3c2f44fd1e",
+   "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
+   "played_at": "2026-10-19T15:45:12.792Z"
+  },
+  {
+   "name": "Loser",
+   "artists": "Tame Impala",
+   "image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+   "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR",
+   "played_at": "2026-10-19T13:01:08.330Z"
+  },
+  {
    "name": "Live For You - A COLORS SHOW",
    "artists": "Thee Sacred Souls, COLORS",
    "image": "https://i.scdn.co/image/ab67616d0000b273de4e02cdf3e4d09fb28183c7",
@@ -1162,48 +1212,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273e281aa13ec12f896a6c64d7f",
    "url": "https://open.spotify.com/track/3WtuCGU59OvSGLnFd96HM3",
    "played_at": "2026-10-17T17:26:03.497Z"
-  },
-  {
-   "name": "Takassim Oud",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
-   "played_at": "2026-10-17T14:43:09.516Z"
-  },
-  {
-   "name": "Takassim Oud",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
-   "played_at": "2026-10-17T14:40:37.056Z"
-  },
-  {
-   "name": "Takassim Oud",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
-   "played_at": "2026-10-17T14:38:14.128Z"
-  },
-  {
-   "name": "Takassim Oud",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
-   "played_at": "2026-10-17T14:35:50.877Z"
-  },
-  {
-   "name": "Takassim Oud",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
-   "played_at": "2026-10-17T14:33:19.566Z"
-  },
-  {
-   "name": "Bossa",
-   "artists": "Ahmed Malek",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e281aa13ec12f896a6c64d7f",
-   "url": "https://open.spotify.com/track/3WtuCGU59OvSGLnFd96HM3",
-   "played_at": "2026-10-17T14:31:03.462Z"
   }
  ]
 }
