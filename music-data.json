@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:01:32.071163+00:00",
+ "updated": "2026-10-20T02:46:57.138612+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -74,13 +74,6 @@
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     },
     {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
      "name": "Tamally Maak",
      "artists": "Amr Diab",
      "album": "Tamally Maak",
@@ -142,6 +135,13 @@
      "album": "The Best of Sade",
      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+     "name": "Fi Al Tariki Ilaik",
+     "artists": "Faia Younan",
+     "album": "Fi Al Tariki Ilaik",
+     "image": "https://i.scdn.co/image/ab6742d3000053b703bd84219323e36eb98d65c6",
+     "url": "https://open.spotify.com/track/0yA4ESs31voD6TjCRRSFTj"
     }
    ],
    "artists": [
@@ -864,6 +864,13 @@
  },
  "recent": [
   {
+   "name": "What Turns You On",
+   "artists": "DON WEST",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e8c8868d03f65dfce975015b",
+   "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu",
+   "played_at": "2026-10-19T19:55:48.406Z"
+  },
+  {
    "name": "Just Like You Used To",
    "artists": "Jalen Ngonda",
    "image": "https://i.scdn.co/image/ab67616d0000b273753a720a9845b697d8a120f6",
@@ -1205,13 +1212,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
    "url": "https://open.spotify.com/track/016lX3EHvIMevMbsAgOUqv",
    "played_at": "2026-10-17T17:29:28.643Z"
-  },
-  {
-   "name": "Bossa",
-   "artists": "Ahmed Malek",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e281aa13ec12f896a6c64d7f",
-   "url": "https://open.spotify.com/track/3WtuCGU59OvSGLnFd96HM3",
-   "played_at": "2026-10-17T17:26:03.497Z"
   }
  ]
 }
