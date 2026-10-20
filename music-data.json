@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:42:39.254763+00:00",
+ "updated": "2026-10-20T16:04:54.341393+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -74,6 +74,13 @@
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
     },
     {
+     "name": "Fi Al Tariki Ilaik",
+     "artists": "Faia Younan",
+     "album": "Fi Al Tariki Ilaik",
+     "image": "https://i.scdn.co/image/ab6742d3000053b703bd84219323e36eb98d65c6",
+     "url": "https://open.spotify.com/track/0yA4ESs31voD6TjCRRSFTj"
+    },
+    {
      "name": "Tamally Maak",
      "artists": "Amr Diab",
      "album": "Tamally Maak",
@@ -135,13 +142,6 @@
      "album": "The Best of Sade",
      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
-     "name": "Fi Al Tariki Ilaik",
-     "artists": "Faia Younan",
-     "album": "Fi Al Tariki Ilaik",
-     "image": "https://i.scdn.co/image/ab6742d3000053b703bd84219323e36eb98d65c6",
-     "url": "https://open.spotify.com/track/0yA4ESs31voD6TjCRRSFTj"
     }
    ],
    "artists": [
@@ -206,6 +206,12 @@
      ]
     },
     {
+     "name": "Majida El Roumi",
+     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
+     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
+     "genres": []
+    },
+    {
      "name": "Gotts Street Park",
      "image": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
      "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
@@ -221,9 +227,9 @@
      ]
     },
     {
-     "name": "Majida El Roumi",
-     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
-     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
+     "name": "Lena Chamamyan",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebe13f3ca74774919d8fb743d8",
+     "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc",
      "genres": []
     },
     {
@@ -864,6 +870,118 @@
  },
  "recent": [
   {
+   "name": "Bali Ma'ak",
+   "artists": "Lena Chamamyan",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731b2636ff6552daeb88af8b45",
+   "url": "https://open.spotify.com/track/6MO7ktM6MXBta6EYLG5QFQ",
+   "played_at": "2026-10-20T13:04:40.939Z"
+  },
+  {
+   "name": "Koul Chi Aam Yekhlass",
+   "artists": "Majida El Roumi",
+   "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
+   "url": "https://open.spotify.com/track/0IrSxddA4XrVmGlLgHEWtp",
+   "played_at": "2026-10-20T13:00:43.602Z"
+  },
+  {
+   "name": "Bala Wala Chi - Live",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+   "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV",
+   "played_at": "2026-10-20T12:56:52.467Z"
+  },
+  {
+   "name": "Ma Kedert Neseet",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27344b0b7e97ddd3de94f023241",
+   "url": "https://open.spotify.com/track/4dtn3l4qZ4z8oZ0Wdw013S",
+   "played_at": "2026-10-20T12:53:19.410Z"
+  },
+  {
+   "name": "Ya Qatily",
+   "artists": "Faia Younan",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+   "url": "https://open.spotify.com/track/2uRTEJnEjUdmnLsrfQGnXu",
+   "played_at": "2026-10-20T12:48:49.404Z"
+  },
+  {
+   "name": "Nehna Wel Amar Jeeran",
+   "artists": "Fairouz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735bf8e0d425267e5c71355f75",
+   "url": "https://open.spotify.com/track/491xNhMUl79p9oGGGfVEFE",
+   "played_at": "2026-10-20T12:44:35.796Z"
+  },
+  {
+   "name": "Holm",
+   "artists": "EMEL",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734209cb45f75c6e05001cefa5",
+   "url": "https://open.spotify.com/track/6GMbt2Q4g7Qh46Ko7e3rbA",
+   "played_at": "2026-10-20T12:41:36.524Z"
+  },
+  {
+   "name": "Atini Nay Wa Ghanni",
+   "artists": "Dorsaf Hamdani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27333a21e929aa758e0c3a43faf",
+   "url": "https://open.spotify.com/track/5GvmDNQvE2BzTqBe0bxhDY",
+   "played_at": "2026-10-20T12:36:52.034Z"
+  },
+  {
+   "name": "Let Go",
+   "artists": "Ghalia Benali",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739b28ba6b84e4d58fd0363311",
+   "url": "https://open.spotify.com/track/5uZ0crMbeb2tjJwQXhTQFe",
+   "played_at": "2026-10-20T12:30:47.512Z"
+  },
+  {
+   "name": "Flower of the Cities (Zahret al Mada'en)",
+   "artists": "ASY, Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ba28d047b1f78b070190d647",
+   "url": "https://open.spotify.com/track/35a4PbomuZIo8edevgqNSk",
+   "played_at": "2026-10-20T12:26:38.623Z"
+  },
+  {
+   "name": "Mesk Elil - Chèvrefeuille",
+   "artists": "Souad Massi",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736758ec612bc0fce16b966bee",
+   "url": "https://open.spotify.com/track/1D79DO93QHX7IIqJGSUYMx",
+   "played_at": "2026-10-20T12:22:57.758Z"
+  },
+  {
+   "name": "Li Fairuz - A COLORS SHOW",
+   "artists": "Nai Barghouti, COLORS",
+   "image": "https://i.scdn.co/image/ab67616d0000b27317d1403fc3b826822a739714",
+   "url": "https://open.spotify.com/track/2RMFUtCZSQCqMs6SvuGrid",
+   "played_at": "2026-10-20T12:17:41.846Z"
+  },
+  {
+   "name": "Kalimat",
+   "artists": "Majida El Roumi",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731a75d1f74e1c307989f94832",
+   "url": "https://open.spotify.com/track/1kzNSl6M58cxfr8ac6xvhw",
+   "played_at": "2026-10-20T12:13:55.527Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-10-20T12:01:22.237Z"
+  },
+  {
+   "name": "Kifak Inta",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
+   "url": "https://open.spotify.com/track/6anUe12pE0PeJEu1IZJ2at",
+   "played_at": "2026-10-20T11:55:37.472Z"
+  },
+  {
+   "name": "Fi Al Tariki Ilaik",
+   "artists": "Faia Younan",
+   "image": "https://i.scdn.co/image/ab6742d3000053b703bd84219323e36eb98d65c6",
+   "url": "https://open.spotify.com/track/0yA4ESs31voD6TjCRRSFTj",
+   "played_at": "2026-10-20T11:52:03.695Z"
+  },
+  {
    "name": "What Turns You On",
    "artists": "DON WEST",
    "image": "https://i.scdn.co/image/ab67616d0000b273e8c8868d03f65dfce975015b",
@@ -1100,118 +1218,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730f783881d729552559e64525",
    "url": "https://open.spotify.com/track/4M3iTGnvMFsF5KVpGqRudt",
    "played_at": "2026-10-18T20:46:24.428Z"
-  },
-  {
-   "name": "Aateny El Nay We Ghanny",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e82c867f2bb855cd9458fb8e",
-   "url": "https://open.spotify.com/track/2qpcJSPnZVImYrbhwrHST2",
-   "played_at": "2026-10-18T20:42:22.164Z"
-  },
-  {
-   "name": "Bnadilak Ya Habibi",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d6dd4ed3418233a6ed0c2c91",
-   "url": "https://open.spotify.com/track/0bgf45RDVwGK6jqVE9LeHx",
-   "played_at": "2026-10-18T20:35:19.220Z"
-  },
-  {
-   "name": "Habbo Baadon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273655995fda6862efc8c3bbf44",
-   "url": "https://open.spotify.com/track/4C6mvUkZklzrHgWBSMVrFs",
-   "played_at": "2026-10-18T20:30:41.024Z"
-  },
-  {
-   "name": "Yalla Tenam Reema",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27317a8f7d8aa2df1fc9971aa47",
-   "url": "https://open.spotify.com/track/64nURlDtuuHFBraXc827lf",
-   "played_at": "2026-10-18T20:26:38.718Z"
-  },
-  {
-   "name": "Nehna We El Kamar Geeran",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
-   "url": "https://open.spotify.com/track/2pulvQDTgqjX4djPs6UygN",
-   "played_at": "2026-10-18T20:24:15.795Z"
-  },
-  {
-   "name": "Ana Le Habiby",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730f783881d729552559e64525",
-   "url": "https://open.spotify.com/track/2JfkGKlQ4MJxv153JPfrR4",
-   "played_at": "2026-10-18T20:20:56.078Z"
-  },
-  {
-   "name": "Kedeish Kan Fe Nas",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
-   "url": "https://open.spotify.com/track/4ph3TGED6e9ycyTq4LYBn4",
-   "played_at": "2026-10-18T20:16:31.050Z"
-  },
-  {
-   "name": "Khaleek Bilbait",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/4iC0jE1loDs6oQSjsYvRZs",
-   "played_at": "2026-10-18T20:12:46.307Z"
-  },
-  {
-   "name": "Sweet Eyes",
-   "artists": "Elias Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f00c810ed5b1bc5f35abcfac",
-   "url": "https://open.spotify.com/track/3wlley7sViGuD5b2WAecY1",
-   "played_at": "2026-10-17T21:40:17.737Z"
-  },
-  {
-   "name": "Kedeish Kan Fe Nas - Live from Baalbeck 1973",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732cd23acb687d9445bd503865",
-   "url": "https://open.spotify.com/track/1zKwulPt1jOqEhRbiXfTxa",
-   "played_at": "2026-10-17T17:58:26.880Z"
-  },
-  {
-   "name": "وغلاوتك",
-   "artists": "Amr Diab",
-   "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
-   "url": "https://open.spotify.com/track/1dVGCdJ4SibwgThXlUBU0l",
-   "played_at": "2026-10-17T17:54:41.295Z"
-  },
-  {
-   "name": "Yara",
-   "artists": "Charif Megarbane",
-   "image": "https://i.scdn.co/image/ab67616d0000b27332a11f29a222ae1dfb8e83d3",
-   "url": "https://open.spotify.com/track/2ujL1EbN6XSiff52LGqmQp",
-   "played_at": "2026-10-17T17:50:52.695Z"
-  },
-  {
-   "name": "Beiny We Beinak - Live",
-   "artists": "Hoda Haddad, Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739012ef2f742cea9e9267632d",
-   "url": "https://open.spotify.com/track/3XyvgKHmrWHV9wxQwbwGSJ",
-   "played_at": "2026-10-17T17:48:29.400Z"
-  },
-  {
-   "name": "Men Andena",
-   "artists": "Ronza",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b2a20b432dd7879ef6b8690f",
-   "url": "https://open.spotify.com/track/7gqMmowrDciJDNSVzoKEzU",
-   "played_at": "2026-10-17T17:39:26.356Z"
-  },
-  {
-   "name": "Takassim Oud",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
-   "played_at": "2026-10-17T17:34:54.059Z"
-  },
-  {
-   "name": "Ahu Dalli Sar - Live",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-   "url": "https://open.spotify.com/track/016lX3EHvIMevMbsAgOUqv",
-   "played_at": "2026-10-17T17:29:28.643Z"
   }
  ]
 }
