@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:02:40.620067+00:00",
+ "updated": "2026-10-21T02:41:03.377716+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -527,6 +527,12 @@
      ]
     },
     {
+     "name": "Majida El Roumi",
+     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
+     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
+     "genres": []
+    },
+    {
      "name": "Philipp Kirkorov",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc51f3d7c45816566904f7fe9",
      "url": "https://open.spotify.com/artist/3ANNnVJ7NCdIZV6P2YzvlI",
@@ -546,12 +552,6 @@
       "retro soul",
       "indie soul"
      ]
-    },
-    {
-     "name": "Lana Del Rey",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-     "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
-     "genres": []
     }
    ]
   },
