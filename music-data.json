@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:21:32.211166+00:00",
+ "updated": "2026-10-21T21:03:49.250960+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -231,6 +231,14 @@
      "image": "https://i.scdn.co/image/ab6761610000e5ebe13f3ca74774919d8fb743d8",
      "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc",
      "genres": []
+    },
+    {
+     "name": "Souad Massi",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebbcb55a4fa6d8e70bb2d69605",
+     "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k",
+     "genres": [
+      "gnawa"
+     ]
     },
     {
      "name": "FKJ",
