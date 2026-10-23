@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T16:10:41.751067+00:00",
+ "updated": "2026-10-23T20:49:41.702876+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -205,6 +205,15 @@
      "genres": []
     },
     {
+     "name": "The Zombies",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb4bbeb54a562d3de858825979",
+     "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5",
+     "genres": [
+      "baroque pop",
+      "psychedelic rock"
+     ]
+    },
+    {
      "name": "Neil Young",
      "image": "https://i.scdn.co/image/ab6761610000e5ebbae8276dffd864ebac759b76",
      "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm",
@@ -222,21 +231,21 @@
      "genres": []
     },
     {
+     "name": "The Kinks",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb81f4e878e8b959fa68f15322",
+     "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E",
+     "genres": [
+      "proto-punk",
+      "baroque pop"
+     ]
+    },
+    {
      "name": "The Velvet Underground",
      "image": "https://i.scdn.co/image/d69c2cf10323bf08443c7d122f3a1824a760ab57",
      "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC",
      "genres": [
       "proto-punk",
       "art rock"
-     ]
-    },
-    {
-     "name": "The Zombies",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb4bbeb54a562d3de858825979",
-     "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5",
-     "genres": [
-      "baroque pop",
-      "psychedelic rock"
      ]
     },
     {
@@ -268,15 +277,6 @@
      "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k",
      "genres": [
       "gnawa"
-     ]
-    },
-    {
-     "name": "The Kinks",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb81f4e878e8b959fa68f15322",
-     "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E",
-     "genres": [
-      "proto-punk",
-      "baroque pop"
      ]
     },
     {
@@ -515,6 +515,15 @@
      ]
     },
     {
+     "name": "The Beatles",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
+     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
+     "genres": [
+      "classic rock",
+      "psychedelic rock"
+     ]
+    },
+    {
      "name": "Umm Kulthum",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc857a1e6180f6696da6e31de",
      "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
@@ -552,15 +561,6 @@
      ]
     },
     {
-     "name": "The Beatles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
-     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
-     "genres": [
-      "classic rock",
-      "psychedelic rock"
-     ]
-    },
-    {
      "name": "Charles Aznavour",
      "image": "https://i.scdn.co/image/ab6761610000e5eb9df3ab10872287c871c7a1be",
      "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT",
@@ -568,6 +568,25 @@
       "chanson",
       "variété française",
       "french jazz"
+     ]
+    },
+    {
+     "name": "The Doors",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb440959e022afc20e819050bd",
+     "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt",
+     "genres": [
+      "psychedelic rock",
+      "classic rock",
+      "acid rock"
+     ]
+    },
+    {
+     "name": "David Bowie",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
+     "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy",
+     "genres": [
+      "glam rock",
+      "art rock"
      ]
     },
     {
@@ -581,21 +600,6 @@
      "image": "https://i.scdn.co/image/ab6761610000e5ebc51f3d7c45816566904f7fe9",
      "url": "https://open.spotify.com/artist/3ANNnVJ7NCdIZV6P2YzvlI",
      "genres": []
-    },
-    {
-     "name": "Gotts Street Park",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
-     "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
-     "genres": []
-    },
-    {
-     "name": "Pale Jay",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb8f9248427efd447ee9bb61a3",
-     "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM",
-     "genres": [
-      "retro soul",
-      "indie soul"
-     ]
     }
    ]
   },
