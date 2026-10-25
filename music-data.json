@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:00:47.252926+00:00",
+ "updated": "2026-10-25T02:29:44.439640+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -46,6 +46,13 @@
      "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
     },
     {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
      "name": "Takassim 'Banat Iskandariya'",
      "artists": "Oriental Lebanese Band",
      "album": "Sweet Melodies from Lebanon",
@@ -81,32 +88,11 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Pluto Projector",
-     "artists": "Rex Orange County",
-     "album": "Pony",
-     "image": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07",
-     "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
-    },
-    {
      "name": "Hell N Back",
      "artists": "Bakar",
      "album": "Hell N Back (Sped Up)",
      "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
-    },
-    {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
-     "name": "Zombie - 2025 Remastered",
-     "artists": "The Cranberries",
-     "album": "No Need To Argue (2025 Remastered)",
-     "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-     "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
     },
     {
      "name": "Last Train to London",
@@ -116,11 +102,11 @@
      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
     },
     {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
      "name": "Why Are There Boundaries",
@@ -142,6 +128,20 @@
      "album": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
      "image": "https://i.scdn.co/image/ab67616d0000b273d6275471a517fc2399054f2c",
      "url": "https://open.spotify.com/track/18qhv7DD1sEpgWffovGnhn"
+    },
+    {
+     "name": "Chocolate Hills",
+     "artists": "Khruangbin, Leon Bridges",
+     "album": "Texas Moon",
+     "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
+     "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+    },
+    {
+     "name": "Sometimes",
+     "artists": "Erykah Badu",
+     "album": "Baduizm",
+     "image": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
+     "url": "https://open.spotify.com/track/2ESN3ebvvqXcFAMxxn6QXF"
     }
    ],
    "artists": [
@@ -185,12 +185,6 @@
      ]
     },
     {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
-    },
-    {
      "name": "Thee Sacred Souls",
      "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
      "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
@@ -212,6 +206,12 @@
       "baroque pop",
       "psychedelic rock"
      ]
+    },
+    {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
     },
     {
      "name": "Neil Young",
@@ -249,23 +249,6 @@
      ]
     },
     {
-     "name": "Khruangbin",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
-     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": [
-      "neo-psychedelic"
-     ]
-    },
-    {
-     "name": "Mac DeMarco",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-     "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
-     "genres": [
-      "indie",
-      "lo-fi indie"
-     ]
-    },
-    {
      "name": "Lena Chamamyan",
      "image": "https://i.scdn.co/image/ab6761610000e5ebe13f3ca74774919d8fb743d8",
      "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc",
@@ -297,6 +280,23 @@
      "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ",
      "genres": [
       "retro soul"
+     ]
+    },
+    {
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "genres": [
+      "neo-psychedelic"
+     ]
+    },
+    {
+     "name": "Derek & The Dominos",
+     "image": "https://i.scdn.co/image/cfec75171b6394ae543eb906e86e4d50cbafd9dc",
+     "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z",
+     "genres": [
+      "blues rock",
+      "classic rock"
      ]
     }
    ]
@@ -917,6 +917,34 @@
  },
  "recent": [
   {
+   "name": "Saalouny El Nas",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
+   "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C",
+   "played_at": "2026-10-24T22:00:57.493Z"
+  },
+  {
+   "name": "Ya rabaâ",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
+   "url": "https://open.spotify.com/track/5TOwHyD3uQWEeBh5b0cEzx",
+   "played_at": "2026-10-24T21:59:40.612Z"
+  },
+  {
+   "name": "Sunday Morning",
+   "artists": "The Velvet Underground, Nico",
+   "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+   "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ",
+   "played_at": "2026-10-24T21:53:44.083Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
+   "played_at": "2026-10-24T21:53:19.244Z"
+  },
+  {
    "name": "You've Really Got a Hold on Me/Bring It on Home to Me - Mono Remastered",
    "artists": "The Zombies",
    "image": "https://i.scdn.co/image/ab67616d0000b2739733770f5b1cb55e018e8a03",
@@ -1237,34 +1265,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273fbcaf7402f38faac27610efc",
    "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60",
    "played_at": "2026-10-23T11:25:45.979Z"
-  },
-  {
-   "name": "Time of the Season - Mono Remastered",
-   "artists": "The Zombies",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731745b63f9866f75c76626a40",
-   "url": "https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI",
-   "played_at": "2026-10-23T11:20:46.252Z"
-  },
-  {
-   "name": "Movin' Out (Anthony's Song)",
-   "artists": "Billy Joel",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
-   "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct",
-   "played_at": "2026-10-23T11:17:17.679Z"
-  },
-  {
-   "name": "White Room",
-   "artists": "Cream",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee",
-   "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG",
-   "played_at": "2026-10-23T11:13:48.886Z"
-  },
-  {
-   "name": "Waterloo Sunset",
-   "artists": "The Kinks",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737c29f8edb00aedba1e901f32",
-   "url": "https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo",
-   "played_at": "2026-10-23T11:08:52.559Z"
   }
  ]
 }
