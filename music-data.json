@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T02:29:44.439640+00:00",
+ "updated": "2026-10-25T10:27:10.872394+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -325,18 +325,18 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
-    },
-    {
      "name": "Batwanes Beek",
      "artists": "Warda",
      "album": "Batwanes Beek",
      "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+     "name": "Takassim 'Banat Iskandariya'",
+     "artists": "Oriental Lebanese Band",
+     "album": "Sweet Melodies from Lebanon",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
+     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
      "name": "I Thought About Killing You",
@@ -360,13 +360,6 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
      "name": "Bisaraha",
      "artists": "Ziad Rahbani",
      "album": "Houdou Nisbi",
@@ -381,11 +374,25 @@
      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     },
     {
+     "name": "Law Hobna Ghalta",
+     "artists": "Wael Kfoury",
+     "album": "Law Hobna Ghalta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
+    },
+    {
      "name": "Can I Call You Rose?",
      "artists": "Isabel",
      "album": "Can I Call You Rose?",
      "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
+     "name": "Shayef El Bahr Shou Kebeer",
+     "artists": "Fairuz",
+     "album": "Habbaitak Be El Saif, Vol. 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
+     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
      "name": "Bala Wala Chi - Live",
@@ -395,11 +402,11 @@
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
-     "name": "Shayef El Bahr Shou Kebeer",
+     "name": "Ana Le Habiby",
      "artists": "Fairuz",
-     "album": "Habbaitak Be El Saif, Vol. 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b273000fc86962ff7738bfef5a5b",
-     "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
+     "album": "Ya Reit",
+     "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
+     "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
      "name": "Nasini El Donya",
@@ -416,13 +423,6 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "Ana Le Habiby",
-     "artists": "Fairuz",
-     "album": "Ya Reit",
-     "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
-     "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
-    },
-    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
@@ -430,18 +430,18 @@
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     },
     {
-     "name": "Hekm El Alb",
-     "artists": "Wael Kfoury",
-     "album": "Hekm El Alb",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ceaab02762013f61ff203af9",
-     "url": "https://open.spotify.com/track/3kQJ3PGa3w83o2RMlq0oh5"
+     "name": "The Glory",
+     "artists": "Kanye West",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
     },
     {
-     "name": "El Bint El Awiye",
-     "artists": "Wael Kfoury",
-     "album": "El Bint El Awiye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
-     "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
+     "name": "Wouldn't Leave",
+     "artists": "Kanye West, PARTYNEXTDOOR",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
     }
    ],
    "artists": [
@@ -466,9 +466,9 @@
      "genres": []
     },
     {
-     "name": "ABBA",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
-     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+     "name": "Mac Miller",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
+     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
      "genres": []
     },
     {
@@ -479,12 +479,6 @@
       "khaleeji",
       "egyptian pop"
      ]
-    },
-    {
-     "name": "Mac Miller",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
     },
     {
      "name": "Kendrick Lamar",
@@ -507,14 +501,6 @@
      ]
     },
     {
-     "name": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
-     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "retro soul"
-     ]
-    },
-    {
      "name": "The Beatles",
      "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
      "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
@@ -524,23 +510,17 @@
      ]
     },
     {
-     "name": "Umm Kulthum",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebc857a1e6180f6696da6e31de",
-     "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
-     "genres": []
-    },
-    {
-     "name": "Khruangbin",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
-     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "name": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
+     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
      "genres": [
-      "neo-psychedelic"
+      "retro soul"
      ]
     },
     {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "name": "Umm Kulthum",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebc857a1e6180f6696da6e31de",
+     "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
      "genres": []
     },
     {
@@ -558,6 +538,20 @@
      "genres": [
       "indie",
       "lo-fi indie"
+     ]
+    },
+    {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
+    },
+    {
+     "name": "Khruangbin",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
+     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
+     "genres": [
+      "neo-psychedelic"
      ]
     },
     {
@@ -590,15 +584,21 @@
      ]
     },
     {
+     "name": "Philipp Kirkorov",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebc51f3d7c45816566904f7fe9",
+     "url": "https://open.spotify.com/artist/3ANNnVJ7NCdIZV6P2YzvlI",
+     "genres": []
+    },
+    {
      "name": "Majida El Roumi",
      "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
      "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
      "genres": []
     },
     {
-     "name": "Philipp Kirkorov",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebc51f3d7c45816566904f7fe9",
-     "url": "https://open.spotify.com/artist/3ANNnVJ7NCdIZV6P2YzvlI",
+     "name": "Gotts Street Park",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
+     "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
      "genres": []
     }
    ]
