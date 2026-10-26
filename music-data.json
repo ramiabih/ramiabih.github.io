@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:11:38.478949+00:00",
+ "updated": "2026-10-26T02:29:07.045264+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -690,13 +690,6 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
-     "name": "Aloula",
-     "artists": "Fairuz",
-     "album": "Fairuz - Modern Favorites",
-     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
-    },
-    {
      "name": "Bayni Wa Baynak",
      "artists": "Hoda",
      "album": "Hoda Collection, Vol. 4",
@@ -704,18 +697,18 @@
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
+     "name": "Aloula",
+     "artists": "Fairuz",
+     "album": "Fairuz - Modern Favorites",
+     "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+     "url": "https://open.spotify.com/track/34WlUzhgoqyzJlALY5Dghy"
+    },
+    {
      "name": "The Middle East... W Ameh - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
-     "name": "White Dress",
-     "artists": "Kanye West",
-     "album": "The Man with the Iron Fists (Original Motion Picture Soundtrack)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734375120f285973963ba597c2",
-     "url": "https://open.spotify.com/track/1gTANFZlqRitzVx7YSenzA"
     },
     {
      "name": "Oum Fout Nam",
@@ -744,6 +737,13 @@
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/2OL8Jni4bn2ggw38Vb89G2"
+    },
+    {
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
     }
    ],
    "artists": [
