@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:57:20.021998+00:00",
+ "updated": "2026-10-26T18:13:48.687781+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,13 +11,6 @@
      "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
      "name": "I Think I Like When It Rains",
      "artists": "WILLIS",
      "album": "Locals 2",
@@ -25,11 +18,11 @@
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Who's Ya Daddy?",
@@ -53,11 +46,11 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
-     "name": "Takassim 'Banat Iskandariya'",
-     "artists": "Oriental Lebanese Band",
-     "album": "Sweet Melodies from Lebanon",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-     "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Gap in the Clouds",
@@ -102,13 +95,6 @@
      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
     },
     {
-     "name": "The Glory",
-     "artists": "Kanye West",
-     "album": "Graduation",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-     "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr"
-    },
-    {
      "name": "Why Are There Boundaries",
      "artists": "FKJ",
      "album": "French Kiwi Juice",
@@ -137,11 +123,25 @@
      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
-     "name": "Sometimes",
-     "artists": "Erykah Badu",
-     "album": "Baduizm",
-     "image": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
-     "url": "https://open.spotify.com/track/2ESN3ebvvqXcFAMxxn6QXF"
+     "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
+     "artists": "Frédéric Chopin, Mikhail Pletnev",
+     "album": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
+     "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV"
+    },
+    {
+     "name": "Lamma Bada Yatathana",
+     "artists": "Lena Chamamyan",
+     "album": "The Collection",
+     "image": "https://i.scdn.co/image/ab67616d0000b27328cfc8fdba73216613ca9087",
+     "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
+    },
+    {
+     "name": "Zombie - 2025 Remastered",
+     "artists": "The Cranberries",
+     "album": "No Need To Argue (2025 Remastered)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+     "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
     }
    ],
    "artists": [
@@ -152,18 +152,18 @@
      "genres": []
     },
     {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
+     "genres": []
+    },
+    {
      "name": "Kanye West",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
      "genres": [
       "rap"
      ]
-    },
-    {
-     "name": "Ziad Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
-     "genres": []
     },
     {
      "name": "The Beatles",
@@ -208,12 +208,6 @@
      ]
     },
     {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
-    },
-    {
      "name": "Neil Young",
      "image": "https://i.scdn.co/image/ab6761610000e5ebbae8276dffd864ebac759b76",
      "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm",
@@ -247,6 +241,12 @@
       "proto-punk",
       "art rock"
      ]
+    },
+    {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
     },
     {
      "name": "Lena Chamamyan",
@@ -917,6 +917,13 @@
  },
  "recent": [
   {
+   "name": "Ankara",
+   "artists": "Birds of Mind",
+   "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+   "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC",
+   "played_at": "2026-10-26T17:10:18.492Z"
+  },
+  {
    "name": "Saalouny El Nas",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
@@ -1258,13 +1265,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273017ebe3583ccc27baf4b9eeb",
    "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU",
    "played_at": "2026-10-23T11:31:10.751Z"
-  },
-  {
-   "name": "Bell Bottom Blues",
-   "artists": "Derek & The Dominos",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fbcaf7402f38faac27610efc",
-   "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60",
-   "played_at": "2026-10-23T11:25:45.979Z"
   }
  ]
 }
