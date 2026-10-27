@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:13:48.687781+00:00",
+ "updated": "2026-10-27T03:03:57.558501+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,13 +11,6 @@
      "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
      "name": "Shou Hal Ayyam - 2008 Remastered",
      "artists": "Ziad Rahbani",
      "album": "Ana Moush Kafer",
@@ -25,11 +18,11 @@
      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
-     "name": "Who's Ya Daddy?",
-     "artists": "Necro",
-     "album": "The Sexorcist",
-     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
      "name": "I'll Stay",
@@ -37,6 +30,13 @@
      "album": "Hard Groove",
      "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
      "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
+    },
+    {
+     "name": "Who's Ya Daddy?",
+     "artists": "Necro",
+     "album": "The Sexorcist",
+     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
     },
     {
      "name": "Wahdon",
@@ -51,13 +51,6 @@
      "album": "Hoda Collection, Vol. 4",
      "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
      "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
-    },
-    {
-     "name": "Gap in the Clouds",
-     "artists": "Yellow Days",
-     "album": "Harmless Melodies",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
-     "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
     },
     {
      "name": "Fi Al Tariki Ilaik",
@@ -81,11 +74,11 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Hell N Back",
-     "artists": "Bakar",
-     "album": "Hell N Back (Sped Up)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
-     "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+     "name": "Gap in the Clouds",
+     "artists": "Yellow Days",
+     "album": "Harmless Melodies",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
+     "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
     },
     {
      "name": "Last Train to London",
@@ -95,32 +88,11 @@
      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
     },
     {
-     "name": "Why Are There Boundaries",
-     "artists": "FKJ",
-     "album": "French Kiwi Juice",
-     "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
-     "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI"
-    },
-    {
-     "name": "It Runs Through Me (feat. De La Soul)",
-     "artists": "Tom Misch, De La Soul",
-     "album": "Geography",
-     "image": "https://i.scdn.co/image/ab67616d0000b273abe203531eac29d17260966f",
-     "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
      "name": "A Day In The Life - 2017 Mix",
      "artists": "The Beatles",
      "album": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
      "image": "https://i.scdn.co/image/ab67616d0000b273d6275471a517fc2399054f2c",
      "url": "https://open.spotify.com/track/18qhv7DD1sEpgWffovGnhn"
-    },
-    {
-     "name": "Chocolate Hills",
-     "artists": "Khruangbin, Leon Bridges",
-     "album": "Texas Moon",
-     "image": "https://i.scdn.co/image/ab67616d0000b27328e12bc569f20d9f8ebff84c",
-     "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
      "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
@@ -142,6 +114,34 @@
      "album": "No Need To Argue (2025 Remastered)",
      "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
      "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
+    },
+    {
+     "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
+     "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
+     "album": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
+     "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s"
+    },
+    {
+     "name": "Ankara",
+     "artists": "Birds of Mind",
+     "album": "Ankara",
+     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
+    },
+    {
+     "name": "Tamally Maak",
+     "artists": "Amr Diab",
+     "album": "Tamally Maak",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+    },
+    {
+     "name": "The Middle East... W Ameh - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
     }
    ],
    "artists": [
@@ -182,14 +182,6 @@
       "psychedelic rock",
       "classic rock",
       "acid rock"
-     ]
-    },
-    {
-     "name": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
-     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "retro soul"
      ]
     },
     {
@@ -243,16 +235,18 @@
      ]
     },
     {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
-    },
-    {
      "name": "Lena Chamamyan",
      "image": "https://i.scdn.co/image/ab6761610000e5ebe13f3ca74774919d8fb743d8",
      "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc",
      "genres": []
+    },
+    {
+     "name": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
+     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+     "genres": [
+      "retro soul"
+     ]
     },
     {
      "name": "Souad Massi",
@@ -263,34 +257,6 @@
      ]
     },
     {
-     "name": "FKJ",
-     "image": "https://i.scdn.co/image/ab6761610000e5eba6e6973a01eb04abf32b58bb",
-     "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z",
-     "genres": []
-    },
-    {
-     "name": "Gotts Street Park",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
-     "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
-     "genres": []
-    },
-    {
-     "name": "Jalen Ngonda",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb42b3620fa149f037543ceacd",
-     "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ",
-     "genres": [
-      "retro soul"
-     ]
-    },
-    {
-     "name": "Khruangbin",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb7c7e48743caf917d5206fb39",
-     "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk",
-     "genres": [
-      "neo-psychedelic"
-     ]
-    },
-    {
      "name": "Derek & The Dominos",
      "image": "https://i.scdn.co/image/cfec75171b6394ae543eb906e86e4d50cbafd9dc",
      "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z",
@@ -298,6 +264,12 @@
       "blues rock",
       "classic rock"
      ]
+    },
+    {
+     "name": "Paul McCartney",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb14c00beb3fb84781144246f6",
+     "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB",
+     "genres": []
     }
    ]
   },
@@ -917,6 +889,13 @@
  },
  "recent": [
   {
+   "name": "Illusions",
+   "artists": "Cypress Hill",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c467fab51092bd39483706b9",
+   "url": "https://open.spotify.com/track/4s4c5EF1ujgsPPn4NRNwGL",
+   "played_at": "2026-10-26T20:58:04.118Z"
+  },
+  {
    "name": "Ankara",
    "artists": "Birds of Mind",
    "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
@@ -1258,13 +1237,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27300d037dd3dfb578da4692088",
    "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R",
    "played_at": "2026-10-23T11:38:18.482Z"
-  },
-  {
-   "name": "Mr. Tambourine Man",
-   "artists": "Bob Dylan",
-   "image": "https://i.scdn.co/image/ab67616d0000b273017ebe3583ccc27baf4b9eeb",
-   "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU",
-   "played_at": "2026-10-23T11:31:10.751Z"
   }
  ]
 }
