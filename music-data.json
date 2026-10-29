@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:00:10.864578+00:00",
+ "updated": "2026-10-29T22:13:29.764449+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -81,6 +81,13 @@
      "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
     },
     {
+     "name": "Zombie - 2025 Remastered",
+     "artists": "The Cranberries",
+     "album": "No Need To Argue (2025 Remastered)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+     "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
+    },
+    {
      "name": "Last Train to London",
      "artists": "Rikas",
      "album": "Last Train to London",
@@ -107,13 +114,6 @@
      "album": "The Collection",
      "image": "https://i.scdn.co/image/ab67616d0000b27328cfc8fdba73216613ca9087",
      "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
-    },
-    {
-     "name": "Zombie - 2025 Remastered",
-     "artists": "The Cranberries",
-     "album": "No Need To Argue (2025 Remastered)",
-     "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-     "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
     },
     {
      "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
@@ -931,6 +931,118 @@
  },
  "recent": [
   {
+   "name": "Who's Ya Daddy?",
+   "artists": "Necro",
+   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
+   "played_at": "2026-10-29T21:24:21.280Z"
+  },
+  {
+   "name": "The Man Who Sold The World - Live",
+   "artists": "Nirvana",
+   "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+   "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
+   "played_at": "2026-10-29T20:43:31.324Z"
+  },
+  {
+   "name": "Zombie - 2025 Remastered",
+   "artists": "The Cranberries",
+   "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+   "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+   "played_at": "2026-10-29T20:39:12.226Z"
+  },
+  {
+   "name": "Paint It, Black",
+   "artists": "The Rolling Stones",
+   "image": "https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694",
+   "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+   "played_at": "2026-10-29T20:34:08.602Z"
+  },
+  {
+   "name": "Aerials",
+   "artists": "System Of A Down",
+   "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
+   "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco",
+   "played_at": "2026-10-29T20:30:48.339Z"
+  },
+  {
+   "name": "Everlong",
+   "artists": "Foo Fighters",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
+   "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
+   "played_at": "2026-10-29T20:26:55.256Z"
+  },
+  {
+   "name": "Break Stuff",
+   "artists": "Limp Bizkit",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c",
+   "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+   "played_at": "2026-10-29T20:22:46.728Z"
+  },
+  {
+   "name": "In the End",
+   "artists": "Linkin Park",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+   "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq",
+   "played_at": "2026-10-29T20:19:49.447Z"
+  },
+  {
+   "name": "Bring Me To Life",
+   "artists": "Evanescence",
+   "image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+   "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
+   "played_at": "2026-10-29T20:16:14.541Z"
+  },
+  {
+   "name": "Freak On a Leash",
+   "artists": "Korn",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734e492e787ed64de43c3a3a21",
+   "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu",
+   "played_at": "2026-10-29T20:12:20.641Z"
+  },
+  {
+   "name": "Butterfly",
+   "artists": "Crazy Town",
+   "image": "https://i.scdn.co/image/ab67616d0000b273523e6f09c8962982254de0cd",
+   "url": "https://open.spotify.com/track/6GQ3WTaNHMFlVmN4burGat",
+   "played_at": "2026-10-29T20:08:06.930Z"
+  },
+  {
+   "name": "Killing In The Name",
+   "artists": "Rage Against The Machine",
+   "image": "https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece",
+   "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp",
+   "played_at": "2026-10-29T20:04:32.149Z"
+  },
+  {
+   "name": "Smells Like Teen Spirit",
+   "artists": "Nirvana",
+   "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+   "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T",
+   "played_at": "2026-10-29T19:59:20.539Z"
+  },
+  {
+   "name": "Like a Stone",
+   "artists": "Audioslave",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787",
+   "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei",
+   "played_at": "2026-10-29T19:54:20.635Z"
+  },
+  {
+   "name": "Black Hole Sun",
+   "artists": "Soundgarden",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735124ed45a94033830b320500",
+   "url": "https://open.spotify.com/track/4xdHI4eFNst0vTZuuKrWjr",
+   "played_at": "2026-10-29T19:49:28.655Z"
+  },
+  {
+   "name": "Toxicity",
+   "artists": "System Of A Down",
+   "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
+   "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
+   "played_at": "2026-10-29T19:44:12.038Z"
+  },
+  {
    "name": "All Year Next Year",
    "artists": "Supersci, Remedeeh",
    "image": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
@@ -1167,118 +1279,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273adb5dbf4251255a00146d8eb",
    "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q",
    "played_at": "2026-10-27T16:58:33.182Z"
-  },
-  {
-   "name": "After the Laughter Comes Tears - Tearz Vocal",
-   "artists": "Wu-Tang Clan",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739628e24322f47e823355fe8b",
-   "url": "https://open.spotify.com/track/5JlvSLbV6uFjNrPQ3PLOrs",
-   "played_at": "2026-10-27T16:54:57.750Z"
-  },
-  {
-   "name": "Lost in Thought",
-   "artists": "Funkdoobiest",
-   "image": "https://i.scdn.co/image/ab67616d0000b273bfabdcfa258e866eaaaa0dfe",
-   "url": "https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t",
-   "played_at": "2026-10-27T16:51:42.556Z"
-  },
-  {
-   "name": "Illusions - Harpsichord Mix",
-   "artists": "Cypress Hill",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738308e5db7b3625e2dbfdfe40",
-   "url": "https://open.spotify.com/track/2Bhqg1ONbtcFBTR96H7oQw",
-   "played_at": "2026-10-27T16:48:05.101Z"
-  },
-  {
-   "name": "Who's Ya Daddy?",
-   "artists": "Necro",
-   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
-   "played_at": "2026-10-27T16:44:37.909Z"
-  },
-  {
-   "name": "Lost in Thought",
-   "artists": "Funkdoobiest",
-   "image": "https://i.scdn.co/image/ab67616d0000b273bfabdcfa258e866eaaaa0dfe",
-   "url": "https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t",
-   "played_at": "2026-10-27T16:40:25.938Z"
-  },
-  {
-   "name": "Illusions",
-   "artists": "Cypress Hill",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c467fab51092bd39483706b9",
-   "url": "https://open.spotify.com/track/4s4c5EF1ujgsPPn4NRNwGL",
-   "played_at": "2026-10-26T20:58:04.118Z"
-  },
-  {
-   "name": "Ankara",
-   "artists": "Birds of Mind",
-   "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
-   "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC",
-   "played_at": "2026-10-26T17:10:18.492Z"
-  },
-  {
-   "name": "Saalouny El Nas",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27352fb8ee4341fcf40afaf616b",
-   "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C",
-   "played_at": "2026-10-24T22:00:57.493Z"
-  },
-  {
-   "name": "Ya rabaâ",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733ee2e4bdb14cb469abbaf0d5",
-   "url": "https://open.spotify.com/track/5TOwHyD3uQWEeBh5b0cEzx",
-   "played_at": "2026-10-24T21:59:40.612Z"
-  },
-  {
-   "name": "Sunday Morning",
-   "artists": "The Velvet Underground, Nico",
-   "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
-   "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ",
-   "played_at": "2026-10-24T21:53:44.083Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
-   "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
-   "played_at": "2026-10-24T21:53:19.244Z"
-  },
-  {
-   "name": "You've Really Got a Hold on Me/Bring It on Home to Me - Mono Remastered",
-   "artists": "The Zombies",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739733770f5b1cb55e018e8a03",
-   "url": "https://open.spotify.com/track/0uVWU4W7XsU0q4G8J8k1FN",
-   "played_at": "2026-10-23T16:06:04.864Z"
-  },
-  {
-   "name": "Riverside",
-   "artists": "America",
-   "image": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-   "url": "https://open.spotify.com/track/2S7hH8gCuwlqL8vqia3eJp",
-   "played_at": "2026-10-23T16:02:26.367Z"
-  },
-  {
-   "name": "Break on Through (To the Other Side)",
-   "artists": "The Doors",
-   "image": "https://i.scdn.co/image/ab67616d0000b27300d037dd3dfb578da4692088",
-   "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
-   "played_at": "2026-10-23T15:59:27.179Z"
-  },
-  {
-   "name": "Across The Universe - Remastered 2009",
-   "artists": "The Beatles",
-   "image": "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
-   "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF",
-   "played_at": "2026-10-23T15:57:03.333Z"
-  },
-  {
-   "name": "Tangerine - Remaster",
-   "artists": "Led Zeppelin",
-   "image": "https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb",
-   "url": "https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS",
-   "played_at": "2026-10-23T15:53:07.215Z"
   }
  ]
 }
