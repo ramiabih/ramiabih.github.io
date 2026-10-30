@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T03:43:39.366274+00:00",
+ "updated": "2026-10-30T11:54:29.172901+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -240,6 +240,12 @@
      ]
     },
     {
+     "name": "Steve Brassel",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735ea7e7b141d3f45819b76fa0",
+     "url": "https://open.spotify.com/artist/1m0JKXZ4zkaDci3L7XYbAI",
+     "genres": []
+    },
+    {
      "name": "The Velvet Underground",
      "image": "https://i.scdn.co/image/d69c2cf10323bf08443c7d122f3a1824a760ab57",
      "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC",
@@ -284,12 +290,6 @@
      "name": "paisol",
      "image": "https://i.scdn.co/image/ab67616d0000b2736e508456161b1a833eb69b24",
      "url": "https://open.spotify.com/artist/1gSpUyVzsicwLnouG2rsZj",
-     "genres": []
-    },
-    {
-     "name": "Steve Brassel",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735ea7e7b141d3f45819b76fa0",
-     "url": "https://open.spotify.com/artist/1m0JKXZ4zkaDci3L7XYbAI",
      "genres": []
     },
     {
@@ -492,6 +492,12 @@
      ]
     },
     {
+     "name": "Thomas O’Reilly",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
+     "url": "https://open.spotify.com/artist/1mTuXKKNsMoLwborRDqsgD",
+     "genres": []
+    },
+    {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
      "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
@@ -595,12 +601,6 @@
      "name": "Majida El Roumi",
      "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
      "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
-     "genres": []
-    },
-    {
-     "name": "Gotts Street Park",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
-     "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
      "genres": []
     }
    ]
