@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T21:49:24.454078+00:00",
+ "updated": "2026-10-31T03:27:49.647536+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -793,6 +793,12 @@
      ]
     },
     {
+     "name": "Hotel Ugly",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb77039980a84fb5a790a80e52",
+     "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb",
+     "genres": []
+    },
+    {
      "name": "Kendrick Lamar",
      "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
      "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
@@ -800,12 +806,6 @@
       "hip hop",
       "west coast hip hop"
      ]
-    },
-    {
-     "name": "Hotel Ugly",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb77039980a84fb5a790a80e52",
-     "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb",
-     "genres": []
     },
     {
      "name": "Mac DeMarco",
