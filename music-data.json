@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T03:31:17.436786+00:00",
+ "updated": "2026-11-01T12:23:47.824526+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,6 +16,13 @@
      "album": "The Sexorcist",
      "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
      "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
+    },
+    {
+     "name": "Sabah Wu Masaa",
+     "artists": "Fairuz",
+     "album": "Wala Keef",
+     "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
+     "url": "https://open.spotify.com/track/3Ht7hR95ZrCRPcTvmrZaER"
     },
     {
      "name": "Fi Al Tariki Ilaik",
@@ -53,11 +60,25 @@
      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
     },
     {
+     "name": "Dak Khilkeh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/0Bvd0UXJPcJkiQvlT1AXWb"
+    },
+    {
      "name": "Wahdon",
      "artists": "Fairuz",
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Mish Kayan Hayek T'Koun",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/0HYf6nITIgTmivrMU4VMGo"
     },
     {
      "name": "Ya Tair",
@@ -88,6 +109,13 @@
      "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV"
     },
     {
+     "name": "Sallimleh Alayh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
+    },
+    {
      "name": "Lamma Bada Yatathana",
      "artists": "Lena Chamamyan",
      "album": "The Collection",
@@ -109,39 +137,11 @@
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
-     "name": "I'll Stay",
-     "artists": "The RH Factor, D'Angelo",
-     "album": "Hard Groove",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
-     "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
-    },
-    {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
-     "name": "Ayonha",
-     "artists": "Hamid Al Shaeri",
-     "album": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273450799e337be82b0d5fd191a",
-     "url": "https://open.spotify.com/track/7j3758mGOPLkd7UQsmbWYg"
-    },
-    {
-     "name": "Selfless",
-     "artists": "The Strokes",
-     "album": "The New Abnormal",
-     "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-     "url": "https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"
-    },
-    {
-     "name": "Should I Stay or Should I Go - Remastered",
-     "artists": "The Clash",
-     "album": "Combat Rock (Remastered)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
-     "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+     "name": "Ana Fazaani",
+     "artists": "Fairuz",
+     "album": "Wala Keef",
+     "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
+     "url": "https://open.spotify.com/track/5ID8N4ssFFAmFvINnTdcKM"
     }
    ],
    "artists": [
@@ -917,6 +917,76 @@
  },
  "recent": [
   {
+   "name": "Mish Kayan Hayek T'Koun",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5K1r8gcgVyA9rbJnJTgCj3",
+   "played_at": "2026-11-01T10:59:27.009Z"
+  },
+  {
+   "name": "Dak Khilkeh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4KDTAercEB2V1J8cmxS9CI",
+   "played_at": "2026-11-01T10:55:54.552Z"
+  },
+  {
+   "name": "Sallimleh Alayh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/3JLqeGsp5jbo5Jey7ROszz",
+   "played_at": "2026-11-01T10:51:51.113Z"
+  },
+  {
+   "name": "Ana Fazaani",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/7zaOC8zh40jW4RrYyAdwLY",
+   "played_at": "2026-11-01T10:46:01.914Z"
+  },
+  {
+   "name": "Sabah Wu Masaa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/1hUoakgR0ma5iMvtmKq2c2",
+   "played_at": "2026-11-01T10:41:58.509Z"
+  },
+  {
+   "name": "Mish Kayan Hayek T'Koun",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5K1r8gcgVyA9rbJnJTgCj3",
+   "played_at": "2026-11-01T10:36:34.403Z"
+  },
+  {
+   "name": "Dak Khilkeh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4KDTAercEB2V1J8cmxS9CI",
+   "played_at": "2026-11-01T10:33:11.102Z"
+  },
+  {
+   "name": "Sallimleh Alayh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/3JLqeGsp5jbo5Jey7ROszz",
+   "played_at": "2026-11-01T10:29:07.590Z"
+  },
+  {
+   "name": "Ana Fazaani",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/7zaOC8zh40jW4RrYyAdwLY",
+   "played_at": "2026-11-01T10:23:18.287Z"
+  },
+  {
+   "name": "Sabah Wu Masaa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/1hUoakgR0ma5iMvtmKq2c2",
+   "played_at": "2026-11-01T10:19:14.976Z"
+  },
+  {
    "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
    "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
    "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
@@ -1195,76 +1265,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2736e508456161b1a833eb69b24",
    "url": "https://open.spotify.com/track/5hSHS5MmPfGtxDQcORG8Ai",
    "played_at": "2026-10-30T01:16:40.059Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 20",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/2InRviLCLE7mWUQu28i9Fk",
-   "played_at": "2026-10-30T01:14:13.304Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 19",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/6A7wbh4Rv5lMeeMAi2Yfko",
-   "played_at": "2026-10-30T01:11:21.040Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 18",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/7rcAF4WAFms11oef9XyeDH",
-   "played_at": "2026-10-30T01:08:26.456Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 17",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/3gF8gtchrlxYpIa2JD4QjW",
-   "played_at": "2026-10-30T01:05:29.578Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 16",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/5PKNNglO198CQ0B9XNOjNh",
-   "played_at": "2026-10-30T01:02:31.950Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 15",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/2cY2jmlHP2WWhnWzDgIsCA",
-   "played_at": "2026-10-30T00:59:36.252Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 14",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/2scgWEN57kOx088wTDxQLP",
-   "played_at": "2026-10-30T00:56:42.258Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 13",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/6v6WJVdZzbiiosoqbL1M3K",
-   "played_at": "2026-10-30T00:53:44.470Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 12",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/3fkOvXUaD8yBPnMecB20fX",
-   "played_at": "2026-10-30T00:50:49.032Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 11",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/6qHcEAOC3SrYxWmKPtaHI8",
-   "played_at": "2026-10-30T00:47:51.492Z"
   }
  ]
 }
