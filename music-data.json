@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:49:18.726468+00:00",
+ "updated": "2026-11-01T03:31:17.436786+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -11,46 +11,11 @@
      "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
      "name": "Who's Ya Daddy?",
      "artists": "Necro",
      "album": "The Sexorcist",
      "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
      "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
-    },
-    {
-     "name": "I'll Stay",
-     "artists": "The RH Factor, D'Angelo",
-     "album": "Hard Groove",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
-     "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
-    },
-    {
-     "name": "Wahdon",
-     "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
-    {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Fi Al Tariki Ilaik",
@@ -60,25 +25,18 @@
      "url": "https://open.spotify.com/track/0yA4ESs31voD6TjCRRSFTj"
     },
     {
-     "name": "Ya Tair",
-     "artists": "Fairuz",
-     "album": "Safarbarlek (From \"Safarbarlek\")",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
-     "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D"
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
     },
     {
-     "name": "Law Hobna Ghalta",
-     "artists": "Wael Kfoury",
-     "album": "Law Hobna Ghalta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-     "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
-    },
-    {
-     "name": "Gap in the Clouds",
-     "artists": "Yellow Days",
-     "album": "Harmless Melodies",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
-     "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Zombie - 2025 Remastered",
@@ -93,6 +51,27 @@
      "album": "Last Train to London",
      "image": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Ya Tair",
+     "artists": "Fairuz",
+     "album": "Safarbarlek (From \"Safarbarlek\")",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
+     "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D"
+    },
+    {
+     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+     "album": "Elgar",
+     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
+     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     },
     {
      "name": "A Day In The Life - 2017 Mix",
@@ -130,11 +109,11 @@
      "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
-     "name": "Tamally Maak",
-     "artists": "Amr Diab",
-     "album": "Tamally Maak",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-     "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
+     "name": "I'll Stay",
+     "artists": "The RH Factor, D'Angelo",
+     "album": "Hard Groove",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+     "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
     },
     {
      "name": "The Middle East... W Ameh - Live",
@@ -142,6 +121,27 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
+    },
+    {
+     "name": "Ayonha",
+     "artists": "Hamid Al Shaeri",
+     "album": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273450799e337be82b0d5fd191a",
+     "url": "https://open.spotify.com/track/7j3758mGOPLkd7UQsmbWYg"
+    },
+    {
+     "name": "Selfless",
+     "artists": "The Strokes",
+     "album": "The New Abnormal",
+     "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+     "url": "https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"
+    },
+    {
+     "name": "Should I Stay or Should I Go - Remastered",
+     "artists": "The Clash",
+     "album": "Combat Rock (Remastered)",
+     "image": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
+     "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     }
    ],
    "artists": [
@@ -162,14 +162,6 @@
      "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
      "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": []
-    },
-    {
-     "name": "Kanye West",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-     "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
-     "genres": [
-      "rap"
-     ]
     },
     {
      "name": "The Beatles",
@@ -300,6 +292,12 @@
       "blues rock",
       "classic rock"
      ]
+    },
+    {
+     "name": "Paul McCartney",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb14c00beb3fb84781144246f6",
+     "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB",
+     "genres": []
     }
    ]
   },
@@ -919,6 +917,13 @@
  },
  "recent": [
   {
+   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+   "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+   "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
+   "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI",
+   "played_at": "2026-10-31T21:58:06.422Z"
+  },
+  {
    "name": "Tronco",
    "artists": "ferto",
    "image": "https://i.scdn.co/image/ab67616d0000b27361c39bd1cc20402a038c5609",
@@ -1260,13 +1265,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
    "url": "https://open.spotify.com/track/6qHcEAOC3SrYxWmKPtaHI8",
    "played_at": "2026-10-30T00:47:51.492Z"
-  },
-  {
-   "name": "People Talking Sounds, Pt. 10",
-   "artists": "Thomas O’Reilly",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-   "url": "https://open.spotify.com/track/3lQ25cCqDGIn7R31UQZblu",
-   "played_at": "2026-10-30T00:44:58.501Z"
   }
  ]
 }
