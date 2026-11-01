@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T12:23:47.824526+00:00",
+ "updated": "2026-11-01T21:30:50.131724+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -325,11 +325,11 @@
      "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
     },
     {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+     "name": "I Thought About Killing You",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
     },
     {
      "name": "Takassim 'Banat Iskandariya'",
@@ -339,18 +339,18 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
-     "name": "I Thought About Killing You",
-     "artists": "Kanye West",
-     "album": "ye",
-     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-     "url": "https://open.spotify.com/track/0yhxBvedRdGxsPZHJNI4VA"
-    },
-    {
      "name": "I Think I Like When It Rains",
      "artists": "WILLIS",
      "album": "Locals 2",
      "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+    },
+    {
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Bayni Wa Baynak",
@@ -367,6 +367,13 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
+     "name": "Can I Call You Rose?",
+     "artists": "Isabel",
+     "album": "Can I Call You Rose?",
+     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
      "name": "Tamally Maak",
      "artists": "Amr Diab",
      "album": "Tamally Maak",
@@ -381,13 +388,6 @@
      "url": "https://open.spotify.com/track/153KOLKCILwezfq0Au9QwV"
     },
     {
-     "name": "Can I Call You Rose?",
-     "artists": "Isabel",
-     "album": "Can I Call You Rose?",
-     "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-     "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
-    },
-    {
      "name": "Shayef El Bahr Shou Kebeer",
      "artists": "Fairuz",
      "album": "Habbaitak Be El Saif, Vol. 2",
@@ -395,18 +395,18 @@
      "url": "https://open.spotify.com/track/0u1zBGqurNyLGWwvsxKPyc"
     },
     {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
      "name": "Ana Le Habiby",
      "artists": "Fairuz",
      "album": "Ya Reit",
      "image": "https://i.scdn.co/image/ab67616d0000b27399098399f5459053347c1ab6",
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
+    },
+    {
+     "name": "Bala Wala Chi - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
      "name": "Nasini El Donya",
@@ -423,13 +423,6 @@
      "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
     },
     {
-     "name": "The Middle East... W Ameh - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/7iTp5i58Q2uckxWblGHIqM"
-    },
-    {
      "name": "The Glory",
      "artists": "Kanye West",
      "album": "Graduation",
@@ -442,6 +435,13 @@
      "album": "ye",
      "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
      "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
+    },
+    {
+     "name": "Violent Crimes",
+     "artists": "Kanye West",
+     "album": "ye",
+     "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+     "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
     }
    ],
    "artists": [
