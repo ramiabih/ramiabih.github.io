@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:30:50.131724+00:00",
+ "updated": "2026-11-02T03:38:51.739425+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -32,34 +32,6 @@
      "url": "https://open.spotify.com/track/0yA4ESs31voD6TjCRRSFTj"
     },
     {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
-     "name": "Zombie - 2025 Remastered",
-     "artists": "The Cranberries",
-     "album": "No Need To Argue (2025 Remastered)",
-     "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-     "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
-    },
-    {
-     "name": "Last Train to London",
-     "artists": "Rikas",
-     "album": "Last Train to London",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
-     "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
-    },
-    {
      "name": "Dak Khilkeh",
      "artists": "Fairuz",
      "album": "Mish Kayan Hayek T'Koun",
@@ -79,6 +51,62 @@
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/0HYf6nITIgTmivrMU4VMGo"
+    },
+    {
+     "name": "Sallimleh Alayh",
+     "artists": "Fairuz",
+     "album": "Mish Kayan Hayek T'Koun",
+     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
+     "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
+    },
+    {
+     "name": "Ana Fazaani",
+     "artists": "Fairuz",
+     "album": "Wala Keef",
+     "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
+     "url": "https://open.spotify.com/track/5ID8N4ssFFAmFvINnTdcKM"
+    },
+    {
+     "name": "I Think I Like When It Rains",
+     "artists": "WILLIS",
+     "album": "Locals 2",
+     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
+     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
+    },
+    {
+     "name": "Oghniat Al Wadaa",
+     "artists": "Fairuz",
+     "album": "Kifak Inta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
+     "url": "https://open.spotify.com/track/1scEOt7Kx537vKuam70wpB"
+    },
+    {
+     "name": "Shou Hal Ayyam - 2008 Remastered",
+     "artists": "Ziad Rahbani",
+     "album": "Ana Moush Kafer",
+     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+     "name": "Zombie - 2025 Remastered",
+     "artists": "The Cranberries",
+     "album": "No Need To Argue (2025 Remastered)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+     "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
+    },
+    {
+     "name": "Kifak Inta",
+     "artists": "Fairuz",
+     "album": "Kifak Inta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
+     "url": "https://open.spotify.com/track/6anUe12pE0PeJEu1IZJ2at"
+    },
+    {
+     "name": "Last Train to London",
+     "artists": "Rikas",
+     "album": "Last Train to London",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
+     "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
     },
     {
      "name": "Ya Tair",
@@ -102,46 +130,18 @@
      "url": "https://open.spotify.com/track/18qhv7DD1sEpgWffovGnhn"
     },
     {
+     "name": "Fi Shi Am 'Bisser",
+     "artists": "Fairuz",
+     "album": "Kifak Inta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
+     "url": "https://open.spotify.com/track/1OdjExi35aPk35MOulh8ed"
+    },
+    {
      "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
      "artists": "Frédéric Chopin, Mikhail Pletnev",
      "album": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
      "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
      "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV"
-    },
-    {
-     "name": "Sallimleh Alayh",
-     "artists": "Fairuz",
-     "album": "Mish Kayan Hayek T'Koun",
-     "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
-     "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
-    },
-    {
-     "name": "Lamma Bada Yatathana",
-     "artists": "Lena Chamamyan",
-     "album": "The Collection",
-     "image": "https://i.scdn.co/image/ab67616d0000b27328cfc8fdba73216613ca9087",
-     "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
-    },
-    {
-     "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
-     "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
-     "album": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
-     "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
-     "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s"
-    },
-    {
-     "name": "Ankara",
-     "artists": "Birds of Mind",
-     "album": "Ankara",
-     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
-     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
-    },
-    {
-     "name": "Ana Fazaani",
-     "artists": "Fairuz",
-     "album": "Wala Keef",
-     "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
-     "url": "https://open.spotify.com/track/5ID8N4ssFFAmFvINnTdcKM"
     }
    ],
    "artists": [
@@ -533,9 +533,7 @@
      "name": "Louis Brigham",
      "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
      "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
-     ]
+     "genres": []
     },
     {
      "name": "Mac DeMarco",
@@ -917,6 +915,139 @@
  },
  "recent": [
   {
+   "name": "Fi Shi Am 'Bisser",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4IyKyRuwy1gL5SuP0cWer7",
+   "played_at": "2026-11-01T17:17:55.471Z"
+  },
+  {
+   "name": "Kifak Inta",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5D0cS3jtPmtupIj48mhR2P",
+   "played_at": "2026-11-01T12:36:36.912Z"
+  },
+  {
+   "name": "Oghniat Al Wadaa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/1dPTxbYsFqultXU6N3I5nj",
+   "played_at": "2026-11-01T12:32:59.941Z"
+  },
+  {
+   "name": "Mish Kayan Hayek T'Koun",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5K1r8gcgVyA9rbJnJTgCj3",
+   "played_at": "2026-11-01T12:28:56.163Z"
+  },
+  {
+   "name": "Dak Khilkeh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4KDTAercEB2V1J8cmxS9CI",
+   "played_at": "2026-11-01T12:25:32.844Z"
+  },
+  {
+   "name": "Sallimleh Alayh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/3JLqeGsp5jbo5Jey7ROszz",
+   "played_at": "2026-11-01T12:21:29.340Z"
+  },
+  {
+   "name": "Ana Fazaani",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/7zaOC8zh40jW4RrYyAdwLY",
+   "played_at": "2026-11-01T12:15:35.300Z"
+  },
+  {
+   "name": "Sabah Wu Masaa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/1hUoakgR0ma5iMvtmKq2c2",
+   "played_at": "2026-11-01T12:11:31.923Z"
+  },
+  {
+   "name": "Wahdon",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/2YjDKo6JWpl05dPz8VTPko",
+   "played_at": "2026-11-01T11:48:43.356Z"
+  },
+  {
+   "name": "Al Bostah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/40EGDOE2H34nriJw9aBSPC",
+   "played_at": "2026-11-01T11:42:29.943Z"
+  },
+  {
+   "name": "Al Thaniah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4otFZKXYdTSAvoRXlTdsWG",
+   "played_at": "2026-11-01T11:33:35.025Z"
+  },
+  {
+   "name": "Ma Kedert Neseet",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/7tXPeUb8bfBjCL0QGEiV8j",
+   "played_at": "2026-11-01T11:31:10.378Z"
+  },
+  {
+   "name": "Maarifti Feek",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/7MKIs7IH5Qxv1k42NvDBrW",
+   "played_at": "2026-11-01T11:26:41.389Z"
+  },
+  {
+   "name": "Aloula",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5fvI8VoqjgtiIUEFa9sQb9",
+   "played_at": "2026-11-01T11:24:30.232Z"
+  },
+  {
+   "name": "Khaleek Bilbait",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4iC0jE1loDs6oQSjsYvRZs",
+   "played_at": "2026-11-01T11:19:52.679Z"
+  },
+  {
+   "name": "Indi Thika Feek",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/2kCsR8TMlqSJdAa4PRVuan",
+   "played_at": "2026-11-01T11:15:39.841Z"
+  },
+  {
+   "name": "Fi Shi Am 'Bisser",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4IyKyRuwy1gL5SuP0cWer7",
+   "played_at": "2026-11-01T11:11:14.689Z"
+  },
+  {
+   "name": "Kifak Inta",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5D0cS3jtPmtupIj48mhR2P",
+   "played_at": "2026-11-01T11:08:28.217Z"
+  },
+  {
+   "name": "Oghniat Al Wadaa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/1dPTxbYsFqultXU6N3I5nj",
+   "played_at": "2026-11-01T11:04:37.018Z"
+  },
+  {
    "name": "Mish Kayan Hayek T'Koun",
    "artists": "Fairuz",
    "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
@@ -1132,139 +1263,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2736a04f3694d6becd4be57b001",
    "url": "https://open.spotify.com/track/66iKm4NS0MPAQRalNkrOPp",
    "played_at": "2026-10-30T02:21:06.376Z"
-  },
-  {
-   "name": "Zoo Monkey Style",
-   "artists": "Zoocatchers",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731ac7cad52607f9a080b3edb9",
-   "url": "https://open.spotify.com/track/66QUF97vp7xzun9dfcbHJg",
-   "played_at": "2026-10-30T02:12:00.027Z"
-  },
-  {
-   "name": "Summer Night Crickets And Frogs 02",
-   "artists": "John Nature",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734da960803da40939dea631ff",
-   "url": "https://open.spotify.com/track/4wOil4zDIkb6bT6nEHU3iX",
-   "played_at": "2026-10-30T02:10:06.630Z"
-  },
-  {
-   "name": "Deep Egyptian Desert Sand Storm Sounds, Pt. 1",
-   "artists": "Elijah Wagner",
-   "image": "https://i.scdn.co/image/ab67616d0000b27300f5c4cb6bc7da06313cee1a",
-   "url": "https://open.spotify.com/track/7zDzbehiDg5XHMZLxexvrG",
-   "played_at": "2026-10-30T02:07:11.696Z"
-  },
-  {
-   "name": "Relaxing Field Grasshoppers Sounds, Pt. 4",
-   "artists": "Steve Brassel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273638427590bf3b17ddaf416ce",
-   "url": "https://open.spotify.com/track/5sZdZQeA31EJfANORJHEuz",
-   "played_at": "2026-10-30T02:04:15.277Z"
-  },
-  {
-   "name": "Ashes of the Beacon",
-   "artists": "Harbor Voyager",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d04418f0c6a2840fcabe49de",
-   "url": "https://open.spotify.com/track/2gXqYhPSiyRpEGRc8mL7Au",
-   "played_at": "2026-10-30T02:01:16.867Z"
-  },
-  {
-   "name": "Wall Mount Medium Power AC",
-   "artists": "Alice ASMR",
-   "image": "https://i.scdn.co/image/ab67616d0000b273278bb35c2881096bf1f349c3",
-   "url": "https://open.spotify.com/track/32BnZY5cUBSAOmBqOnLZ1O",
-   "played_at": "2026-10-30T01:57:46.003Z"
-  },
-  {
-   "name": "Budgerigar, Babblers and Fairy-wren",
-   "artists": "Andrew Skeoch",
-   "image": "https://i.scdn.co/image/ab67616d0000b273244dfb7d6455ab62330c4b19",
-   "url": "https://open.spotify.com/track/0xSRNMbTK8PoLGzxrTuVdT",
-   "played_at": "2026-10-30T01:53:29.158Z"
-  },
-  {
-   "name": "Jefe",
-   "artists": "paisol",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736e508456161b1a833eb69b24",
-   "url": "https://open.spotify.com/track/1UCsdkULBKxfXlzaYHsAqo",
-   "played_at": "2026-10-30T01:50:58.319Z"
-  },
-  {
-   "name": "Shhh to Sleep with Heartbeat",
-   "artists": "Sleepy Owls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734549b931c0d452607203b37b",
-   "url": "https://open.spotify.com/track/5G9vrQWeOQAAZW6aVnyrEw",
-   "played_at": "2026-10-30T01:49:15.725Z"
-  },
-  {
-   "name": "Nacht im Wald",
-   "artists": "Gary Winter",
-   "image": "https://i.scdn.co/image/ab67616d0000b27362c5bfccb5eb220c8723c3bb",
-   "url": "https://open.spotify.com/track/2Yi4HGIm3s4iEtd897hcVo",
-   "played_at": "2026-10-30T01:45:33.842Z"
-  },
-  {
-   "name": "Humpback",
-   "artists": "Frémeaux & associés",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736a04f3694d6becd4be57b001",
-   "url": "https://open.spotify.com/track/2HZswCpDSD3DmLNBEnKSY0",
-   "played_at": "2026-10-30T01:42:09.565Z"
-  },
-  {
-   "name": "Cuenta 9 y 10 LuisCRIS y franky (64)",
-   "artists": "José minerooo",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733565ea667c5cd3a2f1e035bc",
-   "url": "https://open.spotify.com/track/29hpTqC3xtAA6iGzuhv0vn",
-   "played_at": "2026-10-30T01:35:12.421Z"
-  },
-  {
-   "name": "Countryside Crickets",
-   "artists": "John Nature",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734da960803da40939dea631ff",
-   "url": "https://open.spotify.com/track/3magPG31iRCP5hiwbRzRU8",
-   "played_at": "2026-10-30T01:33:21.950Z"
-  },
-  {
-   "name": "Cosy Italian Restaurant Sound",
-   "artists": "Sams Sampling",
-   "image": "https://i.scdn.co/image/ab67616d0000b27387fe07cb4a25d0466579c275",
-   "url": "https://open.spotify.com/track/73D4m6MGL8xJInk3Vvsbvw",
-   "played_at": "2026-10-30T01:30:47.251Z"
-  },
-  {
-   "name": "Electric Kettle Water Boiling Ambience, Pt. 1",
-   "artists": "Steve Brassel",
-   "image": "https://i.scdn.co/image/ab67616d0000b27396af9c08a06eb42b74ff029c",
-   "url": "https://open.spotify.com/track/55hND2OEmRkaM8JRObfsNI",
-   "played_at": "2026-10-30T01:27:47.218Z"
-  },
-  {
-   "name": "Convination",
-   "artists": "arquito",
-   "image": "https://i.scdn.co/image/ab67616d0000b27363e56be12f5ec0028a9d2610",
-   "url": "https://open.spotify.com/track/20FMrq9OveU3zLeoRVw5ww",
-   "played_at": "2026-10-30T01:24:51.545Z"
-  },
-  {
-   "name": "Regen gegen Dachfenster",
-   "artists": "Mondfahrer",
-   "image": "https://i.scdn.co/image/ab67616d0000b273da4695f1c7c50b1803a22f96",
-   "url": "https://open.spotify.com/track/65zUsbdNzBqq4jUl2HDt8R",
-   "played_at": "2026-10-30T01:22:56.163Z"
-  },
-  {
-   "name": "Koala",
-   "artists": "Andrew Skeoch",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739d1d3a19e7176ad51a7c3bcc",
-   "url": "https://open.spotify.com/track/5qz206x9XnVhQGIIVW49EN",
-   "played_at": "2026-10-30T01:19:06.277Z"
-  },
-  {
-   "name": "Gafete",
-   "artists": "paisol",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736e508456161b1a833eb69b24",
-   "url": "https://open.spotify.com/track/5hSHS5MmPfGtxDQcORG8Ai",
-   "played_at": "2026-10-30T01:16:40.059Z"
   }
  ]
 }
