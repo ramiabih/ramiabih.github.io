@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:19:46.123174+00:00",
+ "updated": "2026-11-03T00:13:35.953674+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -23,6 +23,13 @@
      "album": "Wala Keef",
      "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
      "url": "https://open.spotify.com/track/3Ht7hR95ZrCRPcTvmrZaER"
+    },
+    {
+     "name": "Is It a Crime",
+     "artists": "Sade",
+     "album": "Promise",
+     "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
+     "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
     },
     {
      "name": "Fi Al Tariki Ilaik",
@@ -135,13 +142,6 @@
      "album": "Kifak Inta",
      "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
      "url": "https://open.spotify.com/track/1OdjExi35aPk35MOulh8ed"
-    },
-    {
-     "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
-     "artists": "Frédéric Chopin, Mikhail Pletnev",
-     "album": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
-     "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV"
     }
    ],
    "artists": [
@@ -257,6 +257,12 @@
      ]
     },
     {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
+    },
+    {
      "name": "Lena Chamamyan",
      "image": "https://i.scdn.co/image/ab6761610000e5ebe13f3ca74774919d8fb743d8",
      "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc",
@@ -285,19 +291,12 @@
      "genres": []
     },
     {
-     "name": "Derek & The Dominos",
-     "image": "https://i.scdn.co/image/cfec75171b6394ae543eb906e86e4d50cbafd9dc",
-     "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z",
+     "name": "Jalen Ngonda",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb42b3620fa149f037543ceacd",
+     "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ",
      "genres": [
-      "blues rock",
-      "classic rock"
+      "retro soul"
      ]
-    },
-    {
-     "name": "Paul McCartney",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb14c00beb3fb84781144246f6",
-     "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB",
-     "genres": []
     }
    ]
   },
@@ -873,7 +872,7 @@
     },
     {
      "name": "Pink Floyd",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb3c9e8c67b087ba0cb5923b78",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebc424aa2c2ffe2c2a1b1f4837",
      "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
      "genres": [
       "progressive rock",
@@ -882,6 +881,12 @@
       "art rock",
       "rock"
      ]
+    },
+    {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
     },
     {
      "name": "Ray Charles",
@@ -903,21 +908,137 @@
       "indie soul",
       "neo soul"
      ]
-    },
-    {
-     "name": "Hraach",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
-     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
-     "genres": [
-      "organic house",
-      "tribal house",
-      "downtempo"
-     ]
     }
    ]
   }
  },
  "recent": [
+  {
+   "name": "Charcoal Baby",
+   "artists": "Blood Orange",
+   "image": "https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6",
+   "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS",
+   "played_at": "2026-11-03T00:09:05.725Z"
+  },
+  {
+   "name": "Shut up My Moms Calling",
+   "artists": "Hotel Ugly",
+   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
+   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
+   "played_at": "2026-11-03T00:05:00.533Z"
+  },
+  {
+   "name": "Love Is A Losing Game",
+   "artists": "Amy Winehouse",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dc65d5638a3de4a0bdf3c05f",
+   "url": "https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL",
+   "played_at": "2026-11-03T00:03:19.190Z"
+  },
+  {
+   "name": "Who's Ya Daddy?",
+   "artists": "Necro",
+   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
+   "played_at": "2026-11-03T00:00:00.733Z"
+  },
+  {
+   "name": "Let Me Go",
+   "artists": "Latimore",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fe26b0b5a2b8cde9dc2204ee",
+   "url": "https://open.spotify.com/track/3YTwCVfJHxdzHbdz1ADCTI",
+   "played_at": "2026-11-02T15:59:17.149Z"
+  },
+  {
+   "name": "Cherish the Day",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+   "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w",
+   "played_at": "2026-11-02T15:56:15.137Z"
+  },
+  {
+   "name": "In a Manner of Speaking",
+   "artists": "Nouvelle Vague, Camille",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ad419b53eb86b9ca1decfaa3",
+   "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB",
+   "played_at": "2026-11-02T15:50:45.053Z"
+  },
+  {
+   "name": "SERENADE",
+   "artists": "Ferdi",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739a85a2def603946895972362",
+   "url": "https://open.spotify.com/track/37YZRFFnR54btMsL0q9rvt",
+   "played_at": "2026-11-02T15:46:48.970Z"
+  },
+  {
+   "name": "calvera",
+   "artists": "fyodor, Apéro",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a65fe9d9197071bb1d321354",
+   "url": "https://open.spotify.com/track/5cpIlNlf4Jc8MhyqYiIzRP",
+   "played_at": "2026-11-02T15:43:58.130Z"
+  },
+  {
+   "name": "So Glad I Found You",
+   "artists": "Jalen Ngonda",
+   "image": "https://i.scdn.co/image/ab67616d0000b273753a720a9845b697d8a120f6",
+   "url": "https://open.spotify.com/track/4Egu9NllrAbdpNjW5ys8CM",
+   "played_at": "2026-11-02T15:42:04.509Z"
+  },
+  {
+   "name": "deep in it",
+   "artists": "berlioz, Ted Jasper",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737746e291c442b50b4dfe6806",
+   "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg",
+   "played_at": "2026-11-02T15:38:49.540Z"
+  },
+  {
+   "name": "Last Forever",
+   "artists": "Patchwork Inc., Wyatt Waddell",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ff66361c941b90f57b5b3874",
+   "url": "https://open.spotify.com/track/5p8QEBKlnBScJ6LM6ZV4sw",
+   "played_at": "2026-11-02T15:36:16.659Z"
+  },
+  {
+   "name": "Like a Tattoo",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+   "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
+   "played_at": "2026-11-02T15:33:33.565Z"
+  },
+  {
+   "name": "Is It a Crime",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ",
+   "played_at": "2026-11-02T15:29:57.555Z"
+  },
+  {
+   "name": "Like a Tattoo",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+   "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
+   "played_at": "2026-11-02T15:25:41.747Z"
+  },
+  {
+   "name": "Is It a Crime",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ",
+   "played_at": "2026-11-02T15:22:37.439Z"
+  },
+  {
+   "name": "Is It a Crime",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ",
+   "played_at": "2026-11-02T15:15:19.626Z"
+  },
+  {
+   "name": "Nasty Mind",
+   "artists": "D12, Truth Hurts",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739f2ea05aa0ad163b4bf35b89",
+   "url": "https://open.spotify.com/track/1sTt7c8GEvrFNBXbvAAcAG",
+   "played_at": "2026-11-02T14:49:22.463Z"
+  },
   {
    "name": "Underground",
    "artists": "Necro",
@@ -1141,132 +1262,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
    "url": "https://open.spotify.com/track/7MKIs7IH5Qxv1k42NvDBrW",
    "played_at": "2026-11-01T11:26:41.389Z"
-  },
-  {
-   "name": "Aloula",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/5fvI8VoqjgtiIUEFa9sQb9",
-   "played_at": "2026-11-01T11:24:30.232Z"
-  },
-  {
-   "name": "Khaleek Bilbait",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/4iC0jE1loDs6oQSjsYvRZs",
-   "played_at": "2026-11-01T11:19:52.679Z"
-  },
-  {
-   "name": "Indi Thika Feek",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/2kCsR8TMlqSJdAa4PRVuan",
-   "played_at": "2026-11-01T11:15:39.841Z"
-  },
-  {
-   "name": "Fi Shi Am 'Bisser",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/4IyKyRuwy1gL5SuP0cWer7",
-   "played_at": "2026-11-01T11:11:14.689Z"
-  },
-  {
-   "name": "Kifak Inta",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/5D0cS3jtPmtupIj48mhR2P",
-   "played_at": "2026-11-01T11:08:28.217Z"
-  },
-  {
-   "name": "Oghniat Al Wadaa",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/1dPTxbYsFqultXU6N3I5nj",
-   "played_at": "2026-11-01T11:04:37.018Z"
-  },
-  {
-   "name": "Mish Kayan Hayek T'Koun",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/5K1r8gcgVyA9rbJnJTgCj3",
-   "played_at": "2026-11-01T10:59:27.009Z"
-  },
-  {
-   "name": "Dak Khilkeh",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/4KDTAercEB2V1J8cmxS9CI",
-   "played_at": "2026-11-01T10:55:54.552Z"
-  },
-  {
-   "name": "Sallimleh Alayh",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/3JLqeGsp5jbo5Jey7ROszz",
-   "played_at": "2026-11-01T10:51:51.113Z"
-  },
-  {
-   "name": "Ana Fazaani",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/7zaOC8zh40jW4RrYyAdwLY",
-   "played_at": "2026-11-01T10:46:01.914Z"
-  },
-  {
-   "name": "Sabah Wu Masaa",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/1hUoakgR0ma5iMvtmKq2c2",
-   "played_at": "2026-11-01T10:41:58.509Z"
-  },
-  {
-   "name": "Mish Kayan Hayek T'Koun",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/5K1r8gcgVyA9rbJnJTgCj3",
-   "played_at": "2026-11-01T10:36:34.403Z"
-  },
-  {
-   "name": "Dak Khilkeh",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/4KDTAercEB2V1J8cmxS9CI",
-   "played_at": "2026-11-01T10:33:11.102Z"
-  },
-  {
-   "name": "Sallimleh Alayh",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/3JLqeGsp5jbo5Jey7ROszz",
-   "played_at": "2026-11-01T10:29:07.590Z"
-  },
-  {
-   "name": "Ana Fazaani",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/7zaOC8zh40jW4RrYyAdwLY",
-   "played_at": "2026-11-01T10:23:18.287Z"
-  },
-  {
-   "name": "Sabah Wu Masaa",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
-   "url": "https://open.spotify.com/track/1hUoakgR0ma5iMvtmKq2c2",
-   "played_at": "2026-11-01T10:19:14.976Z"
-  },
-  {
-   "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-   "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
-   "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
-   "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI",
-   "played_at": "2026-10-31T21:58:06.422Z"
-  },
-  {
-   "name": "Tronco",
-   "artists": "ferto",
-   "image": "https://i.scdn.co/image/ab67616d0000b27361c39bd1cc20402a038c5609",
-   "url": "https://open.spotify.com/track/2ELmPPOhtXj5rqxvnzD6Q6",
-   "played_at": "2026-10-30T03:37:16.344Z"
   }
  ]
 }
