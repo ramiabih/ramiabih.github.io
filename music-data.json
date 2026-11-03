@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:20:05.331554+00:00",
+ "updated": "2026-11-03T22:43:25.284263+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -37,6 +37,13 @@
      "album": "Promise",
      "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
+    },
+    {
+     "name": "Ankara",
+     "artists": "Birds of Mind",
+     "album": "Ankara",
+     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
      "name": "Fi Al Tariki Ilaik",
@@ -95,25 +102,11 @@
      "url": "https://open.spotify.com/track/1scEOt7Kx537vKuam70wpB"
     },
     {
-     "name": "I Think I Like When It Rains",
-     "artists": "WILLIS",
-     "album": "Locals 2",
-     "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc",
-     "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
      "name": "Bala Wala Chi - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
-     "name": "Shou Hal Ayyam - 2008 Remastered",
-     "artists": "Ziad Rahbani",
-     "album": "Ana Moush Kafer",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
-     "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
      "name": "Zombie - 2025 Remastered",
@@ -142,6 +135,13 @@
      "album": "Safarbarlek (From \"Safarbarlek\")",
      "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
      "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D"
+    },
+    {
+     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
+     "album": "Elgar",
+     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
+     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     }
    ],
    "artists": [
@@ -152,15 +152,15 @@
      "genres": []
     },
     {
-     "name": "Ziad Rahbani",
-     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
-     "genres": []
-    },
-    {
      "name": "Thomas O’Reilly",
      "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
      "url": "https://open.spotify.com/artist/1mTuXKKNsMoLwborRDqsgD",
+     "genres": []
+    },
+    {
+     "name": "Ziad Rahbani",
+     "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+     "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT",
      "genres": []
     },
     {
@@ -257,30 +257,10 @@
      ]
     },
     {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
-    },
-    {
-     "name": "Mac Miller",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
-    },
-    {
      "name": "Lena Chamamyan",
      "image": "https://i.scdn.co/image/ab6761610000e5ebe13f3ca74774919d8fb743d8",
      "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc",
      "genres": []
-    },
-    {
-     "name": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
-     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "retro soul"
-     ]
     },
     {
      "name": "Souad Massi",
@@ -294,6 +274,29 @@
      "name": "paisol",
      "image": "https://i.scdn.co/image/ab67616d0000b2736e508456161b1a833eb69b24",
      "url": "https://open.spotify.com/artist/1gSpUyVzsicwLnouG2rsZj",
+     "genres": []
+    },
+    {
+     "name": "Jalen Ngonda",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb42b3620fa149f037543ceacd",
+     "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ",
+     "genres": [
+      "retro soul"
+     ]
+    },
+    {
+     "name": "Derek & The Dominos",
+     "image": "https://i.scdn.co/image/cfec75171b6394ae543eb906e86e4d50cbafd9dc",
+     "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z",
+     "genres": [
+      "blues rock",
+      "classic rock"
+     ]
+    },
+    {
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
      "genres": []
     }
    ]
@@ -912,6 +915,34 @@
  },
  "recent": [
   {
+   "name": "Dle Yaman (116 Deep Mix)",
+   "artists": "Hraach",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
+   "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt",
+   "played_at": "2026-11-03T19:43:30.093Z"
+  },
+  {
+   "name": "Kataltoni - Zone+ & Usif Remix",
+   "artists": "Laroz, Zone+, Usif",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734f428a8874ed2ae00beca602",
+   "url": "https://open.spotify.com/track/5QpqZWHn2kRiELVupBhBGu",
+   "played_at": "2026-11-03T18:37:27.581Z"
+  },
+  {
+   "name": "Ankara",
+   "artists": "Birds of Mind",
+   "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+   "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC",
+   "played_at": "2026-11-03T18:29:57.996Z"
+  },
+  {
+   "name": "HONEST",
+   "artists": "Baby Keem",
+   "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+   "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9",
+   "played_at": "2026-11-03T17:36:25.942Z"
+  },
+  {
    "name": "bleach",
    "artists": "Blvck Svm",
    "image": "https://i.scdn.co/image/ab67616d0000b273d36b9afde0abd94b246db3c2",
@@ -1232,34 +1263,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
    "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
    "played_at": "2026-11-02T15:33:33.565Z"
-  },
-  {
-   "name": "Is It a Crime",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ",
-   "played_at": "2026-11-02T15:29:57.555Z"
-  },
-  {
-   "name": "Like a Tattoo",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-   "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
-   "played_at": "2026-11-02T15:25:41.747Z"
-  },
-  {
-   "name": "Is It a Crime",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ",
-   "played_at": "2026-11-02T15:22:37.439Z"
-  },
-  {
-   "name": "Is It a Crime",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ",
-   "played_at": "2026-11-02T15:15:19.626Z"
   }
  ]
 }
