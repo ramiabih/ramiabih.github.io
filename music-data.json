@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T04:06:18.039238+00:00",
+ "updated": "2026-11-04T13:31:25.743627+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -25,6 +25,13 @@
      "url": "https://open.spotify.com/track/3Ht7hR95ZrCRPcTvmrZaER"
     },
     {
+     "name": "Ankara",
+     "artists": "Birds of Mind",
+     "album": "Ankara",
+     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
+    },
+    {
      "name": "Wahdon",
      "artists": "Fairuz",
      "album": "Habbaitak Tanseet El Noum",
@@ -32,18 +39,18 @@
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
     },
     {
+     "name": "Dle Yaman (116 Deep Mix)",
+     "artists": "Hraach",
+     "album": "Dle Yaman (116 Deep Mix)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
+     "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
+    },
+    {
      "name": "Is It a Crime",
      "artists": "Sade",
      "album": "Promise",
      "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
-    },
-    {
-     "name": "Ankara",
-     "artists": "Birds of Mind",
-     "album": "Ankara",
-     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
-     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     },
     {
      "name": "Fi Al Tariki Ilaik",
@@ -102,6 +109,13 @@
      "url": "https://open.spotify.com/track/1scEOt7Kx537vKuam70wpB"
     },
     {
+     "name": "Kataltoni - Zone+ & Usif Remix",
+     "artists": "Laroz, Zone+, Usif",
+     "album": "Compilation, Vol. 3",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734f428a8874ed2ae00beca602",
+     "url": "https://open.spotify.com/track/5QpqZWHn2kRiELVupBhBGu"
+    },
+    {
      "name": "Bala Wala Chi - Live",
      "artists": "Ziad Rahbani",
      "album": "Live at Damascus Citadel 2008",
@@ -128,20 +142,6 @@
      "album": "Last Train to London",
      "image": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
-    },
-    {
-     "name": "Ya Tair",
-     "artists": "Fairuz",
-     "album": "Safarbarlek (From \"Safarbarlek\")",
-     "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
-     "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D"
-    },
-    {
-     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
-     "album": "Elgar",
-     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
-     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     }
    ],
    "artists": [
@@ -243,7 +243,7 @@
     },
     {
      "name": "Steve Brassel",
-     "image": "https://i.scdn.co/image/ab67616d0000b2735ea7e7b141d3f45819b76fa0",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326de8a865653b79d28f087f5",
      "url": "https://open.spotify.com/artist/1m0JKXZ4zkaDci3L7XYbAI",
      "genres": []
     },
@@ -919,6 +919,48 @@
    "artists": "Hraach",
    "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
    "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt",
+   "played_at": "2026-11-04T08:10:00.892Z"
+  },
+  {
+   "name": "Younan",
+   "artists": "Alì Farahani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27320ae7c69c43a3cb3f373549c",
+   "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx",
+   "played_at": "2026-11-04T07:25:06.300Z"
+  },
+  {
+   "name": "Kataltoni - Zone+ & Usif Remix",
+   "artists": "Laroz, Zone+, Usif",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734f428a8874ed2ae00beca602",
+   "url": "https://open.spotify.com/track/5QpqZWHn2kRiELVupBhBGu",
+   "played_at": "2026-11-04T07:05:29.228Z"
+  },
+  {
+   "name": "Ankara",
+   "artists": "Birds of Mind",
+   "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
+   "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC",
+   "played_at": "2026-11-04T06:41:34.556Z"
+  },
+  {
+   "name": "Dle Yaman (116 Deep Mix)",
+   "artists": "Hraach",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
+   "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt",
+   "played_at": "2026-11-04T06:23:32.798Z"
+  },
+  {
+   "name": "Symphony No. 36 in C Major, K. 425 \"Linz\": II. Andante",
+   "artists": "Wolfgang Amadeus Mozart, The Deutsche Kammerphilharmonie Bremen, Tarmo Peltokoski",
+   "image": "https://i.scdn.co/image/ab6742d3000053b7d5e74d5dcf45cf324aac8b1a",
+   "url": "https://open.spotify.com/track/390Pu12kmLl1JHu9hUcpMs",
+   "played_at": "2026-11-04T06:17:28.122Z"
+  },
+  {
+   "name": "Dle Yaman (116 Deep Mix)",
+   "artists": "Hraach",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
+   "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt",
    "played_at": "2026-11-03T19:43:30.093Z"
   },
   {
@@ -934,6 +976,13 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
    "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC",
    "played_at": "2026-11-03T18:29:57.996Z"
+  },
+  {
+   "name": "Lacrimosa",
+   "artists": "Wolfgang Amadeus Mozart, Lisa Beckley, Elena Filipova, Magdaléna Hajóssyová, Peter Mikulas, Michel Piquemal, Gloria Scalchi, Michel Piquemal Vocal Ensemble, Hungarian State Opera Chorus, Oxford Schola Cantorum, Slovak Philharmonic Chorus, Hungarian State Opera Orchestra, Orchestre De La Cite, Oxford Camerata, Slovenská filharmónia",
+   "image": "https://i.scdn.co/image/ab67616d0000b273cfd92384db2b6d7bd89e01c9",
+   "url": "https://open.spotify.com/track/53Ww3V8wnxvufupFuJ4TMK",
+   "played_at": "2026-11-03T17:41:29.704Z"
   },
   {
    "name": "HONEST",
@@ -1214,55 +1263,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
    "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w",
    "played_at": "2026-11-02T15:56:15.137Z"
-  },
-  {
-   "name": "In a Manner of Speaking",
-   "artists": "Nouvelle Vague, Camille",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ad419b53eb86b9ca1decfaa3",
-   "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB",
-   "played_at": "2026-11-02T15:50:45.053Z"
-  },
-  {
-   "name": "SERENADE",
-   "artists": "Ferdi",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739a85a2def603946895972362",
-   "url": "https://open.spotify.com/track/37YZRFFnR54btMsL0q9rvt",
-   "played_at": "2026-11-02T15:46:48.970Z"
-  },
-  {
-   "name": "calvera",
-   "artists": "fyodor, Apéro",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a65fe9d9197071bb1d321354",
-   "url": "https://open.spotify.com/track/5cpIlNlf4Jc8MhyqYiIzRP",
-   "played_at": "2026-11-02T15:43:58.130Z"
-  },
-  {
-   "name": "So Glad I Found You",
-   "artists": "Jalen Ngonda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273753a720a9845b697d8a120f6",
-   "url": "https://open.spotify.com/track/4Egu9NllrAbdpNjW5ys8CM",
-   "played_at": "2026-11-02T15:42:04.509Z"
-  },
-  {
-   "name": "deep in it",
-   "artists": "berlioz, Ted Jasper",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737746e291c442b50b4dfe6806",
-   "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg",
-   "played_at": "2026-11-02T15:38:49.540Z"
-  },
-  {
-   "name": "Last Forever",
-   "artists": "Patchwork Inc., Wyatt Waddell",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ff66361c941b90f57b5b3874",
-   "url": "https://open.spotify.com/track/5p8QEBKlnBScJ6LM6ZV4sw",
-   "played_at": "2026-11-02T15:36:16.659Z"
-  },
-  {
-   "name": "Like a Tattoo",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-   "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
-   "played_at": "2026-11-02T15:33:33.565Z"
   }
  ]
 }
