@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:31:25.743627+00:00",
+ "updated": "2026-11-04T23:01:05.126055+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,6 +16,13 @@
      "album": "The Sexorcist",
      "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
      "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
+    },
+    {
+     "name": "Dle Yaman (116 Deep Mix)",
+     "artists": "Hraach",
+     "album": "Dle Yaman (116 Deep Mix)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
+     "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
      "name": "Sabah Wu Masaa",
@@ -37,13 +44,6 @@
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
-    {
-     "name": "Dle Yaman (116 Deep Mix)",
-     "artists": "Hraach",
-     "album": "Dle Yaman (116 Deep Mix)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
-     "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
      "name": "Is It a Crime",
@@ -79,6 +79,13 @@
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/0HYf6nITIgTmivrMU4VMGo"
+    },
+    {
+     "name": "Maghreb - Original Mix",
+     "artists": "Bernstein (CH)",
+     "album": "Land In Sicht, Vol. 1",
+     "image": "https://i.scdn.co/image/ab67616d0000b27339779c443d47e4eaa0f2beee",
+     "url": "https://open.spotify.com/track/0TdIfs58M9mhQA0Hl4hXoU"
     },
     {
      "name": "Sallimleh Alayh",
@@ -135,13 +142,6 @@
      "album": "Kifak Inta",
      "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
      "url": "https://open.spotify.com/track/6anUe12pE0PeJEu1IZJ2at"
-    },
-    {
-     "name": "Last Train to London",
-     "artists": "Rikas",
-     "album": "Last Train to London",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
-     "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
     }
    ],
    "artists": [
@@ -538,9 +538,7 @@
      "name": "Louis Brigham",
      "image": "https://i.scdn.co/image/ab6761610000e5eb48052735368b46a8ccc787c4",
      "url": "https://open.spotify.com/artist/58m36PLno0p4zAnXCmt61I",
-     "genres": [
-      "adult standards"
-     ]
+     "genres": []
     },
     {
      "name": "Mac DeMarco",
@@ -915,6 +913,76 @@
  },
  "recent": [
   {
+   "name": "Hologram",
+   "artists": "Bedouin",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735cae8f4543d7c12067647ae8",
+   "url": "https://open.spotify.com/track/1KhiXD8SDMXTdjaFZpYj6x",
+   "played_at": "2026-11-04T18:44:33.533Z"
+  },
+  {
+   "name": "Maghreb - Original Mix",
+   "artists": "Bernstein (CH)",
+   "image": "https://i.scdn.co/image/ab67616d0000b27339779c443d47e4eaa0f2beee",
+   "url": "https://open.spotify.com/track/0TdIfs58M9mhQA0Hl4hXoU",
+   "played_at": "2026-11-04T18:00:42.095Z"
+  },
+  {
+   "name": "Maghreb - Original Mix",
+   "artists": "Bernstein (CH)",
+   "image": "https://i.scdn.co/image/ab67616d0000b27339779c443d47e4eaa0f2beee",
+   "url": "https://open.spotify.com/track/0TdIfs58M9mhQA0Hl4hXoU",
+   "played_at": "2026-11-04T17:29:38.501Z"
+  },
+  {
+   "name": "Syria - Original",
+   "artists": "unders",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a26e694a8205807fc1de9bce",
+   "url": "https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu",
+   "played_at": "2026-11-04T16:58:25.545Z"
+  },
+  {
+   "name": "Dadouk",
+   "artists": "Jaaneman",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c5ff6c19b3140d0f91377af9",
+   "url": "https://open.spotify.com/track/2ARfWhtQYPaBKU450SKnZY",
+   "played_at": "2026-11-04T16:50:19.290Z"
+  },
+  {
+   "name": "Hidden Dimension",
+   "artists": "Hraach",
+   "image": "https://i.scdn.co/image/ab67616d0000b273deb353bb57bd0314ea77d706",
+   "url": "https://open.spotify.com/track/1iDNtzSJ0KeHl9ousS0EFQ",
+   "played_at": "2026-11-04T16:45:56.348Z"
+  },
+  {
+   "name": "Heavenly Life",
+   "artists": "Armen Miran",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738686935f55389c5fafcb3cce",
+   "url": "https://open.spotify.com/track/3TWEIKkRdxdMRv4hbxwK5K",
+   "played_at": "2026-11-04T16:38:41.764Z"
+  },
+  {
+   "name": "Inevitable Ending - Original",
+   "artists": "Armen Miran, Hraach",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c7e764158802946bfeca3246",
+   "url": "https://open.spotify.com/track/6uWvMsU36wN3yQNpeN9jit",
+   "played_at": "2026-11-04T16:17:05.590Z"
+  },
+  {
+   "name": "Younan",
+   "artists": "Alì Farahani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27320ae7c69c43a3cb3f373549c",
+   "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx",
+   "played_at": "2026-11-04T16:10:38.985Z"
+  },
+  {
+   "name": "Dle Yaman (116 Deep Mix)",
+   "artists": "Hraach",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
+   "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt",
+   "played_at": "2026-11-04T16:03:37.332Z"
+  },
+  {
    "name": "Dle Yaman (116 Deep Mix)",
    "artists": "Hraach",
    "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
@@ -1193,76 +1261,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b27332ced7e0a6e34e29bc7bb39c",
    "url": "https://open.spotify.com/track/0D3r9ZfTZxkbjK1uyvWybK",
    "played_at": "2026-11-03T05:17:15.048Z"
-  },
-  {
-   "name": "Takassim Oud",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
-   "played_at": "2026-11-03T04:14:09.571Z"
-  },
-  {
-   "name": "Bala Wala Chi - Live",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-   "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV",
-   "played_at": "2026-11-03T04:11:22.257Z"
-  },
-  {
-   "name": "He Loves Me",
-   "artists": "Brittany Howard",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
-   "played_at": "2026-11-03T04:03:35.198Z"
-  },
-  {
-   "name": "He Loves Me",
-   "artists": "Brittany Howard",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
-   "played_at": "2026-11-03T01:11:05.702Z"
-  },
-  {
-   "name": "Charcoal Baby",
-   "artists": "Blood Orange",
-   "image": "https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6",
-   "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS",
-   "played_at": "2026-11-03T00:09:05.725Z"
-  },
-  {
-   "name": "Shut up My Moms Calling",
-   "artists": "Hotel Ugly",
-   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
-   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
-   "played_at": "2026-11-03T00:05:00.533Z"
-  },
-  {
-   "name": "Love Is A Losing Game",
-   "artists": "Amy Winehouse",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dc65d5638a3de4a0bdf3c05f",
-   "url": "https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL",
-   "played_at": "2026-11-03T00:03:19.190Z"
-  },
-  {
-   "name": "Who's Ya Daddy?",
-   "artists": "Necro",
-   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
-   "played_at": "2026-11-03T00:00:00.733Z"
-  },
-  {
-   "name": "Let Me Go",
-   "artists": "Latimore",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fe26b0b5a2b8cde9dc2204ee",
-   "url": "https://open.spotify.com/track/3YTwCVfJHxdzHbdz1ADCTI",
-   "played_at": "2026-11-02T15:59:17.149Z"
-  },
-  {
-   "name": "Cherish the Day",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-   "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w",
-   "played_at": "2026-11-02T15:56:15.137Z"
   }
  ]
 }
