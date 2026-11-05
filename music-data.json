@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:28:07.345892+00:00",
+ "updated": "2026-11-05T13:45:55.107532+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -243,7 +243,7 @@
     },
     {
      "name": "Steve Brassel",
-     "image": "https://i.scdn.co/image/ab67616d0000b27326de8a865653b79d28f087f5",
+     "image": "https://i.scdn.co/image/ab67616d0000b2735ea7e7b141d3f45819b76fa0",
      "url": "https://open.spotify.com/artist/1m0JKXZ4zkaDci3L7XYbAI",
      "genres": []
     },
@@ -823,15 +823,6 @@
      ]
     },
     {
-     "name": "The Beatles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
-     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
-     "genres": [
-      "classic rock",
-      "psychedelic rock"
-     ]
-    },
-    {
      "name": "Path to the Wild",
      "image": "https://i.scdn.co/image/ab6761610000e5eb317527e201289a10f1b82828",
      "url": "https://open.spotify.com/artist/1ySVx1trQOpfqKLkBSrHNI",
@@ -886,6 +877,15 @@
      "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
      "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
      "genres": []
+    },
+    {
+     "name": "The Beatles",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
+     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
+     "genres": [
+      "classic rock",
+      "psychedelic rock"
+     ]
     },
     {
      "name": "Ray Charles",
