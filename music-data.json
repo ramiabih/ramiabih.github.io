@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T03:53:17.947051+00:00",
+ "updated": "2026-11-07T12:10:05.686313+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -51,6 +51,13 @@
      "album": "Promise",
      "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
+    },
+    {
+     "name": "California Dreamin' - Mono Version",
+     "artists": "The Mamas & The Papas",
+     "album": "If You Can Believe Your Eyes And Ears (Mono Version)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27351b0ded91cc503d5e873562e",
+     "url": "https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt"
     },
     {
      "name": "Fi Al Tariki Ilaik",
@@ -135,13 +142,6 @@
      "album": "Land In Sicht, Vol. 1",
      "image": "https://i.scdn.co/image/ab67616d0000b27339779c443d47e4eaa0f2beee",
      "url": "https://open.spotify.com/track/0TdIfs58M9mhQA0Hl4hXoU"
-    },
-    {
-     "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-     "artists": "Edward Elgar, Sheku Kanneh-Mason, London Symphony Orchestra, Sir Simon Rattle",
-     "album": "Elgar",
-     "image": "https://i.scdn.co/image/ab67616d0000b27307a94315511954038fc66553",
-     "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     }
    ],
    "artists": [
@@ -913,6 +913,41 @@
  },
  "recent": [
   {
+   "name": "Anywhere",
+   "artists": "The Odd 910",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730233221a91d7201221687d14",
+   "url": "https://open.spotify.com/track/4H3wbE03PsbVBqcdCBk09X",
+   "played_at": "2026-11-07T11:05:23.130Z"
+  },
+  {
+   "name": "530",
+   "artists": "¥$, Kanye West, Ty Dolla $ign",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fb9cedd86a3d08dc053a550d",
+   "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv",
+   "played_at": "2026-11-07T10:00:02.151Z"
+  },
+  {
+   "name": "California Dreamin' - Single Version",
+   "artists": "The Mamas & The Papas",
+   "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
+   "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ",
+   "played_at": "2026-11-07T09:54:39.677Z"
+  },
+  {
+   "name": "California Dreamin' - Single Version",
+   "artists": "The Mamas & The Papas",
+   "image": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
+   "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ",
+   "played_at": "2026-11-07T07:32:13.708Z"
+  },
+  {
+   "name": "Let There Be Light - Outsiders Remix",
+   "artists": "Astral Projection",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730be195feca3d4da66874df29",
+   "url": "https://open.spotify.com/track/4hTwPhvVNgucjuXffwHGnx",
+   "played_at": "2026-11-07T06:14:12.507Z"
+  },
+  {
    "name": "I'll Stay",
    "artists": "The RH Factor, D'Angelo",
    "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
@@ -1226,41 +1261,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
    "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn",
    "played_at": "2026-11-03T06:10:33.758Z"
-  },
-  {
-   "name": "Life We Live (feat. Namond Lumpkin & Edgar Fletcher)",
-   "artists": "Project Pat, Namond Lumpkin, Edgar Fletcher",
-   "image": "https://i.scdn.co/image/ab67616d0000b27331a9a92a652223ca76817a90",
-   "url": "https://open.spotify.com/track/3A4S0o95OxSgRbqEnEMsn4",
-   "played_at": "2026-11-03T06:07:46.382Z"
-  },
-  {
-   "name": "Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)",
-   "artists": "A$AP Ferg, Brent Faiyaz, Salaam Remi",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731be99f274f2046dcb080a20f",
-   "url": "https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr",
-   "played_at": "2026-11-03T06:03:33.970Z"
-  },
-  {
-   "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
-   "artists": "A$AP Rocky, Joe Fox, Kanye West",
-   "image": "https://i.scdn.co/image/ab67616d0000b27349efdc44d0733042f8b99d57",
-   "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8",
-   "played_at": "2026-11-03T05:59:52.984Z"
-  },
-  {
-   "name": "Devil In A New Dress",
-   "artists": "Kanye West, Rick Ross",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-   "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r",
-   "played_at": "2026-11-03T05:54:31.039Z"
-  },
-  {
-   "name": "Ginseng Strip 2002",
-   "artists": "Yung Lean",
-   "image": "https://i.scdn.co/image/ab67616d0000b273581915272a4ffd12551c0202",
-   "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3",
-   "played_at": "2026-11-03T05:48:41.133Z"
   }
  ]
 }
