@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:37:17.087102+00:00",
+ "updated": "2026-11-08T12:30:46.188122+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -913,6 +913,111 @@
  },
  "recent": [
   {
+   "name": "Al Bostah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/40EGDOE2H34nriJw9aBSPC",
+   "played_at": "2026-11-08T11:32:26.350Z"
+  },
+  {
+   "name": "Al Thaniah",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4otFZKXYdTSAvoRXlTdsWG",
+   "played_at": "2026-11-08T06:14:59.589Z"
+  },
+  {
+   "name": "Ma Kedert Neseet",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/7tXPeUb8bfBjCL0QGEiV8j",
+   "played_at": "2026-11-08T06:12:35.094Z"
+  },
+  {
+   "name": "Maarifti Feek",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/7MKIs7IH5Qxv1k42NvDBrW",
+   "played_at": "2026-11-08T06:07:34.775Z"
+  },
+  {
+   "name": "Aloula",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5fvI8VoqjgtiIUEFa9sQb9",
+   "played_at": "2026-11-08T06:05:23.685Z"
+  },
+  {
+   "name": "Khaleek Bilbait",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4iC0jE1loDs6oQSjsYvRZs",
+   "played_at": "2026-11-08T06:00:46.155Z"
+  },
+  {
+   "name": "Indi Thika Feek",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/2kCsR8TMlqSJdAa4PRVuan",
+   "played_at": "2026-11-08T05:56:33.172Z"
+  },
+  {
+   "name": "Fi Shi Am 'Bisser",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4IyKyRuwy1gL5SuP0cWer7",
+   "played_at": "2026-11-08T05:52:08.078Z"
+  },
+  {
+   "name": "Kifak Inta",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5D0cS3jtPmtupIj48mhR2P",
+   "played_at": "2026-11-08T05:49:21.576Z"
+  },
+  {
+   "name": "Oghniat Al Wadaa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/1dPTxbYsFqultXU6N3I5nj",
+   "played_at": "2026-11-08T05:45:50.570Z"
+  },
+  {
+   "name": "Mish Kayan Hayek T'Koun",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/5K1r8gcgVyA9rbJnJTgCj3",
+   "played_at": "2026-11-08T05:41:46.869Z"
+  },
+  {
+   "name": "Dak Khilkeh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/4KDTAercEB2V1J8cmxS9CI",
+   "played_at": "2026-11-08T05:38:23.512Z"
+  },
+  {
+   "name": "Sallimleh Alayh",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/3JLqeGsp5jbo5Jey7ROszz",
+   "played_at": "2026-11-08T05:34:19.977Z"
+  },
+  {
+   "name": "Ana Fazaani",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/7zaOC8zh40jW4RrYyAdwLY",
+   "played_at": "2026-11-08T05:28:30.719Z"
+  },
+  {
+   "name": "Sabah Wu Masaa",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273080868602ff98e14521a5301",
+   "url": "https://open.spotify.com/track/1hUoakgR0ma5iMvtmKq2c2",
+   "played_at": "2026-11-08T05:24:27.404Z"
+  },
+  {
    "name": "Anywhere",
    "artists": "The Odd 910",
    "image": "https://i.scdn.co/image/ab67616d0000b2730233221a91d7201221687d14",
@@ -1156,111 +1261,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
    "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i",
    "played_at": "2026-11-03T06:58:29.502Z"
-  },
-  {
-   "name": "Headshots (4r da Locals)",
-   "artists": "Isaiah Rashad",
-   "image": "https://i.scdn.co/image/ab67616d0000b273457132b244e5459aea1b7160",
-   "url": "https://open.spotify.com/track/0xta6Gah3inmeHbj0e3F9a",
-   "played_at": "2026-11-03T06:54:42.382Z"
-  },
-  {
-   "name": "A Cold Sunday",
-   "artists": "Lil Yachty",
-   "image": "https://i.scdn.co/image/ab67616d0000b27301988601f2c1ac0d6e60c772",
-   "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o",
-   "played_at": "2026-11-03T06:51:31.148Z"
-  },
-  {
-   "name": "Nikes on My Feet",
-   "artists": "Mac Miller",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737414c28a11a87cbfd91dce10",
-   "url": "https://open.spotify.com/track/0m0GzwCkfuFcxOlLjgpudo",
-   "played_at": "2026-11-03T06:49:45.849Z"
-  },
-  {
-   "name": "Love & War",
-   "artists": "Kodak Black",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d8e5131717edb51c20d6f77b",
-   "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt",
-   "played_at": "2026-11-03T06:47:03.184Z"
-  },
-  {
-   "name": "Hollow Be Thy Squad",
-   "artists": "Xavier Wulf",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f97bb432278389ba9b114eb4",
-   "url": "https://open.spotify.com/track/5OMNVzNkXIs6HP4tnExf5m",
-   "played_at": "2026-11-03T06:43:06.096Z"
-  },
-  {
-   "name": "Aztec Baby",
-   "artists": "BashfortheWorld",
-   "image": "https://i.scdn.co/image/ab67616d0000b27338c6924043390b3bd4bec91a",
-   "url": "https://open.spotify.com/track/3mFUT3htL33jM1yu5FvNhM",
-   "played_at": "2026-11-03T06:39:53.970Z"
-  },
-  {
-   "name": "a lot",
-   "artists": "21 Savage",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731afd2e526e3723dd4a9fb4c8",
-   "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d",
-   "played_at": "2026-11-03T06:36:59.866Z"
-  },
-  {
-   "name": "Who You Foolin",
-   "artists": "Gunna",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732bc7a1fb98d177aa0c948bdc",
-   "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj",
-   "played_at": "2026-11-03T06:32:13.195Z"
-  },
-  {
-   "name": "I'm Good Luv, Enjoy.",
-   "artists": "Aaron May",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f0c12c7831413fddf24a1c1a",
-   "url": "https://open.spotify.com/track/0Cv3Jku9IP47deaYcfHWar",
-   "played_at": "2026-11-03T06:29:43.656Z"
-  },
-  {
-   "name": "Die Trying",
-   "artists": "Key Glock",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e634bd400f0ed0ed5a6f0164",
-   "url": "https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I",
-   "played_at": "2026-11-03T06:27:31.082Z"
-  },
-  {
-   "name": "BUNKER/PREROLL",
-   "artists": "mynameisntjmack, Tommy Richman",
-   "image": "https://i.scdn.co/image/ab67616d0000b27367d8132be6d64ca19ade4d4f",
-   "url": "https://open.spotify.com/track/4nPeNi0XkuoYcuIshqcYVn",
-   "played_at": "2026-11-03T06:24:59.971Z"
-  },
-  {
-   "name": "RIP Young",
-   "artists": "Isaiah Rashad",
-   "image": "https://i.scdn.co/image/ab67616d0000b273457132b244e5459aea1b7160",
-   "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs",
-   "played_at": "2026-11-03T06:23:02.055Z"
-  },
-  {
-   "name": "Smoothies In 1991",
-   "artists": "Larry June",
-   "image": "https://i.scdn.co/image/ab67616d0000b27327e41ce6f9954c4f833bcde2",
-   "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa",
-   "played_at": "2026-11-03T06:20:25.972Z"
-  },
-  {
-   "name": "The Question (feat. Lil Wayne)",
-   "artists": "Mac Miller, Lil Wayne",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c8116e5edba8bcc94736271a",
-   "url": "https://open.spotify.com/track/20yacZAKo7OgX2G6t5nZZQ",
-   "played_at": "2026-11-03T06:16:43.645Z"
-  },
-  {
-   "name": "Transportin'",
-   "artists": "Kodak Black",
-   "image": "https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7",
-   "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn",
-   "played_at": "2026-11-03T06:10:33.758Z"
   }
  ]
 }
