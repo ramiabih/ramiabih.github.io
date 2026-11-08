@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-08T12:30:46.188122+00:00",
+ "updated": "2026-11-08T21:29:53.110743+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
+    {
+     "name": "Sabah Wu Masaa",
+     "artists": "Fairuz",
+     "album": "Wala Keef",
+     "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
+     "url": "https://open.spotify.com/track/3Ht7hR95ZrCRPcTvmrZaER"
+    },
     {
      "name": "Takassim Oud",
      "artists": "Oriental Lebanese Band",
@@ -11,11 +18,11 @@
      "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ"
     },
     {
-     "name": "Sabah Wu Masaa",
-     "artists": "Fairuz",
-     "album": "Wala Keef",
-     "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
-     "url": "https://open.spotify.com/track/3Ht7hR95ZrCRPcTvmrZaER"
+     "name": "Dle Yaman (116 Deep Mix)",
+     "artists": "Hraach",
+     "album": "Dle Yaman (116 Deep Mix)",
+     "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
+     "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
      "name": "Ankara",
@@ -39,41 +46,6 @@
      "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
-     "name": "Dle Yaman (116 Deep Mix)",
-     "artists": "Hraach",
-     "album": "Dle Yaman (116 Deep Mix)",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731e0000b0470d637e969d93e4",
-     "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
-    },
-    {
-     "name": "Is It a Crime",
-     "artists": "Sade",
-     "album": "Promise",
-     "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
-     "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
-    },
-    {
-     "name": "California Dreamin' - Mono Version",
-     "artists": "The Mamas & The Papas",
-     "album": "If You Can Believe Your Eyes And Ears (Mono Version)",
-     "image": "https://i.scdn.co/image/ab67616d0000b27351b0ded91cc503d5e873562e",
-     "url": "https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt"
-    },
-    {
-     "name": "Fi Al Tariki Ilaik",
-     "artists": "Faia Younan",
-     "album": "Fi Al Tariki Ilaik",
-     "image": "https://i.scdn.co/image/ab6742d3000053b703bd84219323e36eb98d65c6",
-     "url": "https://open.spotify.com/track/0yA4ESs31voD6TjCRRSFTj"
-    },
-    {
-     "name": "Who's Ya Daddy?",
-     "artists": "Necro",
-     "album": "The Sexorcist",
-     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
-    },
-    {
      "name": "Dak Khilkeh",
      "artists": "Fairuz",
      "album": "Mish Kayan Hayek T'Koun",
@@ -86,6 +58,13 @@
      "album": "Mish Kayan Hayek T'Koun",
      "image": "https://i.scdn.co/image/ab67616d0000b273673bc3ed5c0fbbb4fcb15ece",
      "url": "https://open.spotify.com/track/0HYf6nITIgTmivrMU4VMGo"
+    },
+    {
+     "name": "Is It a Crime",
+     "artists": "Sade",
+     "album": "Promise",
+     "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
+     "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
     },
     {
      "name": "Sallimleh Alayh",
@@ -102,11 +81,53 @@
      "url": "https://open.spotify.com/track/5ID8N4ssFFAmFvINnTdcKM"
     },
     {
+     "name": "California Dreamin' - Mono Version",
+     "artists": "The Mamas & The Papas",
+     "album": "If You Can Believe Your Eyes And Ears (Mono Version)",
+     "image": "https://i.scdn.co/image/ab67616d0000b27351b0ded91cc503d5e873562e",
+     "url": "https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt"
+    },
+    {
      "name": "Oghniat Al Wadaa",
      "artists": "Fairuz",
      "album": "Kifak Inta",
      "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
      "url": "https://open.spotify.com/track/1scEOt7Kx537vKuam70wpB"
+    },
+    {
+     "name": "Fi Al Tariki Ilaik",
+     "artists": "Faia Younan",
+     "album": "Fi Al Tariki Ilaik",
+     "image": "https://i.scdn.co/image/ab6742d3000053b703bd84219323e36eb98d65c6",
+     "url": "https://open.spotify.com/track/0yA4ESs31voD6TjCRRSFTj"
+    },
+    {
+     "name": "Who's Ya Daddy?",
+     "artists": "Necro",
+     "album": "The Sexorcist",
+     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
+    },
+    {
+     "name": "Kifak Inta",
+     "artists": "Fairuz",
+     "album": "Kifak Inta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
+     "url": "https://open.spotify.com/track/6anUe12pE0PeJEu1IZJ2at"
+    },
+    {
+     "name": "Fi Shi Am 'Bisser",
+     "artists": "Fairuz",
+     "album": "Kifak Inta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
+     "url": "https://open.spotify.com/track/1OdjExi35aPk35MOulh8ed"
+    },
+    {
+     "name": "He Loves Me",
+     "artists": "Brittany Howard",
+     "album": "Jaime",
+     "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+     "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
     },
     {
      "name": "Kataltoni - Zone+ & Usif Remix",
@@ -121,27 +142,6 @@
      "album": "Live at Damascus Citadel 2008",
      "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
      "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
-     "name": "Kifak Inta",
-     "artists": "Fairuz",
-     "album": "Kifak Inta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
-     "url": "https://open.spotify.com/track/6anUe12pE0PeJEu1IZJ2at"
-    },
-    {
-     "name": "Last Train to London",
-     "artists": "Rikas",
-     "album": "Last Train to London",
-     "image": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
-     "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq"
-    },
-    {
-     "name": "Maghreb - Original Mix",
-     "artists": "Bernstein (CH)",
-     "album": "Land In Sicht, Vol. 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b27339779c443d47e4eaa0f2beee",
-     "url": "https://open.spotify.com/track/0TdIfs58M9mhQA0Hl4hXoU"
     }
    ],
    "artists": [
