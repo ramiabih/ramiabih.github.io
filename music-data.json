@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:50:35.935527+00:00",
+ "updated": "2026-11-09T14:46:38.133782+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -879,15 +879,6 @@
      "genres": []
     },
     {
-     "name": "The Beatles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
-     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
-     "genres": [
-      "classic rock",
-      "psychedelic rock"
-     ]
-    },
-    {
      "name": "Ray Charles",
      "image": "https://i.scdn.co/image/ab6761610000e5eb6fc460f10177fa38af69b8bf",
      "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
@@ -906,6 +897,16 @@
      "genres": [
       "indie soul",
       "neo soul"
+     ]
+    },
+    {
+     "name": "Hraach",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebd509b762927bf0fe11b3c8b0",
+     "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO",
+     "genres": [
+      "organic house",
+      "tribal house",
+      "downtempo"
      ]
     }
    ]
