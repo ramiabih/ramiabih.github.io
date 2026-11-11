@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:16:41.713966+00:00",
+ "updated": "2026-11-11T23:53:15.485992+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -23,13 +23,6 @@
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
-    },
-    {
-     "name": "Alf Leila We Leila",
-     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-     "album": "Oum Kolthoom - The Anniversary Tribute",
-     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
      "name": "Takassim Oud",
@@ -93,6 +86,13 @@
      "album": "Jaime",
      "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
      "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
+    },
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+     "album": "Oum Kolthoom - The Anniversary Tribute",
+     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
     },
     {
      "name": "Oghniat Al Wadaa",
@@ -164,6 +164,22 @@
      "genres": []
     },
     {
+     "name": "Celia Cruz",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb58cbc73f2b755f60134c54b",
+     "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U",
+     "genres": [
+      "salsa",
+      "son cubano",
+      "bolero",
+      "cha cha cha",
+      "mambo",
+      "merengue",
+      "latin jazz",
+      "latin",
+      "latin dance"
+     ]
+    },
+    {
      "name": "Sade",
      "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
      "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
@@ -199,12 +215,6 @@
      ]
     },
     {
-     "name": "Majida El Roumi",
-     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
-     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
-     "genres": []
-    },
-    {
      "name": "The Zombies",
      "image": "https://i.scdn.co/image/ab6761610000e5eb4bbeb54a562d3de858825979",
      "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5",
@@ -237,6 +247,12 @@
      "genres": [
       "musique concrète"
      ]
+    },
+    {
+     "name": "Majida El Roumi",
+     "image": "https://i.scdn.co/image/ab67616d0000b273331bbe900c73a94a5add1756",
+     "url": "https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS",
+     "genres": []
     },
     {
      "name": "The Kinks",
@@ -291,14 +307,6 @@
      "genres": [
       "glam rock",
       "art rock"
-     ]
-    },
-    {
-     "name": "Souad Massi",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebbcb55a4fa6d8e70bb2d69605",
-     "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k",
-     "genres": [
-      "gnawa"
      ]
     }
    ]
@@ -916,6 +924,118 @@
  },
  "recent": [
   {
+   "name": "Tu Con El",
+   "artists": "Frankie Ruiz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ac2480ea9c662472dcfd3e19",
+   "url": "https://open.spotify.com/track/6cHHrFD3fmBG9MR3k8kvep",
+   "played_at": "2026-11-11T20:42:01.736Z"
+  },
+  {
+   "name": "Cumbanchero",
+   "artists": "Ruben Gonzalez",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f7ae97fbba1069acc3732afa",
+   "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a",
+   "played_at": "2026-11-11T20:37:01.363Z"
+  },
+  {
+   "name": "¿Dónde Estabas Tú?",
+   "artists": "Omara Portuondo",
+   "image": "https://i.scdn.co/image/ab67616d0000b27324427a33313836d81def7335",
+   "url": "https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7",
+   "played_at": "2026-11-11T20:32:28.114Z"
+  },
+  {
+   "name": "El Ratón",
+   "artists": "Cheo Feliciano, Joe Cuba Sextet",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736e7deb549afa628b0397ac40",
+   "url": "https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB",
+   "played_at": "2026-11-11T20:28:42.645Z"
+  },
+  {
+   "name": "Mujer Divina",
+   "artists": "Joe Cuba Sextet",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fec35a58914acb4c804ef473",
+   "url": "https://open.spotify.com/track/4xXnKZU88wvGPn7ors4qjQ",
+   "played_at": "2026-11-11T20:24:56.324Z"
+  },
+  {
+   "name": "Sofrito",
+   "artists": "Mongo Santamaria",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a403c07b39791a79172c38d8",
+   "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc",
+   "played_at": "2026-11-11T20:20:01.294Z"
+  },
+  {
+   "name": "Amor Verdadero",
+   "artists": "Afro-Cuban All Stars",
+   "image": "https://i.scdn.co/image/ab67616d0000b273eee6768bd7c19eda94ca93a5",
+   "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p",
+   "played_at": "2026-11-11T20:13:57.094Z"
+  },
+  {
+   "name": "De Camino a la Vereda",
+   "artists": "Buena Vista Social Club",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
+   "url": "https://open.spotify.com/track/11TMcTS3iao1dvMogUSQVk",
+   "played_at": "2026-11-11T20:07:20.179Z"
+  },
+  {
+   "name": "Cuando Estoy Contigo",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273cbb1710cc01e2f67dc0d2b37",
+   "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq",
+   "played_at": "2026-11-11T20:02:18.201Z"
+  },
+  {
+   "name": "La Jaibera",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
+   "url": "https://open.spotify.com/track/14vI3A7Q6XBQ4f7Ma52f6P",
+   "played_at": "2026-11-11T19:59:53.310Z"
+  },
+  {
+   "name": "Así Va Mi Cantar",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
+   "url": "https://open.spotify.com/track/6YuyjDCDqLneWg69DroKDE",
+   "played_at": "2026-11-11T19:57:28.575Z"
+  },
+  {
+   "name": "Ay Que Vecino",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
+   "url": "https://open.spotify.com/track/0PuibX2QUNVohSdrdaIguA",
+   "played_at": "2026-11-11T19:54:45.169Z"
+  },
+  {
+   "name": "Guárdame Tu Amor",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
+   "url": "https://open.spotify.com/track/6nuRSpiZsB2spRMY1btG8X",
+   "played_at": "2026-11-11T19:52:32.749Z"
+  },
+  {
+   "name": "Suenan Los Tambores",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
+   "url": "https://open.spotify.com/track/6ske4HbFhTjCINmrxpgRd9",
+   "played_at": "2026-11-11T19:49:56.618Z"
+  },
+  {
+   "name": "Guantanamera",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
+   "url": "https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj",
+   "played_at": "2026-11-11T19:47:17.173Z"
+  },
+  {
+   "name": "Somethin' Stupid",
+   "artists": "Frank Sinatra, Nancy Sinatra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733e2331ff09f59ea3c87fe5d6",
+   "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV",
+   "played_at": "2026-11-11T15:41:12.805Z"
+  },
+  {
    "name": "Lying In The Sunshine",
    "artists": "Free",
    "image": "https://i.scdn.co/image/ab67616d0000b273640df56fe46cd51896a00810",
@@ -1152,118 +1272,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
    "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK",
    "played_at": "2026-11-09T17:57:04.263Z"
-  },
-  {
-   "name": "The Look",
-   "artists": "Metronomy",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738ca7d89456553e4bbbf3c981",
-   "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa",
-   "played_at": "2026-11-09T17:53:34.665Z"
-  },
-  {
-   "name": "Feel Good Inc.",
-   "artists": "Gorillaz, De La Soul",
-   "image": "https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358",
-   "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-   "played_at": "2026-11-09T17:48:58.986Z"
-  },
-  {
-   "name": "Tom's Diner",
-   "artists": "AnnenMayKantereit, Giant Rooks",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732186eb1b0b5436f858c0508c",
-   "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP",
-   "played_at": "2026-11-09T17:45:18.346Z"
-  },
-  {
-   "name": "Wicked Game",
-   "artists": "Chris Isaak",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ad0e25c1c366d63bcbae4073",
-   "url": "https://open.spotify.com/track/2y42xAsl6dfMeVXQgOYsUw",
-   "played_at": "2026-11-09T17:40:51.028Z"
-  },
-  {
-   "name": "Feet Don't Fail Me Now",
-   "artists": "Joy Crookes",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fbc65345f46a31184123c8bc",
-   "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU",
-   "played_at": "2026-11-09T17:36:03.915Z"
-  },
-  {
-   "name": "Babydoll",
-   "artists": "Dominic Fike",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-   "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-   "played_at": "2026-11-09T17:32:47.121Z"
-  },
-  {
-   "name": "It Ain't Over 'Til It's Over",
-   "artists": "Lenny Kravitz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273bfc19627a4a3a604c0a195e5",
-   "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR",
-   "played_at": "2026-11-09T17:31:11.169Z"
-  },
-  {
-   "name": "Chintamani",
-   "artists": "Céline Dessberg",
-   "image": "https://i.scdn.co/image/ab67616d0000b27348ac7dd9b26e7f438b034c8b",
-   "url": "https://open.spotify.com/track/2of9joj3ddogAZl4i0jVmg",
-   "played_at": "2026-11-09T17:27:10.527Z"
-  },
-  {
-   "name": "Mother Forgot",
-   "artists": "Tora",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731259d832df4fe55e1b342207",
-   "url": "https://open.spotify.com/track/2nJfOivqiAKX6r1gxu6QhT",
-   "played_at": "2026-11-09T17:23:40.136Z"
-  },
-  {
-   "name": "The Less I Know The Better",
-   "artists": "Tame Impala",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
-   "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
-   "played_at": "2026-11-09T17:20:33.259Z"
-  },
-  {
-   "name": "Last Train to London",
-   "artists": "Rikas",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
-   "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq",
-   "played_at": "2026-11-09T17:16:58.914Z"
-  },
-  {
-   "name": "So Easy (To Fall In Love)",
-   "artists": "Olivia Dean",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
-   "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
-   "played_at": "2026-11-09T17:14:01.934Z"
-  },
-  {
-   "name": "Cannock Chase",
-   "artists": "Labi Siffre",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5",
-   "url": "https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY",
-   "played_at": "2026-11-09T17:11:14.944Z"
-  },
-  {
-   "name": "Seabird",
-   "artists": "Alessi Brothers",
-   "image": "https://i.scdn.co/image/ab67616d0000b2739ac897f7feb71470bc9a7222",
-   "url": "https://open.spotify.com/track/1iUpSRmgnbTRqU0Pb217qI",
-   "played_at": "2026-11-09T17:07:10.041Z"
-  },
-  {
-   "name": "I'm Glad You're Mine",
-   "artists": "Al Green",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735bba82fc0d047f6f23177767",
-   "url": "https://open.spotify.com/track/4fiC7RTotySw4ZeYaCSsXP",
-   "played_at": "2026-11-09T17:04:03.179Z"
-  },
-  {
-   "name": "Space Talk",
-   "artists": "Asha Puthli",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737034e287b0fd8a35d13fd275",
-   "url": "https://open.spotify.com/track/1PZeJ6kmAILT5Y5GK9zpLk",
-   "played_at": "2026-11-09T17:01:07.489Z"
   }
  ]
 }
