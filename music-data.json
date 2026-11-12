@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:53:15.485992+00:00",
+ "updated": "2026-11-12T05:03:33.749604+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -539,6 +539,22 @@
      ]
     },
     {
+     "name": "Celia Cruz",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb58cbc73f2b755f60134c54b",
+     "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U",
+     "genres": [
+      "salsa",
+      "son cubano",
+      "bolero",
+      "cha cha cha",
+      "mambo",
+      "merengue",
+      "latin jazz",
+      "latin",
+      "latin dance"
+     ]
+    },
+    {
      "name": "Umm Kulthum",
      "image": "https://i.scdn.co/image/ab6761610000e5ebc857a1e6180f6696da6e31de",
      "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
@@ -605,12 +621,6 @@
       "glam rock",
       "art rock"
      ]
-    },
-    {
-     "name": "Philipp Kirkorov",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebc51f3d7c45816566904f7fe9",
-     "url": "https://open.spotify.com/artist/3ANNnVJ7NCdIZV6P2YzvlI",
-     "genres": []
     }
    ]
   },
