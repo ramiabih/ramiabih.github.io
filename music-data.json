@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:00:24.024299+00:00",
+ "updated": "2026-11-13T04:19:33.161883+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -170,8 +170,8 @@
      "genres": [
       "salsa",
       "son cubano",
-      "bolero",
       "cha cha cha",
+      "bolero",
       "mambo",
       "merengue",
       "latin jazz",
@@ -545,8 +545,8 @@
      "genres": [
       "salsa",
       "son cubano",
-      "bolero",
       "cha cha cha",
+      "bolero",
       "mambo",
       "merengue",
       "latin jazz",
@@ -934,6 +934,13 @@
  },
  "recent": [
   {
+   "name": "Bésame Mama",
+   "artists": "Poncho Sanchez, Mongo Santamaria",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a5af6d3e4f33678206b396fd",
+   "url": "https://open.spotify.com/track/6gRTiCVBnX2lRp1Arw1u7D",
+   "played_at": "2026-11-12T23:37:15.742Z"
+  },
+  {
    "name": "Who's Ya Daddy?",
    "artists": "Necro",
    "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
@@ -1275,13 +1282,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
    "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy",
    "played_at": "2026-11-09T18:10:42.868Z"
-  },
-  {
-   "name": "Harvest Moon",
-   "artists": "Neil Young",
-   "image": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
-   "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
-   "played_at": "2026-11-09T18:06:06Z"
   }
  ]
 }
