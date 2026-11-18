@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:51:35.836157+00:00",
+ "updated": "2026-11-18T23:43:40.592640+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -116,13 +116,6 @@
      "url": "https://open.spotify.com/track/1scEOt7Kx537vKuam70wpB"
     },
     {
-     "name": "Kifak Inta",
-     "artists": "Fairuz",
-     "album": "Kifak Inta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
-     "url": "https://open.spotify.com/track/6anUe12pE0PeJEu1IZJ2at"
-    },
-    {
      "name": "Maghreb - Original Mix",
      "artists": "Bernstein (CH)",
      "album": "Land In Sicht, Vol. 1",
@@ -142,6 +135,13 @@
      "album": "Shut up My Moms Calling",
      "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
+    },
+    {
+     "name": "Kifak Inta",
+     "artists": "Fairuz",
+     "album": "Kifak Inta",
+     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
+     "url": "https://open.spotify.com/track/6anUe12pE0PeJEu1IZJ2at"
     }
    ],
    "artists": [
@@ -149,12 +149,6 @@
      "name": "Fairuz",
      "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
      "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV",
-     "genres": []
-    },
-    {
-     "name": "Thomas O’Reilly",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-     "url": "https://open.spotify.com/artist/1mTuXKKNsMoLwborRDqsgD",
      "genres": []
     },
     {
@@ -172,6 +166,12 @@
       "latin",
       "latin dance"
      ]
+    },
+    {
+     "name": "Thomas O’Reilly",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
+     "url": "https://open.spotify.com/artist/1mTuXKKNsMoLwborRDqsgD",
+     "genres": []
     },
     {
      "name": "Sade",
@@ -249,6 +249,18 @@
      ]
     },
     {
+     "name": "Buena Vista Social Club",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebe35db4d5803c5a4c77dd44db",
+     "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW",
+     "genres": [
+      "son cubano",
+      "latin jazz",
+      "afro-cuban jazz",
+      "latin",
+      "bolero"
+     ]
+    },
+    {
      "name": "The Kinks",
      "image": "https://i.scdn.co/image/ab6761610000e5eb81f4e878e8b959fa68f15322",
      "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E",
@@ -303,12 +315,6 @@
       "blues rock",
       "classic rock"
      ]
-    },
-    {
-     "name": "Mac Miller",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-     "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-     "genres": []
     }
    ]
   },
@@ -935,6 +941,146 @@
  },
  "recent": [
   {
+   "name": "I Like It Like That",
+   "artists": "Pete Rodriguez",
+   "image": "https://i.scdn.co/image/ab67616d0000b27315945265f8acdaa88076cb07",
+   "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq",
+   "played_at": "2026-11-18T19:40:31.805Z"
+  },
+  {
+   "name": "Tuya, Y Más Que Tuya",
+   "artists": "La Sonora Matancera, Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273bfcb33a19980c7f8c2fbf7f9",
+   "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps",
+   "played_at": "2026-11-18T19:36:08.707Z"
+  },
+  {
+   "name": "La Pantera Mambo",
+   "artists": "La-33",
+   "image": "https://i.scdn.co/image/ab67616d0000b273333d328ae20bffef1d2e372f",
+   "url": "https://open.spotify.com/track/0poqEvJ0XQX4Wmu9mxvckS",
+   "played_at": "2026-11-18T19:33:27.106Z"
+  },
+  {
+   "name": "Mi Swing es Tropical",
+   "artists": "Nickodemus, Quantic, Tempo",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739bf8c073876fd63658f8ef0a",
+   "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C",
+   "played_at": "2026-11-18T19:27:14.208Z"
+  },
+  {
+   "name": "Quizás, Quizás, Quizás - Remastered 2025",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273042fa386779f063aed059a7d",
+   "url": "https://open.spotify.com/track/5EWAjQSjo8SZ2fbVKfCrcu",
+   "played_at": "2026-11-18T19:23:33.317Z"
+  },
+  {
+   "name": "Mandinga",
+   "artists": "Ruben Gonzalez",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f7ae97fbba1069acc3732afa",
+   "url": "https://open.spotify.com/track/3prslnZsGiNplP2ZB5QP3a",
+   "played_at": "2026-11-18T19:21:06.215Z"
+  },
+  {
+   "name": "Tumba Pala Cocuyé",
+   "artists": "Afro-Cuban All Stars",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734feaf0d8a260b69381272487",
+   "url": "https://open.spotify.com/track/7B6VYJdsPlVXT7u4AtQPBa",
+   "played_at": "2026-11-18T19:12:39.725Z"
+  },
+  {
+   "name": "Candela",
+   "artists": "Buena Vista Social Club",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
+   "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj",
+   "played_at": "2026-11-18T19:05:50.421Z"
+  },
+  {
+   "name": "Un verano en Nueva York",
+   "artists": "El Gran Combo De Puerto Rico",
+   "image": "https://i.scdn.co/image/ab67616d0000b273587eb3621c69aad25d88acfb",
+   "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9",
+   "played_at": "2026-11-18T19:00:23.215Z"
+  },
+  {
+   "name": "Bemba Colora - Live",
+   "artists": "Celia Cruz",
+   "image": "https://i.scdn.co/image/ab67616d0000b27314612c506075aa573998ab37",
+   "url": "https://open.spotify.com/track/4fn2fJjnuu5vxR2sRw5D5t",
+   "played_at": "2026-11-18T18:55:26.722Z"
+  },
+  {
+   "name": "Moliendo café",
+   "artists": "Vieja Trova Santiaguera",
+   "image": "https://i.scdn.co/image/ab67616d0000b273888804bf3b29ce064ebcdfb3",
+   "url": "https://open.spotify.com/track/4jM0v4ReOQh5RntXfiG3NN",
+   "played_at": "2026-11-18T18:46:13.715Z"
+  },
+  {
+   "name": "Sofrito",
+   "artists": "Mongo Santamaria",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a403c07b39791a79172c38d8",
+   "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc",
+   "played_at": "2026-11-18T18:41:20.327Z"
+  },
+  {
+   "name": "Bruca Maniguá",
+   "artists": "Ibrahim Ferrer",
+   "image": "https://i.scdn.co/image/ab67616d0000b2732e5685fad57fe67bfed3fc4f",
+   "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH",
+   "played_at": "2026-11-18T18:35:16.116Z"
+  },
+  {
+   "name": "La negra Tomasa",
+   "artists": "Compay Segundo",
+   "image": "https://i.scdn.co/image/ab67616d0000b273abf2e1a435c389be22aaf005",
+   "url": "https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1",
+   "played_at": "2026-11-18T18:30:33.812Z"
+  },
+  {
+   "name": "Oye Cómo Va",
+   "artists": "Celia Cruz, Tito Puente",
+   "image": "https://i.scdn.co/image/ab67616d0000b27305642f61b2b356b84363c5af",
+   "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr",
+   "played_at": "2026-11-18T18:26:37.393Z"
+  },
+  {
+   "name": "¿Dónde Estabas Tú?",
+   "artists": "Omara Portuondo",
+   "image": "https://i.scdn.co/image/ab67616d0000b27324427a33313836d81def7335",
+   "url": "https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7",
+   "played_at": "2026-11-18T18:22:07.199Z"
+  },
+  {
+   "name": "Cumbanchero",
+   "artists": "Ruben Gonzalez",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f7ae97fbba1069acc3732afa",
+   "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a",
+   "played_at": "2026-11-18T18:18:21.715Z"
+  },
+  {
+   "name": "Amor Verdadero",
+   "artists": "Afro-Cuban All Stars",
+   "image": "https://i.scdn.co/image/ab67616d0000b273eee6768bd7c19eda94ca93a5",
+   "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p",
+   "played_at": "2026-11-18T18:13:48.410Z"
+  },
+  {
+   "name": "El Cuarto de Tula",
+   "artists": "Buena Vista Social Club",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
+   "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC",
+   "played_at": "2026-11-18T18:07:11.513Z"
+  },
+  {
+   "name": "En Barranquilla Me Quedo",
+   "artists": "Joe Arroyo, La Verdad",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730c2c6e30fedd6dc367484d79",
+   "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR",
+   "played_at": "2026-11-18T17:59:08.039Z"
+  },
+  {
    "name": "El Rincón Caliente",
    "artists": "Manuel Guajiro Mirabal",
    "image": "https://i.scdn.co/image/ab67616d0000b273080c57bf65e5f83206ec13ee",
@@ -1073,118 +1219,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
    "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
    "played_at": "2026-11-12T18:30:24.712Z"
-  },
-  {
-   "name": "Tu Con El",
-   "artists": "Frankie Ruiz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ac2480ea9c662472dcfd3e19",
-   "url": "https://open.spotify.com/track/6cHHrFD3fmBG9MR3k8kvep",
-   "played_at": "2026-11-11T20:42:01.736Z"
-  },
-  {
-   "name": "Cumbanchero",
-   "artists": "Ruben Gonzalez",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f7ae97fbba1069acc3732afa",
-   "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a",
-   "played_at": "2026-11-11T20:37:01.363Z"
-  },
-  {
-   "name": "¿Dónde Estabas Tú?",
-   "artists": "Omara Portuondo",
-   "image": "https://i.scdn.co/image/ab67616d0000b27324427a33313836d81def7335",
-   "url": "https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7",
-   "played_at": "2026-11-11T20:32:28.114Z"
-  },
-  {
-   "name": "El Ratón",
-   "artists": "Cheo Feliciano, Joe Cuba Sextet",
-   "image": "https://i.scdn.co/image/ab67616d0000b2736e7deb549afa628b0397ac40",
-   "url": "https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB",
-   "played_at": "2026-11-11T20:28:42.645Z"
-  },
-  {
-   "name": "Mujer Divina",
-   "artists": "Joe Cuba Sextet",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fec35a58914acb4c804ef473",
-   "url": "https://open.spotify.com/track/4xXnKZU88wvGPn7ors4qjQ",
-   "played_at": "2026-11-11T20:24:56.324Z"
-  },
-  {
-   "name": "Sofrito",
-   "artists": "Mongo Santamaria",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a403c07b39791a79172c38d8",
-   "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc",
-   "played_at": "2026-11-11T20:20:01.294Z"
-  },
-  {
-   "name": "Amor Verdadero",
-   "artists": "Afro-Cuban All Stars",
-   "image": "https://i.scdn.co/image/ab67616d0000b273eee6768bd7c19eda94ca93a5",
-   "url": "https://open.spotify.com/track/4IC8qYktbAE9GX1lEZV37p",
-   "played_at": "2026-11-11T20:13:57.094Z"
-  },
-  {
-   "name": "De Camino a la Vereda",
-   "artists": "Buena Vista Social Club",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
-   "url": "https://open.spotify.com/track/11TMcTS3iao1dvMogUSQVk",
-   "played_at": "2026-11-11T20:07:20.179Z"
-  },
-  {
-   "name": "Cuando Estoy Contigo",
-   "artists": "Celia Cruz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273cbb1710cc01e2f67dc0d2b37",
-   "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq",
-   "played_at": "2026-11-11T20:02:18.201Z"
-  },
-  {
-   "name": "La Jaibera",
-   "artists": "Celia Cruz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
-   "url": "https://open.spotify.com/track/14vI3A7Q6XBQ4f7Ma52f6P",
-   "played_at": "2026-11-11T19:59:53.310Z"
-  },
-  {
-   "name": "Así Va Mi Cantar",
-   "artists": "Celia Cruz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
-   "url": "https://open.spotify.com/track/6YuyjDCDqLneWg69DroKDE",
-   "played_at": "2026-11-11T19:57:28.575Z"
-  },
-  {
-   "name": "Ay Que Vecino",
-   "artists": "Celia Cruz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
-   "url": "https://open.spotify.com/track/0PuibX2QUNVohSdrdaIguA",
-   "played_at": "2026-11-11T19:54:45.169Z"
-  },
-  {
-   "name": "Guárdame Tu Amor",
-   "artists": "Celia Cruz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
-   "url": "https://open.spotify.com/track/6nuRSpiZsB2spRMY1btG8X",
-   "played_at": "2026-11-11T19:52:32.749Z"
-  },
-  {
-   "name": "Suenan Los Tambores",
-   "artists": "Celia Cruz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
-   "url": "https://open.spotify.com/track/6ske4HbFhTjCINmrxpgRd9",
-   "played_at": "2026-11-11T19:49:56.618Z"
-  },
-  {
-   "name": "Guantanamera",
-   "artists": "Celia Cruz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273abe503ae87c5e372329686bf",
-   "url": "https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj",
-   "played_at": "2026-11-11T19:47:17.173Z"
-  },
-  {
-   "name": "Somethin' Stupid",
-   "artists": "Frank Sinatra, Nancy Sinatra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2733e2331ff09f59ea3c87fe5d6",
-   "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV",
-   "played_at": "2026-11-11T15:41:12.805Z"
   }
  ]
 }
