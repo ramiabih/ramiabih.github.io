@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:43:40.592640+00:00",
+ "updated": "2026-11-19T05:14:39.212946+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -506,12 +506,6 @@
      ]
     },
     {
-     "name": "Thomas O’Reilly",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-     "url": "https://open.spotify.com/artist/1mTuXKKNsMoLwborRDqsgD",
-     "genres": []
-    },
-    {
      "name": "Celia Cruz",
      "image": "https://i.scdn.co/image/ab6761610000e5ebb58cbc73f2b755f60134c54b",
      "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U",
@@ -526,6 +520,12 @@
       "latin",
       "latin dance"
      ]
+    },
+    {
+     "name": "Thomas O’Reilly",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
+     "url": "https://open.spotify.com/artist/1mTuXKKNsMoLwborRDqsgD",
+     "genres": []
     },
     {
      "name": "Thee Sacred Souls",
