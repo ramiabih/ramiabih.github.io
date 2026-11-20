@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:57:53.485498+00:00",
+ "updated": "2026-11-20T00:03:32.075621+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -941,6 +941,13 @@
  },
  "recent": [
   {
+   "name": "All By Myself",
+   "artists": "Eric Carmen",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739ada12167b62ba71788df622",
+   "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz",
+   "played_at": "2026-11-19T17:35:33.358Z"
+  },
+  {
    "name": "I Like It Like That",
    "artists": "Pete Rodriguez",
    "image": "https://i.scdn.co/image/ab67616d0000b27315945265f8acdaa88076cb07",
@@ -1198,27 +1205,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
    "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
    "played_at": "2026-11-13T20:28:02.326Z"
-  },
-  {
-   "name": "Bésame Mama",
-   "artists": "Poncho Sanchez, Mongo Santamaria",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a5af6d3e4f33678206b396fd",
-   "url": "https://open.spotify.com/track/6gRTiCVBnX2lRp1Arw1u7D",
-   "played_at": "2026-11-12T23:37:15.742Z"
-  },
-  {
-   "name": "Who's Ya Daddy?",
-   "artists": "Necro",
-   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
-   "played_at": "2026-11-12T18:36:52.815Z"
-  },
-  {
-   "name": "Takassim Oud",
-   "artists": "Oriental Lebanese Band",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730bf4836fd687147102dcd8ad",
-   "url": "https://open.spotify.com/track/004yuSwTyvLhIFVrbtSuEJ",
-   "played_at": "2026-11-12T18:30:24.712Z"
   }
  ]
 }
