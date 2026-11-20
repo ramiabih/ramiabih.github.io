@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:39:47.118452+00:00",
+ "updated": "2026-11-20T23:30:44.418049+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -244,25 +244,6 @@
      "genres": []
     },
     {
-     "name": "The Doors",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb440959e022afc20e819050bd",
-     "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt",
-     "genres": [
-      "psychedelic rock",
-      "classic rock",
-      "acid rock"
-     ]
-    },
-    {
-     "name": "The Beatles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
-     "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
-     "genres": [
-      "classic rock",
-      "psychedelic rock"
-     ]
-    },
-    {
      "name": "Mac Miller",
      "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
      "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
@@ -402,18 +383,18 @@
      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
     },
     {
-     "name": "Bala Wala Chi - Live",
-     "artists": "Ziad Rahbani",
-     "album": "Live at Damascus Citadel 2008",
-     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
-     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
-    },
-    {
      "name": "Alf Leila We Leila",
      "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
      "album": "Oum Kolthoom - The Anniversary Tribute",
      "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
      "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
+    },
+    {
+     "name": "Bala Wala Chi - Live",
+     "artists": "Ziad Rahbani",
+     "album": "Live at Damascus Citadel 2008",
+     "image": "https://i.scdn.co/image/ab67616d0000b2734c32f4b0644174247e509561",
+     "url": "https://open.spotify.com/track/1pDspPWmje2nhfM0SrvvUV"
     },
     {
      "name": "The Glory",
@@ -512,18 +493,18 @@
      ]
     },
     {
-     "name": "Thomas O’Reilly",
-     "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
-     "url": "https://open.spotify.com/artist/1mTuXKKNsMoLwborRDqsgD",
-     "genres": []
-    },
-    {
      "name": "Thee Sacred Souls",
      "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
      "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
      "genres": [
       "retro soul"
      ]
+    },
+    {
+     "name": "Thomas O’Reilly",
+     "image": "https://i.scdn.co/image/ab67616d0000b2733635faa0d60766babcd9f450",
+     "url": "https://open.spotify.com/artist/1mTuXKKNsMoLwborRDqsgD",
+     "genres": []
     },
     {
      "name": "Otis Redding",
