@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:56:28.035959+00:00",
+ "updated": "2026-11-21T13:56:36.349119+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -461,7 +461,7 @@
     },
     {
      "name": "Wael Kfoury",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb47ef5892789253bd4b30e6a8",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
       "khaleeji"
@@ -770,7 +770,7 @@
     },
     {
      "name": "Wael Kfoury",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb3ddb773328b49e0a944b3c61",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb47ef5892789253bd4b30e6a8",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
      "genres": [
       "khaleeji"
@@ -879,18 +879,6 @@
      "genres": []
     },
     {
-     "name": "Ray Charles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6fc460f10177fa38af69b8bf",
-     "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
-     "genres": [
-      "soul",
-      "soul blues",
-      "classic soul",
-      "vocal jazz",
-      "jazz"
-     ]
-    },
-    {
      "name": "Aaron Taylor",
      "image": "https://i.scdn.co/image/ab6761610000e5eb22fc5c2b36b5888f5131215f",
      "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7",
@@ -907,6 +895,18 @@
       "organic house",
       "tribal house",
       "downtempo"
+     ]
+    },
+    {
+     "name": "Ray Charles",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6fc460f10177fa38af69b8bf",
+     "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
+     "genres": [
+      "soul",
+      "soul blues",
+      "classic soul",
+      "vocal jazz",
+      "jazz"
      ]
     }
    ]
