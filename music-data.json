@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-26T01:21:42.326835+00:00",
+ "updated": "2026-11-26T16:05:05.723431+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
+    {
+     "name": "Alf Leila We Leila",
+     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
+     "album": "Oum Kolthoom - The Anniversary Tribute",
+     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
+     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
+    },
     {
      "name": "Sabah Wu Masaa",
      "artists": "Fairuz",
@@ -11,11 +18,11 @@
      "url": "https://open.spotify.com/track/3Ht7hR95ZrCRPcTvmrZaER"
     },
     {
-     "name": "Alf Leila We Leila",
-     "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-     "album": "Oum Kolthoom - The Anniversary Tribute",
-     "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-     "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA"
+     "name": "Who's Ya Daddy?",
+     "artists": "Necro",
+     "album": "The Sexorcist",
+     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
     },
     {
      "name": "Takassim Oud",
@@ -39,11 +46,39 @@
      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
     },
     {
-     "name": "Who's Ya Daddy?",
-     "artists": "Necro",
-     "album": "The Sexorcist",
-     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
+     "name": "He Loves Me",
+     "artists": "Brittany Howard",
+     "album": "Jaime",
+     "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+     "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
+    },
+    {
+     "name": "I'll Stay",
+     "artists": "The RH Factor, D'Angelo",
+     "album": "Hard Groove",
+     "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+     "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
+    },
+    {
+     "name": "Shameful Game",
+     "artists": "Pale Jay",
+     "album": "The Celestial Suite",
+     "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
+     "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
+    },
+    {
+     "name": "Wahdon",
+     "artists": "Fairuz",
+     "album": "Habbaitak Tanseet El Noum",
+     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Shut up My Moms Calling",
+     "artists": "Hotel Ugly",
+     "album": "Shut up My Moms Calling",
+     "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
+     "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
     },
     {
      "name": "Dak Khilkeh",
@@ -74,13 +109,6 @@
      "url": "https://open.spotify.com/track/5ID8N4ssFFAmFvINnTdcKM"
     },
     {
-     "name": "He Loves Me",
-     "artists": "Brittany Howard",
-     "album": "Jaime",
-     "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-     "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv"
-    },
-    {
      "name": "Guantanamera",
      "artists": "Celia Cruz",
      "album": "Bravo",
@@ -95,11 +123,11 @@
      "url": "https://open.spotify.com/track/6pwhPuPd4JEv4XeJDUpxBt"
     },
     {
-     "name": "Wahdon",
+     "name": "Ya Tair",
      "artists": "Fairuz",
-     "album": "Habbaitak Tanseet El Noum",
-     "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-     "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+     "album": "Safarbarlek (From \"Safarbarlek\")",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
+     "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D"
     },
     {
      "name": "Oghniat Al Wadaa",
@@ -114,34 +142,6 @@
      "album": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
      "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
      "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV"
-    },
-    {
-     "name": "Shut up My Moms Calling",
-     "artists": "Hotel Ugly",
-     "album": "Shut up My Moms Calling",
-     "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
-     "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
-    },
-    {
-     "name": "Maghreb - Original Mix",
-     "artists": "Bernstein (CH)",
-     "album": "Land In Sicht, Vol. 1",
-     "image": "https://i.scdn.co/image/ab67616d0000b27339779c443d47e4eaa0f2beee",
-     "url": "https://open.spotify.com/track/0TdIfs58M9mhQA0Hl4hXoU"
-    },
-    {
-     "name": "Fi Shi Am 'Bisser",
-     "artists": "Fairuz",
-     "album": "Kifak Inta",
-     "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
-     "url": "https://open.spotify.com/track/1OdjExi35aPk35MOulh8ed"
-    },
-    {
-     "name": "Ankara",
-     "artists": "Birds of Mind",
-     "album": "Ankara",
-     "image": "https://i.scdn.co/image/ab67616d0000b27303b6de82e81cec3de8709504",
-     "url": "https://open.spotify.com/track/4hiZASJbTwk06D8GtUJxvC"
     }
    ],
    "artists": [
@@ -237,6 +237,12 @@
      "name": "Mac Miller",
      "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
      "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
+     "genres": []
+    },
+    {
+     "name": "Bedouine",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebc8b762d7b5ee0a96fa6ae382",
+     "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5",
      "genres": []
     },
     {
@@ -791,12 +797,6 @@
      "genres": []
     },
     {
-     "name": "Thundercat",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
-     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-     "genres": []
-    },
-    {
      "name": "Otis Redding",
      "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
      "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
@@ -806,6 +806,12 @@
       "classic soul",
       "soul blues"
      ]
+    },
+    {
+     "name": "Thundercat",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
+     "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
+     "genres": []
     },
     {
      "name": "¥$",
@@ -860,15 +866,12 @@
      ]
     },
     {
-     "name": "Ray Charles",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb6fc460f10177fa38af69b8bf",
-     "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
+     "name": "Alicia Keys",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb4518cf16a45e35fc0cc82862",
+     "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
      "genres": [
-      "soul",
-      "soul blues",
-      "classic soul",
-      "vocal jazz",
-      "jazz"
+      "r&b",
+      "neo soul"
      ]
     }
    ]
@@ -876,354 +879,354 @@
  },
  "recent": [
   {
-   "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
-   "artists": "Wolfgang Amadeus Mozart, Maria João Pires",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ab34ec04dd3073df6d8caef8",
-   "url": "https://open.spotify.com/track/0ftAOThcYwpSDapJhDOy7o",
-   "played_at": "2026-11-25T20:37:05.274Z"
+   "name": "No Me Destruyas",
+   "artists": "Zoé",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730b8e3472fbc48bce859650f9",
+   "url": "https://open.spotify.com/track/2DeK0E3KxFzuDbwKQo1A49",
+   "played_at": "2026-11-26T15:28:10.272Z"
   },
   {
-   "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
-   "artists": "Pyotr Ilyich Tchaikovsky, André Previn, London Symphony Orchestra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732a9a7c718673d04a9e4b39a7",
-   "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
-   "played_at": "2026-11-25T19:09:52.512Z"
+   "name": "Vinyl",
+   "artists": "Zoé",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730b8e3472fbc48bce859650f9",
+   "url": "https://open.spotify.com/track/7ldQxvRsQ1njRRQiBteAY6",
+   "played_at": "2026-11-26T15:24:22.906Z"
   },
   {
-   "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - 2005 Recording",
-   "artists": "Frédéric Chopin, Maurizio Pollini",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59",
-   "url": "https://open.spotify.com/track/3G98iZXs933j4EkqACWfka",
-   "played_at": "2026-11-25T19:07:07.715Z"
+   "name": "Vía Láctea",
+   "artists": "Zoé",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730b8e3472fbc48bce859650f9",
+   "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj",
+   "played_at": "2026-11-26T15:19:43.218Z"
   },
   {
-   "name": "Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1",
-   "artists": "Frédéric Chopin, Maurizio Pollini",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59",
-   "url": "https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV",
-   "played_at": "2026-11-25T19:02:15.003Z"
+   "name": "Memo Rex",
+   "artists": "Zoé",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730b8e3472fbc48bce859650f9",
+   "url": "https://open.spotify.com/track/7x4UUlU1thoQ4Vhq1eWdlt",
+   "played_at": "2026-11-26T15:15:35.099Z"
   },
   {
-   "name": "Love Is Here To Stay",
-   "artists": "George Gershwin, Zubin Mehta, New York Philharmonic, Brian Koonin, Eric Cohen, Dick Hyman, Lewis Eley, Milt Hinton",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735a5fb6652f6cdb977eb9124a",
-   "url": "https://open.spotify.com/track/6agmwIL4xVqp5FE9BdG3jX",
-   "played_at": "2026-11-25T18:57:29.994Z"
+   "name": "Thirteen",
+   "artists": "Bedouine, Hurray For The Riff Raff, Waxahatchee",
+   "image": "https://i.scdn.co/image/ab67616d0000b273eba59805e1bc36ecd40ef870",
+   "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC",
+   "played_at": "2026-11-26T15:09:51.670Z"
   },
   {
-   "name": "Suite Bergamasque, L. 75: III. Clair de lune",
-   "artists": "Claude Debussy, Alain Planès",
-   "image": "https://i.scdn.co/image/ab67616d0000b27375a31b6a823db32c88b5250a",
-   "url": "https://open.spotify.com/track/7wQVSemzfhIgjLWd6irsMe",
-   "played_at": "2026-11-25T18:54:47.949Z"
+   "name": "Dusty Eyes",
+   "artists": "Bedouine",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ff71a475e2a24897a70063cc",
+   "url": "https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070",
+   "played_at": "2026-11-26T15:06:46.806Z"
   },
   {
-   "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-   "artists": "Frédéric Chopin, Arthur Rubinstein",
-   "image": "https://i.scdn.co/image/ab67616d0000b27398d1350f0daab23baa629959",
-   "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw",
-   "played_at": "2026-11-25T18:50:10.638Z"
+   "name": "Hope We Meet Again",
+   "artists": "Laura Marling",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736552cf47608e3b844c769b05",
+   "url": "https://open.spotify.com/track/0AflJsSJ3c9VrOk2HrcIgG",
+   "played_at": "2026-11-26T15:02:09.053Z"
   },
   {
-   "name": "Nocturne en Mi Bémol Majeur, Op. 9 No. 2",
-   "artists": "Frédéric Chopin, Luis Fernando Pérez",
-   "image": "https://i.scdn.co/image/ab67616d0000b27318bccd55ef4b1c50dac2f2bc",
-   "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd",
-   "played_at": "2026-11-25T18:43:01.009Z"
+   "name": "We're Just Making It Worse",
+   "artists": "Cameron Avery, Alexandra Savior",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b78c01e2996b52a16bef2f66",
+   "url": "https://open.spotify.com/track/0An092SY8oMh1yOZKVGGfB",
+   "played_at": "2026-11-26T14:58:03.719Z"
   },
   {
-   "name": "Messiaen: Quatuor pour la fin du temps: V. Louange à l'éternité de Jésus",
-   "artists": "Olivier Messiaen, Michel Béroff, William Pleeth",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f49e64acd825ecaed843ae66",
-   "url": "https://open.spotify.com/track/2Ow0yMUSccQ4vmfq8pyCCF",
-   "played_at": "2026-11-25T18:38:34.594Z"
+   "name": "September Fields",
+   "artists": "Frazey Ford",
+   "image": "https://i.scdn.co/image/ab67616d0000b27352c525d49d229a6e988213f3",
+   "url": "https://open.spotify.com/track/7kuOhBGsXjpwvLRQCDAPAJ",
+   "played_at": "2026-11-26T14:53:59.540Z"
   },
   {
-   "name": "Musetta's Waltz",
-   "artists": "Giacomo Puccini, Arranged By, Dick Hyman, Moe Koffman",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a9663afebc15f80c29cb237c",
-   "url": "https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir",
-   "played_at": "2026-11-25T18:31:31.806Z"
+   "name": "Sweet Dark-Haired Man",
+   "artists": "Joan Shelley",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731a4ea8d06eb615d86a238e08",
+   "url": "https://open.spotify.com/track/0mRLrK69GVTA89SqkPw81j",
+   "played_at": "2026-11-26T14:50:31.788Z"
   },
   {
-   "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
-   "artists": "Frédéric Chopin, Mikhail Pletnev",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
-   "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV",
-   "played_at": "2026-11-25T18:27:06.170Z"
+   "name": "Before You Gotta Go",
+   "artists": "Courtney Barnett",
+   "image": "https://i.scdn.co/image/ab67616d0000b273818dd527472e28b40c4ab76b",
+   "url": "https://open.spotify.com/track/0yXOJJHyatJLI3WAHeaUyP",
+   "played_at": "2026-11-26T14:47:23.379Z"
   },
   {
-   "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-   "artists": "Alicia Keys",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ae10c354515c16b9741f8457",
-   "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY",
-   "played_at": "2026-11-25T18:21:57.075Z"
+   "name": "Seven Words",
+   "artists": "Weyes Blood",
+   "image": "https://i.scdn.co/image/ab67616d0000b2736e1fa95f889c1e1684e77774",
+   "url": "https://open.spotify.com/track/794yR2Yl3W1C9XfMCeNdrb",
+   "played_at": "2026-11-26T14:43:37.755Z"
   },
   {
-   "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-   "artists": "Alicia Keys",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ae10c354515c16b9741f8457",
-   "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY",
-   "played_at": "2026-11-25T18:17:53.052Z"
+   "name": "There But For Fortune",
+   "artists": "Joan Baez",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d2138b73347dcf7eca885b03",
+   "url": "https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R",
+   "played_at": "2026-11-26T14:39:00.476Z"
   },
   {
-   "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-   "artists": "Alicia Keys",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ae10c354515c16b9741f8457",
-   "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY",
-   "played_at": "2026-11-25T18:13:49.098Z"
+   "name": "Sunshine Sometimes",
+   "artists": "Bedouine",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d731c8b5c3969a749f9ae02a",
+   "url": "https://open.spotify.com/track/6RbET5CDW2G0u97yHe6SQA",
+   "played_at": "2026-11-26T14:35:44.514Z"
   },
   {
-   "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-   "artists": "Alicia Keys",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ae10c354515c16b9741f8457",
-   "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY",
-   "played_at": "2026-11-25T18:09:23.389Z"
+   "name": "Solitary Daughter",
+   "artists": "Bedouine",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ff71a475e2a24897a70063cc",
+   "url": "https://open.spotify.com/track/0IbMVC9W3CycP37z4LDvtF",
+   "played_at": "2026-11-26T14:31:22.408Z"
   },
   {
-   "name": "Take it Further",
-   "artists": "BAKEY",
-   "image": "https://i.scdn.co/image/ab67616d0000b273329f3f8f2beb48712e948c99",
-   "url": "https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL",
-   "played_at": "2026-11-25T18:06:23.356Z"
+   "name": "Cupid",
+   "artists": "Alexandra Savior",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b9df7275ff80a60fa1272835",
+   "url": "https://open.spotify.com/track/6yu9LcfTlFwc16D3xtJ8AI",
+   "played_at": "2026-11-26T14:27:01.961Z"
   },
   {
-   "name": "In This World",
-   "artists": "Moby",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735599f36359a4ad9be99a7785",
-   "url": "https://open.spotify.com/track/77tJlraFq64xilqyyxkhtH",
-   "played_at": "2026-11-25T18:00:34.403Z"
+   "name": "It Wasn't Me",
+   "artists": "Bedouine",
+   "image": "https://i.scdn.co/image/ab67616d0000b273519ecc324f4a97d7b7369659",
+   "url": "https://open.spotify.com/track/37UUn053w9YJzp8rU1TI0b",
+   "played_at": "2026-11-26T14:24:04.401Z"
   },
   {
-   "name": "Love Salad",
-   "artists": "Four Tet",
-   "image": "https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf",
-   "url": "https://open.spotify.com/track/3r1T4pyyw8SutoozrWZSzS",
-   "played_at": "2026-11-25T17:56:31.829Z"
+   "name": "A Little While",
+   "artists": "Yellow Days",
+   "image": "https://i.scdn.co/image/ab67616d0000b2731fffb4d9edbbc0426938bdcf",
+   "url": "https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM",
+   "played_at": "2026-11-26T14:17:15.400Z"
   },
   {
-   "name": "Scythe Master",
-   "artists": "Four Tet",
-   "image": "https://i.scdn.co/image/ab67616d0000b2731bf52cbb0d30f94720d5e614",
-   "url": "https://open.spotify.com/track/4vK6WEnL0XW5DXkSIjbPZm",
-   "played_at": "2026-11-25T17:49:11.574Z"
+   "name": "Everything I Am Is Yours",
+   "artists": "Villagers",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735a902940f70dace67d4c4547",
+   "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon",
+   "played_at": "2026-11-26T14:11:56.942Z"
   },
   {
-   "name": "Bektoub Ismak Ya Habibi",
+   "name": "Always On My Mind",
+   "artists": "Chris Staples",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730baf831130392bfa2a7cbece",
+   "url": "https://open.spotify.com/track/4lMl6gcFCoi3iRSyUt7VkK",
+   "played_at": "2026-11-26T14:08:26.870Z"
+  },
+  {
+   "name": "Runnin'",
+   "artists": "Frazey Ford",
+   "image": "https://i.scdn.co/image/ab67616d0000b27352c525d49d229a6e988213f3",
+   "url": "https://open.spotify.com/track/1cHx6qySxSb0QCulFoiuHf",
+   "played_at": "2026-11-26T14:05:31.628Z"
+  },
+  {
+   "name": "Back To You",
+   "artists": "Bedouine",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ff71a475e2a24897a70063cc",
+   "url": "https://open.spotify.com/track/3R1Z6s9cYdq1PoIo0HlJqA",
+   "played_at": "2026-11-26T14:01:04.121Z"
+  },
+  {
+   "name": "Silver Dagger",
+   "artists": "Monica Barbaro",
+   "image": "https://i.scdn.co/image/ab67616d0000b273debfcad0ee7706bbd601460c",
+   "url": "https://open.spotify.com/track/25zbAtlbmqt1aepSRKADDJ",
+   "played_at": "2026-11-26T13:56:37.025Z"
+  },
+  {
+   "name": "Mostly Patient",
+   "artists": "Courtney Barnett",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a0ff27db1be3b541c1c36d09",
+   "url": "https://open.spotify.com/track/4Cv4YQDapsodzG10cG4FaB",
+   "played_at": "2026-11-26T13:54:04.252Z"
+  },
+  {
+   "name": "Silver Dagger",
+   "artists": "Monica Barbaro",
+   "image": "https://i.scdn.co/image/ab67616d0000b273debfcad0ee7706bbd601460c",
+   "url": "https://open.spotify.com/track/25zbAtlbmqt1aepSRKADDJ",
+   "played_at": "2026-11-26T13:50:05.240Z"
+  },
+  {
+   "name": "Kiss of Life",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
+   "played_at": "2026-11-26T13:45:17.461Z"
+  },
+  {
+   "name": "Will I See You Again?",
+   "artists": "Thee Sacred Souls",
+   "image": "https://i.scdn.co/image/ab67616d0000b273a6523c6cecb43b3c2f44fd1e",
+   "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
+   "played_at": "2026-11-26T13:41:06.140Z"
+  },
+  {
+   "name": "Space Oddity - 2019 Mix",
+   "artists": "David Bowie",
+   "image": "https://i.scdn.co/image/ab67616d0000b2734384bb5ba2d28c7bbb6f7c49",
+   "url": "https://open.spotify.com/track/5Onbl6xDntoo88qMqVx377",
+   "played_at": "2026-11-26T13:37:05.479Z"
+  },
+  {
+   "name": "Friday Morning - Recorded at Spotify Studios NYC",
+   "artists": "Khruangbin",
+   "image": "https://i.scdn.co/image/ab67616d0000b273df6e8dd95841ca51c88325e1",
+   "url": "https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy",
+   "played_at": "2026-11-26T13:31:44.525Z"
+  },
+  {
+   "name": "Breakfast in Bed",
+   "artists": "Mayer Hawthorne",
+   "image": "https://i.scdn.co/image/ab67616d0000b273fb8ea05deeb8233e73ed5148",
+   "url": "https://open.spotify.com/track/48aAmHfCQXi9H5pIkZf3xj",
+   "played_at": "2026-11-26T13:25:07.977Z"
+  },
+  {
+   "name": "Cherish the Day",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+   "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w",
+   "played_at": "2026-11-26T13:21:00.554Z"
+  },
+  {
+   "name": "Wahdon",
    "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273de0b70e3f974b5af21673906",
-   "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy",
-   "played_at": "2026-11-25T17:41:11.709Z"
-  },
-  {
-   "name": "Ya Tair",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732f61bd93e266723f8c9ef420",
-   "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD",
-   "played_at": "2026-11-25T17:36:32.719Z"
-  },
-  {
-   "name": "Miles Into Minutes",
-   "artists": "Ishani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
-   "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD",
-   "played_at": "2026-11-25T17:32:04.056Z"
-  },
-  {
-   "name": "Think About It",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
-   "played_at": "2026-11-25T17:27:40.390Z"
-  },
-  {
-   "name": "Radio",
-   "artists": "Fred again.., Brian Eno",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a9b0cf4827dd4bc73f2f0699",
-   "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg",
-   "played_at": "2026-11-25T17:24:37.714Z"
+   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
+   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
+   "played_at": "2026-11-26T13:15:28.395Z"
   },
   {
    "name": "I'll Stay",
    "artists": "The RH Factor, D'Angelo",
    "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
    "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
-   "played_at": "2026-11-25T17:20:33.048Z"
+   "played_at": "2026-11-26T13:09:13.746Z"
   },
   {
-   "name": "Continuum 1",
-   "artists": "Nala Sinephro",
-   "image": "https://i.scdn.co/image/ab67616d0000b273e6d52246a013b10185e0f55b",
-   "url": "https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I",
-   "played_at": "2026-11-25T17:12:42.429Z"
+   "name": "I'll Stay",
+   "artists": "The RH Factor, D'Angelo",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
+   "played_at": "2026-11-26T13:06:54.260Z"
   },
   {
-   "name": "Your Shadow at Morning",
-   "artists": "The Durutti Column",
-   "image": "https://i.scdn.co/image/ab67616d0000b27306863efd26b96b3d1b7e43eb",
-   "url": "https://open.spotify.com/track/4XKATjXWb7WSq0QeMTgW4a",
-   "played_at": "2026-11-25T17:05:28.693Z"
+   "name": "I'll Stay",
+   "artists": "The RH Factor, D'Angelo",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
+   "played_at": "2026-11-26T13:06:45.970Z"
   },
   {
-   "name": "Merry-Go-Round of Life - from 'Howl’s Moving Castle'",
-   "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738d4306c0878768bf296a39ed",
-   "url": "https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s",
-   "played_at": "2026-11-25T17:01:19.081Z"
+   "name": "Charmed",
+   "artists": "Σtella, Redinho",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
+   "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX",
+   "played_at": "2026-11-26T12:32:47.095Z"
   },
   {
-   "name": "Zombie - 2025 Remastered",
-   "artists": "The Cranberries",
-   "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-   "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
-   "played_at": "2026-11-25T16:58:29.327Z"
+   "name": "Miles Into Minutes",
+   "artists": "Ishani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
+   "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD",
+   "played_at": "2026-11-26T12:30:08.732Z"
   },
   {
    "name": "Alf Leila We Leila",
    "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
    "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
    "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
-   "played_at": "2026-11-25T16:53:23.694Z"
+   "played_at": "2026-11-26T12:25:45.091Z"
   },
   {
-   "name": "Welcome to Leonida (from GTAVI: The Album)",
-   "artists": "Overmono, Grand Theft Auto VI",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730c028572255dcf7ec9b9f6e1",
-   "url": "https://open.spotify.com/track/4ZGu0VJN67L9iCsYy7GsZR",
-   "played_at": "2026-11-25T16:47:10.731Z"
+   "name": "Ya Tair",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
+   "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D",
+   "played_at": "2026-11-26T12:19:55.120Z"
   },
   {
-   "name": "Welcome to Leonida (from GTAVI: The Album)",
-   "artists": "Overmono, Grand Theft Auto VI",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730c028572255dcf7ec9b9f6e1",
-   "url": "https://open.spotify.com/track/4ZGu0VJN67L9iCsYy7GsZR",
-   "played_at": "2026-11-25T16:22:07.052Z"
+   "name": "Shameful Game",
+   "artists": "Pale Jay",
+   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
+   "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx",
+   "played_at": "2026-11-26T12:15:26.452Z"
   },
   {
-   "name": "Welcome to Leonida (from GTAVI: The Album)",
-   "artists": "Overmono, Grand Theft Auto VI",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730c028572255dcf7ec9b9f6e1",
-   "url": "https://open.spotify.com/track/4ZGu0VJN67L9iCsYy7GsZR",
-   "played_at": "2026-11-25T16:21:49.812Z"
+   "name": "Shameful Game",
+   "artists": "Pale Jay",
+   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
+   "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx",
+   "played_at": "2026-11-26T12:09:57.036Z"
   },
   {
-   "name": "Welcome to Leonida (from GTAVI: The Album)",
-   "artists": "Overmono, Grand Theft Auto VI",
-   "image": "https://i.scdn.co/image/ab67616d0000b2730c028572255dcf7ec9b9f6e1",
-   "url": "https://open.spotify.com/track/4ZGu0VJN67L9iCsYy7GsZR",
-   "played_at": "2026-11-25T16:15:00.133Z"
+   "name": "Think About It",
+   "artists": "Otis Redding",
+   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
+   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
+   "played_at": "2026-11-26T12:06:51.973Z"
   },
   {
-   "name": "Nocturne en Mi Bémol Majeur, Op. 9 No. 2",
-   "artists": "Frédéric Chopin, Luis Fernando Pérez",
-   "image": "https://i.scdn.co/image/ab67616d0000b27318bccd55ef4b1c50dac2f2bc",
-   "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd",
-   "played_at": "2026-11-25T16:12:25.862Z"
+   "name": "Can I Call You Rose?",
+   "artists": "Isabel",
+   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
+   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
+   "played_at": "2026-11-26T12:03:49.226Z"
   },
   {
-   "name": "Messiaen: Quatuor pour la fin du temps: V. Louange à l'éternité de Jésus",
-   "artists": "Olivier Messiaen, Michel Béroff, William Pleeth",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f49e64acd825ecaed843ae66",
-   "url": "https://open.spotify.com/track/2Ow0yMUSccQ4vmfq8pyCCF",
-   "played_at": "2026-11-25T14:57:58.928Z"
+   "name": "Who's Ya Daddy?",
+   "artists": "Necro",
+   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
+   "played_at": "2026-11-26T12:00:41.864Z"
   },
   {
-   "name": "Musetta's Waltz",
-   "artists": "Giacomo Puccini, Arranged By, Dick Hyman, Moe Koffman",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a9663afebc15f80c29cb237c",
-   "url": "https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir",
-   "played_at": "2026-11-25T14:51:00.945Z"
+   "name": "Flashing Lights",
+   "artists": "Kanye West, Dwele",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+   "played_at": "2026-11-26T11:57:22.773Z"
   },
   {
-   "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
-   "artists": "Frédéric Chopin, Mikhail Pletnev",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
-   "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV",
-   "played_at": "2026-11-25T14:46:35.350Z"
+   "name": "SOLEIL",
+   "artists": "Naïka",
+   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
+   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
+   "played_at": "2026-11-26T11:53:25.276Z"
   },
   {
-   "name": "On & On",
-   "artists": "Erykah Badu",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
-   "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI",
-   "played_at": "2026-11-20T14:29:43.345Z"
+   "name": "He Loves Me",
+   "artists": "Brittany Howard",
+   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
+   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
+   "played_at": "2026-11-26T11:50:01.042Z"
   },
   {
-   "name": "Ilusión De Amor",
-   "artists": "Jensine Benitez, Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2732c5e2c6de415306c60538de0",
-   "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b",
-   "played_at": "2026-11-20T14:25:58.763Z"
+   "name": "Charcoal Baby",
+   "artists": "Blood Orange",
+   "image": "https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6",
+   "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS",
+   "played_at": "2026-11-26T11:47:29.385Z"
   },
   {
-   "name": "Weak for Your Love",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-   "url": "https://open.spotify.com/track/3W4xqKFMKBauuU517t8NIb",
-   "played_at": "2026-11-20T14:22:14.933Z"
+   "name": "Shut up My Moms Calling",
+   "artists": "Hotel Ugly",
+   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
+   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
+   "played_at": "2026-11-26T11:43:27.031Z"
   },
   {
-   "name": "Is It a Crime",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
-   "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME",
-   "played_at": "2026-11-20T14:17:55.687Z"
-  },
-  {
-   "name": "A Song for You",
-   "artists": "Donny Hathaway",
-   "image": "https://i.scdn.co/image/ab67616d0000b27315b4801ea97bec74170e35b0",
-   "url": "https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr",
-   "played_at": "2026-11-20T14:11:36.475Z"
-  },
-  {
-   "name": "Self",
-   "artists": "Cleo Sol",
-   "image": "https://i.scdn.co/image/ab67616d0000b273f97706f582c39b541fb0ce21",
-   "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4",
-   "played_at": "2026-11-20T14:06:12.569Z"
-  },
-  {
-   "name": "What A Diff'rence A Day Made",
-   "artists": "Dinah Washington",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a78eaacc0d1eca994d3ffd38",
-   "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD",
-   "played_at": "2026-11-20T14:02:54.962Z"
-  },
-  {
-   "name": "Come Around and Love Me",
-   "artists": "Jalen Ngonda",
-   "image": "https://i.scdn.co/image/ab67616d0000b273753a720a9845b697d8a120f6",
-   "url": "https://open.spotify.com/track/5FFSlcb55C7pIFcOYapN1b",
-   "played_at": "2026-11-20T14:00:25.065Z"
-  },
-  {
-   "name": "I Forgot To Be Your Lover",
-   "artists": "William Bell",
-   "image": "https://i.scdn.co/image/ab67616d0000b27353fbbaa939812aaa4466fda4",
-   "url": "https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI",
-   "played_at": "2026-11-20T13:57:22.163Z"
-  },
-  {
-   "name": "Give Us Justice",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a880ef3fc8a5c4e77aeda69c",
-   "url": "https://open.spotify.com/track/4iB9UmNXPKNKWku11mZ8sW",
-   "played_at": "2026-11-20T13:55:05.273Z"
-  },
-  {
-   "name": "A Sunday Kind Of Love",
-   "artists": "Etta James",
-   "image": "https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624",
-   "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb",
-   "played_at": "2026-11-20T13:52:27.064Z"
-  },
-  {
-   "name": "Half Time",
-   "artists": "Amy Winehouse",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734c896e873306c17847c254e9",
-   "url": "https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ",
-   "played_at": "2026-11-20T13:49:12.962Z"
+   "name": "Bisaraha",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
+   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
+   "played_at": "2026-11-26T11:40:42.491Z"
   }
  ]
 }
