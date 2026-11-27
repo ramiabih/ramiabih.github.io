@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:05:05.723431+00:00",
+ "updated": "2026-11-27T01:20:12.295647+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -16,13 +16,6 @@
      "album": "Wala Keef",
      "image": "https://i.scdn.co/image/ab67616d0000b273358b974f9a940f880656a93e",
      "url": "https://open.spotify.com/track/3Ht7hR95ZrCRPcTvmrZaER"
-    },
-    {
-     "name": "Who's Ya Daddy?",
-     "artists": "Necro",
-     "album": "The Sexorcist",
-     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
     },
     {
      "name": "Takassim Oud",
@@ -44,6 +37,13 @@
      "album": "Promise",
      "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
+    },
+    {
+     "name": "Miles Into Minutes",
+     "artists": "Ishani",
+     "album": "Miles Into Minutes",
+     "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
+     "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD"
     },
     {
      "name": "He Loves Me",
@@ -72,6 +72,13 @@
      "album": "Habbaitak Tanseet El Noum",
      "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
      "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ"
+    },
+    {
+     "name": "Who's Ya Daddy?",
+     "artists": "Necro",
+     "album": "The Sexorcist",
+     "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+     "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9"
     },
     {
      "name": "Shut up My Moms Calling",
@@ -135,13 +142,6 @@
      "album": "Kifak Inta",
      "image": "https://i.scdn.co/image/ab67616d0000b273991228edd7c672053314b5ae",
      "url": "https://open.spotify.com/track/1scEOt7Kx537vKuam70wpB"
-    },
-    {
-     "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
-     "artists": "Frédéric Chopin, Mikhail Pletnev",
-     "album": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
-     "image": "https://i.scdn.co/image/ab67616d0000b273ae4dfa09519c27b64cd5a958",
-     "url": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV"
     }
    ],
    "artists": [
@@ -185,6 +185,19 @@
      "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
      "genres": [
       "retro soul"
+     ]
+    },
+    {
+     "name": "Zoé",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb7554bfcddafd5500ed89062",
+     "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI",
+     "genres": [
+      "rock en español",
+      "mexican rock",
+      "mexican indie",
+      "latin alternative",
+      "latin indie",
+      "latin rock"
      ]
     },
     {
@@ -295,13 +308,6 @@
      "url": "https://open.spotify.com/track/0DojahPNYizHkOrAQEbjZc"
     },
     {
-     "name": "Batwanes Beek",
-     "artists": "Warda",
-     "album": "Batwanes Beek",
-     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
-     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
-    },
-    {
      "name": "Bisaraha",
      "artists": "Ziad Rahbani",
      "album": "Houdou Nisbi",
@@ -309,11 +315,11 @@
      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
     },
     {
-     "name": "Bayni Wa Baynak",
-     "artists": "Hoda",
-     "album": "Hoda Collection, Vol. 4",
-     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
-     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
+     "name": "Batwanes Beek",
+     "artists": "Warda",
+     "album": "Batwanes Beek",
+     "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+     "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
     },
     {
      "name": "Alf Leila We Leila",
@@ -328,6 +334,13 @@
      "album": "Can I Call You Rose?",
      "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
      "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d"
+    },
+    {
+     "name": "Bayni Wa Baynak",
+     "artists": "Hoda",
+     "album": "Hoda Collection, Vol. 4",
+     "image": "https://i.scdn.co/image/ab67616d0000b273dd6b08780310fd0c619adc25",
+     "url": "https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO"
     },
     {
      "name": "Ana Le Habiby",
@@ -393,11 +406,11 @@
      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
-     "name": "Oum Fout Nam",
-     "artists": "Ziad Rahbani, Joseph Saker",
-     "album": "The American Motion Picture (Various Music and Songs from the Original Musical)",
-     "image": "https://i.scdn.co/image/ab67616d0000b273c1984cabeeb6e07824bb1cb4",
-     "url": "https://open.spotify.com/track/2b5AUWtFO31yDVWh4RC5ye"
+     "name": "Flashing Lights",
+     "artists": "Kanye West, Dwele",
+     "album": "Graduation",
+     "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+     "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     }
    ],
    "artists": [
@@ -428,6 +441,14 @@
      "genres": []
     },
     {
+     "name": "Thee Sacred Souls",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
+     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
+     "genres": [
+      "retro soul"
+     ]
+    },
+    {
      "name": "Wael Kfoury",
      "image": "https://i.scdn.co/image/ab6761610000e5eb47ef5892789253bd4b30e6a8",
      "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws",
@@ -452,12 +473,10 @@
      ]
     },
     {
-     "name": "Thee Sacred Souls",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb1a99219498d5119b0e742b19",
-     "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU",
-     "genres": [
-      "retro soul"
-     ]
+     "name": "Sade",
+     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+     "genres": []
     },
     {
      "name": "Kendrick Lamar",
@@ -486,12 +505,6 @@
      ]
     },
     {
-     "name": "Sade",
-     "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-     "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-     "genres": []
-    },
-    {
      "name": "The Beatles",
      "image": "https://i.scdn.co/image/ab6761610000e5eb357fdaf56c64a36a36741538",
      "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
@@ -505,6 +518,19 @@
      "image": "https://i.scdn.co/image/ab6761610000e5ebc857a1e6180f6696da6e31de",
      "url": "https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f",
      "genres": []
+    },
+    {
+     "name": "Zoé",
+     "image": "https://i.scdn.co/image/ab6761610000e5ebb7554bfcddafd5500ed89062",
+     "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI",
+     "genres": [
+      "rock en español",
+      "mexican rock",
+      "mexican indie",
+      "latin alternative",
+      "latin indie",
+      "latin rock"
+     ]
     },
     {
      "name": "Louis Brigham",
@@ -559,15 +585,6 @@
       "psychedelic rock",
       "classic rock",
       "acid rock"
-     ]
-    },
-    {
-     "name": "David Bowie",
-     "image": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
-     "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy",
-     "genres": [
-      "glam rock",
-      "art rock"
      ]
     }
    ]
@@ -878,6 +895,34 @@
   }
  },
  "recent": [
+  {
+   "name": "Charmed",
+   "artists": "Σtella, Redinho",
+   "image": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
+   "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX",
+   "played_at": "2026-11-26T22:50:21.921Z"
+  },
+  {
+   "name": "Miles Into Minutes",
+   "artists": "Ishani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
+   "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD",
+   "played_at": "2026-11-26T22:47:45.519Z"
+  },
+  {
+   "name": "Corazón Atómico",
+   "artists": "Zoé",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730b8e3472fbc48bce859650f9",
+   "url": "https://open.spotify.com/track/0axbGyJYPGhzVaxzm6cHcq",
+   "played_at": "2026-11-26T22:43:23.018Z"
+  },
+  {
+   "name": "Corazón Atómico",
+   "artists": "Zoé",
+   "image": "https://i.scdn.co/image/ab67616d0000b2730b8e3472fbc48bce859650f9",
+   "url": "https://open.spotify.com/track/0axbGyJYPGhzVaxzm6cHcq",
+   "played_at": "2026-11-26T16:30:58.591Z"
+  },
   {
    "name": "No Me Destruyas",
    "artists": "Zoé",
@@ -1199,34 +1244,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
    "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
    "played_at": "2026-11-26T11:53:25.276Z"
-  },
-  {
-   "name": "He Loves Me",
-   "artists": "Brittany Howard",
-   "image": "https://i.scdn.co/image/ab67616d0000b2737311369db743b12bedee32a1",
-   "url": "https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv",
-   "played_at": "2026-11-26T11:50:01.042Z"
-  },
-  {
-   "name": "Charcoal Baby",
-   "artists": "Blood Orange",
-   "image": "https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6",
-   "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS",
-   "played_at": "2026-11-26T11:47:29.385Z"
-  },
-  {
-   "name": "Shut up My Moms Calling",
-   "artists": "Hotel Ugly",
-   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
-   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
-   "played_at": "2026-11-26T11:43:27.031Z"
-  },
-  {
-   "name": "Bisaraha",
-   "artists": "Ziad Rahbani",
-   "image": "https://i.scdn.co/image/ab67616d0000b27345adb68342be34d158f580b1",
-   "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0",
-   "played_at": "2026-11-26T11:40:42.491Z"
   }
  ]
 }
