@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:53:04.973278+00:00",
+ "updated": "2026-11-28T00:53:17.096787+00:00",
  "ranges": {
   "short_term": {
    "tracks": [
@@ -896,6 +896,153 @@
  },
  "recent": [
   {
+   "name": "Other Side Of The Game",
+   "artists": "Erykah Badu",
+   "image": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
+   "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL",
+   "played_at": "2026-11-28T00:49:57.020Z"
+  },
+  {
+   "name": "Sweet November",
+   "artists": "SZA",
+   "image": "https://i.scdn.co/image/ab67616d0000b27332f1a3721efb2ddfb91b9c82",
+   "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc",
+   "played_at": "2026-11-28T00:43:23.209Z"
+  },
+  {
+   "name": "The Garden",
+   "artists": "Pale Jay",
+   "image": "https://i.scdn.co/image/ab67616d0000b27316a34e3f0a6cb9c84f643660",
+   "url": "https://open.spotify.com/track/6VAygjRWZ2kvA27pcTn6kK",
+   "played_at": "2026-11-28T00:39:19.409Z"
+  },
+  {
+   "name": "I Belong To You",
+   "artists": "Lenny Kravitz",
+   "image": "https://i.scdn.co/image/ab67616d0000b273f1157b7dcd21bae0c2c75d89",
+   "url": "https://open.spotify.com/track/2zee8Zcesqwnnwliw2Jy8M",
+   "played_at": "2026-11-28T00:35:32.346Z"
+  },
+  {
+   "name": "Natarouna Keteer",
+   "artists": "Fairuz",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738f3c00f4a7739cf865eb7230",
+   "url": "https://open.spotify.com/track/3Nf3Kqs2z49sJCp4Uga2bg",
+   "played_at": "2026-11-28T00:31:14.657Z"
+  },
+  {
+   "name": "Pearls",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+   "url": "https://open.spotify.com/track/4J7s7j5ulwElPG7HaGQDXR",
+   "played_at": "2026-11-28T00:27:30.405Z"
+  },
+  {
+   "name": "Ayonha",
+   "artists": "Hamid Al Shaeri",
+   "image": "https://i.scdn.co/image/ab67616d0000b273450799e337be82b0d5fd191a",
+   "url": "https://open.spotify.com/track/7j3758mGOPLkd7UQsmbWYg",
+   "played_at": "2026-11-28T00:22:57.228Z"
+  },
+  {
+   "name": "Chamber Of Reflection",
+   "artists": "Mac DeMarco",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50",
+   "url": "https://open.spotify.com/track/1Snko28yJOihcRVXs9dAo9",
+   "played_at": "2026-11-28T00:19:17.591Z"
+  },
+  {
+   "name": "Why Are There Boundaries",
+   "artists": "FKJ",
+   "image": "https://i.scdn.co/image/ab67616d0000b2739f1fff2e3161a5541c7194fa",
+   "url": "https://open.spotify.com/track/0qGQXQdUNwPYQadGuELgEI",
+   "played_at": "2026-11-28T00:15:25.880Z"
+  },
+  {
+   "name": "Runaway",
+   "artists": "Kanye West, Pusha T",
+   "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+   "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+   "played_at": "2026-11-28T00:12:23.486Z"
+  },
+  {
+   "name": "Like a Tattoo",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+   "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
+   "played_at": "2026-11-28T00:03:15.735Z"
+  },
+  {
+   "name": "CALIFORNIA - the OC theme",
+   "artists": "Phantom Planet",
+   "image": "https://i.scdn.co/image/ab67616d0000b273703a31dad50e3032a1a99113",
+   "url": "https://open.spotify.com/track/599RZ3upy9jKCeWG3GhbiZ",
+   "played_at": "2026-11-27T23:59:37.723Z"
+  },
+  {
+   "name": "Somethin' Stupid",
+   "artists": "Frank Sinatra, Nancy Sinatra",
+   "image": "https://i.scdn.co/image/ab67616d0000b2733e2331ff09f59ea3c87fe5d6",
+   "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV",
+   "played_at": "2026-11-27T23:56:26.118Z"
+  },
+  {
+   "name": "Lying In The Sunshine",
+   "artists": "Free",
+   "image": "https://i.scdn.co/image/ab67616d0000b273640df56fe46cd51896a00810",
+   "url": "https://open.spotify.com/track/7iA3xHruObBBOiqYRUVKTD",
+   "played_at": "2026-11-27T23:53:43.288Z"
+  },
+  {
+   "name": "The Glory",
+   "artists": "Kanye West",
+   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+   "url": "https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr",
+   "played_at": "2026-11-27T23:49:50.790Z"
+  },
+  {
+   "name": "Is It a Crime",
+   "artists": "Sade",
+   "image": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
+   "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME",
+   "played_at": "2026-11-27T23:46:32.247Z"
+  },
+  {
+   "name": "Oiseau",
+   "artists": "Bertrand Belin, Laurent Bardainne",
+   "image": "https://i.scdn.co/image/ab67616d0000b27393dc00fc4ba77c143e6adadb",
+   "url": "https://open.spotify.com/track/6ko9eQNsqAE8DpGhLnrCeD",
+   "played_at": "2026-11-27T23:42:28.545Z"
+  },
+  {
+   "name": "Shou Hal Ayyam - 2008 Remastered",
+   "artists": "Ziad Rahbani",
+   "image": "https://i.scdn.co/image/ab67616d0000b273ebd0bec1546dabd86654610f",
+   "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4",
+   "played_at": "2026-11-27T23:38:35.552Z"
+  },
+  {
+   "name": "Shut up My Moms Calling",
+   "artists": "Hotel Ugly",
+   "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
+   "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
+   "played_at": "2026-11-27T23:29:04.013Z"
+  },
+  {
+   "name": "Who's Ya Daddy?",
+   "artists": "Necro",
+   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
+   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
+   "played_at": "2026-11-27T23:23:29.442Z"
+  },
+  {
+   "name": "I'll Stay",
+   "artists": "The RH Factor, D'Angelo",
+   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
+   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
+   "played_at": "2026-11-27T22:56:59.399Z"
+  },
+  {
    "name": "Charmed",
    "artists": "Σtella, Redinho",
    "image": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
@@ -1097,153 +1244,6 @@
    "image": "https://i.scdn.co/image/ab67616d0000b273debfcad0ee7706bbd601460c",
    "url": "https://open.spotify.com/track/25zbAtlbmqt1aepSRKADDJ",
    "played_at": "2026-11-26T13:50:05.240Z"
-  },
-  {
-   "name": "Kiss of Life",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-   "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP",
-   "played_at": "2026-11-26T13:45:17.461Z"
-  },
-  {
-   "name": "Will I See You Again?",
-   "artists": "Thee Sacred Souls",
-   "image": "https://i.scdn.co/image/ab67616d0000b273a6523c6cecb43b3c2f44fd1e",
-   "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
-   "played_at": "2026-11-26T13:41:06.140Z"
-  },
-  {
-   "name": "Space Oddity - 2019 Mix",
-   "artists": "David Bowie",
-   "image": "https://i.scdn.co/image/ab67616d0000b2734384bb5ba2d28c7bbb6f7c49",
-   "url": "https://open.spotify.com/track/5Onbl6xDntoo88qMqVx377",
-   "played_at": "2026-11-26T13:37:05.479Z"
-  },
-  {
-   "name": "Friday Morning - Recorded at Spotify Studios NYC",
-   "artists": "Khruangbin",
-   "image": "https://i.scdn.co/image/ab67616d0000b273df6e8dd95841ca51c88325e1",
-   "url": "https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy",
-   "played_at": "2026-11-26T13:31:44.525Z"
-  },
-  {
-   "name": "Breakfast in Bed",
-   "artists": "Mayer Hawthorne",
-   "image": "https://i.scdn.co/image/ab67616d0000b273fb8ea05deeb8233e73ed5148",
-   "url": "https://open.spotify.com/track/48aAmHfCQXi9H5pIkZf3xj",
-   "played_at": "2026-11-26T13:25:07.977Z"
-  },
-  {
-   "name": "Cherish the Day",
-   "artists": "Sade",
-   "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-   "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w",
-   "played_at": "2026-11-26T13:21:00.554Z"
-  },
-  {
-   "name": "Wahdon",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b27359697c457987591bfc7aa6fa",
-   "url": "https://open.spotify.com/track/0D9yc110AaVMweJLTKVFjJ",
-   "played_at": "2026-11-26T13:15:28.395Z"
-  },
-  {
-   "name": "I'll Stay",
-   "artists": "The RH Factor, D'Angelo",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
-   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
-   "played_at": "2026-11-26T13:09:13.746Z"
-  },
-  {
-   "name": "I'll Stay",
-   "artists": "The RH Factor, D'Angelo",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
-   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
-   "played_at": "2026-11-26T13:06:54.260Z"
-  },
-  {
-   "name": "I'll Stay",
-   "artists": "The RH Factor, D'Angelo",
-   "image": "https://i.scdn.co/image/ab67616d0000b2738b669367dd770eec5e9ab345",
-   "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi",
-   "played_at": "2026-11-26T13:06:45.970Z"
-  },
-  {
-   "name": "Charmed",
-   "artists": "Σtella, Redinho",
-   "image": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
-   "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX",
-   "played_at": "2026-11-26T12:32:47.095Z"
-  },
-  {
-   "name": "Miles Into Minutes",
-   "artists": "Ishani",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d878a177562c382e85e2683d",
-   "url": "https://open.spotify.com/track/1gQ0CX37pnxerJ8W8WlYeD",
-   "played_at": "2026-11-26T12:30:08.732Z"
-  },
-  {
-   "name": "Alf Leila We Leila",
-   "artists": "The Arab Orchestra Of Nazareth, Lubna Salame",
-   "image": "https://i.scdn.co/image/ab67616d0000b273777d7893dcbadbfa82e05aab",
-   "url": "https://open.spotify.com/track/1QNWm618xHXat9ZoSjRemA",
-   "played_at": "2026-11-26T12:25:45.091Z"
-  },
-  {
-   "name": "Ya Tair",
-   "artists": "Fairuz",
-   "image": "https://i.scdn.co/image/ab67616d0000b273d4b8d675d21f41a0026c3c75",
-   "url": "https://open.spotify.com/track/0cmy2TM6lNsRFBcaZuss1D",
-   "played_at": "2026-11-26T12:19:55.120Z"
-  },
-  {
-   "name": "Shameful Game",
-   "artists": "Pale Jay",
-   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
-   "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx",
-   "played_at": "2026-11-26T12:15:26.452Z"
-  },
-  {
-   "name": "Shameful Game",
-   "artists": "Pale Jay",
-   "image": "https://i.scdn.co/image/ab67616d0000b27308b49210c5b49f839428d994",
-   "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx",
-   "played_at": "2026-11-26T12:09:57.036Z"
-  },
-  {
-   "name": "Think About It",
-   "artists": "Otis Redding",
-   "image": "https://i.scdn.co/image/ab67616d0000b273dec4d47f98dc7f1cccbcf6f7",
-   "url": "https://open.spotify.com/track/7jHA0HkvehqN8XIJh0AUBz",
-   "played_at": "2026-11-26T12:06:51.973Z"
-  },
-  {
-   "name": "Can I Call You Rose?",
-   "artists": "Isabel",
-   "image": "https://i.scdn.co/image/ab67616d0000b273befa7b05017cd07e8f8793e2",
-   "url": "https://open.spotify.com/track/1nGOROGtuMW6X3NaAkvY1d",
-   "played_at": "2026-11-26T12:03:49.226Z"
-  },
-  {
-   "name": "Who's Ya Daddy?",
-   "artists": "Necro",
-   "image": "https://i.scdn.co/image/ab67616d0000b27367c669d82ceb9b2719f5029e",
-   "url": "https://open.spotify.com/track/3GkwtWadvYzpplKDi8byd9",
-   "played_at": "2026-11-26T12:00:41.864Z"
-  },
-  {
-   "name": "Flashing Lights",
-   "artists": "Kanye West, Dwele",
-   "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-   "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
-   "played_at": "2026-11-26T11:57:22.773Z"
-  },
-  {
-   "name": "SOLEIL",
-   "artists": "Naïka",
-   "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
-   "url": "https://open.spotify.com/track/3jU5JwEBLbKg30YDblGzYJ",
-   "played_at": "2026-11-26T11:53:25.276Z"
   }
  ]
 }
